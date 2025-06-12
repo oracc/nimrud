@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Catalogues</esp:name>
+	<esp:title>Catalogues</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Objects excavated from Nimrud are now housed in
+collections all over the world. One day it will be possible, we hope,
+to provide integrated online access to all that material. That
+ambition is far beyond the scope of this small project. As a first
+step, we provide several different portals to currently available
+data. We welcome additions and corrections to this information.</p>
+
+<esp:h><esp:link page="niod">Nimrud Inscribed Objects Database</esp:link></esp:h>
+<p>A catalogue of inscribed objects from Nimrud created by Christopher
+Walker and a group of volunteers at the <esp:techterms term="British Museum">British Museum</esp:techterms> and released
+under a <esp:link page="copyright">Creative Commons Attribution Share-Alike license</esp:link>. You can link
+to individual
+pages using stable URLs, as described in the <esp:link page="niod">NIOD help page</esp:link>.</p>
+
+<esp:h><esp:link page="nvtc">Nimrud Virtual Text Corpus</esp:link></esp:h>
+<p>This corpus brings together all the textual content from Nimrud on
+text corpus projects hosted by Oracc, including the <esp:link
+url="http://oracc.org/cams/gkab/" rel="external" hide-print="yes">Corpus of Ancient Mesopotamian
+Scholarship</esp:link>; the <esp:link url="http://oracc.org/dccmt/"
+rel="external" hide-print="yes">Digital Corpus of Cuneiform Lexical Texts</esp:link>; the <esp:link url="http://oracc.org/rinap/" rel="external" hide-print="yes">Royal Inscriptions of the
+Neo-Assyrian Period</esp:link>; and the <esp:link url="http://oracc.org/saao/" rel="external" hide-print="yes">State Archives of
+Assyria online</esp:link>.</p>
+
+<esp:h><esp:link page="museumsuk">Museums in the UK holding objects from Nimrud</esp:link></esp:h>
+<p>We have compiled a list of 11 UK museums that hold material from
+Nimrud and have provided links to online catalogue information where
+available. We also give more detailed information on selected museums
+that we have worked with particularly closely.</p>
+
+<esp:h><esp:link page="museumsworldwide">Museums and collections worldwide holding objects
+from Nimrud</esp:link></esp:h>
+<p>We have compiled a list of museums and collections from 20
+countries worldwide that hold material from
+Nimrud and have provided links to online catalogue information where
+available. Three Google Maps show how widely scattered the Nimrud
+artefacts now are.</p>
+
+<esp:h><esp:link page="resources">Online resources</esp:link></esp:h>
+<p>In this section we have collected together a large number of online
+publications on Nimrud: free PDFs from project partners <esp:techterms
+term="British Institute for the Study of Iraq">BISI</esp:techterms>; books and articles
+available on <esp:link url="http://www.jstor.org/" rel="external" hide-print="yes">JSTOR</esp:link> and other repositories (some of which are
+subscription-only); and other websites.</p> 
+
+<esp:content-last-modified/>
+<esp:email address="nimrud@oracc.org"/>
+	</body></html>
+
+</esp:page>

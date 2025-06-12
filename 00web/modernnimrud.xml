@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Modern Nimrud</esp:name>
+	<esp:title>Modern Nimrud, from mound to museum</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">The ancient city of Kalhu was gradually abandoned
+about 2000 years ago, collapsing in on itself to become an unassuming
+mound of earth. In the 1840s it came to life again, this time as the
+archaeological site of Nimrud. In these pages we will explore how
+Kalhu became Nimrud, and how archaeological knowledge has been produced
+from it. </p>
+<esp:image file="nd-map.jpg" position="inline" description="1950s archaeological plan of Nimrud, updated for Oates and Oates 2001"><esp:caption><esp:bookmark id="img290"/><b>Image 1</b>: Archaeological site map of Nimrud, first produced for the <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms> excavations in the 1950s and updated by David and Joan Oates <esp:ref referent="oatesoates2001" page="Fig. 10"/>. It shows all the major buildings on the <esp:techterms term="citadel">citadel</esp:techterms> that have been excavated since the 1840s. © BSAI/BISI</esp:caption></esp:image>
+<esp:h><esp:link page="onthemound">On the mound</esp:link></esp:h>
+<p>The archaeological site of Nimrud has been the subject of investigation since the 1840s - a similar length of time to its heyday as Assyria's most important royal city. This section considers the changing images of the ancient city of Kalhu produced by successive generations of researchers.</p>
+
+<esp:h><esp:link page="atthemuseum">At the
+museum</esp:link></esp:h>
+<p>Museums do not only store and display objects from archaeological sites like Nimrud. They are also important centres of research in their own right. These case studies from museums in the UK explore some of the behind-the-scenes investigations being carried out on Nimrud objects in 2013-14.</p>
+
+<esp:content-last-modified/>
+<esp:email address="nimrud@oracc.org"/>
+	</body></html>
+
+</esp:page>

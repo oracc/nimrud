@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>Royal goblets and broken pots</esp:name>
+	<esp:title>Royal goblets and broken pots</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Cambridge’s <esp:link page="maa-intro">Museum of Archaeology and Anthropology</esp:link> has a collection of around 25 pottery vessels from Nimrud.  Some of these fine pieces of Assyrian craftsmanship were made for the royal palace, while others are part of the city governor’s ‘dinner service’. Ancient ceramics displayed in museums, like MAA’s examples, are often whole, complete vessels, but the majority of pottery found during the archaeological digs is broken and incomplete. MAA’s collection also includes a series of broken pottery pieces, gathered informally at the Nimrud field site in the 1950s. These broken pots were not acquired for display purposes, but for teaching archaeology at the University of Cambridge.</p>
+
+<esp:image file="maa/MAA-nimrud-pottery.jpg" description="Seven pottery vessels " position="float"><esp:caption><esp:bookmark id="img107"><b>Image 1</b></esp:bookmark>: Pottery vessels from Nimrud in MAA's collection, as photographed by the Nimrud Project on a research visit in 2013. <esp:link url="/nimrud/images/MAA-nimrud-pottery-large.jpg" rel="external" hide-print="yes">View large image</esp:link>.</esp:caption></esp:image>
+
+<esp:h>Fine royal wine goblets</esp:h>
+
+<esp:image file="maa/Mallowan-1966-p47-ZT12-pottery-shelf-NWP.jpg" description="Excavation trench showing pottery vessels on a recessed shelf" position="float"><esp:link url="/nimrud/images/maa/Mallowan-1966-p47-ZT12-pottery-shelf-NWP-large" rel="external" hide-print="yes"/><esp:caption><esp:bookmark id="img108"><b>Image 2</b></esp:bookmark>: Excavation <esp:techterms term="trench">trench</esp:techterms> in room ZT12 of the Northwest Palace showing pottery vessels on a recessed shelf. <esp:link url="/nimrud/images/maa/Mallowan-1966-p47-ZT12-pottery-shelf-NWP-large" rel="external" hide-print="yes">View large image</esp:link>. Photo: <esp:link page="copyright" bookmark="BISIimages">BSAI/BISI</esp:link>.</esp:caption></esp:image>
+
+<p>MAA's pottery from Nimrud all comes from excavations by the the <esp:techterms term="British School of Archaeology in Iraq">British School of Archaeology in Iraq</esp:techterms> (BSAI), led by field director <esp:glossary term="Mallowan, Max (person)">Sir Max Mallowan</esp:glossary>. In 1952-3 Mallowan’s team excavated the <esp:link page="northwestpalace" bookmark="h_managingthepalace">northern wing of the Northwest Palace</esp:link>, which contained the palace’s administrative offices and store rooms. Large quantities of pottery were found in several of these storage areas (Rooms 4, 12, 13, 15, 16/19). Several of MAA's vessels come from these rooms. In Room 12, the excavators discovered a group of finely-made <esp:techterms term="palace ware">palace ware</esp:techterms> beakers, stored upside down in a niche, on a recessed shelf (<b>Image 2</b>) <esp:ref referent ="oatesoates2001" page="47"/>. One of MAA’s vessels, <esp:techterms term="buff ware">buff ware</esp:techterms> beaker 1956.16, comes from this shelf. Mallowan himself described the discovery in his book <i>Nimrud and its Remains</i> (1966):</p>
+
+<blockquote><p>“[I]n the relatively small room 12 there was a cupboard formed by a recess, the ledge of which stood about 5 feet above the floor. On the ledge, still in the position in which they had been left by their last owner, there was a collection of beautifully made palace-ware pottery, which consisted mostly of small goblets with a tiny <esp:techterms term="ring base">ring base</esp:techterms> not big enough to serve as a secure stand; consequently they had been stored upside down." <esp:ref referent="mallowan1966" page="179"/></p></blockquote>
+
+<p>Some of the goblets had been damaged when the building was destroyed by invaders in 612 BC, but many were found intact. Soft earth falling from the roof had covered the fragile cups and helped to preserve them.</p>
+
+<p>Along with the pottery in Room 12, the excavators also found groups of <esp:link page="legaldocuments">cuneiform tablets</esp:link> recording loans, land sales and marriage contracts. This written evidence, plus the short lifespan of fragile vessels, helps to date the pottery to the last decade of Assyrian occupation of Kalhu, around 620 BC.</p>
+
+<esp:h>The city governor’s ‘dinner service’</esp:h>
+
+<esp:image file="maa/Mallowan-1966-p50-governors-dinnerservice-GP.jpg" description="Excavation trench showing large numbers of pottery vessels on a mud brick table" position="float"><esp:link url="/nimrud/images/maa/Mallowan-1966-p50-governors-dinnerservice-GP-large.jpg" rel="external" hide-print="yes"/><esp:caption><esp:bookmark id="img109"><b>Image 3</b></esp:bookmark>: Cache of fine quality ceramics found on a mud brick pedestal in Room S of the Governor's Palace. <esp:link url="/nimrud/images/maa/Mallowan-1966-p50-governors-dinnerservice-GP-large.jpg" rel="external" hide-print="yes">View large image</esp:link>. Photo: <esp:link page="copyright" bookmark="BISIimages">BSAI/BISI</esp:link>.</esp:caption></esp:image>
+
+<p>Fine quality vessels, similar to those in the <esp:link page="northwestpalace">Northwest Palace</esp:link>, were discovered in 1950-51 in the residence of Nimrud’s <esp:link page="governorspalace">city governor</esp:link> <esp:ref referent="mallowan1950" page="163"/>. The BSAI excavators discovered a <esp:link page="governorspalace" bookmark="h_thegovernorspalacearchive">mud-brick table in Room S</esp:link>, covered with around 100 fine quality ceramic plates, wine cups, bottles and goblets (<b>Image 3</b>). MAA’s beaker D 1953.16 is part of this group. The vessels were buried when the building was sacked by invaders in 612 BC.</p>
+
+<p>Mallowan imaginatively dubbed this newly-discovered collection of vessels the “governor’s dinner service":</p>
+
+<blockquote><p>“The last phase in the lifetime of the palace was illustrated by a dramatic discovery. This was a mud-brick table in one of the rooms…which contained a set of nearly a hundred beautifully made palace-ware pots. We called it the governor’s dinner service: plates and wine cups, goblets and other vessels lay in a heap on a big mud-brick pedestal buried under the debris of collapsed walls." <esp:ref referent="mallowan1966" page="51"/></p></blockquote>
+
+<p>Further examples of fine quality Assyrian pottery from the 7th century BC were found elsewhere the governor’s residence, such as <esp:link page="maa-intro" bookmark="img114">dimpled palace ware beaker D 1953.10</esp:link>, found in Room M1. Dimpled <esp:techterms term="palace ware">palace ware</esp:techterms> is so named because of the distinctive dimples around the base, which were made by the potter’s fingertips pinching the wet clay during production. Also from the governor's residence is MAA's palace ware beaker D 1953.12, found in Room Y. The exact find location or <esp:techterms term="findspot">findspot</esp:techterms> was written in ink onto this object while still at the field site at Nimrud (<b>Image 4</b>).</p>
+
+<esp:image file="maa/MAA-D1953_12-findspot.jpg" description="excavation find spot painted onto pottery vessel in ink" position="float"><esp:link url="/nimrud/images/maa/MAA-D1953_12-findspot-large.jpg" rel="external" hide-print="yes"/><esp:caption><esp:bookmark id="img110"><b>Image 4</b></esp:bookmark>: 'ND 49 PAL Rm Y in fill above floor 1': the findspot was written onto palace ware beaker MAA D 1953.12 by one of the excavation teamwhile still at Nimrud. The abbreviation '49 PAL' stands for the <esp:link page="governorspalace">Governor's Palace</esp:link>, which was initially designated the "1949 building" by the excavators <esp:ref referent="mallowan1950" page="160, 163, plate XXVI"/>. This beaker was found in Room Y, in the fill layer above the first floor level found.  <esp:link url="/nimrud/images/maa/MAA-D1953_12-findspot-large.jpg" rel="external" hide-print="yes">View large image</esp:link>.</esp:caption></esp:image>
+
+<esp:h>Why collect broken pots?</esp:h>
+
+<p>MAA’s collection also includes a series of broken pieces of pottery from Nimrud, comprising 47 fragments or <esp:techterms term="potsherd">sherds</esp:techterms> (MAA 1958.1) (<b>Image 5</b>). These small, incomplete fragments are not display pieces like the complete vessels from Kalhu’s elite residences. Instead they were acquired as teaching tools for training archaeologists. The fragments form a reference series, also called a <esp:techterms term="type series">type series</esp:techterms>, of the styles and types of Assyrian pottery made in the 7th century BC.  As large quantities of pottery were found at Nimrud within a well-established archaeological context, comparison with Nimrud pottery can help to date Neo-Assyrian ceramics from other sites <esp:ref referent="hausleiter2008" page="215"/>.</p>
+
+<esp:image file="maa/MAA-1958_1-series.jpg" description="Fragments of pottery of various shapes and sizes, photographed next to their storage box" position="float"><esp:link url="/nimrud/images/maa/MAA-1958_1-series-large.jpg" rel="external" hide-print="yes"/><esp:caption><esp:bookmark id="img111"><b>Image 5</b></esp:bookmark>: MAA 1958.1 Type series of pottery sherds from Kalhu, 7th century BC. <esp:link url="/nimrud/images/maa/MAA-1958_1-series-large.jpg" rel="external" hide-print="yes">View large image</esp:link>.</esp:caption></esp:image>
+
+<p>The vast majority of the pottery fragments found at Nimrud were left at the field site after being studied. They were not kept as material finds. The type series of sherds now in MAA’s collection were gathered informally by one of the archaeologists on the BSAI expedition, though we do not know who. These pieces were never recorded as individual finds from the dig with excavation numbers. (One of the 47 pieces has an excavation number, though it is unclear whether this fragment was originally part of the series.) The sherds came in to the museum in 1958, and so are likely to be from the 1956 or 1957 excavation <esp:techterms term="excavation season">season</esp:techterms>.</p>
+
+<esp:h>Potsherds for teaching archaeology</esp:h>
+
+<p>Archival records held by MAA show that this type series was used in archaeological teaching at the University of Cambridge by <esp:glossary term="Munn-Rankin, Margaret (person)">Margaret Munn-Rankin</esp:glossary>. Munn-Rankin became a Lecturer in Oriental History and Archaeology at Cambridge in 1949 and remained at the university until her retirement in 1981 <esp:ref referent="lesko2004"/>, <esp:ref referent="postgate1983-1984"/>.</p>
+
+<esp:image file="maa/MAA-archives-br6-1-7.jpg" description="Hand-written list of Margaret Munn-Rankin's teaching boxes, including the type series from Nimrud"  position="float"><esp:link url="/nimrud/images/maa/MAA-archives-br6-1-7-large.jpg" rel="external" hide-print="yes"/><esp:caption><esp:bookmark id="img112"><b>Image 6</b></esp:bookmark>: Handwritten list of <esp:glossary term="Munn-Rankin, Margaret (person)">Margaret Munn-Rankin</esp:glossary>'s teaching boxes stored in the Faculty of Oriental Studies Basement, late 1970s. Accession number BR6/1/7, Museum of Archaeology and Anthropology Archives. Photo: MAA Archives. <esp:link url="/nimrud/images/maa/MAA-archives-br6-1-7-large.jpg" rel="external" hide-print="yes">View large image</esp:link>.</esp:caption></esp:image>
+
+<p>We know that Margaret Munn-Rankin used MAA's type series of Nimrud potsherds as this fact is mentioned in a hand-list of teaching material used in Cambridge's Faculty of Oriental Studies in the late 1970s (<b>Image 6</b>). The hand-list, which is now in MAA's archives (accession number BR6/1/7), describes the contents of Munn-Rankin's "teaching boxes" of material from various geographical regions, which were stored on shelves in the Faculty basement  <esp:ref referent="maa-archives-br6-1-7"/>. Potsherd series were used for training students how to recognise ceramics by geographical area and date. The Nimrud examples show types of Assyrian pottery from the 7th century BC. The sherds were also put to use in archaeology examinations in the 1970s and 80s, in practical questions where students were required to identify types of pottery.</p>
+
+<p>Margaret Munn-Rankin personally collected many of the <esp:techterms term="potsherd">potsherds</esp:techterms> she used in teaching during her extensive career in field archaeology, though it is unlikely that she collected these Nimrud sherds herself. Munn-Rankin was part of the BSAI Nimrud team for a season in 1950, when she was responsible for newly-excavated ceramics and catalogued the pottery finds <esp:ref referent="mallowan1950" page="152-153"/>, but the sherds were deposited at Cambridge several years after her participation.</p>
+
+<p>The Nimrud sherd series was transferred to MAA in the early 2000s from the Faculty of Oriental Studies, along with <esp:link page="maa-intro">additional Nimrud objects</esp:link> held by the Faculty.</p>
+
+<!-- How to put this practical teaching in context. Why isn't it done any more? Are type series still used for dating ceramics? etc. -->
+
+<p>Many thanks to <esp:link url="http://maa.cam.ac.uk/maa/imogen-gunn-curatorial-assistant-archaeology/" rel="external" hide-print="yes">Imogen Gunn</esp:link>, Collections Manager for Archaeology at MAA, and Wendy Brown, Administrator, for generous assistance with this research.</p>
+
+<esp:reading referent="curtisreade1995" page="152-160"/>
+<esp:reading referent="lines1954"/>
+<esp:reading referent="hausleiter2008"/>
+<esp:reading referent="mallowan1966" page="164-183"/>
+<esp:reading referent="oatesoates2001" page="250-253"/>
+
+<p>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+<esp:author
+    first-names="Ruth A."
+	last-name="Horry"
+/>
+	</body></html>
+
+</esp:page>

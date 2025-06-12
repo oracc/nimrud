@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Scholarly families</esp:name>
+	<esp:title>Scholarly families</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Two different <esp:techterms term="scribe">scribal</esp:techterms> families dominated intellectual activity in ancient Kalhu. The Ištaran-šumu-ukin family produced several generations of royal scribes and royal <i>āšipu</i>-healers in the 9th and 8th centuries BC. Members of the Gabbu-ilani-ereš family also served as royal <esp:techterms term="scholar">scholars</esp:techterms>. They became particularly prominent in the late 8th and early 7th century when Nabu-zuqup-kenu and his descendants took many senior roles at court.</p>
+
+<esp:h>Patronage and descent</esp:h>
+
+<p>The king did not issue royal scholars with formal contracts of employment but instead patronised them with gifts and favours in return for their loyalty and expertise. In this way intimate relationships of trust built up, which could be passed on through the family, both from king to <esp:techterms term="crown prince">crown prince</esp:techterms> and from scholar to apprentice. Fathers and uncles trained sons and nephews, not only in the reading and production of learned texts but also in the performance of royal <esp:techterms term="rite, ritual">ritual</esp:techterms> and appropriate conduct at court. Likewise, princes learned from kings which courtly scholars to respect and reward, and which to disfavour or even expel.</p>
+
+<p>In this way, veritable dynasties of scholars dominated Assyrian court circles for generations at a time. We do not know how they first gained favour, or how they fell from grace, but we can track some of their activities through their letters and library <esp:techterms term="tablet">tablets</esp:techterms>.</p>
+
+<esp:h>The descendants of Ištaran-šumu-ukin</esp:h>
+
+<esp:image file="ancientcity/ND4367-rev.jpg" description="Fragmentary cuneiform tablet containing colophon" position="float"><esp:link url="/nimrud/images/ancientcity/ND4367-rev-large.jpg" title="View large image of cuneiform tablet containing colophon" hide-print="yes"/><esp:caption><esp:bookmark id="img236"><b>Image 1.</b> The <esp:techterms term="colophon">colophon</esp:techterms> on this cuneiform tablet containing <esp:techterms term="celestial">celestial</esp:techterms> <esp:techterms term="omen">omens</esp:techterms> identifies the owner as "<esp:link page="families" bookmark="h_thedescendantsofitaranumuukin">Marduk-...</esp:link> of the Ištaran-šumu-ukin family (<esp:link url="http://oracc.org/cams/gkab/P363423" hide-print="yes" rel="external">CTN 4: 8</esp:link>).</esp:bookmark> British Museum, ND 4367. <esp:link url="/nimrud/images/ancientcity/ND4367-rev-large.jpg" title="View large image of cuneiform tablet containing colophon" hide-print="yes">View large image (168 KB)</esp:link>.</esp:caption></esp:image>
+
+
+<p>About 30 scholarly tablets from <esp:link page="ezida">Ezida</esp:link>, <esp:link page="nabu">Nabu's</esp:link> temple in Kalhu, end with <esp:techterms term="colophon">colophons</esp:techterms>, short notes about who wrote or copied them, and why they did so. These colophons tell us that in the 9th and early 8th century BC, scholarship in Ezida and the royal court was dominated by several generations of the descendants of <esp:glossary term="Ištaran-šumu-ukin (person)">Ištaran-šumu-ukin</esp:glossary>, an <i>āšip šarri</i> (“<esp:link page="professions" bookmark="ashipu">royal exorcist</esp:link>”) who may have lived in the 10th century BC.</p>
+
+
+<dl>
+<dt><esp:glossary term="Ištaran-mudammiq (person)">Ištaran-mudammiq</esp:glossary></dt> 
+<dd>Ištaran-mudammiq was <i>šaggamaḫḫu</i> (“<esp:link page="professions" bookmark="aipuhealer">senior exorcist</esp:link>”) of king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link>. He was the son of <esp:glossary term="Tappuya (person)">Tappuya</esp:glossary>, a <i>šatammu</i> (“temple administrator”) from the northern Babylonian city of <esp:glossary term="Der (place)">Der</esp:glossary>, and grandson of another <i>šatammu</i>, <esp:glossary term="Huzalu (person)">Huzalu</esp:glossary>. Ištaran-mudammiq owned an ominous calendar for the month of <esp:techterms term="Tašritu">Tašritu</esp:techterms> (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363473">CTN 4: 58</esp:link>). The text is duplicated exactly, even down to the colophon, on a tablet found in the so-called <i>āšipus’</i> house in 7th-century <esp:glossary term="Assur (place)">Assur</esp:glossary>.</dd> 
+<dt><esp:glossary term="Babilayu (person)">Babilayu</esp:glossary>, son of <esp:glossary term="Nabu-mudammiq (person)">Nabu-mudammiq</esp:glossary></dt> 
+<dd>Ištaran-mudammiq had a grandson (whose name is missing). He was the owner or copyist of a compendium of <esp:techterms term="incantation">incantations</esp:techterms> called <i>Utukkū lemnūtu</i> "Evil demons" (<esp:link url="http://oracc.org/cams/gkab/P363517" hide-print="yes" rel="external">CTN 4: 103</esp:link>).</dd>
+<dt><esp:glossary term="Marduk-[...] (person)">Marduk-[...]</esp:glossary> (<esp:link bookmark="img236"><b>Image 1</b></esp:link>)</dt>
+<dd>Ištaran-mudammiq’s great-grandson was the <i>ṭupšar šarri</i> (“royal scribe”) and <i>ummânu</i> (“<esp:link page="professions" bookmark="thekingsseniorscholar">expert/scholar</esp:link>”) of king <esp:glossary term="Adad-nerari III (person)">Adad-nerari III</esp:glossary> (r.  811-783 BC). His father was the <i>āšip šarri</i> <esp:glossary term="Babilayu (person)"><b>Babilayu</b></esp:glossary> son of <esp:glossary term="Nabu-mudammiq (person)">Nabu-mudammiq</esp:glossary> (who may or may not have written <esp:link url="http://oracc.org/cams/gkab/P363517" hide-print="yes" rel="external">CTN 4: 103</esp:link>, above). Marduk-[...] owned of a tablet of the <esp:techterms term="celestial">celestial</esp:techterms> <esp:techterms term="omen">omen</esp:techterms> series <i><esp:techterms term="Enūma Anu Ellil">Enūma Anu Ellil</esp:techterms></i> (<esp:link url="http://oracc.org/cams/gkab/P363423" hide-print="yes" rel="external">CTN 4: 8</esp:link>), dated 787 BC.</dd>
+</dl>
+
+<p>Over the generations, this family changed the way they identified their origins. Ištaran-mudammiq presents himself as a newcomer, with roots in the temple administration of the northern Babylonian city of Der. But by his great-grandson’s time the primary ancestor is a royal scholar, the otherwise unattested Ištaran-šumu-ukin. We cannot know whether Ištaran-šumu-ukin was from the same genealogical line as Tappuya and Huzalu, or represents another branch of the family (although his name suggests that he too was from Der). What matters is that by the early 8th century, after four generations of royal service, these scholars saw themselves as always having been royal courtiers.</p>
+
+<p>Sadly, that is all we know for certain about these men, although it is tempting to speculate that Marduk-[...] was involved in the rebuilding of Nabu's temple that took place during the reign of his king Adad-nerari III.</p> 
+
+<esp:h><esp:bookmark id="gabbu-ilani-eres" title="The descendants of Gabbu-ilani-ereš">The descendants of Gabbu-ilani-ereš</esp:bookmark></esp:h>
+
+<esp:image file="ancientcity/BM-Rm-0155-CDLI-P365974.jpg" description="Cuneiform tablet written by Nabu-zuqup-kenu" position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=1327128&amp;objectId=297422&amp;partId=1" title="View large image of Nabu-zuqup-kenu's cuneiform tablet" hide-print="yes"/><esp:caption><esp:bookmark id="img237"><b>Image 2.</b> Compilation of omens written by Nabu-zuqup-kenu, the most famous member of the Gabbu-ilani-ereš family. Although written in Kalhu it ended up in Nineveh <esp:ref referent="guinan2002"/>. </esp:bookmark> British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=297422&amp;partId=1" hide-print="yes" rel="external">Rm.155</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=1327128&amp;objectId=297422&amp;partId=1" title="View large image of Nabu-zuqup-kenu's cuneiform tablet" hide-print="yes">View large image on British Museum website</esp:link>. © Trustees of the British Museum.</esp:caption></esp:image>
+
+<esp:image file="ancientcity/ND-5427-reverse.jpg" description="Cuneiform tablet containing city omens" position="float"><esp:link url="/nimrud/images/ancientcity/ND-5427-large.jpg" title="View large image of omen tablet from Nabu's temple" hide-print="yes"/><esp:caption><esp:bookmark id="img238"><b>Image 3.</b> Tablet of terrestrial omens belonging to Adad-šumu-uṣur, found in Nabu's temple in Kalhu (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363460">CTN 4: 45</esp:link>)</esp:bookmark>. British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1641466&amp;partId=1" hide-print="yes" rel="external">ND 5427</esp:link>. <esp:link url="/nimrud/images/ancientcity/ND-5427-large.jpg" title="View large image of omen tablet from Nabu's temple" hide-print="yes">View large image (265 KB)</esp:link>.</esp:caption></esp:image>
+
+<p>By the late 8th century, it appears that the Ištaran-šumu-ukin family had been ousted or superseded as foremost court scholars by the descendants of <esp:glossary term="Gabbu-ilani-ereš (person)">Gabbu-ilani-ereš</esp:glossary>. This man had served as <i>ummânu</i> to both <esp:glossary term="Tukulti-Ninurta II (person)">Tukulti-Ninurta II</esp:glossary> (r. 890-884 BC) in <esp:glossary term="Assur (place)">Assur</esp:glossary> and then <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> in Kalhu. He was thus Ištaran-mudammiq’s contemporary. He may have been responsible for the wording of some or all of Assurnasirpal's building inscriptions at Kalhu.</p>
+
+<esp:image file="ancientcity/ND-5575-obverse.jpg" description="Fragmentary cuneiform tablet containing hemerology" position="float"><esp:link url="/nimrud/images/ancientcity/ND-5575-large.jpg" title="View large image of Šumaya's hemerology tablet" hide-print="yes"/><esp:caption><esp:bookmark id="img239"><b>Image 4.</b>An ominous calendar belonging to Šumaya(?), found in Nabu's temple (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363474">CTN 4: 59</esp:link>)</esp:bookmark>. British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1642093&amp;partId=1" hide-print="yes" rel="external">ND 5575</esp:link>. <esp:link url="/nimrud/images/ancientcity/ND-5575-large.jpg" title="View large image of Šumaya's hemerology tablet" hide-print="yes">View large image (230 KB)</esp:link>.</esp:caption></esp:image>
+
+
+<esp:image file="ancientcity/ND-5494c-reverse.jpg" description="Fragmentary cuneiform tablet containing incantations" position="float"><esp:link url="/nimrud/images/ancientcity/ND-5494c-large.jpg" title="View large image of incantation tablet belonging to Nabu-le'i" hide-print="yes"/><esp:caption><esp:bookmark id="img240">Incantations belonging to Nabu-leʾi, found in Nabu's temple (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363601">CTN 4: 187</esp:link>).</esp:bookmark> British Museum, ND 5494c<!-- no entry in BM COL -->. <esp:link url="/nimrud/images/ancientcity/ND-5494c-large.jpg" title="View large image of incantation tablet belonging to Nabu-le'i" hide-print="yes">View large image (615 KB)</esp:link>.</esp:caption></esp:image>
+
+<dl>
+<dt><esp:glossary term="Nabu-zuqup-kenu (person)">Nabu-zuqup-kenu</esp:glossary> (<esp:link bookmark="img237"><b>Image 2</b></esp:link>)</dt>
+<dd>Perhaps the most famous of Gabbu-ilani-ereš's descendants, both then and now, was Nabu-zuqup-kenu. He served as chief scribe to kings <esp:glossary term="Sargon II (person)">Sargon II</esp:glossary> and <esp:glossary term="Sennacherib (person)">Sennacherib</esp:glossary> and wrote over 60 surviving scholarly tablets. Nearly two-thirds of these explicitly state that they were written in Kalhu <esp:ref referent="hunger1968" page="90–95, nos. 293–311, of which nos. 293–294 and 305 name Kalhu"/>. However, the tablets themselves belong to the <esp:techterms term="Kuyunjik collection">Kuyunjik collection</esp:techterms> of the <esp:techterms term="British Museum">British Museum</esp:techterms>, most likely meaning that they were excavated by <esp:glossary term="Layard, Austen Henry (person)">Layard</esp:glossary> and his associates from the royal <esp:techterms term="citadel">citadel</esp:techterms> of <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>. We cannot prove that he was directly involved in tablet production for Nabu's temple.</dd>
+
+
+<dd>However, several of Nabu-zuqup-kenu's descendants wrote scholarly tablets which were excavated from the Kalhu Ezida in the 1950s:</dd>
+<!--this section repeats final para of "Scholarly activity in the 7th century BC" from the Ezida article-->
+
+
+
+
+<dt><esp:glossary term="Adad-šumu-uṣur (person)">Adad-šumu-uṣur</esp:glossary>  (<esp:link bookmark="img238"><b>Image 3</b></esp:link>)</dt>
+<dd>Nabu-zuqup-kenu's son was chief <i>āšipu</i> of king <esp:glossary term="Esarhaddon (person)">Esarhaddon</esp:glossary>. He was owner of a tablet from the terrestrial <esp:techterms term="omen">omen</esp:techterms> series <i>Šumma ālu</i> ("If a city (is set on a height)") (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363460">CTN 4: 45</esp:link>).</dd>
+<dt><esp:glossary term="Šumaya (person)">Šumaya(?)</esp:glossary>  (<esp:link bookmark="img239"><b>Image 4</b></esp:link>)</dt>
+<dd>Adad-šumu-uṣur's nephew (name missing but possibly Šumaya), the son of his brother <b><esp:glossary term="Nabu-zeru-lešir (person)">Nabu-zeru-lešir</esp:glossary></b> (?), Esarhaddon’s chief scribe. This man was copyist of an ominous calendar (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363474">CTN 4: 59</esp:link>) “for the prolongation of his life”.</dd>
+<dd>Further sons or descendants of Nabu-zuqup-kenu are mentioned in colophons of two tablets of physiognomic omens <i>Alandimmû</i> and another of unidentified omens (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363489,P363493,P363503">CTN 4: 74, 78, 89</esp:link>).</dd>
+<dt><esp:glossary term="Nabu-leʾi (person)">Nabu-leʾi</esp:glossary>  (<esp:link bookmark="img240"><b>Image 5</b></esp:link>)</dt>
+<dd>Son of Adad-šumu-uṣur’s close associate, Esarhaddon’s chief <esp:techterms term="lamenter">lamenter</esp:techterms> <esp:glossary term="Urad-Ea (person)">Urad-Ea</esp:glossary>, was the scribe of an as yet unidentified ritual (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363601">CTN 4: 187</esp:link>), which he “copied like its original for him to see”.</dd>
+</dl>
+
+<p>Adad-šumu-uṣur and Nabu-zeru-lešir are well known in Assyrian court correspondence from Nineveh, sometimes in collaboration with Urad-Ea and other colleagues. These letters tell us that Adad-šumu-uṣur also worked at Kalhu, where he performed a ritual against two types of fungi that had infested Ezida (<esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/knpp/P334243">SAA 13: 71</esp:link>).</p>
+
+<p>Šumaya son of Nabu-zeru-lešir is attested as an <i>āšipu</i> at Nineveh late in Esarhaddon’s reign (<esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/knpp/P333969,P334600">SAA 10: 257, 291</esp:link>). Some time in 671–669 BC he petitioned crown prince <esp:link page="assurbanipal">Assurbanipal</esp:link> to let him take over his dead father’s scholarly work at Kalhu, having established himself in a similar role in <esp:glossary term="Tarbiṣu (place)">Tarbiṣu</esp:glossary> (<esp:link url="http://oracc.org/saao/knpp/P334608" hide-print="yes" rel="external">SAA 16: 34</esp:link>). He and Adad-šumu-uṣur witnessed a legal document together in the northern Assyrian town of <esp:glossary term="Ispallure (place)">Ispallure</esp:glossary> in 666 BC (<esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/saa06/P335359">SAA 6: 314</esp:link>).</p>
+<p>One of Adad-šumu-uṣur's sons was the infamous <esp:glossary term="Urad-Gula (person)">Urad-Gula</esp:glossary>, who was expelled from court service as an <i>āšipu</i> never to return, despite his influential father's repeated pleas for clemency (<esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/knpp/P334457,P333954,P334829">SAA 10: 224, 226, 294</esp:link>). Perhaps he spent time in Kalhu; we do not know.</p>
+
+<p>The Gabbu-ilani-ereš family disappear from the written record during the reign of Assurbanipal, along with all other court scholars.</p>
+
+<esp:h>A scholar without family</esp:h>
+
+<p>The only other well documented scholar in Nabu's temple conspicuously never mentions his family.</p> 
+
+<dl>
+<dt><esp:glossary term="Banunu (person)">Banunu</esp:glossary></dt>
+<dd>An <i>āšipu</i>, <esp:glossary term="Banunu (person)">Banunu</esp:glossary> was copyist and/or owner of four scholarly tablets:
+<ul>
+<li>a prayer of divination “from a Babylonian original” (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363476">CTN 4: 61</esp:link>);</li>
+<li>the ritual <i>Mīs pî</i>  (“mouth opening”) (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363602">CTN 4: 188</esp:link>);</li> 
+<li>medical recipes (CTN 4: 188);</li>
+<li>and the medical plant list <i>Uruanna</i> (<esp:link hide-print="yes" rel="external" url="http://oracc.org/cams/gkab/P363606">CTN 4: 192</esp:link>).</li> 
+</ul>
+</dd>
+</dl>
+
+<p>In the colophons of the second and third of these tablets Banunu exclaims:</p> 
+
+<blockquote><p>Do not disperse the <i>gerginakku</i> ("library"); taboo of <esp:glossary term="Ea (deity)">Ea</esp:glossary>, king of the <esp:techterms term="apsu">Apsu</esp:techterms>!</p></blockquote>
+
+<p>In in the aftermath of Assurbanipal’s conquest of <esp:glossary term="Babylonia (place)">Babylonia</esp:glossary>, a man named Banunu was assigned to overee of the <esp:techterms term="governor">governor</esp:techterms> of <esp:glossary term="Nippur (place)">Nippur</esp:glossary>’s son in Nineveh (<esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/saa11/P334311">SAA 11: 156</esp:link>, <esp:ref referent="parpola1983"/>). It is possible, but not certain, that this is the same person.</p>
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+<p>Content last modified: <esp:content-last-modified/><br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+	</body></html>
+
+</esp:page>

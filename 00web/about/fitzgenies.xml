@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>The Genies on the Stairs</esp:name>
+	<esp:title>The Genies on the Stairs: a 3000 year journey from Assyria to Cambridge</esp:title>
+
+	<html><head></head><body>
+
+<p>On 19 June 2013, Eleanor Robson gave a lunch-time talk at <esp:link url="http://www.fitzmuseum.cam.ac.uk/whatson/events/article.html?3853" hide-print="yes" rel="external">The Fitzwilliam Museum</esp:link>, Cambridge, on the museum's Assyrian stone genies from the <esp:link page="northwestpalace">Northwest Palace</esp:link> of king Assurnasirpal II.</p>
+	
+<esp:image file="events/fitz-genie-ane-2-1908.jpg" description="Alabaster bas-relief of a winged genie from Nimrud, now in the Fitzwilliam Museum, Cambridge" position="float"><esp:caption><esp:bookmark id="img5"><esp:techterms term="alabaster">Alabaster</esp:techterms> <esp:techterms term="bas-relief">bas-relief</esp:techterms> of a winged genie from the <esp:link page="northwestpalace">Northwest palace</esp:link> of king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> in Kalhu, c. 885 BC.</esp:bookmark> Now in the Fitzwilliam Museum, Cambridge. ANE.2.1908. © The Fitzwilliam Museum, University of Cambridge, UK. <esp:link url="http://data.fitzmuseum.cam.ac.uk/id/object/86734" rel="external" hide-print="yes">View the Fitzwilliam's catalogue entry on this object.</esp:link></esp:caption></esp:image>
+
+<p>Who are the <esp:techterms term="genie">genies</esp:techterms> on the stairs of the Fitz? Where do they come from and how did they get here? How have they changed in the process, both physically and in the minds of the people who have encountered them?</p>
+
+<p>This lunchtime talk discussed the answers to those questions, and the ways in which knowledge of the ancient past is made and re-made in the light of new evidence, changing theories and current circumstances.</p>
+
+<p>&#187; Read more about the Fitz's <esp:link page="stonegenies">stone genies on the stairs</esp:link>.</p>
+
+<p>&#187; Try our <esp:link page="discoverassyria" bookmark="assyrianquiz">family quiz on Assyrian kings and genies</esp:link>, designed for use in the Fitz's Gallery 23 and Main Entrance staircase.</p>
+
+<p>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+</body></html>
+
+</esp:page>

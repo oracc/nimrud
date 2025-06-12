@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>Timeline</esp:name>
+	<esp:title>Timeline of excavations at Nimrud</esp:title>
+
+	<html><head></head><body>
+
+	<p class="firstpara">This page gives a brief summary of
+	archaeological work carried out at the site of Nimrud over the
+	past two centuries. For more detail see <esp:ref
+	referent="postgatereade1976-1980"/> and Chapters 1–3, 5–12 of
+	<esp:ref referent="curtisetal2008"/>.</p>
+
+	<p><esp:link bookmark="h_beforeexcavation">Before excavation</esp:link> | <esp:link bookmark="h_thevictorianera">The Victorian era</esp:link> | <esp:link bookmark="h_theearlytwentiethcentury">The early twentieth
+	century</esp:link> | <esp:link bookmark="h_thecoldwarera">The
+	Cold War era</esp:link> | <esp:link
+	bookmark="h_thesaddamera">The Saddam era</esp:link> | <esp:link bookmark="h_thetwentyfirstcentury">The
+	twenty-first century</esp:link></p>
+	<esp:h>Before excavation</esp:h>
+
+	<esp:image
+	    file="mound/layard_monuments_1_III_1850_sm.jpg"
+	    description="Layard's plan of the Northwest palace showing
+			 sculptures removed by 1850" position="float"><esp:link url="/nimrud/images/mound/layard_monuments_1_III_1850.jpg" title="Large version ofLayard's plan of the Northwest palace showing
+			 sculptures removed by 1850"
+			 hide-print="yes"/><esp:caption><esp:bookmark id="img262"/><b>Image
+	1</b>: Layard's  plan of his excavations at the <esp:link page="northwestpalace">Northwest
+	Palace</esp:link> <esp:ref referent="layard1849-53" page="I plate 99 plan
+	III"/>, marked in bright and pale blue to indicate which sculptures had
+	been fully or partially removed by 1850 <esp:ref
+	referent="englund2003" page="43-160"/>. (Rooms A, J, K, M, O, 
+	R, U, V, W, X, Y AA, BB did not contain figural <esp:techterms term="bas-relief">bas-reliefs</esp:techterms>.) <esp:link url="/nimrud/images/mound/layard_monuments_1_III_1850.jpg"  hide-print="yes">View large image.</esp:link></esp:caption></esp:image>
+	<dl>
+	  <dt>1815</dt>
+	  <dd>The <esp:techterms term="Ottoman">Ottoman</esp:techterms> provincial <esp:techterms term="governor">governor</esp:techterms> of <esp:glossary term="Mosul (place)">Mosul</esp:glossary>, <esp:glossary
+	  term="Jalili, Ahmed Pasha (person)">Ahmed Pasha Jalili</esp:glossary>, quarries for building stone</dd>
+	  <dt>1816</dt>
+	  <dd><esp:glossary term="Buckingham, James Silk (person)">James Silk Buckingham</esp:glossary> visits the site ("Nimrod-Tuppe") on 8 September, noting that it might contain ancient ruins</dd>
+	  <dt>1821</dt>
+	  <dd><esp:glossary term="Rich, Claudius James (person)">Claudius James
+	  Rich</esp:glossary> — the <esp:techterms term="East India Company">East India Company's</esp:techterms> <esp:techterms term="Residency">Resident</esp:techterms>
+	  in <esp:glossary term="Baghdad (place)">Baghdad</esp:glossary> — visits the site on 4
+	  March, noticing the remains of <esp:link page="ziggurat">the
+	  ziggurat</esp:link> and collecting fragments of
+	  <esp:techterms term="inscribed brick">inscribed bricks</esp:techterms> from the surface</dd>
+	  <dt>1837</dt>
+	  <dd>Two brief visits by members of the <esp:techterms
+	  term="Euphrates Expedition">British expedition</esp:techterms> to
+	  chart the <esp:glossary term="Euphrates (place)">Euphrates</esp:glossary>, on 9 March and 3 June, each noting many fragmentary antiquities on the surface of the mound</dd>
+	  <dt>1844</dt>
+	  <dd>British <esp:techterms term="missionary">missionary</esp:techterms> <esp:glossary term="Badger, Rev George (person)">Rev George Badger</esp:glossary> surveys
+	  the site in March and proposes its excavation to
+	  <esp:glossary term="Canning, Stratford (person)">Sir
+	  Stratford Canning</esp:glossary>; another missionary,
+	  <esp:glossary term="Fletcher, Rev James Phillips (person)">Rev James Fletcher</esp:glossary>, digs for inscribed bricks</dd>
+	</dl>
+
+	<esp:h>The Victorian era</esp:h>
+	<esp:image
+	    file="mound/layard_monuments_1_III_1900_sm.jpg"
+	    description="Layard's plan of the Northwest palace showing
+			 sculptures removed by 1900" position="float"><esp:link url="/nimrud/images/mound/layard_monuments_1_III_1900.jpg" title="Large version ofLayard's plan of the Northwest palace showing
+			 sculptures removed by 1900"
+			 hide-print="yes"/><esp:caption><esp:bookmark id="img263"/><b>Image
+	2</b>: Layard's  plan of his excavations at the Northwest
+	Palace <esp:ref referent="layard1849-53" page="I plate 99 plan
+	III"/>, marked in bright and pale blue and green to indicate which sculptures had
+	been fully or partially removed by 1850 and 1900 respectively <esp:ref
+	referent="englund2003" page="43-160"/>. (Rooms A, J, K, M, O, 
+	R, U, V, W, X, Y AA, BB did not contain figural bas-reliefs.) <esp:link url="/nimrud/images/mound/layard_monuments_1_III_1900.jpg"  hide-print="yes">View large image.</esp:link></esp:caption></esp:image>
+	<dl>
+	  <dt>1845–47</dt>
+	  <dd><esp:glossary term="Layard, Austen Henry (person)">Austen Henry
+	  Layard</esp:glossary> excavates parts of the <esp:glossary
+	  term="Southwest Palace (place)">Southwest Palace</esp:glossary> and the ceremonial areas of
+	  king <esp:glossary term="Assurnasirpal II (person)">Assurnasirpal II's</esp:glossary> <esp:link
+	  page="northwestpalace">Northwest Palace</esp:link>, by
+	  tunnelling along the edges of walls lined with stone
+	  <esp:techterms term="bas-relief">bas-reliefs</esp:techterms>;
+	  his most spectacular finds include
+	 the <esp:link page="obelisk">Black Obelisk</esp:link></dd>
+	  <dt>1849-51</dt>
+	  <dd>Layard <esp:link page="nd1850">returns to Nimrud</esp:link>, assisted by <esp:glossary term="Rassam, Hormuzd (person)">Hormuzd Rassam</esp:glossary> and
+	  the artist <esp:glossary term="Cooper, Frederick Charles (person)">Frederick Cooper</esp:glossary>, focusing especially on the
+	  ziggurrat and surrounding shrines. <esp:glossary
+	  term="Malan, Rev Solomon (person)">Solomon Malan</esp:glossary> and the
+	  <esp:glossary term="Clive, Hon Robert Henry (person)">Hon. Robert Clive</esp:glossary> each visit in 1850</dd>
+	  <dt>1852</dt>
+	  <dd><esp:glossary term="Jones, Felix (person)">Felix
+	  Jones</esp:glossary> maps Nimrud and its surroundings for
+	  the East India Company;
+	  <esp:glossary term="Rawlinson, Henry Creswicke (person)">Rawlinson</esp:glossary> visits to study the inscriptions that are still in situ</dd>
+	  <dt>1852-53</dt>
+	  <dd>Rassam digs mostly at <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> but also at Nimrud and
+	  <esp:glossary term="Sherif Khan (place)">Sherif Khan</esp:glossary> (ancient <esp:glossary term="Tarbiṣu (place)">Tarbiṣu</esp:glossary>)</dd>
+	  <dt>1854–55</dt>
+	  <dd><esp:glossary term="Loftus, William Kennett (person)">William Kennett Loftus</esp:glossary>, with artist <esp:glossary
+	  term="Boutcher, William (person)">William Boutcher</esp:glossary>, dig
+	  on behalf of the <esp:techterms term="British Museum">British Museum</esp:techterms> and the private
+	  <esp:techterms term="Assyrian Expedition Fund">Assyrian
+	  Excavation Fund</esp:techterms>, at the "Southeast Palace", i.e., the
+	  <esp:glossary term="Burnt Palace (place)">Burnt Palace</esp:glossary>
+	  and <esp:link page="ezida">Nabu's temple</esp:link>, and
+	  probably also at king <esp:glossary term="Tiglath-pileser III (person)">Tiglath-pileser
+	  III's</esp:glossary> <esp:glossary term="Central Palace (place)">Central Palace</esp:glossary>; they find many
+	  <esp:link page="ivories">ivories</esp:link></dd>
+<dt>1860-61; 1864</dt>
+	  <dd><esp:glossary term="Weber, Julius (person)">Julius Weber</esp:glossary>, a Swiss entrepreneur, visits Nimrud to acquire reliefs</dd>
+	  <dt>1862</dt>
+	  <dd><esp:glossary term="Delaporte, Henri-Pacifique (person)">Henri-Pacifique
+	  Delaporte</esp:glossary>, the French <esp:techterms
+	  term="consul">consul</esp:techterms> at Baghdad, vists
+	  Nimrud and sends reliefs to the <esp:techterms term="Louvre">Louvre</esp:techterms></dd>
+	  <dt>1873</dt>
+	  <dd><esp:glossary term="Smith, George (person)">George
+	  Smith</esp:glossary> excavates briefly on behalf of
+	  <esp:techterms term="Daily Telegraph"><i>The Daily Telegraph</i></esp:techterms> and the British Museum</dd>
+	  <dt>1878</dt>
+	  <dd>Rassam returns to Nimrud, commissioning photographs too</dd>	</dl>
+
+	  <esp:h>The early twentieth century</esp:h>
+	  <esp:image
+	    file="mound/layard_monuments_1_III_1950_sm.jpg"
+	    description="Layard's plan of the Northwest palace showing
+			 sculptures removed by 1950"
+	    position="float"><esp:link
+	    url="/nimrud/images/mound/layard_monuments_1_III_1950.jpg"
+	    title="Large version of Layard's plan of the Northwest palace showing
+			 sculptures removed by 1950"
+			 hide-print="yes"/><esp:caption><esp:bookmark id="img264"/><b>Image
+	3</b>: Layard's  plan of his excavations at the Northwest
+	Palace <esp:ref referent="layard1849-53" page="I plate 99 plan
+	III"/>, marked in bright and pale blue, green and purple to indicate which sculptures had
+	been fully or partially removed by 1850, 1900 and 1950 respectively <esp:ref
+	referent="englund2003" page="43-160"/>. (Rooms A, J, K, M, O, 
+	R, U, V, W, X, Y AA, BB did not contain figural bas-reliefs.) <esp:link url="/nimrud/images/mound/layard_monuments_1_III_1950.jpg"  hide-print="yes">View large image.</esp:link></esp:caption></esp:image>
+	<dl>
+	  
+	  <dt>1906</dt>
+	  <dd><esp:glossary term="Andrae, Walter (person)">Walter Andrae</esp:glossary>, a German archaeologist excavating at
+	  <esp:glossary term="Assur (place)">Assur</esp:glossary>,
+	  visits and photographs Nimrud</dd>
+	  <dt>1909</dt>
+	  <dd>The archaeologist and explorer  <esp:glossary
+	  term="Bell, Gertrude (person)">Gertrude Bell</esp:glossary> visits Nimrud, taking photographs</dd>
+	  <dt>1926</dt>
+	  <dd>British archaeologists, including <esp:glossary term="Mallowan, Max (person)">Max Mallowan</esp:glossary>, visit
+	  Nimrud from <esp:glossary term="Thompson, Reginald Campbell (person)">Reginald Campbell Thompson's</esp:glossary>
+	  excavations at <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary></dd>
+	</dl>
+	<esp:h>The Cold War era</esp:h>
+	<dl>
+	  <dt>1949–53</dt>
+	  <dd>Max Mallowan <esp:link page="nd1950">directs large-scale excavations</esp:link> on the
+	  <esp:techterms term="citadel">citadel</esp:techterms> for
+	  <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms>, first extending the plan of the Northwest
+	  Palace, then working on the <esp:link page="governorspalace">Governor's Palace</esp:link>, the citadel
+	  walls and associated housing, and the <esp:glossary
+	  term="Burnt Palace (place)">Burnt Palace</esp:glossary> </dd>
+	  <dt>1956-59</dt>
+	  <dd><esp:glossary term="Abu es-Soof, Behnam (person)">Behnam
+	  Abu es-Soof</esp:glossary> directs excavation and
+	  <esp:techterms term="restoration">restoration</esp:techterms> work on the Northwest Palace</dd>
+	  <dt>1955-56</dt>
+	  <dd>Mallowan resumes excavations for BSAI, at <esp:link page="ezida">Nabu's temple</esp:link>,
+	  and <esp:link page="ziggurat">Ninurta's temple and its
+	  ziggurat</esp:link>, and begins work on <esp:link page="fortshalmaneser">Fort Shalmaneser</esp:link></dd>
+	  <dt>1958-62</dt>
+	  <dd><esp:glossary term="Oates, David (person)">David
+	  Oates</esp:glossary> directs BSAI's excavations at Fort
+	  Shalmaneser, replaced by <esp:glossary term="Orchard, Jeffrey (person)">Jeffrey Orchard</esp:glossary> in 1963</dd>
+	  
+
+	  <dt>1969-77</dt>
+	  <dd><esp:glossary term="al-Iraqi, Said (person)">Said
+	  al-Iraqi</esp:glossary> and <esp:glossary term="Abd-el Hamid, Hazim (person)">Hazim Abd el-Hamid</esp:glossary>
+	  <esp:link page="nd2000">re-excavate and restore</esp:link> much of the Northwest Palace for the
+	  Iraqi Department of Antiquities, including excavation of many
+	  <esp:link page="ivories">ivories</esp:link> from the Well in courtyard AJ</dd>
+
+	  <dt>1974-76</dt>
+	  <dd><esp:glossary term="Meuszyński, Janusz (person)">Janusz Meuszyński</esp:glossary> directs Polish archaeological work at the Northwest Palace and the central part of the royal citadel</dd>
+	</dl>
+
+	<esp:h>The Saddam and post-Saddam era</esp:h>
+	<esp:image
+	    file="mound/layard_monuments_1_III_2000_sm.jpg"
+	    description="Layard's plan of the Northwest palace showing
+			 sculptures removed by 2000"
+	    position="float"><esp:link
+	    url="/nimrud/images/mound/layard_monuments_1_III_2000.jpg"
+	    title="Large version of Layard's plan of the Northwest palace showing
+			 sculptures removed by 2000"
+			 hide-print="yes"/><esp:caption><esp:bookmark id="265"/><b>Image
+	4</b>: Layard's  plan of his excavations at the Northwest
+	Palace <esp:ref referent="layard1849-53" page="I plate 99 plan
+	III"/>, marked in bright and pale blue, green, purple and yellow to indicate which sculptures had
+	been fully or partially removed by 1850, 1900, 1950 and 2000 respectively <esp:ref
+	referent="englund2003" page="43-160"/>. (Rooms A, J, K, M, O, 
+	R, U, V, W, X, Y AA, BB did not contain figural bas-reliefs.)
+	<esp:link
+	    url="/nimrud/images/mound/layard_monuments_1_III_2000.jpg"
+	    hide-print="yes">View large
+	image.</esp:link></esp:caption></esp:image>
+	<dl>
+	  <dt>1985-92</dt>
+	  <dd><esp:glossary term="Hussein, Muzahim Mahmoud (person)">Muzahim Mahmoud Hussain</esp:glossary> re-excavates and restores Nabu's
+	  temple and further areas of the Northwest Palace, for the
+	  <esp:techterms term="State Board of Antiquities and Heritage">State Board of Antiquities
+	  and Heritage</esp:techterms> (SBAH), finding the famous <esp:techterms term="province">queens'</esp:techterms> tombs in 1988 and Well 4 in 1992</dd>
+	  <dt>1987-89</dt>
+	  <dd><esp:glossary term="Fiorina, Paolo (person)">Paolo Fiorina</esp:glossary> leads Italian excavation work in Fort Shalmaneser and the nearby city walls</dd>
+	  <dt>1989</dt>
+	  <dd><esp:link
+		  url="http://www.britishmuseum.org/about_us/departments/staff/middle_east/john_curtis.aspx"
+		  hide-print="yes" rel="external">John Curtis</esp:link> directs small-scale excavations at Fort Shalmaneser for the British Museum</dd>
+	  <dt>1990</dt>
+	  <dd>International projects at Nimrud are stopped in the run-up to the <esp:techterms term="Gulf War">Gulf War</esp:techterms></dd>
+
+	  <dt>2001</dt>
+	  <dd>Muzahim  Mahmoud Hussain re-excavates <esp:link
+	  page="ziggurat" bookmark="h_thetempleofthekidmuru">Ištar's temple</esp:link> for the
+	  SBAH</dd>
+	  <dt>2002</dt>
+	  <dd>The BSAI and British Museum hold a large conference to re-evaluate the
+	  archaeology of Nimrud <esp:ref
+	  referent="curtisetal2008"/></dd>
+	</dl>
+	<esp:h>The twenty-first century</esp:h>
+	<esp:image
+	    file="mound/layard_monuments_1_III_2015_sm.jpg"
+	    description="Layard's plan of the Northwest palace showing
+			 sculptures removed by 2015"
+	    position="float"><esp:link
+	    url="/nimrud/images/mound/layard_monuments_1_III_2015.jpg"
+	    title="Large version of Layard's plan of the Northwest palace showing
+			 sculptures still in situ in early 2015"
+			 hide-print="yes"/><esp:caption><esp:bookmark id="266"/><b>Image
+	5</b>: Layard's  plan of his excavations at the Northwest
+	Palace <esp:ref referent="layard1849-53" page="I plate 99 plan
+	III"/>, marked in black and grey to indicate where complete or
+	partial sculptures
+	were still in situ before the destruction of the palace in
+	early 2015 <esp:ref
+	referent="englund2003" page="43-160"/>. (Rooms A, J, K, M, O, 
+	R, U, V, W, X, Y AA, BB did not contain figural bas-reliefs.)
+	<esp:link
+	    url="/nimrud/images/mound/layard_monuments_1_III_2015.jpg"
+	    hide-print="yes">View large
+	image.</esp:link></esp:caption></esp:image>
+	<dl>
+	  <dt>Spring 2003</dt>
+	  <dd><esp:techterms term="Iraq War">Iraq War</esp:techterms>; Nimrud remains safe from post-war looting</dd>
+	  <dt>Summer 2014</dt>
+	  <dd><esp:techterms term="Da'esh/ISIS">ISIS</esp:techterms> invades northern Iraq, including <esp:techterms term="province">Nineveh province</esp:techterms>
+	  in which Nimrud is situated</dd>
+	  <dt>Spring 2015</dt>
+	  <dd>ISIS releases a propaganda video which shows the destruction of
+	  Northwest Palace; the status of the rest of the site is currently unknown</dd>
+	</dl>
+
+	<p>Content last modified: <esp:content-last-modified/><br/>
+<esp:email address="nimrud@oracc.org"/></p>
+	</body></html>
+
+</esp:page>

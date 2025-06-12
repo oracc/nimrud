@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ref:referents
+	xmlns:ref="http://oracc.org/ns/esp-refer/1.0"
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- You need to sort this file alphabetically! Does not happen automatically -->
+
+<!-- The entries were standardised on 25/3/2014.
+
+STYLE: initial caps for books and journals; sentence case for chapters and articles. Spell out journal names; no abbreviations. Please follow existing id and punctuation styles too. Examples of the format below:
+
+<ref:referent id ="gadd1938">Gadd, C.J., 1938. "A Visiting Artist at Nineveh in 1850", <i>Iraq</i> 5, pp. 118-122 and plates XI-XX (PDF available via <esp:link url="http://www.jstor.org/stable/4241628" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="dalleypostgate1984">Dalley, S.M. and J.N. Postgate, 1984. <i>The Tablets from Fort Shalmaneser</i> (Cuneiform Texts from Nimrud 3), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN3_Dalley_Postgate_Tablets_from_Fort_Shalmaneser.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 123 MB)</ref:referent>
+-->
+
+<!-- A -->
+<ref:referent id="al-qaissi2008">al-Qaissi, R., 2008. "Restoration work at Nimrud", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 49–52</ref:referent>
+
+<ref:referent id="albright1915">Albright, W.F., 1915. "Ninib-Ninurta", <i>Journal of the American Oriental Society</i> 38: 197-201 (PDF available via <esp:link url="http://www.jstor.org/stable/592604" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="andrae1977">Andrae, W., 1977. <i>Das wiedererstandene Assur</i>, 2nd ed., ed. B. Hrouda, Munich: Beck</ref:referent>
+<!-- B -->
+
+<ref:referent id="baker2006-2008">Baker, H.D., 2006-08. "Salmanassar III.", <i>Reallexikon der Assyriologie und Vorderasiatischen Archäologie</i> 11, pp. 581-585</ref:referent>
+
+<ref:referent id="bakeryamada2002">Baker, H.D. and Yamada, S., 2002. "Salmānu-ašarēd", in H.D. Baker (ed.),<i>The Prosopography of the Neo-Assyrian Empire, Volume 3, Part I: P-Ṣ</i>, Helsinki: Helsinki University Press, pp. 1071-1078</ref:referent>
+
+<ref:referent id="barnett1975">Barnett, R.D., 1975. <i>A Catalogue of the Nimrud Ivories in the British Museum</i> (2nd ed.), London: The Trustees of the British MuseumU</ref:referent>
+
+<ref:referent id="basmachi1975">Basmachi, F., 1975. <i>Treasures of the Iraq Museum</i>, Baghdad: Ministry of Information</ref:referent>
+
+<ref:referent id="beaulieu1997">Beaulieu, P.-A., 1997. "The cult of AN.ŠÁR/Aššur in Babylonia after the fall of the Assyrian empire", <i>State Archives of Assyria Bulletin</i> 9: 55-73</ref:referent>
+
+<ref:referent id="bernhardsson2005">Bernhardsson, M., 2005. <i>Reclaiming a Plundered Past: Archaeology and Nation Building in Modern
+Iraq</i>. Austin: University of Texas Press</ref:referent>
+
+<ref:referent id="black2007">Black, J.A., 2007. "Sumerian", in J.N. Postgate (ed.), <i>Languages of Iraq, Ancient and Modern</i>, London: British School of Archaeology in Iraq, pp.4-30</ref:referent>
+
+<ref:referent id="black2008">Black, J.A., 2008. "The libraries of Kalhu", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 261-265</ref:referent>
+
+
+<ref:referent id="blacketal2004">Black, J.A. <i>et al.</i>, 2004. <i>The Literature of Ancient Sumer</i>, Oxford: Oxford University Press</ref:referent>
+
+<ref:referent id="bohrer2003">Bohrer, F., 2003. <i>Orientalism and Visual Culture: Imagining Mesopotamia in Nineteenth-Century Europe</i>, Cambridge: Cambridge University Press</ref:referent>
+
+<ref:referent id="briggs2006">Briggs, J., 2006. "<i>The Amulet</i> and other stories of time", in R.E. Jones (ed.), <i>E. Nesbit's Psammead Trilogy: A Children's Classic at 100</i>, Scarecrow Press, pp. 215-230</ref:referent>
+
+<ref:referent id="britishmuseum1855">British Museum, 1855. <i>Synopsis of the Contents of the British Museum</i>, London: Woodfall and Kinder (free online edition at <esp:link url="http://archive.org/details/synopsiscontent09musegoog" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="britishmuseum1884">British Museum, 1884. <i>Guide to the Exhibition Galleries of the British Museum, Bloomsbury</i>, London: printed by order of the Trustees</ref:referent>
+
+<ref:referent id="britishmuseum1900">British Museum, 1900. <i>A Guide to the Babylonian and Assyrian Antiquities</i>. London: printed by order of the Trustees</ref:referent>
+
+<ref:referent id="britishmuseum1908">British Museum, 1908. <i>A Guide to the Babylonian and Assyrian Antiquities</i>, 2nd edition, revised and enlarged. London: printed by order of the Trustees</ref:referent>
+
+<ref:referent id="brusius2012">Brusius, M., 2012. "Misfit objects: Layard’s excavations in ancient Mesopotamia and
+the Biblical imagination in mid-nineteenth -Century Britain", <i>Journal of Literature and Science</i> 5 (2012): 38–52 (<esp:link url="http://www.literatureandscience.org/issues/JLS_5_1/JLS_vol_5_no_1_Brusius.pdf">free PDF from JLS</esp:link>)</ref:referent>
+
+<ref:referent id="BSLvideo"><esp:link url="http://www.britishmuseum.org/channel/object_stories/bsl/room_6_assyrian_sculpture/video_black_obelisk.aspx" rel="external" hide-print="yes">British Sign Language video about the Black Obelisk</esp:link>, available on the British Museum website. (Note that this is in British Sign Language only and has no subtitles)</ref:referent>
+
+<ref:referent id="king1902">Budge, E.A.W. and L.W. King, 1902. <i>Annals of the Kings of Assyria: The Cuneiform Text with Translations, Transliterations, etc. from the Original Documents in the British Museum</i>, Vol. 1, London: printed by order of the Trustees</ref:referent>
+
+<!-- C -->
+
+<ref:referent id="cartwrighttaylor2011">Cartwright, C. and J. Taylor, 2011. "The making and re-making of clay tablets", <i>Scienze dell’antichità </i>17, pp. 297-324</ref:referent>
+
+<ref:referent id="caubet2008">Caubet, A., 2008. "Encore le nāhiru", in C. Roche (ed.), <i>D’Ougarit à Jérusalem. Recueil d’études épigraphiques et archéologiques offert à Pierre Bordreuil</i> (Orient &amp; Méditerranée 2). Paris, pp. 129-132.</ref:referent>
+
+<ref:referent id="christie1953">Christie, A., 1953. <i>A Pocket Full of Rye</i>, London: Collins</ref:referent>
+
+<ref:referent id="christie1977">Christie, A., 1977. <i>An Autobiography</i>, London: Collins</ref:referent>
+
+<ref:referent id="christiemallowan1975">Christie Mallowan, A., 1975 (1946). <i>Come, Tell Me How You Live</i>, London: Collins (revised edition)</ref:referent>
+
+<ref:referent id="churchtansey2007">Church, R., and E. M. Tansey (2007). <i>Burroughs Wellcome &amp; Co. Knowledge, Trust, Profit and the Transformation of the British Pharmaceutical Industry 1880-1940</i>. Lancaster: Crucible Books</ref:referent>
+
+<ref:referent id="civil1972">Civil, M., 1972. "The Anzu-bird and scribal whimsies", <i>Journal of the American Oriental Society</i> 92: 271 (PDF available via <esp:link url="http://www.jstor.org/stable/600653" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="cohenkangas2010">Cohen, A. and S.E. Kangas (eds.), 2010. <i>Assyrian Reliefs from the Palace of Ashurnasirpal: A Cultural Biography</i>, Hanover, NH: Hood Museum of Art </ref:referent>
+
+<ref:referent id="colemachinist1998">Cole, S.W. and P. Machinist, 1998. <i>Letters from Assyrian and Babylonian Priests to Kings Esarhaddon and Assurbanipal</i> (State Archives of Assyria XIII), Helsinki: Helsinki University Press</ref:referent>
+
+<ref:referent id="collins2008">Collins, P., 2008. <i>Assyrian Palace Sculptures</i>, Austin: University of Texas Press</ref:referent>
+
+<ref:referent id="collon2008">Collon, D., 2008. "Nimrud Seals", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 233-242 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="collon2008b">Collon, D. (ed), 2008. "Nimrud treasures: panel discussion", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, pp. 105-118 (<esp:link url="http://bisi.ac.uk/content/other-publications#node_id278" hide-print="yes" rel="external">free PDF from BISI</esp:link>)</ref:referent>
+<ref:referent id="curtis2001">Curtis, J., 2001. "Nimrud", in C. Trümpler (ed.),<i>Agatha Christie and Archaeology</i>, London: British Museum Press (English edition), 137-161</ref:referent>
+
+<ref:referent id="cooper1970">Cooper, J.S., 1970. "A Sumerian šu-íl-la from Nimrud with a prayer for Sin-šar-iškun", <i>Iraq</i> 32: 51-67 (PDF available via <esp:link url="http://www.jstor.org/stable/4199891" rel="external" hide-print="yes">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="curtis2008">Curtis, J.E., 2008. <i>The Balawat Gates of Ashurnasirpal II</i>, London: British Museum Press</ref:referent>
+
+<ref:referent id="curtis2013">Curtis, J., 2013. <i>An Examination of Late Assyrian Metalwork: With Special Reference to Nimrud</i>, Oxford: Oxbow Books</ref:referent>
+
+<ref:referent id="curtisetal1993">Curtis, J., D. Collon, A.R. Green and A. Searight, 1993. "British Museum excavations at Nimrud and Balawat in 1989", <i>Iraq</i> 55: 1–37  (PDF available via <esp:link url="http://www.jstor.org/stable/4200365" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="curtisetal2008">Curtis, J., H. McCall, D. Collon and L. al-Gailani Werr (eds.), 2008. <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="curtisreade1995">Curtis, J.E. and J. E. Reade, 1995. <i>Art and Empire: Treasures from Assyria in the British Museum</i>, London: British Museum Press</ref:referent>
+
+<!-- D -->
+
+<ref:referent id="dalleypostgate1984">Dalley, S.M. and J.N. Postgate, 1984. <i>The Tablets from Fort Shalmaneser</i> (Cuneiform Texts from Nimrud 3), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN3_Dalley_Postgate_Tablets_from_Fort_Shalmaneser.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 123 MB)</ref:referent>
+
+<ref:referent id="damerji2008">Damerji, M., 2008. "An introduction to the Nimrud tombs", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 81-82 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="defilippi1977">De Filippi, W., 1977. "The Royal Inscriptions of Assur-nasir-apli II (883-859 B.C.)", <i>Assur</i> 1: 123-169</ref:referent>
+
+<ref:referent id="deller1982">Deller, K., 1982. "Das Siegel des Schreibers Aššur-ṣumī-aṣbat, son of Rībāte", <i>Baghdader Mitteilungen</i> 13: 143-154</ref:referent>
+
+<ref:referent id="dezso2006">Dezsö, T., 2006. "Reconstruction of the Assyrian army of Sargon II (721-705 BC) based on the Nimrud Horse Lists", <i>State Archives of Assyria Bulletin</i> 15, pp. 93-140</ref:referent>
+
+<ref:referent id="diaz-andreu2007">Díaz-Andreu, Margarita, <i>A World History of Nineteenth-Century Archaeology: Nationalism, Colonialism, and the Past</i>, Oxford University Press</ref:referent>
+
+<ref:referent id="djw1976">D. J. W. [Donald J. Wiseman], 1976. "Obituary: Dame Agatha Christie Mallowan, D.B.E., Hon.D.Litt., F.R.S.L.", <i>Iraq</i> 38, p. i (PDF available via <esp:link url="http://www.jstor.org/stable/4200019" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<!-- E -->
+<ref:referent id="egerton1997">Egerton, S., 1997. "Obituary: the Hon. Anna Plowden, CBE, 1938-1997", <i>Iraq</i> 59: v-vi  (PDF available via <esp:link url="http://www.jstor.org/stable/4200431" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="englund2003">Englund, K., 2003. <i>Nimrud und seine Funde: Der Weg der Reliefs in die Museen und Sammlungen</i> (Orient-Archäologie 12), Rahden: Verlag Marie Leidorf</ref:referent>
+
+<ref:referent id="eveningnews1964-06-09">"Friendship gets Bolton Museum £200 bargains", 1964. <i>Evening News</i>, Bolton, Lancashire, June 9</ref:referent>
+
+<!-- F -->
+
+<ref:referent id="fales1995">Fales, F. M., 1995. "Assyro-Aramaica: the Assyrian lion-weights", in K. Van Lerberghe and A. Schoors (eds.), <i>Immigration and Emigration within the Ancient Near East: Festschrift E. Lipiński</i> (Orientalia Lovaniensia Analecta 65), Leuven: Peeters, pp. 33-55 (<esp:link url="http://oracc.org/saao/aebp/downloads/fales_immigration1995.pdf" hide-print="yes" rel="external">free PDF from Assyrian Empire Builders</esp:link>, 1.1 MB)</ref:referent>
+
+<ref:referent id="fales2000">Fales, F.M., 2000. "The use and function of Aramaic tablets", in G. Bunnens (ed.), <i>Essays on Syria in the Iron Age</i>, Leuven: Peeters, pp. 89-124</ref:referent>
+
+<ref:referent id="fales2012">Fales, F.M., 2012. "The Eighth-Century Governors of Kalhu: A Reappraisal in Context", in H.D. Baker, K. Kaniuth and A. Otto (eds.), <i>Stories of Long Ago: Festschrift für Michael D. Roaf</i> (Alter Orient und Altes Testament 397), Münster: Ugarit Verlag, pp. 117-139</ref:referent>
+
+<ref:referent id="fales2012b">Fales, F.M., 2012. "After Ta'yinat: the new status of Esarhaddon's <i>adê</i> for Assyrian political history", <i>Revue d'Assyriologie</i> 106, pp. 133-158</ref:referent>
+
+<ref:referent id="feldman2014">Feldman, M.H., 2014. <i>Communities of Style: Portably Luxury Arts, Identity and Collective Memory in the Iron Age Levant</i>, Chicago: University of Chicago Press.</ref:referent>
+
+<ref:referent id="fincke2003-2004">Fincke, J.C., 2003/2004. "The Babylonian texts of Nineveh: report on the British Museum’s Assurbanipal Library Project", <i>Archiv für Orientforschung</i> 50, pp. 111-149 (<esp:link url="http://oracc.org/saao/knpp/downloads/fincke_afo50.pdf" hide-print="yes" rel="external">free PDF from Knowledge and Power</esp:link>, 5.5 MB)</ref:referent>
+
+<ref:referent id="fiorina2008">Fiorina, P., 2008. "Italian excavations at Nimrud-Kalhu: chronological and stratigraphical problems", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 53–56</ref:referent>
+
+<ref:referent id="fischer1998">Fischer, S., 1998. "Aššur-naṣir-apli II", in K. Radner (ed.), <i>Prosopography of the Neo-Assyrian Empire, Volume 1, Part I: A</i>, Helsinki: Helsinki University Press, pp. 205-207</ref:referent>
+
+<ref:referent id="fish1948">Fish, T., 1948. "The Zu bird", <i>Bulletin of the John Rylands Library</i> 31: 162-171. (Free PDF available via <esp:link url="https://www.escholar.manchester.ac.uk/uk-ac-man-scw:1m1970" hide-print="yes" rel="external">University of Manchester Library</esp:link>)</ref:referent>
+
+<ref:referent id="foster2005">Foster, B.R., 2005. <i>Before the Muses: An Anthology of Akkadian Literature</i>, Bethesda, MD: CDL Press</ref:referent>
+
+
+<ref:referent id="frahm2010">Frahm, E., 2010. "Counter-texts, commentaries, and adaptations: politically motivated responses to the Babylonian Epic of Creation in Mesopotamia, the Biblical world and elsewhere", <i>Orient</i> 45: 3–33</ref:referent>
+
+<ref:referent id="frahm2011">Frahm, E., 2011. "Keeping company with men of learning: the king as scholar", in K. Radner and E. Robson (eds.), <i>The Oxford Handbook of Cuneiform Culture</i>, Oxford: Oxford University Press, pp. 508-533</ref:referent>
+
+<ref:referent id="frame1991">Frame, G., 1991. “Assyrian clay hands”, <i>Baghdader Mitteilungen</i> 22, pp. 335–381, plates 43–47</ref:referent>
+
+<ref:referent id="fuchs1994">Fuchs, A., 1994. <i>Die Inschriften Sargons II. aus Khorsabad</i>, Göttingen: Cuvillier</ref:referent>
+
+<ref:referent id="fuhr-jaeppelt1972">Fuhr-Jaeppelt, I., 1972. <i>Materialien zur Ikonographie des Löwenadlers Anzu-Imdugud</i>. Munich</ref:referent>
+<!-- G -->
+
+<ref:referent id="gadd1936">Gadd, C.J., 1936. <i>The Stones of Assyria: the Surviving Remains of Assyrian Sculpture, their Recovery and their Original Positions</i>, London: Chatto and Windus</ref:referent>
+
+<ref:referent id ="gadd1938">Gadd, C.J., 1938. "A visiting artist at Nineveh in 1850", <i>Iraq</i> 5, pp. 118-122 and plates XI-XX (PDF available via <esp:link url="http://www.jstor.org/stable/4241628" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="geller1997">Geller, M.J., 1997. "The last wedge", <i>Zeitschrift für Assyriologie und Vorderasiatische Archäologie</i> 87, pp. 43-95</ref:referent>
+
+<ref:referent id ="george1986">George, A.R., 1986. "Sennacherib and the Tablet of Destinies", <i>Iraq</i> 48, pp. 133-146 (PDF available via <esp:link url="http://www.jstor.org/stable/4200258" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="george2012">George, D., 2012. "The treasures of Nimrud" (video lecture), online at <esp:link url="https://vimeo.com/44546841" rel="external" hide-print="yes">Vimeo</esp:link></ref:referent>
+
+<ref:referent id="giovino2007">Giovino, M., 2007. <i>The Assyrian Sacred Tree: a History of Interpretations</i> (Orbis Biblicus et Orientalis 230), Fribourg and Göttingen: Academic Press; Vanderhoeck &amp; Ruprecht</ref:referent>
+
+<ref:referent id="grayson1987">Grayson, A.K., 1987. <i>Assyrian Rulers of the Third and Second Millennia BC (to 1115 BC)</i> (Royal Inscriptions of Mesopotamia. Assyrian Periods. Volume 1), Toronto: University of Toronto Press</ref:referent>
+
+<ref:referent id="grayson1991">Grayson, A.K., 1991. <i>Assyrian Rulers of the Early First Millennium BC: I (1114-859 BC)</i> (Royal Inscriptions of Mesopotamia. Assyrian Periods. Volume 2), Toronto: University of Toronto Press</ref:referent>
+
+<ref:referent id="grayson1996">Grayson, A.K., 1996. <i>Assyrian Rulers of the Early First Millennium BC II (858-745 BC)</i> (Royal Inscriptions of Mesopotamia. Assyrian Periods. Volume 3), Toronto: University of Toronto Press</ref:referent>
+
+<ref:referent id="graysonnovotny2012">Grayson, A.K. and J. Novotny, 2012. <i>The Royal Inscriptions of Sennacherib, King of Assyria (704-681 BC), Part 1</i> (Royal Inscriptions of the Neo-Assyrian Period. Volume 3/1), Winona Lake: Eisenbrauns</ref:referent>
+
+<ref:referent id="graysonnovotny2014">Grayson, A.K. and J. Novotny, 2014. <i>The Royal Inscriptions of Sennacherib, King of Assyria (704-681 BC), Part 2</i> (Royal Inscriptions of the Neo-Assyrian Period. Volume 3/2), Winona Lake: Eisenbrauns</ref:referent>
+
+<ref:referent id="green1983">Green, A. 1983. "Neo-Assyrian apotropaic figures: figurines, rituals and monumental art, with special reference to the figurines from the excavations of the British School of Archaeology in Iraq at Nimrud", <i>Iraq</i> 45, pp. 87-96 (PDF available via <esp:link url="http://www.jstor.org/stable/4200182" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="green2008">Green, A.R., 2008. "Julius Weber (1838-1906) and the Swiss excavations at Nimrud in c.1860 together with records of other ninteenth-century antiquarian researches at the site", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 23–30</ref:referent>
+
+<ref:referent id="guha2015">Guha, S., 2015. "'Nineveh' in Bombay, circa 1840s: when the splendours of ancient Assyria enraptured the city", <esp:link url="http://scroll.in/article/768431/nineveh-in-bombay-circa-1840s-when-the-splendours-of-ancient-assyria-enraptured-the-city" hide-print="yes" rel="external"><i>Scroll.in</i></esp:link>, 13 December 2015</ref:referent>
+
+<ref:referent id="guinan2002">Guinan, A., 2002. "A severed head laughed: stories of divinatory interpretation", in L.J. Ciraolo and J. Seidel (eds.), <i>Magic and Divination in the Ancient World</i> (Ancient Magic and Divination, 2), Leiden: Brill-Styx, pp. 7-40</ref:referent>
+<!-- H -->
+
+<ref:referent id="habershon1909">Habershon, A.R., 1909. <i>The Bible and the British Museum</i>, London: Morgan &amp; Scott (free online edition at <esp:link url="http://archive.org/details/biblebritishmuse00habeiala" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="harperetal1995">Harper, P.O., E. Klengel-Brandt, J. Aruz and K. Benzel (eds.), 1995. <i> Assyrian Origins: Discoveries at Ashur on the Tigris. Antiquities in the Vorderasiatisches Museum, Berlin</i>, New York: Metropolitan Museum of Art. (Free PDF available via <esp:link rel="external" hide-print="yes" url="http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/42692">Metropotamian Museum of Art Publications</esp:link>)</ref:referent>
+
+<ref:referent id="harrisonosborne2012">Harrison, T.P. and J.F. Osborne, 2012. "Building XVI and the Neo-Assyrian sacred precinct at Tell Tayinat", <i>Journal of Cuneiform Studies</i> 64, pp. 125-143 (PDF available via <esp:link url="http://www.jstor.org/stable/10.5615/jcunestud.64.0125" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="hausleiter2008">Hausleiter, A., 2008. "Nimrud in the context of Neo-Assyrian pottery studies", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 65-72 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<!--NB "hermann" should be "herrmann" throughout--><ref:referent id="herrmann1986a">Herrmann, G., 1986. <i>Ivories from Room SW 37, Fort Shalmaneser, part 1</i> (Ivories from Nimrud IV/1), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" rel="external">free PDF from BISI</esp:link>, 76 MB)</ref:referent>
+
+<ref:referent id="herrmann1986b">Herrmann, G., 1986. <i>Ivories from Room SW 37, Fort Shalmaneser, part 2</i> (Ivories from Nimrud IV/2), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 81 MB)</ref:referent>
+
+<ref:referent id="herrmann1992">Herrmann, G., 1992. <i>The Small Collections from Fort Shalmaneser</i> (Ivories from Nimrud V), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/IN5_Herrmann_The_Small_Collections_from_Fort_Shalmaneser.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 70 MB)</ref:referent>
+
+<ref:referent id="herrmann2008">Herrmann, G., 2008. "The ivories from Nimrud",  J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 225-232 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent> 
+
+<ref:referent id="herrmannlaidlaw2009">Herrmann, G., S. Laidlaw, and H. Coffey, 2009. <i>Ivories from the North West Palace (1845–1992)</i> (Ivories from Nimrud VI). London: British School of Archaeology in Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN6_Hermann_et_al_Ivories_from_the_Northwest_Palace_4.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 35 MB)</ref:referent>
+
+<ref:referent id="herrmannlaidlaw2013">Herrmann, G. and S. Laidlaw, 2013. "Assyrian Nimrud and the Phoenicians", <i>Archaeology International</i> 16, pp. 84-95 (free PDF available via <esp:link url="http://www.ai-journal.com/article/view/ai.1611" hide-print="yes" rel="external">the publisher</esp:link>)</ref:referent>
+
+<ref:referent id="herrmannlaidlaw2013in7">Herrmann, G. and S. Laidlaw, 2013. <i>Ivories from Rooms SW11/12 and T10 Fort Shalmaneser, parts 1-2</i> (Ivories from Nimrud VII), London: British School of Archaeology in Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN7_1_Hermann_Laidlaw_Ivories_from_Rooms_SW11-12_and_T10.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 5.7 MB)</ref:referent>
+
+<ref:referent id="holloway2001">Holloway, S.W., 2001. “Biblical Assyria and other anxieties in the British Empire,” <i>Journal of Religion
+&amp; Society</i> 3: 1-19 (<esp:link url="http://moses.creighton.edu/jrs/2001/2001-12.pdf">free PDF from  JRS</esp:link>)</ref:referent>
+
+<ref:referent id="holloway2003">Holloway, S.W., 2003. “The quest for Sargon, Pul, and Tiglath-Pileser in the 19th century,” in M.W. Chavalas and K. Lawson Younger, Jr. (eds.), <i>Mesopotamia and the Bible: Comparative Explorations</i> (Journal for the Study of the Old Testament, Supplement Series, 341).  Sheffield: Sheffield Academic Press/ Grand Rapids: Baker Academic, pp. 68-87.</ref:referent>
+
+<ref:referent id="holloway2004">Holloway, S.W., 2004. “Nineveh sails for the New World: Assyria envisioned by nineteenth-century
+America,” <i>Iraq 66</i>: 243-56 (PDF available via <esp:link url="http://www.jstor.org/stable/4200578" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="holloway2007">Holloway, S.W. (ed.), 2007. <i>Orientalism, Assyriology and the Bible</i> (Hebrew
+Bible Monographs, 10), Sheffield: Sheffield Phoenix Press</ref:referent>
+
+
+<ref:referent id="horry2013">Horry, R. A., 2013. “Transitions and Transformations in Assyriology, <i>c</i>.1880-1913: Artefacts, Academics and Museums”, PhD dissertation, University of Cambridge</ref:referent>
+
+
+<ref:referent id="hruška1975">Hruška, B., 1975. <i>Der Mythenadler Anzu in Literatur und Vorstellung des alten Mesopotamien</i>, Budapest: Eötvös-Lorand University</ref:referent>
+<ref:referent id="hudson1981">Hudson, K., 1981. <i>A Social History of Archaeology: the British Experience</i>, London: Macmillan</ref:referent>
+
+<ref:referent id="hunger1968">Hunger, H., 1968. <i>Babylonische und assyrische Kolophone</i> (Alter Orient und Altes Testament 2), Kevelaer: Butzon &amp; Bercker; Neukirchen-Vluyn: Neukirchener Verlag</ref:referent>
+
+<ref:referent id="husseinblack1985-86">Hussein, M.M. and J.A. Black, 1985–86. "Recent work in the Nabu Temple, Nimrud", <i>Sumer</i> 44: 135–55</ref:referent>
+
+
+<!-- I -->
+<ref:referent id="iln1850-12-21"><i>The Illustrated London News</i>, 21 December 1850</ref:referent>
+<ref:referent id="iln1850-12-28"><i>The Illustrated London News</i>, 28 December 1850</ref:referent>
+<ref:referent id="iln1950-07-22"><i>The Illustrated London News</i>, 22 July 1950</ref:referent>
+<ref:referent id="iln1950-07-29"><i>The Illustrated London News</i>, 29 July 1950</ref:referent>
+<ref:referent id="iln1952-08-16"><i>The Illustrated London News</i>, 16 August 1952</ref:referent>
+<ref:referent id="iln1990-09-03">Cappori, M., "Striking gold: the Nimrud Treasure", <i>The Illustrated London News</i>, 3 September 1990</ref:referent>
+
+<!-- J -->
+<ref:referent id="jastrow1901">Jastrow, M., 1901. Review of R.W. Rogers, <i>A History of Assyria and Babylonia</i>, <i>The American Journal of Theology</i> 5: 763–6 (PDF available via <esp:link url="http://www.jstor.org/stable/3152705" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="jastrow1898">Jastrow, M., 1898. <i>The Religion of Babylonia and Assyria</i>, Boston: Ginn &amp; Company</ref:referent>
+
+<!-- K -->
+<ref:referent id="kalimirichardson2014">Kalimi, I. and S.F.C. Richardson (eds.), 2014. <i>Sennacherib at the Gates of Jerusalem: Story, History and Historiography</i>, Leiden: Brill</ref:referent>
+
+<ref:referent id="kertai2015">Kertai, D., 2015. <i>The Architecture of Late Assyrian Royal Palaces</i>, Oxford: Oxford University Press</ref:referent>
+
+<ref:referent id="kinnierwilson1972">Kinnier Wilson, J.V., 1972. <i>The Nimrud Wine Lists</i> (Cuneiform Texts from Nimrud 1), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN1_Kinnier_Wilson_The_Nimrud_Wine_Lists.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 113 MB)</ref:referent>
+
+<ref:referent id="kitchen1892">Kitchen, Rev. J.G., 1892. <i>The Bible Student in the British Museum. A Descriptive Guide to the Principal Antiquities which Illustrate and Confirm the Sacred Histories</i>, London</ref:referent>
+
+<ref:referent id="krall1899">Krall, J., 1898. <i>Grudriss der altorientalischen Geschichte, I: Bis auf Kyros</i>, Vienna: Alfred Hölder</ref:referent>
+
+<ref:referent id="kwasmanparpola1991">Kwasman, T. and S. Parpola, 1991. <i>Legal Transactions of the Royal Court of Nineveh, Part I: Tiglath-pileser III through Esarhaddon</i> (State Archives of Assyria VI), Helsinki: Helsinki University Press</ref:referent>
+
+<!-- L -->
+<ref:referent id="labat1965">Labat, R., 1965. <i>Un calendrier babylonien des travaux des signes et des mois (séries iqqur îpuš)</i> (Bibliothèque de l'École des Hautes Études 321), Paris: Librarie Honoré Champion</ref:referent>
+
+<ref:referent id="lambert1983">Lambert, W.G., 1983. "The god Aššur", <i>Iraq</i> 45: 82-86 (PDF available via <esp:link url="http://www.jstor.org/stable/4200181" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="lambert1999-2000">Lambert, W.G., 1999-2000. "Literary Texts from Nimrud", <i>Archiv für Orientforschung</i> 46-7: 149-155 (PDF available from <esp:link url="http://www.jstor.org/stable/41668446" hide-print="yes" rel="external"> JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="landsberger1961">Landsberger, B., 1961. "Einige unerkannt gebliebene oder verkannte Nomina des Akkadischen," <i>Wiener Zeitschrift für die Kunde des Morgenlandes</i> 57: 1-23</ref:referent>
+
+<ref:referent id="larsen1996">Larsen, M.T., 1996. <i>The Conquest of Assyria: Excavations in an Antique Land</i>, London: Routledge</ref:referent>
+
+<ref:referent id="larsen2009">Larsen, T., 2009. "Austen Henry Layard’s Nineveh: the Bible and archaeology in Victorian Britain’", <i>Journal of Religious History</i> 33: 66–81</ref:referent>
+  
+<ref:referent id="larson2009">Larson, F., 2009. <i>An Infinity of Things. How Sir Henry Wellcome Collected the World</i>, London, New York, Toronto: Oxford University Press</ref:referent>
+
+<ref:referent id="lauinger2012a">Lauinger, J., 2012. "Esarhaddon’s Succession Treaty at Tell Tayinat: Text and Commentary", <i>Journal of Cuneiform Studies</i> 64, pp. 87-123 (PDF available via <esp:link url="http://www.jstor.org/stable/10.5615/jcunestud.64.0087" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="lauinger2012b">Lauinger, J., 2012. "Some Preliminary Thoughts on the Tablet Collection in Building XVI from Tell Tayinat", <i>Journal of the Canadian Society for Mesopotamian Studies</i> 6, pp. 5-14</ref:referent>
+
+<ref:referent id="layard1849">Layard, A.H., 1849. <i>Nineveh and its Remains</i>, London: John Murray (<esp:link url="http://archive.org/details/ninevehanditsre19layagoog" hide-print="yes" rel="external">free online edition</esp:link> at The Internet Archive)</ref:referent>
+
+<ref:referent id="layard1849-53">Layard, A.H., 1849-1853. <i>The Monuments of Nineveh: From Drawings Made on the Spot, vols. I–II</i>, London: John Murray (free online edition of <esp:link url="http://echo.mpiwg-berlin.mpg.de/MPIWG:U9E1HPX8" hide-print="yes" rel="external">vol. 1</esp:link>  and <esp:link url="http://echo.mpiwg-berlin.mpg.de/MPIWG:B755VSM7" hide-print="yes" rel="external">vol. 2</esp:link>)</ref:referent>
+
+<ref:referent id="layard1853">Layard, A.H., 1853. <i>Discoveries in the Ruins of Nineveh and Babylon</i>, London: John Murray (<esp:link url="http://archive.org/details/discoveriesinru01layagoog" hide-print="yes" rel="external">free online edition</esp:link> via The Internet Archive)</ref:referent>
+
+<ref:referent id="leichty2011">Leichty, E., 2011. <i>The Royal Inscriptions of Esarhaddon, King of Assyria (680-669 BC)</i> (Royal Inscriptions of the Neo-Assyrian Period. Volume 4), Winona Lake: Eisenbrauns</ref:referent>
+
+<ref:referent id="lesko2004">Lesko, Barbara S. 2004. "Margaret Munn-Rankin", <i>Breaking Ground: Women in Old World Archaeology</i>, Providence, RI: Brown University <esp:link url="http://www.brown.edu/Research/Breaking_Ground/results.php?d=1&amp;first=Margaret&amp;last=Munn-Rankin" title="View Lesko 2004 article online" hide-print="yes" rel="external">online resource</esp:link>)</ref:referent>
+
+<ref:referent id="lieberman1990">Lieberman, S.J., 1990. "Canonical and official cuneiform texts: towards an understanding of Assurbanipal's personal tablet collection", in T. Abusch, J. Huehnergard and P. Steinkeller (eds.), <i>Lingering over Words: Studies in Ancient Near Eastern Literature in Honor of William L. Moran</i> (Harvard Semitic Studies 37), Atlanta: Scholars Press, pp. 305-336</ref:referent>
+
+<ref:referent id="lines1954">Lines, J., 1954. "Late Assyrian Pottery from Nimrud", <i>Iraq</i> 16, pp. 164–67 (PDF available via <esp:link url="http://www.jstor.org/stable/4199588" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="lindbergnumbers2003">Lindberg, D.C. and R.L. Numbers (eds.), 2003. <i>When Science and Christianity Meet</i>, Chicago: University of Chicago Press</ref:referent>
+
+<ref:referent id="livingstone2007">Livingstone, A., 2007. "Ashurbanipal: literate or not?", <i>Zeitschrift für Assyriologie</i> 97, pp. 98-118</ref:referent>
+
+<ref:referent id="loudaltman1938">Loud, G. and C.B. Altman, 1938. <i>Khorsabad, Part 2: The Citadel and the Town</i>, Chicago: The Oriental Institute of the University of Chicago</ref:referent>
+
+<ref:referent id="luukko2007">Luukko, M., 2007. "The administrative roles of the 'Chief Scribe' and the 'Palace Scribe' in the Neo-Assyrian period", <i>State Archives of Assyria Bulletin</i> 16, pp. 227-256 (<esp:link url="http://oracc.org/saao/aebp/downloads/luukko_saab16_2007.pdf" hide-print="yes" rel="external">free PDF from Assyrian Empire Builders</esp:link>, 252 KB)</ref:referent>
+
+<ref:referent id="lyon1896">Lyon, D.M., 1896. "A half century of Assyriology", <i>The Biblical World</i> 8: 124-142 (PDF available via <esp:link url="http://www.jstor.org/stable/3140263" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<!-- M -->
+
+<ref:referent id="maaaccessionreg1956-67">Accessions register volume 19 (1956-1967), Museum of Archaeology and Anthropology. Archives, Museum of Archaeology and Anthropology, University of Cambridge, Cambridge</ref:referent>
+
+<ref:referent id="maaannualreport1955-56">Annual report 1955-1956, Museum of Archaeology and Anthropology. Archives, Museum of Archaeology and Anthropology, University of Cambridge, Cambridge</ref:referent>
+
+<ref:referent id="maa-archives-br6-1-7">"Museum of Archaeology and Ethnology - Archaeology store list for Faculty of Oriental Studies". Spring-back file originally attached to archaeology store with list of items from Oriental Studies basement with Bay contents. Late 1970s. BR6/1/7, Archives, Museum of Archaeology and Anthropology, University of Cambridge, Cambridge</ref:referent>
+
+<ref:referent id="malley2012">Malley, S., 2012. <i>From Archaeology to Spectacle in Victorian Britain: the Case of Assyria</i>, Farnham: Ashgate</ref:referent>
+
+<ref:referent id="malley2012a">Malley, S., 2012. "Nineveh 1851: an archaeography", <i>Journal of Literature and Science</i> 5: 23–37</ref:referent>
+
+<ref:referent id="mallowan1950">Mallowan, M.E.L., 1950. "Excavations at Nimrud. 1949-1950", <i>Iraq</i> 12, pp. 147-183 (PDF available via <esp:link url="http://www.jstor.org/stable/4241708" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1952">Mallowan, M.E.L., 1952. "The Excavations at Nimrud (Kalḫu), 1952", <i>Iraq</i> 15, pp. 1-42 (PDF available via <esp:link url="http://www.jstor.org/stable/4199564" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1952b">Mallowan, M.E.L., 1952. "Ivories of unsurpassed magnificence - the finest and largest from the ancient Near East - discovered in this season's excavations at Nimrud", <i>Illustrated London News</i>, 16 August 1952, p. 254</ref:referent>
+
+<ref:referent id="mallowan1953">Mallowan, M.E.L., 1953. "The Excavations at Nimrud (Kalḫu), 1952", <i>Iraq</i> 15, pp. 1-42 (PDF available via <esp:link url="http://www.jstor.org/stable/4199564" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1954">Mallowan, M.E.L., 1954. "The Excavations at Nimrud (Kalḫu), 1953", <i>Iraq</i> 16, pp. 59-114 (PDF available via <esp:link url="http://www.jstor.org/stable/4199583" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1956">Mallowan, M.E.L., 1956. <i>Twenty-five years of Mesopotamian discovery, 1932-1956</i>, London: British School of Archaeology in Iraq</ref:referent>
+
+<ref:referent id="mallowan1956b">Mallowan, M.E.L., 1956. "The Excavations at Nimrud (Kalḫu), 1955", <i>Iraq</i> 18, pp. 1-21 (PDF available via <esp:link url="http://www.jstor.org/stable/4199594" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1958">Mallowan, M.E.L., 1958. "The Excavations at Nimrud (Kalḫu), 1957", <i>Iraq</i> 20, pp. 101-108 (PDF available via <esp:link url="http://www.jstor.org/stable/4199635" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1959">Mallowan, M.E.L., 1959. "The Excavations at Nimrud (Kalẖu), 1958", <i>Iraq</i> 21, pp. 93-97 (PDF available via <esp:link url="http://www.jstor.org/stable/4199654" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="mallowan1966">Mallowan, M.E.L., 1966. <i>Nimrud and Its Remains, vols. I-II</i>, London: Collins</ref:referent>
+
+<ref:referent id="mallowan1977">Mallowan, M.E.L. 1977. <i>Mallowan’s Memoirs</i>, London: Collins</ref:referent>
+
+<ref:referent id="mallowandavies1970">Mallowan,  M.E.L. and L.G. Davies, 1970. <i>Ivories in the Assyrian Style</i> (Ivories from Nimrud II), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud#node_id152" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 52 MB)</ref:referent>
+
+<ref:referent id="mallowanhermann1974">Mallowan,  M.E.L. and G. Herrmann, 1974. <i>Furniture from SW 7, Fort Shalmaneser</i> (Ivories from Nimrud III), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud#node_id92" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="marchant2006">Marchant, J., 2006. "'Exactly as it was'? H.R. Millar's expansons and subversions of the Psammead trilogy", in R.E. Jones (ed.), <i>E. Nesbit's Psammead Trilogy: A Children's Classic at 100</i>, Scarecrow Press, pp. 231-280</ref:referent>
+
+<ref:referent id="mattila2002">Mattila, R., 2002. <i>Legal Transactions of the Royal Court of Nineveh, Part II: Assurbanipal through Sin-šarru-iškun</i> (State Archives of Assyria XIV), Helsinki: Helsinki University Press</ref:referent>
+
+<ref:referent id="mayer1983">Mayer, W., 1983. "Sargons Feldzug gegen Urartu - 714 v.Chr. Text und Übersetzung", <i>Mitteilungen der Deutschen Orient-Gesellschaft</i> 115, pp. 65-132</ref:referent>
+
+<ref:referent id="mccall2001">McCall, H., 2001. <i>The Life of Max Mallowan: Archaeology and Agatha Christie</i>, London: British Museum Press</ref:referent>
+
+<ref:referent id="mccall2008">McCall, H., 2008. "Max Mallowan at Nimrud", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 65-72 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="mcgovernmcgovern1986">McGovern, F.H. and McGovern, J.N., 1986. "'BA' portrait: Paul-Émile Botta", <i>The Biblical Archaeologist</i> 49: 109–13.</ref:referent>
+
+<ref:referent id="meuszynski1976">Meuszyński, J., 1976. "Neo-Assyrian reliefs from the central area of Nimrud citadel", <i>Iraq</i> 38, pp. 37-44 (PDF available via <esp:link url="http://www.jstor.org/stable/4200023" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="meuszynski1981">Meuszyński, J., 1981. <i>Die Rekonstruktion der Reliefdarstellungen und ihrer Anordnung im Nordwestpalast von Kalḫu (Nimrūd), I: Räume: B.C.D.E.F.G.H.L.N.P.</i> (Baghdader Forschungen 2), Mainz am Rhein: von Zabern</ref:referent>
+
+<ref:referent id="michalowski2004">Michalowski, P., 2004. "Sumerian", in R.D. Woodard (ed.), <i>The Cambridge Encyclopedia of the World's Ancient Languages</i>, Cambridge: Cambridge University Press, pp. 19-59</ref:referent>
+
+<ref:referent id="miglus1984">Miglus, P., 1984."Another look at the 'Stelenreihen' in Assur", <i>Zeitschrift für Assyriologie</i> 74: 133–41</ref:referent>
+
+<ref:referent id="mierzejewski-sobolewski1980">Mierzejewski, A. and R. Sobolewski, 1980. "Polish excavations at Nimrud/Kalhu", <i>Sumer</i> 36, pp. 151-162</ref:referent>
+
+<ref:referent id="millard1962">Millard, A. R., 1962. "Alphabetic Inscriptions on Ivories from Nimrud", <i>Iraq</i> 24, pp. 41-51 (PDF available via <esp:link url="http://www.jstor.org/stable/4199711" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="millard1994">Millard, A.R., 1994. <i>The Eponyms of the Assyrian Empire 910-612 BC</i> (State Archives of Assyria Studies 2), Helsinki: Neo-Assyrian Text Corpus Project</ref:referent>
+
+<ref:referent id="millard2008">Millard, A., 2008. "Aramaic at Nimrud", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: British Institute for the Study of Iraq, pp. 267-270 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="mitchell1988">Mitchell, T.C., 1988. <i>The Bible in the British Museum: Interpreting the Evidence</i>, London: British Museum Publications</ref:referent>
+
+<ref:referent id="moran1992">Moran, W.L., 1991. <i>The Amarna Letters</i>, London: The Johns Hopkins University Press</ref:referent>
+
+<!-- N -->
+<ref:referent id="naveh1979-80">Naveh, J., 1979-1980. "The Ostracon from Nimrud: an Ammonite name-list", <i>Maarav</i> 2, pp. 163-171</ref:referent>
+
+<ref:referent id="nesbit1906">Nesbit, E., 1906. <i>The Story of the Amulet</i>, London: T. Fisher Unwin</ref:referent>
+
+<ref:referent id="novotnysingletary2009">Novotny, J. and J. Singletary, 2009. "Family ties: Assurbanipal's family revisited", in M. Luukko, S. Svärd and R. Mattila (eds.), <i>Of God(s), Trees, Kings, and Scholars. Neo-Assyrian and Related Studies in Honour of Simo Parpola</i> (Studia Orientalia 106), Helsinki: Finnish Oriental Society, pp. 167-177 (<esp:link url="http://oracc.org/saao/knpp/downloads/novotny_singletary_fsparpola.pdf" hide-print="yes" rel="external">free PDF from Knowledge and Power</esp:link>, 1.3 MB)</ref:referent>
+
+<!-- O -->
+<ref:referent id="oates1957">Oates, D., 1957. "Ezida: The Temple of Nabu", <i>Iraq</i> 19, pp. 26 (PDF available via <esp:link url="http://www.jstor.org/stable/4199614" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="oates1962">Oates, D., 1962. "The Excavations at Nimrud (Kalḫu), 1961", <i>Iraq</i> 24, pp. 1-25 (PDF available via <esp:link url="http://www.jstor.org/stable/4199709" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="oates2001">Oates, J., 2001. "Agatha Christie, Nimrud and Baghdad", in C. Trümpler (ed.), <i>Agatha Christie and Archaeology</i>, London: British Museum Press (English edition), pp. 205–228</ref:referent>
+
+<ref:referent id="oatesoates2001">Oates, D. and J. Oates, 2001. <i>Nimrud, An Assyrian Imperial City Revealed</i>, London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/other-publications#node_id285" hide-print="yes" rel="external"> free PDF from BISI</esp:link>, 128 MB)</ref:referent>
+
+<ref:referent id="oppenheim1960">Oppenheim, A.L., 1960. "The City of Assur in 714 B.C.", <i>Journal of Near Eastern Studies</i> 19, pp. 133-147 (PDF available via <esp:link url="http://www.jstor.org/stable/543904" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="orchard1967">Orchard, J.J., 1967. <i>Equestrian Bridle-Harness Ornaments: Catalogue &amp; Plates</i> (Ivories from Nimrud, I/2), London: British School of Archaeology in Iraq. (<esp:link url="http://bisi.ac.uk/content/other-publications#node_id91" hide-print="yes" rel="external"> free PDF from BISI</esp:link>, 18.1 MB).</ref:referent>
+
+<!-- P -->
+<ref:referent id="paley2008">Paley, S.M., 2008. "Creating a virtual reality model of the North-West Palace", in  J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 195-208</ref:referent>
+
+<ref:referent id="paley-sobolewski1987">Paley, S.M. and R.P. Sobolewski, 1987. <i>The reconstruction of the relief representations and their positions in the Northwest-Palace at Kalḫu (Nimrūd), II: Rooms I, S, T, Z, West wing</i> (Baghdader Forschungen 10), Mainz am Rhein: von Zabern</ref:referent>
+
+<ref:referent id="paley-sobolewski1992">Paley, S.M. and R.P. Sobolewski, 1992. <i>The reconstruction of the relief representations and their positions in the Northwest-Palace at Kalḫu (Nimrūd), III: the principal entrances and courtyards</i> (Baghdader Forschungen 14), Mainz am Rhein: von Zabern</ref:referent>
+
+<ref:referent id="parker1954">Parker, B., 1954. "The Nimrud tablets, 1952: business documents", <i>Iraq</i> 16, pp. 29-58 (PDF available via <esp:link url="http://www.jstor.org/stable/4199582" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="parker1955">Parker, B., 1955. "Excavations at Nimrud, 1949-53: seals and seal impressions", <i>Iraq</i> 17, pp. 93-125 (PDF available via <esp:link url="http://www.jstor.org/stable/4241722" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="parker1957">Parker, B. 1957. "Nimrud tablets, 1956: economic and legal texts from the Nabu Temple", <i>Iraq</i> 19, pp. 125-138 (PDF available via <esp:link url="http://www.jstor.org/stable/4199624" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="parker1961">Parker, B. "Administrative tablets from the North-West Palace, Nimrud", <i>Iraq</i> 23 (1961): 15-67 (PDF available via <esp:link url="http://www.jstor.org/stable/4199695" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers).</ref:referent>
+<ref:referent id="parker1962">Parker, B. "Seals and seal impressions from the Nimrud excavations, 1955-58", <i>Iraq</i> 24 (1962): 26-40 (PDF available via <esp:link url="http://www.jstor.org/stable/4199710" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="parkermallowan1986">Parker, B., 1986. "Preface", in G. Herrmann, <i>Ivories from Room SW 37, Fort Shalmaneser, part 1</i> (Ivories from Nimrud IV/1), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/IN4-1_Herrmann_Ivories_from_Room_SW37_Fort_Shalmaneser.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 76.3 MB)</ref:referent>
+
+<ref:referent id="parpola1983">Parpola, S., 1983. "Assyrian library records", <i>Journal of Near Eastern Studies</i> 42, pp. 1–29 (PDF available via <esp:link url="http://www.jstor.org/stable/544744" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="parpola2004">Parpola, S., 2004. "National and ethnic identity in the Neo-Assyrian empire and Assyrian identity in post-empire times”, <i>Journal of Assyrian Academic Studies</i> 18/2, 5-49</ref:referent>
+
+<ref:referent id="parpolawatanabe1988">Parpola, S. and K. Watanabe, 1988. <i>Neo-Assyrian Treaties and Loyalty Oaths</i> (State Archives of Assyria 2), Helsinki: Helsinki University Press</ref:referent>
+
+<ref:referent id="peltenburg1991">Peltenburg, E., 1991. <i>The Burrell Collection: Western Asiatic Antiquities</i>, Edinburgh: Edinburgh University Press for the Burrell Collection, Glasgow Museums</ref:referent>
+
+<ref:referent id="pomponio1978">Pomponio, F., 1978. <i>Nabû: il culto e la figura di un dio del pantheon babilonese ed assiro</i> (Studi Semitici 51), Rome: Istituto di Studi del Vicino Oriente del'Università di Roma</ref:referent>
+
+<ref:referent id="pomponio1998-2001">Pomponio, F., 1998-2001. "Nabû (A). Philologisch", in D.O. Edzard (ed.), <i>Reallexikon der Assyriologie und Vordersasiatischen Archäeologie</i> 9, Berlin: Walter de Gruyter, pp. 16-24</ref:referent>
+
+<ref:referent id="postgate1973">Postgate, J.N., 1973. <i>The Governor's Palace Archive</i> (Cuneiform Texts from Nimrud 2), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN2_Postgate_The_Governors_Palace_Archive.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 175 MB)</ref:referent>
+
+<ref:referent id="postgate1974">Postgate, J.N., 1974. "The <i>bīt akīti</i> in Neo-Assyrian Nabu temples", <i>Sumer</i> 30, pp. 51-74</ref:referent>
+
+<ref:referent id="postgate1976">Postgate, J.N., 1976. <i>Fifty Neo-Assyrian Legal Documents</i>, London: Aris &amp; Phillips Ltd</ref:referent>
+
+<ref:referent id="postgate1983-1984">Postgate, J. N., 1983-1984. "Margaret Munn-Rankin (29 July 1913-28 July 1981)", <i>Archiv für Orientforschung</i> 29/30, p. 333</ref:referent>
+
+<ref:referent id="postgatereade1976-1980">Postgate, J.N. and J.E. Reade, 1976-1980. "Kalhu", <i>Reallexikon der Assyriologie und Vorderasiatischen Archäologie</i> 5, Berlin: Walter de Gruyter, pp. 303-323</ref:referent>
+
+<ref:referent id="price1901">Price, I.M., 1901. Review of R.W. Rogers, <i>A History of Babylonia and Assyria</i>, <i>The Biblical World</i> 17: 387–90 (PDF available via <esp:link url="http://www.jstor.org/stable/3136914" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+<!-- R -->
+
+<ref:referent id="radner1995">Radner, K., 1995. "Format and content in Neo-Assyrian texts", in R. Mattila (ed.), <i>Nineveh, 612 BC: The Glory and Fall of the Assyrian Empire. Catalogue of the 10th Anniversary Exhibition of the Neo-Assyrian Text Corpus Project</i>, Helsinki: Helsinki University Press, pp. 63-78 (<esp:link url="http://oracc.org/saao/knpp/downloads/radner_nineveh612.pdf" hide-print="yes" rel="external">free PDF from Knowledge and Power</esp:link>, 3.1 MB)</ref:referent>
+
+<ref:referent id="radner2003">Radner, K., 2003. "Neo-Assyrian period", in R. Westbrook (ed.), <i>A History of Ancient Near Eastern Law</i> (Handbuch der Orientalistik 72), Leiden: Brill, pp. 883-910 (<esp:link url="/nimrud/downloads/radner_2003_HdO72.pdf" rel="external" hide-print="yes">free PDF</esp:link>, 5.2 MB)</ref:referent>
+
+<ref:referent id="radner2009">Radner, K., 2009. "The Assyrian king and his scholars: the Syro-Anatolian and the Egyptian schools", in M. Luukko, S. Svärd and R. Mattila (eds.), <i>Of God(s), Trees, Kings, and Scholars: Neo-Assyrian and Related Studies in Honour of Simo Parpola</i> (Studia Orientalia 106), Helsinki: Finnish Oriental Society, pp. 221-238 (<esp:link url="http://oracc.org/saao/aebp/downloads/radner_fs_parpola_2009.pdf" hide-print="yes" rel="external">free PDF from Assyrian Empire Builders</esp:link>, 2.1 MB)</ref:referent>
+
+<ref:referent id="radner2012">Radner, K., 2012. "After Eltekeh: royal hostages from Egypt at the Assyrian court", in H.D. Baker, K. Kaniuth and A. Otto (eds.), <i>Stories of Long Ago: Festschrift für Michael D. Roaf</i> (Alter Orient und Altes Testament 397), Münster: Ugarit Verlag, pp. 471-479 (<esp:link url="http://oracc.org/saao/aebp/downloads/radner_fs_roaf_2012.pdf" hide-print="yes" rel="external">free PDF from Assyrian Empire Builders</esp:link>, 648 KB)</ref:referent>
+
+<ref:referent id="radner2014">Radner, K., 2104. "A godforsaken country: Assyria after 614 BC", <esp:link url="http://www.ucl.ac.uk/ah/inaugural-lectures-2013-14/inaugural-lecture-karen-radner" rel="external" hide-print="yes">inaugural lecture</esp:link> at University College London, 4 March 2014</ref:referent>
+
+<ref:referent id="rawlinson1850">Rawlinson, H.C.R., 1850. "On the inscriptions of Assyria and Babylonia", <i>Journal of the Royal Asiatic Society</i> 12, pp. 401-483 (PDF available via <esp:link url="http://www.jstor.org/stable/25228628" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="reade1982">Reade, J.E., 1982. "Nimrud", in J.E. Curtis (ed.), <i>Fifty Years of Mesopotamian Discovery: The Work of the British School of Archaeology in Iraq, 1932-1982</i>, London: British School of Archaeology in Iraq, pp. 99-112 (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/Curtis_Fifty_Years_of_Mesopotamian_Discovery.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 131 MB)</ref:referent>
+
+<ref:referent id="reade1983">Reade, J.E., 1983. <i>Assyrian Sculpture</i>, London: British Museum Publications</ref:referent>
+
+<ref:referent id="reade1998">Reade, J.E., 1998. <i>Assyrian Sculpture</i>, London: British Museum Publications (2nd edition)</ref:referent>
+
+<ref:referent id="reade2002">Reade, J.E., 2002. "The ziggurrat and temples of Nimrud", <i>Iraq</i> 64, pp. 135-216 (PDF available via <esp:link url="http://www.jstor.org/stable/4200523" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="reade2004">Reade, J.E., 2004, "The Assyrians as collectors: from accumulation to synthesis", in G. Frame (ed.), <i>From the Upper Sea to the Lower Sea: Studies on the History of Assyria and Babylonia in Honour of A.K. Grayson</i> (PIHANS 101). Leiden: Nederlands Instituut voor het Nabiije Oosten, pp. 255–268.</ref:referent>
+
+<ref:referent id="reade2008">Reade, J.E., 2008, "Nineteenth-century Nimrud: motivation, orientation, conservation", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB), pp. 1–22</ref:referent>
+
+<ref:referent id="reade2011">Reade, J.E., 2011. "The evolution of Assyrian imperial architecture: political implications and uncertainties", <i>Mesopotamia</i> 46, pp. 109-125 (<esp:link url="http://oracc.org/saao/aebp/downloads/reade_mesopotamia_46_2011.pdf" hide-print="yes" rel="external">free PDF from Assyrian Empire Builders</esp:link>, 5.2 MB)</ref:referent>
+
+<ref:referent id="reade2013">Reade, J.E., 2013. "Appendix Twelve: The 1962-3 excavations at Nimrud: archaeological procedures and problems", in Herrmann, G. and S. Laidlaw, 2013. <i>Ivories from Rooms SW11/12 and T10 Fort Shalmaneser, parts 1-2</i> (Ivories from Nimrud VII), London: British School of Archaeology in Iraq, pp. 346-359 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN7_1_Hermann_Laidlaw_Ivories_from_Rooms_SW11-12_and_T10.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 5.7 MB)</ref:referent>
+
+<ref:referent id="renouf1886">Renouf, P. Le Page, 1886. <i>Assyrian Antiquities: Guide to the Nimroud Central Saloon</i>, London: printed by order of the Trustees (free online edition at <esp:link url="http://archive.org/details/guidetonimroudce00brituoft" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="roaf2008">Roaf, M., 2008. "The décor of the throne room of the palace of Ashurnasirpal", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq in association with the British Museum, pp. 209-214 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="robson2011">Robson, E., 2011. "The production and dissemination of scholarly knowledge", in K. Radner and E. Robson (eds.), <i>The Oxford Handbook of Cuneiform Culture</i>, Oxford: Oxford University Press, 557–76</ref:referent>
+
+<ref:referent id="robson2013a">Robson, E., 2013. "Reading the libraries of Assyria and Babylonia", in J. König, K. Oikonomopoulos, and G. Woolf (eds.), <i>Ancient Libraries</i>. Cambridge: Cambridge University Press, 38–56</ref:referent>
+
+<ref:referent id="robson2013">Robson, E., 2013. "Bel and the dragons: deciphering cuneiform after decipherment", in M. Brusius, K. Dean and C. Ramalingam (eds.), <i>William Henry Fox Talbot: Beyond Photography</i>, New Haven: Yale University Press, pp. 193-218</ref:referent>
+
+<ref:referent id="robson2014">Robson, E., 2014. "Tracing networks of cuneiform scholarship with Oracc, GKAB and Google Earth", in M. Rutz and M. Kersel (eds.), <i>Archaeologies of Text: Archaeology, Technology and Ethics</i> (Joukowsky Institute Publications, 4), Oxford: Oxbow Books, 142–63</ref:referent>
+
+<ref:referent id="robson2015">Robson, E., "Modern war, ancient casualties", <i>The Times Literary Supplement</i>, 25 March 2015. <esp:link url="http://www.the-tls.co.uk/tls/public/article1535646.ece" rel="external" hide-print="yes">Read online</esp:link></ref:referent>
+
+<ref:referent id="rogers1900">Rogers, Rev. R.W., 1900. <i>A History of Assyria and Babylonia</i>, 2 vols., New York: Eeaton &amp; Mains (free online edition at <esp:link url="http://archive.org/details/historyofbabylon01rogeuoft" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="rowley-conwy2007">Rowley-Conwy, P., 2007. <i>From Genesis to Prehistory: the Archaeological Three Age System and its Contested Reception in Denmark, Britain, and Ireland</i>, Cambridge: Cambridge University Press</ref:referent>
+
+<ref:referent id="russell1997">Russell, J.M., 1997. "The modern sack of Nineveh and Nimrud", <i>Culture without Context (Newsletter of the Illicit Antiquities Research Centre)</i> 1. <esp:link url="http://www2.mcdonald.cam.ac.uk/projects/iarc/culturewithoutcontext/issue1/russell.htm" hide-print="yes" rel="external">Read online</esp:link></ref:referent>
+
+<ref:referent id="russell1999">Russell, J.M., 1999. <i>The Writing on the Wall: Studies in the Architectural Context of Late Assyrian Palace Inscriptions</i>, Winona Lake: Eisenbrauns</ref:referent>
+
+<ref:referent id="russell2003-05">Russell, J.M., 2003-2005. "Obelisk", in D.O. Edzard and M.P. Streck (eds.), <i>Reallexikon der Assyriologie</i> 10, Berlin: Walter de Gruyter, pp. 4-6</ref:referent>
+
+<ref:referent id="russell2008">Russell, J.M., 2008. "Thoughts on room function in the North-West Palace", in J.E. Curtis, J. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i>, London: British Institute for the Study of Iraq in association with the British Museum, pp. 181-193 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+<!-- S -->
+<ref:referent id="safaraliraqi1987">Safar, F., and M. al-Iraqi, 1987. <i>Ivories from Nimrud</i>, Baghdad.</ref:referent>
+
+<ref:referent id="saggs2001">Saggs, H.W.F., 2001. <i>The Nimrud Letters, 1952</i> (Cuneiform Texts from Nimrud 5), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN5_Saggs_Nimrud_Letters.pdf" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 156 MB)</ref:referent>
+
+<ref:referent id="sayce1900">Sayce, A.H., 1900. <i>Babylonians and Assyrians: Life and Custom</i>, London: J.C. Nimmo</ref:referent>
+<ref:referent id="segal1957">Segal, J.B., 1957. "An Aramaic ostracon from Nimrud", <i>Iraq</i> 19, pp. 139-145 (PDF available via <esp:link url="http://www.jstor.org/stable/4199625" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="shafer2007">Shafer, A., 2007. "Assyrian Royal Monuments on the Periphery: Ritual and the Making of Imperial Space", in M.H. Feldman and J. Cheng (eds.), <i>Ancient Near Eastern Art in Context: Studies in Honor of Irene J. Winter</i>, Leiden: Brill, pp. 133-159</ref:referent>
+
+<ref:referent id="smith1875">Smith, G., 1875. <i>Assyrian Discoveries: an Account of Explorations and Discoveries on the Site of Ninevah, during 1873-74</i>, London: Sampson Low, Marston, Low and Searle (free online edition at <esp:link url="http://archive.org/details/assyriandiscove00smitgoog" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="smith1876">Smith, G., 1876. <i>The Chaldean Account of Genesis<!--: Containing the Description of the Creation, the Fall of Man, the Deluge, the Tower of Babel, the Times of the Patriarchs, and Nimrod; Babylonian Fables, and Legends of the Gods; from the Cuneiform Inscriptions--></i>, London: Low, Marston, Searle and Rivington (free online edition at <esp:link url="https://archive.org/details/chaldeanaccounto00smit" hide-print="yes" rel="external">The Internet Archive</esp:link>)</ref:referent>
+
+<ref:referent id="sobolewski1981">Sobolewski, R., 1981. "The Polish work at Nimrud: ten years of excavation and study", <i>Zeitschrift für Assyriologie und Vorderasiatische Archäeologie</i> 71: 248–273</ref:referent>
+
+<ref:referent id="streck1998-2001">Streck, M.P., 1998-2001. "Ninurta/Ningirsu. A. I. In Mesopotamien", in D.O. Edzard and M.P. Streck (eds.), <i>Reallexikon der Assyriologie</i> 9, Berlin: Walter de Gruyter, pp. 512-522</ref:referent>
+
+<!-- T -->
+
+<ref:referent id="tadmor1991">Tadmor, H., 1991. "On the role of Aramaic in the Assyrian empire", in M. Mori, H. Ogawa and M. Yoshikawa (eds.), <i>Near Eastern Studies Dedicated to H.I.H. Prince Takahito Mikasa on the Occasion of his Seventy-Fifth Birthday</i>, Wiesbaden: Harrassowitz, pp. 419-426</ref:referent>
+
+<ref:referent id="tadmor1997">Tadmor, H., 1997. "Propaganda, Literature, Historiography: Cracking the Code of the Assyrian Royal Inscriptions", in S. Parpola and R.M. Whiting (eds.), <i>Assyria 1995: Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project, Helsinki, September 7-11, 1995</i>, Helsinki: The Neo-Assyrian Text Corpus Project, pp. 325-338</ref:referent>
+
+<ref:referent id="tadmoryamada2011">Tadmor, H. and S. Yamada, 2011. <i>The Royal Inscriptions of Tiglath-pileser III (744-727 BC) and Shalmaneser V (726-722 BC), Kings of Assyria</i> (Royal Inscriptions of the Neo-Assyrian Period. Volume 1), Winona Lake: Eisenbrauns</ref:referent>
+
+<ref:referent id="talbot1876">Talbot, W.H.F, 1876. "The fight between Bel and the Dragon, and the flaming sword which turned every which way", <i>Transactions of the Society of Biblical Archaeology</i> 5: 1-21</ref:referent>
+
+<ref:referent id="taylor2011">Taylor, J., 2011. "Tablets as artefacts, scribes as artisans", in K. Radner and E. Robson (eds.), <i>Oxford Handbook of Cuneiform Culture</i>, Oxford: Oxford University Press, pp. 5–31</ref:referent>
+
+<ref:referent id="thureaudangin1912">Thureau-Dangin, F., 1912. <i>Une relation de la huitième campagne de Sargon (714 av. J.-C.)</i> (Textes cunéiformes du Louvre 3), Paris: Geuthner (<esp:link url="https://archive.org/details/unerelationdelah00thuruoft" hide-print="yes" rel="external">free online edition</esp:link> at The Internet Archive)</ref:referent>
+
+<ref:referent id="toorn-horst1990">Toorn, K. van der and P.W. van der Horst, 1990. "Nimrod before and after the Bible", <i>The Harvard Theological Review</i> 83, pp. 1-29 (PDF available via <esp:link url="http://www.jstor.org/stable/1509930" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="trumpler2001a">Trümpler, C. (ed.), 2001. <i>Agatha Christie and Archaeology</i>, London: British Museum Press (English edition)</ref:referent>
+
+<ref:referent id="trumpler2001b">Trümpler, C., 2001. "‘A dark room has been allotted to me...’: photography and filming by Agatha Christie on the excavation sites", in C. Trümpler (ed.), <i>Agatha Christie and Archaeology</i>, London: British Museum Press (English edition), pp. 229-257</ref:referent>
+
+
+<ref:referent id="trumpler2008">Trümpler, C., 2008. "Agatha Christie and archaeology", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, London: The British Institute for the Study of Iraq in association with the British Museum, pp. 73-80 (<esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external">free PDF from  BISI</esp:link>, 22 MB)</ref:referent>
+
+<ref:referent id="tyler1859">Tyler, W. S., 1859. <i>Memoir of Rev. Henry Lobdell, M.D. Late Missionary of the American Board at Mosul: Including the Early History of the Assyrian Mission</i>, Boston: The American Tract Society. (<esp:link url="https://archive.org/details/memoirofrevhenry00tyle" hide-print="yes" rel="external">free online edition</esp:link> at The Internet Archive)</ref:referent>
+
+<!-- V -->
+
+<ref:referent id="vandriel1969">Driel, G. van, 1969. <i>The Cult of Aššur</i> (Studia Semitica Neerlandica 13), Assen: Van Gorum</ref:referent>
+
+<!-- W -->
+
+<ref:referent id="watanabe1987">Watanabe, K., 1987. <i>Die adê-Vereidigung anläßlich der Thronfolgeregelung Asarhaddons</i> (Baghdader Mitteilungen Beiheft 3), Berlin: Gebr. Mann</ref:referent> 
+
+<ref:referent id="waterfield1963">Waterfield, G., 1963. <i>Layard of Nineveh</i>, London: John Murray</ref:referent>
+
+<ref:referent id="westenholz2007">Westenholz, A., 2007. "The Graeco-Babyloniaca Once Again", <i>Zeitschrift für Assyriologie und Vorderasiatische Archäologie</i> 97, pp. 262-313</ref:referent>
+
+
+<ref:referent id="wf-m-pb-003-23"><i>Wellcome’s Medical Diary and Visiting List</i> (1910). London: Burroughs Wellcome &amp; Co., <esp:link url="http://search.wellcomelibrary.org/iii/encore/record/C__Rb1863006?lang=eng" rel="external" hide-print="yes">WF/M/PB/003/23</esp:link>, Wellcome Foundation Archives, Wellcome Library, London</ref:referent>
+
+<ref:referent id="wf-m-pb-003-24"><i>Wellcome’s Medical Diary and Visiting List</i> (1911). London: Burroughs Wellcome &amp; Co., <esp:link url="http://search.wellcomelibrary.org/iii/encore/record/C__Rb1854133?lang=eng" rel="external" hide-print="yes">WF/M/PB/003/24</esp:link>, Wellcome Foundation Archives, Wellcome Library, London</ref:referent>
+
+<ref:referent id="wf-m-pb-003-28"><i>Wellcome’s Medical Diary and Visiting List</i> (1915). London: Burroughs Wellcome &amp; Co., <esp:link url="http://search.wellcomelibrary.org/iii/encore/record/C__Rb1951266?lang=eng" rel="external" hide-print="yes">WF/M/PB/003/28</esp:link>, Wellcome Foundation Archives, Wellcome Library, London</ref:referent>
+
+<ref:referent id="wiggermann1992">Wiggermann, F.A.M., 1992. <i>Mesopotamian protective spirits: the ritual texts</i>, Groningen: Styx</ref:referent>
+
+<ref:referent id="wiggermann2011">Wiggermann, F.A.M., 2011. "Agriculture as civilization: sages, farmers, and barbarians", in K. Radner and E. Robson (eds.), <i>The Oxford Handbook of Cuneiform Culture</i>, Oxford: Oxford University Press, pp. 663-689</ref:referent>
+
+<ref:referent id="wiseman1952">Wiseman, D.J. 1952. "A new stela of Aššur-naṣir-pal II", <i>Iraq</i> 14, pp. 24-44 (PDF available via <esp:link url="http://www.jstor.org/stable/4199549" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="wiseman1953">Wiseman, D.J. 1953. "The Nimrud tablets, 1953", <i>Iraq</i> 15, pp. 135-160 (PDF available via <esp:link url="http://www.jstor.org/stable/4199573" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="wiseman1955">Wiseman, D. J., 1955. "Assyrian writing-boards", <i>Iraq</i> 17, pp. 3-13 (PDF available via <esp:link url="http://www.jstor.org/stable/4241713" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="wiseman1958">Wiseman, D. J., 1958. "The vassal-treaties of Esarhaddon", <i>Iraq</i> 20, pp. 1–99 and plates (PDF available via <esp:link url="http://www.jstor.org/stable/4199630" hide-print="yes" rel="external">JSTOR</esp:link> for subscribers)</ref:referent>
+
+<ref:referent id="wisemanblack1996">Wiseman, D. and J.A. Black, 1996. <i>Literary texts from the temple of Nabû</i> (Cuneiform Texts from Nimrud 4), London: British School of Archaeology in Iraq (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud#node_id287" hide-print="yes" rel="external">free PDF from BISI</esp:link>)</ref:referent>
+
+<!-- Y -->
+<ref:referent id="yamada2000">Yamada, S., 2000. <i>The Construction of the Assyrian Empire: A Historical Study of the Inscriptions of Shalmaneser III (859-824 BC) Relating to His Campaigns in the West</i>, Leiden: Brill</ref:referent>
+
+<ref:referent id="youkhanna2008">Youkhanna, D. G., 2008. "Precision craftsmanship of the Nimrud gold material", in J.E. Curtis, H. McCall, D. Collon and L. al-Gailani Werr (eds.), <i>New Light on Nimrud: Proceedings of the Nimrud Conference 11th-13th March 2002</i>, pp. 103-104 (<esp:link url="http://bisi.ac.uk/content/other-publications#node_id278" hide-print="yes" rel="external">free PDF from BISI</esp:link>, 22 MB)</ref:referent>
+
+</ref:referents>

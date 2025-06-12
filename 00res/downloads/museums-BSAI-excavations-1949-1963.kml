@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Museums with Nimrud material from BSAI excavations, 1949-1963</name>
+  <description><![CDATA[Museums worldwide that hold archaeological material from the ancient Assyrian city of Kalhu (modern Nimrud), which was excavated by the British School of Archaeology in Iraq, 1949-1963.
+
+Museums are listed alphabetically by country.
+
+Map created using data courtesy of Christopher Walker
+and individual museums' documentation.
+
+Created by Ruth Horry in January 2014 as part of the Nimrud Project: http://oracc.org/nimrud
+funded by the UK Arts and Humanities Research Council.]]></description>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/target_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/paddle/pink-blank_maps.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Calah-Kalhu (Nimrud, Iraq)</name>
+    <description><![CDATA[<div dir="ltr">Nimrud, Iraq.<br>The archaeological site of the ancient Assyrian royal city of Kalhu. This ancient city was situated between Assur and Nineveh on the Tigris river. Kalhu's Biblical name was Calah.</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>43.328831,36.098297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Archaeological Institute of Australia, La Trobe University</name>
+    <Snippet>Bundoora, Victoria, Australia</Snippet>
+    <description><![CDATA[Bundoora, Victoria, Australia]]></description>
+    <LookAt>
+      <longitude>145.057205</longitude>
+      <latitude>-37.720898</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.008039</heading>
+      <tilt>24.302299</tilt>
+      <range>610.232727</range>
+    </LookAt>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>145.057495,-37.721478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ian Potter Museum of Art, University of Melbourne</name>
+    <Snippet>Melbourne, Australia</Snippet>
+    <description><![CDATA[Melbourne, Australia]]></description>
+    <LookAt>
+      <longitude>144.964310</longitude>
+      <latitude>-37.797531</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>29.968191</tilt>
+      <range>262.194611</range>
+    </LookAt>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>144.964310,-37.797531,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nicholson Museum, University of Sydney</name>
+    <Snippet>Sydney, Australia</Snippet>
+    <description><![CDATA[Sydney, Australia]]></description>
+    <LookAt>
+      <longitude>151.188766</longitude>
+      <latitude>-33.886417</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000005</heading>
+      <tilt>20.730404</tilt>
+      <range>335.739410</range>
+    </LookAt>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>151.188766,-33.886417,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Musée du Cinquantenaire, Musées royaux d&#39;Art et d&#39;Histoire</name>
+    <Snippet>Brussels, Belgium</Snippet>
+    <description><![CDATA[Brussels, Belgium]]></description>
+    <LookAt>
+      <longitude>4.391718</longitude>
+      <latitude>50.839352</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000061</range>
+    </LookAt>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>4.391783,50.839264,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Royal Ontario Museum</name>
+    <Snippet>Toronto, Ontario, Canada</Snippet>
+    <description><![CDATA[Toronto, Ontario, Canada]]></description>
+    <LookAt>
+      <longitude>-79.394508</longitude>
+      <latitude>43.667789</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>2715.860352</range>
+    </LookAt>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-79.394470,43.667332,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nationaalmuseet</name>
+    <Snippet>Copenhagen, Denmark</Snippet>
+    <description><![CDATA[Copenhagen, Denmark]]></description>
+    <LookAt>
+      <longitude>12.576907</longitude>
+      <latitude>55.674652</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.001870</heading>
+      <tilt>0.000000</tilt>
+      <range>1003.018372</range>
+    </LookAt>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>12.574589,55.674374,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Birmingham Museum and Art Gallery</name>
+    <Snippet>Birmingham, England</Snippet>
+    <description><![CDATA[Birmingham, England]]></description>
+    <LookAt>
+      <longitude>-1.904279</longitude>
+      <latitude>52.480770</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>9.674224</tilt>
+      <range>599.665588</range>
+    </LookAt>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-1.904279,52.480770,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bolton Museum</name>
+    <Snippet>Bolton, England</Snippet>
+    <description><![CDATA[Bolton, England]]></description>
+    <LookAt>
+      <longitude>-2.431364</longitude>
+      <latitude>53.577465</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>20.738768</tilt>
+      <range>301.077301</range>
+    </LookAt>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-2.431381,53.577328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bristol Museum and Art Gallery</name>
+    <Snippet>Bristol, England</Snippet>
+    <description><![CDATA[Bristol, England]]></description>
+    <LookAt>
+      <longitude>-2.604146</longitude>
+      <latitude>51.456364</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>30.756014</tilt>
+      <range>264.014374</range>
+    </LookAt>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-2.605174,51.456078,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fitzwilliam Museum, University of Cambridge</name>
+    <Snippet>Cambridge, England</Snippet>
+    <description><![CDATA[Cambridge, England]]></description>
+    <LookAt>
+      <longitude>0.119943</longitude>
+      <latitude>52.199558</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000015</heading>
+      <tilt>27.204176</tilt>
+      <range>329.577637</range>
+    </LookAt>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>0.119943,52.199558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum of Archaeology and Anthropology, University of Cambridge</name>
+    <Snippet>Museum of Archaeology and Anthropology, University of Cambridge.</Snippet>
+    <description><![CDATA[<div dir="ltr">Cambridge, England</div>]]></description>
+    <LookAt>
+      <longitude>0.121053</longitude>
+      <latitude>52.202560</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>24.585180</tilt>
+      <range>457.686615</range>
+    </LookAt>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>0.121053,52.202560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oriental Museum, University of Durham</name>
+    <Snippet>Oriental Museum, University of Durham, Durham</Snippet>
+    <description><![CDATA[<div dir="ltr">Durham, England</div>]]></description>
+    <LookAt>
+      <longitude>-1.581960</longitude>
+      <latitude>54.763420</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>23.556442</tilt>
+      <range>452.002625</range>
+    </LookAt>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-1.581960,54.763420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ipswich Museum</name>
+    <description><![CDATA[<div dir="ltr">Ipswich, England</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>1.150990,52.060566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The British Museum</name>
+    <Snippet>London, England</Snippet>
+    <description><![CDATA[London, England]]></description>
+    <LookAt>
+      <longitude>-0.126337</longitude>
+      <latitude>51.518852</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>19.363052</tilt>
+      <range>668.212891</range>
+    </LookAt>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-0.126337,51.518852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Manchester Museum</name>
+    <Snippet>Manchester, England</Snippet>
+    <description><![CDATA[Manchester, England]]></description>
+    <LookAt>
+      <longitude>-2.234309</longitude>
+      <latitude>53.466442</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>29.599089</tilt>
+      <range>132.664413</range>
+    </LookAt>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-2.234309,53.466442,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ashmolean Museum, University of Oxford</name>
+    <Snippet>Oxford, England</Snippet>
+    <description><![CDATA[Oxford, England]]></description>
+    <LookAt>
+      <longitude>-1.260026</longitude>
+      <latitude>51.755302</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>21.607218</tilt>
+      <range>540.331482</range>
+    </LookAt>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-1.260026,51.755302,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iraq Museum</name>
+    <Snippet>Baghdad, Iraq</Snippet>
+    <description><![CDATA[Baghdad, Iraq]]></description>
+    <LookAt>
+      <longitude>44.386002</longitude>
+      <latitude>33.328587</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000122</range>
+    </LookAt>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>44.386002,33.328587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mosul Museum</name>
+    <Snippet>Mosul, Iraq</Snippet>
+    <description><![CDATA[Mosul, Iraq]]></description>
+    <LookAt>
+      <longitude>43.139187</longitude>
+      <latitude>36.336040</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000119</heading>
+      <tilt>20.723961</tilt>
+      <range>1088.053223</range>
+    </LookAt>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>43.139423,36.337830,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Idemitsu Museum of Arts</name>
+    <Snippet>Tokyo, Japan</Snippet>
+    <description><![CDATA[Tokyo, Japan]]></description>
+    <LookAt>
+      <longitude>139.760925</longitude>
+      <latitude>35.676559</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>2715.834961</range>
+    </LookAt>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>139.760880,35.676491,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Walters Art Museum</name>
+    <Snippet>Baltimore, Maryland, USA</Snippet>
+    <description><![CDATA[Baltimore, Maryland, USA]]></description>
+    <LookAt>
+      <longitude>-76.616119</longitude>
+      <latitude>39.296597</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>999.997314</range>
+    </LookAt>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-76.616119,39.296597,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum of Fine Arts, Boston</name>
+    <Snippet>Boston, Massachusetts, USA</Snippet>
+    <description><![CDATA[Boston, Massachusetts, USA]]></description>
+    <LookAt>
+      <longitude>-71.093964</longitude>
+      <latitude>42.339382</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000000</range>
+    </LookAt>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-71.093964,42.339382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harvard Semitic Museum, Harvard University</name>
+    <Snippet>Cambridge, Massachusetts, USA</Snippet>
+    <description><![CDATA[Cambridge, Massachusetts, USA]]></description>
+    <LookAt>
+      <longitude>-71.113968</longitude>
+      <latitude>42.378067</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1321.967651</range>
+    </LookAt>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-71.113968,42.378067,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cleveland Museum of Art</name>
+    <Snippet>Cleveland, Ohio, USA</Snippet>
+    <description><![CDATA[Cleveland, Ohio, USA]]></description>
+    <LookAt>
+      <longitude>-81.611359</longitude>
+      <latitude>41.508938</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000000</range>
+    </LookAt>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-81.611359,41.508938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metropolitan Museum of Art</name>
+    <Snippet>New York, New York, USA</Snippet>
+    <description><![CDATA[New York, New York, USA]]></description>
+    <LookAt>
+      <longitude>-73.963531</longitude>
+      <latitude>40.779186</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000061</range>
+    </LookAt>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-73.963531,40.779186,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Penn Museum, University of Pennsylvania</name>
+    <Snippet>Philadelphia, Pennsylvania, USA</Snippet>
+    <description><![CDATA[Philadelphia, Pennsylvania, USA]]></description>
+    <LookAt>
+      <longitude>-75.191376</longitude>
+      <latitude>39.949234</latitude>
+      <altitude>0.000000</altitude>
+      <heading>-0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000122</range>
+    </LookAt>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-75.191376,39.949234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>de Young Fine Arts Museums of San Francisco</name>
+    <Snippet>San Francisco, California, USA</Snippet>
+    <description><![CDATA[San Francisco, California, USA]]></description>
+    <LookAt>
+      <longitude>-122.468079</longitude>
+      <latitude>37.771049</latitude>
+      <altitude>0.000000</altitude>
+      <heading>0.000000</heading>
+      <tilt>0.000000</tilt>
+      <range>1000.000000</range>
+    </LookAt>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-122.468674,37.771435,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

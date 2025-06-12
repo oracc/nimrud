@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>Materiality</esp:name>
+	<esp:title>Traditional scholarship and the materiality of inscriptions</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Traditional academic study of cuneiform texts has separated the texts from the objects on which they were written. Assyriologists make drawings of cuneiform inscriptions, known as '<esp:techterms term="hand-copy">hand-copies</esp:techterms>' for practical reasons. This reduces an inherently 3D script to a 2D representation. It also removes information on the clay <esp:techterms term="tablet">tablet</esp:techterms> that the copyist either did not notice or did not feel was significant. The drawings are then further abstracted by converting them into Latin characters, so for example:</p>
+
+<esp:image file="lugal.jpg" description="A hand drawing of the LUGAL-sign" position="float"><esp:caption>[IMAGE: ND 2795 CTN 5 pl. 20]</esp:caption></esp:image>
+
+<p>becomes LUGAL (“king”). When the text exists in more than one copy – such as literary texts or royal inscriptions – a single, artificial, “composite” text is created. This merges all examples together, making something that never really existed in antiquity, but is nevertheless useful for modern scholarly purposes. It is especially useful when the source documents are broken, which is most of the time.</p>
+
+<p>This approach is practical and certainly has benefits. It makes cuneiform relatively easy to communicate to other scholars and to work with, particularly with the help of computers to manage large datasets. But it comes at a cost. It is often easy to tell a lot about a text from something as simple as <esp:link page="mat-shape">the size and shape of the object</esp:link> on which it is written. This information is hard to communicate in drawings, and has often been ignored altogether. Even more importantly, inscriptions are hand-made. Everything from  <esp:link page="obj-intro">the materials used</esp:link>, the <esp:link page="obj-working">processing and manufacturing techniques</esp:link>, through the formatting habits, to the <esp:link page="mat-text">handwriting</esp:link> and spelling all bear the mark of <esp:link page="mat-scribes">the person who created the inscription</esp:link>.</p>
+	</body></html>
+
+</esp:page>

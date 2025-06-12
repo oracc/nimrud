@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Object highlights</esp:name>
+	<esp:title>Selected object stories</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Entry level explanatory essay, highlighting the life histories of selected British Museum objects.</p>
+
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>At the museum</esp:name>
+	<esp:title>Research at the museum</esp:title>
+
+	<html><head>
+</head><body>
+
+<p class="firstpara">Museums do not only store and display objects from archaeological sites like Nimrud. They are also important centres of research in their own right. These case studies from museums in the UK explore some of the behind-the-scenes investigations being carried out on Nimrud objects in 2013-14. More will be posted during the next phase of the project.</p>
+
+
+<esp:h><esp:link page="displayprocesses">Displaying Nimrud to the public: people and processes</esp:link></esp:h>
+<esp:image file="atthemuseum/BM-gallery-56-mesopotamia-4sq.jpg" description="Mesopotamia gallery at the British Museum" position="float"><esp:link page="displayprocesses"/></esp:image>
+<p>Who are the people involved in creating museum displays, and what processes do they go through to take objects from store rooms to galleries? Dr Paul Collins from the <esp:techterms term="Ashmolean Museum">Ashmolean Museum of Art and Archaeology</esp:techterms> in Oxford explains what's involved in bringing Nimrud to the public.</p>
+
+
+<esp:h><esp:link page="bmag-conservation">Conserving Birmingham Museum's Nimrud ivories</esp:link></esp:h>
+<esp:image file="atthemuseum/BMAG-ivory-conservation-1965A451_3-4sq.jpg" description="A newly cleaned ivory" position="float"><esp:link page="bmag-conservation"/></esp:image>
+<p>How do museums care for Assyrian artefacts in their collections? In summer 2013 the Nimrud Project visited <esp:link url="http://www.bmag.org.uk/" rel="external" hide-print="yes">Birmingham Museum and Art Gallery</esp:link> to see how they look after their collection of 3000-year-old <esp:techterms term="ivory">ivory</esp:techterms> carvings from Nimrud. <esp:techterms term="conservator">Conservator</esp:techterms> Alexandra Cantrill gave us a behind-the-scenes look at the <esp:techterms term="conservation">conservation</esp:techterms> work that helps to preserve these objects for future generations.</p>
+
+<esp:h><esp:link page="iraqmuseum">Displaying and redisplaying Nimrud at the Iraq Museum, Baghdad</esp:link></esp:h>
+<esp:image file="atthemuseum/IMG_0004-detail-4sq.jpg" description="People and a stone statue from Nimrud at the Iraq Museum" position="float"><esp:link page="iraqmuseum"/></esp:image>
+<p>Artefacts from Nimrud that have remained in Iraq have been displayed in <esp:glossary term="Baghdad (place)">Baghdad</esp:glossary> since the 1920s. Using rarely seen archival photographs, Dr Lamia al-Gailani Werr of SOAS explores past and current displays in the <esp:techterms term="Iraq Museum">Iraq Museum</esp:techterms>.</p>
+
+
+<esp:h><esp:link page="ashmodisplay">Displaying Nimrud at the Ashmolean Museum, Oxford</esp:link></esp:h>
+<esp:image file="atthemuseum/ashmolean-genie-humanimage-4sq.jpg" description="Stone eagle-headed genie displayed in the Ashmolean's human image gallery, next to busts of human heads" position="float"><esp:link page="ashmodisplay"/></esp:image>
+<p>What factors must museums consider when creating displays? And how do displays in University Museums differ from those in large national public museums? <esp:techterms term="curator">Curator</esp:techterms> Dr Paul Collins explores past and current approaches to displaying Nimrud material at Oxford University's <esp:techterms term="Ashmolean Museum">Ashmolean Museum of Art and Archaeology</esp:techterms>. He explores how the Ashmolean's displays have been shaped by the needs of university teaching, public audiences, and the physical properties of the objects themselves.</p>
+
+<esp:h><esp:link page="materiality">Investigating the materiality of inscriptions at the British Museum</esp:link></esp:h>
+<esp:image file="atthemuseum/PA-photo-4sq.jpg" description="A photograph of the PA-sign" position="float"><esp:link page="materiality"/></esp:image>
+
+<p>Academic study of <esp:techterms term="cuneiform">cuneiform</esp:techterms> inscriptions has traditionally relied on <esp:techterms term="hand-copy">hand-drawn copies</esp:techterms> of the inscribed text. However, valuable information can be gleaned from studying clay <esp:techterms term="tablet">tablets</esp:techterms> and other inscribed materials as physical objects in their own right. At the <esp:techterms term="British Museum">British Museum</esp:techterms>, <esp:techterms term="Assyriology">Assyriologist</esp:techterms> Dr Jon Taylor examines the evidence left behind on the tablets, to reveal the ways in which ancient scribes wrote their texts, and even to identify individual scribes from their handwriting.</p>
+
+<esp:h><esp:link page="tablets">Deciphering cuneiform tablets for the GKAB project</esp:link></esp:h>
+<esp:image file="tablets/ctn4_pl98_4sq.jpg" description="hand-copy of CTN 4 166" position="float"><esp:link page="materiality"/></esp:image>
+<p>It often takes a long time to make full sense of the inscription on a cuneiform tablet. Between 2007 and 2012 a team at the University of Cambridge worked on <esp:link url="http://oracc.org/cams/gkab/" rel="external" hide-print="yes">a research project</esp:link> to edit, interpret and contextualise the tablets from <esp:link page="ezida">Nabu's temple</esp:link> in Kalhu, along with three other cuneiform "libraries". Here we take one tablet from that <esp:techterms term="findspot">findspot</esp:techterms> as a case study, following it from excavation in 1955 to online publication in 2010. </p>
+
+<esp:content-last-modified/>
+<esp:email address="nimrud@oracc.org"/>
+	</body></html>
+
+</esp:page>

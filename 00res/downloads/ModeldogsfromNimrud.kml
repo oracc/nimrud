@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Model dogs from Nimrud</name>
+  <description><![CDATA[Present-day locations in museum collections of metal dog models from Nimrud, site of the ancient Assyrian city of Kalhu. These six models were excavated in 1952 from a well in room NN of Ashurnasirpal II's Northwest Palace. One model was found in an unstratified context near the acropolis wall.
+
+Map compiled by Ruth A. Horry in 2014 for the Nimrud Project: http://oracc.org/nimrud]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/target_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Calah-Kalhu (Nimrud, Iraq)</name>
+    <description><![CDATA[<div dir="ltr">Nimrud, Iraq.<br>The archaeological site of the ancient Assyrian royal city of Kalhu. This ancient city was situated between Assur and Nineveh on the Tigris river. Kalhu's Biblical name was Calah.</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>43.328831,36.098297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Australian Institute of Archaeology, La Trobe University (ND 2182)</name>
+    <description><![CDATA[<div dir="ltr">Bundoora, Victoria, Australia.<br>(Nimrud number: ND 2182.)</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>145.057526,-37.721375,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Birmingham Museum and Art Gallery (ND 3209)</name>
+    <description><![CDATA[<div dir="ltr">Birmingham, England.<br>(Nimrud number: ND 3209. Museum registration number: 1954A794.)<br>This model was found in an unstratified context near the acropolis wall.</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-1.903467,52.480114,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum of Archaeology and Anthropology, University of Cambridge (ND 2183)</name>
+    <description><![CDATA[<div dir="ltr">Cambridge, England.<br>(Nimrud number: ND 2183. Museum registration number: 1956.5.)</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>0.121622,52.202953,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The British Museum (ND 2214)</name>
+    <description><![CDATA[<div dir="ltr">London, England.<br>(Nimrud number: ND2214. Museum registration numbers: 1984,0205.230 / 140474.) Transferred from the Institute of Archaeology, London in 1984.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-0.126337,51.518852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iraq Museum (ND 2184, ND 2186)</name>
+    <description><![CDATA[Baghdad, Iraq.<br>(Nimrud numbers: ND 2184, ND 2186.)<br>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>44.386002,33.328587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metropolitan Museum of Art (ND 2185)</name>
+    <description><![CDATA[<div dir="ltr">New York, New York, USA.<br>(Nimrud number: ND 2185. Museum registration number: 54.117.23.)</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-73.963531,40.779186,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

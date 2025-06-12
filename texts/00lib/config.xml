@@ -1,0 +1,20 @@
+<project n="nimrud/texts"
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Nimrud Corpus</name>
+  <abbrev>Nimrud Corpus</abbrev>
+  <project-type>oracc</project-type>
+  <type>corpus</type>
+  <logo type="text">Nimrud Corpus</logo>
+<public>yes</public>
+<blurb>Some blurb.</blurb>
+<image>nimrud.png</image>
+<image-alt>The Assyrian city of Nimrud, as re-imagined by its first excavator, Austen Henry Layard (detail).</image-alt>
+<option name="build-approved-policy" value="static"/>
+<option name="build-outlined-policy" value="P"/>
+<option name="outline-default-select" value="true"/>
+<option name="outline-default-sort-fields" value="period,genre,provenience"/>
+<option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+<option name="catalog-build-policy" value="virtual"/>
+<option name="project-hide" value="yes"/>
+</project>

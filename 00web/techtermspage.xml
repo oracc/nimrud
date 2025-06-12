@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml">
+	
+	<esp:name>Technical terms</esp:name>
+	
+	<esp:title>Technical terms</esp:title>
+	
+	<html>
+		<head></head>
+		<body>
+		<p class="firstpara">These are the technical terms used in this website.</p>
+		
+			<esp:techterms-list>
+
+<!-- EXAMPLE OF CROSS REFERENCING <esp:termsdefinition term="zikurudani">Literally "throat-cutting", a magical <esp:techterms term="Rite, ritual">ritual</esp:techterms>.</esp:termsdefinition> -->
+
+
+<!-- A -->
+<esp:termsdefinition term="acetone">Chemical compound, formula
+(CH<sub>3</sub>)<sub>2</sub>CO, used in museum conservation work as a
+solvent, to remove dirt and unwanted material from the surface of
+archaeological artefacts.</esp:termsdefinition>
+
+<esp:termsdefinition term="Achaemenid">Term for the Persian dynasty
+and empire that ruled Babylonia (and the region from the <esp:glossary term="Indus (place)">Indus</esp:glossary> Valley
+to western Turkey),
+539–330 BC. Named after their founding ancestor Achaemenes (r.705–675 BC).</esp:termsdefinition>
+
+<esp:termsdefinition term="acropolis">Greek word meaning "top of the
+city"; used by some archaeologists to describe the large
+<esp:techterms term="citadel">citadel</esp:techterms> mound at
+Nimrud and other Assyrian sites.</esp:termsdefinition>
+
+<esp:termsdefinition term="acrylic paint">Type of synthetic paint
+which can be diluted with water but is water-resistant when dry. Used
+in museum conservation work to cover modern restorations of
+archaeological artefacts so that they blend in with them but can still
+be distinguished from the original.</esp:termsdefinition>
+
+<esp:termsdefinition term="akītu">[1] New Year festival, performed
+over 11 days at the spring equinox, and featuring the gods'
+renewal of the king's right to rule. [2] Also the name of a temple
+outside the walls of a city, in which part of the <i>akītu</i>
+festival was performed. King <esp:link page="sennacherib">Sennacherib</esp:link> built an <i>akītu</i> temple for
+the god <esp:link page="ashur">Aššur</esp:link> just outside
+<esp:glossary term="Assur (place)">Assur</esp:glossary>. [3] At Kalhu,
+an annual <esp:techterms term="sacred marriage">sacred
+marriage</esp:techterms> <esp:techterms term="rite,
+ritual">ritual</esp:techterms> for <esp:link
+page="nabu">Nabu</esp:link> and <esp:glossary term="Tašmetu (deity)">Tašmetu</esp:glossary>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Akkadian"><esp:techterms term="Semitic language">Semitic
+language</esp:techterms> of ancient
+Mesopotamia, conventionally divided into two dialects: Assyrian from the
+north and Babylonian from the south. It was usually written in the
+<esp:techterms term="cuneiform">cuneiform</esp:techterms> script. See the <esp:link
+page="langscripts">writing practices</esp:link> section for
+more details.</esp:termsdefinition>
+
+<esp:termsdefinition term="alabaster">Term for the type of light
+grey stone
+used for the <esp:techterms term="bas-relief">relief sculptures</esp:techterms> in Assyrian palaces, a form of calcium carbonate, formula
+CaCO<sub>3</sub>. It is also known as
+<esp:glossary term="Mosul (place)">Mosul</esp:glossary> marble because it was quarried from local deposits.</esp:termsdefinition>
+
+<esp:termsdefinition term="amulet">Object thought to have healing powers, often with an image or inscription on it, and usually worn round the neck or attached to a person's clothes.</esp:termsdefinition>
+
+<esp:termsdefinition term="Anglo-Iraqi Treaty">Signed in 1948. The final one of three treaties between the United Kingdom and Iraq, the first signed in 1922, which were nominally declarations of alliance. In fact they gave a great deal of power to the UK, especially in matters of foreign relations, military planning, and natural resources such as oil. Despite a great deal of Iraqi opposition, the final treaty remained in force from 1948 to the end of the Iraqi monarchy in 1958.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="apkallu"><esp:techterms
+term="Akkadian">Akkadian</esp:techterms> word for "sage". Depending on context, refers to [1]
+one of the mythical <esp:techterms term="sage">Seven Sages</esp:techterms> or [2] a
+winged <esp:techterms term="genie">genie</esp:techterms> carved on Assyrian palace
+<esp:techterms term="bas-relief">reliefs</esp:techterms>. See also
+<esp:techterms
+    term="fish-man">fish-man</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="apsu">Mythical underground source of all fresh
+water, abode of the god <esp:glossary term="Ea
+(deity)">Ea</esp:glossary> and the <esp:techterms term="sage">Seven
+Sages</esp:techterms>; origin of the English word abyss.</esp:termsdefinition>
+
+<esp:termsdefinition term="anthropomorphic">Being of human form. Beginning sometime in the third millennium BC, gods were imagined as having human form, although so far no divine statue has survived the ages.</esp:termsdefinition>
+
+<esp:termsdefinition term="antiquarianism">Literally, the study of antiquities. A precursor to modern archaeology, in which excavation is mostly seen as a means of recovering artefacts rather than as a source of useful data in itself. </esp:termsdefinition>
+
+<esp:termsdefinition term="apotropaic">Preventative, designed to ward
+off evil <esp:techterms term="demon">demons</esp:techterms> or
+unfavourable events foretold by <esp:techterms term="omen">omens</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Aramaic"><esp:techterms term="Semitic language">Semitic
+language</esp:techterms>, spoken originally of ancient Syria but which
+spread all over the ancient Middle East as it was written in a
+convenient <esp:link page="alphabetic">alphabetic script</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="arsenal">Place where weapons are made,
+stored, and/or issued, often used to describe <esp:link
+page="fortshalmaneser">Fort Shalmaneser</esp:link> in
+Kalhu.</esp:termsdefinition>
+
+<esp:termsdefinition term="assemblage">Group of archaeological
+artefacts found together in excavation, for instance, a collection of
+tablets or vessels. Looking at assemblages can help archaeologists
+understand the functions and values of individual objects as well as
+the relationships between them, much better than studying them in
+isolation.</esp:termsdefinition>
+
+<esp:termsdefinition term="Ashmolean Museum">The University of Oxford's
+museum of
+art and archaeology, founded in the 18th century to house the
+collection of Elias Ashmole; a major recipient of artefacts from
+Nimrud in the 1950s.</esp:termsdefinition>
+
+<esp:termsdefinition term="Assyrian Expedition Fund">Short-lived private venture set up in London to fund the archaeological work of <esp:glossary term="Loftus, William Kennett (person)">William Kennett Loftus</esp:glossary> in Assyria and Babylonia in 1853-4. It was seen as a rival to the British Museum's interests in the region and met with formidable opposition from <esp:glossary term="Rawlinson, Henry Creswicke (person)">Rawlinson</esp:glossary>.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="Assyriology">The academic study of
+ancient Assyria, especially its history and languages; nowadays also
+used to mean the study of all <esp:techterms term="cuneiform">cuneiform</esp:techterms> culture.</esp:termsdefinition>
+<esp:termsdefinition term="astrologer"><esp:techterms term="scholar">Scholar</esp:techterms> responsible for
+reading and interpreting <esp:techterms term="omen">omens</esp:techterms> from the positions of the stars,
+planets, and other heavenly bodies, as well as the
+weather.</esp:termsdefinition>
+
+<esp:termsdefinition term="astrology">In Assyrian times,
+<esp:techterms term="astrologer">astrologers</esp:techterms>  divined
+the gods' intentions for the future of the state through observing the
+movements of the heavenly bodies and reading celestial <esp:techterms
+term="omen">omens</esp:techterms>  from them; they did not cast
+personal horoscopes on the basis of a client's birth date. See the
+page on <esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/essentials/celestialterrestrialdivination/">celestial and terrestrial divination</esp:link> at the Knowledge and
+Power website.</esp:termsdefinition>
+
+<esp:termsdefinition term="augur"><esp:techterms term="scholar">Scholar</esp:techterms> who reads <esp:techterms
+term="omen">omens</esp:techterms> from the flights of birds in the
+sky. In Kalhu, all attested augurs were from kingdoms to the northwest
+of Assyria.</esp:termsdefinition>
+
+<esp:termsdefinition term="auspicious">Carrying a good <esp:techterms
+term="omen">omen</esp:techterms>.</esp:termsdefinition>
+
+<!-- B -->
+<esp:termsdefinition term="backfill">At the end of the <esp:techterms term="excavation season">excavation season</esp:techterms> archaeologists re-fill their trenches with earth to preserve the finds that remain in situ and to prevent looting.</esp:termsdefinition>
+
+<esp:termsdefinition term="bas-relief">Flat stone panel carved to
+make the images on it stand slightly proud of their background. The
+ceremonial spaces of Assyrian palaces were lined with <esp:techterms
+term="alabaster">alabaster</esp:techterms> bas-reliefs depicting scenes of military victory,
+kingly piety, and divine protection.</esp:termsdefinition>
+
+<esp:termsdefinition term="beneficent">Kindly, doing good; often used
+to describe <esp:techterms term="genie">genies</esp:techterms> and
+other semi-divine beings. Its opposite is <esp:techterms term="maleficent">maleficent</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="bitumen">The heavier fractions of crude
+oil, which in Assyrian times were collected from springs on the
+<esp:glossary term="Euphrates (place)">Euphrates</esp:glossary> river,
+and used for waterproofing, adhesive, medical, and ritual purposes.</esp:termsdefinition>
+
+<esp:termsdefinition term="boss">Another word for knob or protrusion;
+a feature of Assyrian shields and some architectural
+styles.</esp:termsdefinition>
+
+<esp:termsdefinition term="brazier">Metal vessel for burning fuel
+for heating or <esp:techterms term="incense">incense</esp:techterms>
+offerings.</esp:termsdefinition>
+
+<esp:termsdefinition term="British Institute for the Study of Iraq">London-based charitable 
+institute that promotes humanities and social science research and
+education on all aspects of Iraq's history, culture, and
+languages. Also known as <esp:link rel="external" hide-print="yes" url="http://www.bisi.ac.uk">BISI</esp:link>; successor to the <esp:techterms
+term="British School of Archaeology in Iraq">British School of
+Archaeology in Iraq</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="British Museum">Public museum in London,
+which was founded in the 1750s and greatly expanded a century later. The museum sponsored <esp:glossary term="Layard, Austen Henry (person)">Layard</esp:glossary>'s explorations at Nimrud and
+<esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>
+in the 1840s and has been at the forefront of research on ancient
+Assyria ever since.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="British School of Archaeology in Iraq">Research organisation founded 1932 in memory of <esp:glossary term="Bell, Gertrude (person)">Gertrude
+Bell</esp:glossary>; ran British excavations in Iraq until 1990,
+including those directed by <esp:glossary term="Mallowan, Max (person)">Max Mallowan</esp:glossary> at Nimrud. Also known as
+BSAI. Superceded by <esp:techterms term="British Institute for the
+Study of Iraq">The British Institute for the Study of Iraq</esp:techterms>.</esp:termsdefinition> 
+
+<esp:termsdefinition term="bronze">Hard, tough metal alloyed from
+copper and tin. Used in Assyria for weapons, large vessels, and elements of horse harnesses.</esp:termsdefinition>
+
+<esp:termsdefinition term="buff ware">Type of finely made unglazed pottery,
+shaped into several different distinctive forms and
+fired to a very pale brown ("buff") colour.</esp:termsdefinition>
+
+<esp:termsdefinition term="byssus">Very fine and expensive type of
+<esp:techterms
+term="flax">linen</esp:techterms>.</esp:termsdefinition>
+
+<!-- C -->
+<esp:termsdefinition term="cartouche">In <esp:link page="hieroglyphs">hieroglyphic Egyptian inscriptions</esp:link>, a
+royal name surrounded by an oval line and a straight line underneath
+or to the left.</esp:termsdefinition>
+
+<esp:termsdefinition term="cauldron">Large vessel suspended over an
+open fire, for cooking or for heating liquids. In Assyrian times,
+often made of <esp:techterms term="bronze">bronze</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="cedar">Cedar trees are native to the east
+coast of the Mediterranean Sea, especially the area of the Lebanon
+mountain range. The Assyrians prized this strong yet flexible wood for
+building work.</esp:termsdefinition>
+
+<esp:termsdefinition term="celestial">Of the skies or heavens, including (for the Assyrians) the weather.</esp:termsdefinition>
+
+<esp:termsdefinition term="cella">The main shrine of a temple, where the statue of the god stood.</esp:termsdefinition>
+
+<esp:termsdefinition term="chalcedony">Semi-precious stone composed of
+different types
+quartz crystals, resulting in a wide range of colours, especially
+greys and browns. Agate (dark brown and white bands) and carnelian (a
+solid red) are both varieties of
+chalcedony. All were favoured materials for <esp:techterms
+term="seal, sealing">seals</esp:techterms> in Assyrian
+times.</esp:termsdefinition>
+
+<esp:termsdefinition term="citadel">Fortified area of a city, in
+Assyrian times often on a high mound, where the royal palaces, elite
+residences and major palaces were built. Archaeologists sometimes use
+the alternative term <esp:techterms
+term="acropolis">acropolis</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="clay hand">Architectural feature of
+Assyrian palaces and temples in the shape of a larger-than-life fist with curled up fingers, made
+of baked clay and sometimes inscribed in <esp:techterms
+term="cuneiform">cuneiform</esp:techterms>. May have been used to support beams or as
+decorative <esp:techterms term="boss">bosses</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="colophon">Note at the end of a <esp:link page="scholarlyworks">scholarly
+work</esp:link>, giving information such as the <esp:techterms term="scribe">scribe</esp:techterms> and/or owner
+of the tablet, the date and place of writing or copying, and/or the
+reason it was made.</esp:termsdefinition>
+
+<esp:termsdefinition term="colossal bull">Huge <esp:techterms
+term="alabaster">alabaster</esp:techterms> statue of a
+<esp:techterms term="beneficent">beneficent</esp:techterms> divine being, with a bull's body, human
+head and large wings, placed on either side of a major entrance to an
+Assyrian temple or palace. They have five legs so that they appear to
+stand facing those that enter the gateway and walk out with those that
+leave. At Kalhu alternative designs were lions and even fish at
+<esp:link page="ezida">Nabu's temple</esp:link>.</esp:termsdefinition>	
+
+<esp:termsdefinition term="composite">In modern editorial practice, a
+text reconstructed from two or more ancient manuscripts to show how
+the complete work may have looked originally.</esp:termsdefinition>
+
+<esp:termsdefinition term="conservation">In modern archaeological and
+museum practice, the work carried out on an ancient artefact to
+protect and stabilise it so that it can withstand long-term storage,
+public display, and handling by reearchers.</esp:termsdefinition>
+
+<esp:termsdefinition term="conservator">Highly trained specialist technician in
+the work of archaeological <esp:techterms
+term="conservation">conservation</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="consul">Person charged to represent a country's diplomatic and commercial interests in a particular city or region, instead of, or reporting to, an ambassador.</esp:termsdefinition>
+
+<esp:termsdefinition term="conveyance"><esp:link page="legaldocuments">Legal document</esp:link> recording the transfer of ownership of
+a piece of land, whether through sale or inheritance.</esp:termsdefinition>
+
+<esp:termsdefinition term="corn docket"><esp:link page="legaldocuments">Legal document</esp:link> recording a
+debt of corn. These clay tablets have a distinctive triangular shape
+and are moulded around a piece of string, possibly indicating they
+were used to secure a piece of <esp:techterms term="parchment">parchment</esp:techterms>
+(which no longer survives).</esp:termsdefinition>
+
+<esp:termsdefinition term="Crimean War">Fought in 1853-56, between Russia on one side and an alliance of the <esp:techterms term="Ottoman">Ottoman</esp:techterms> empire, France and Great Britain on the other. It was nominally about the rights of Christians in the Ottoman-controlled "holy land" of the <esp:glossary term="Levant (place)">Levant</esp:glossary>, but more deeply about territorial control of the Middle East. The war put a halt to European explorations and excavations in the Middle East for several years.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="crown prince">Prince nominated by the
+reigning king to succeed him, not necessarily his eldest son (or
+indeed any son). See the page on the <esp:link rel="external"
+hide-print="yes" url="http://oracc.org/saao/knpp/essentials/royalfamily/">Assyrian royal family</esp:link> at the
+Knowledge and Power website for more details.</esp:termsdefinition>
+
+<esp:termsdefinition term="cultural heritage">Legacy of the past
+considered worth preserving, from archaeological sites and ancient
+artefacts to traditions of music and dance, regardless of its monetary
+value.</esp:termsdefinition>
+
+<esp:termsdefinition term="cuneiform">Complex system of writing made
+of <esp:techterms term="wedge">wedge-shaped</esp:techterms> impressions, usually made by a
+<esp:techterms term="stylus">stylus</esp:techterms> in the surface of a clay tablet or a
+waxed <esp:techterms term="writing board">writing board</esp:techterms>. Cuneiform had many
+hundreds of different signs, which could take on different meanings
+depending on their context. See the <esp:link
+page="langscripts">writing practices</esp:link> section for
+more details.</esp:termsdefinition>
+
+<esp:termsdefinition term="curator">Person in charge of a museum collection, or part of it, usually with specialist academic knowledge of the field.</esp:termsdefinition>
+
+<esp:termsdefinition term="cursive">Written in informal script, as
+opposed to monumental</esp:termsdefinition>
+
+<!-- D -->
+<esp:termsdefinition term="Da'esh/ISIS">Arabic and British English abbreviations respectively for the so-called Islamic State of Iraq and Syria, an extremist jihadi organisation which took control of much of northern Syria in 2013 and northern Iraq in 2014, including the area around Nimrud. Local people, and their <esp:techterms term="cultural heritage">cultural heritage</esp:techterms> and archaeology, have suffered terribly as a result. </esp:termsdefinition>
+
+<esp:termsdefinition term="Daily Telegraph">British newspaper, founded in 1855, which took a great interest in Assyrian archaeology in the first decades of its existence. in 1871 it sponsored an expedition to <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> and Nimrud, headed by <esp:glossary term="Smith, George (person)">George Smith</esp:glossary>, to find further cuneiform evidence for the <esp:techterms term="Flood">Flood</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="date palm">Date palms were commonly
+cultivated in <esp:glossary term="Babylonia
+(place)">Babylonia</esp:glossary>, both for their very sweet fruit
+(the syrup of which was used as a sweetener instead of the much rarer
+honey) and for their fronds, fibres and trunks which all had practical
+uses. Because the trees were hand-pollinated they became a symbol of
+fertility. See also <esp:techterms term="sacred tree">sacred tree</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="day book">Technical diary used, for
+instance, by archaeologists and <esp:techterms
+term="conservator">conservators</esp:techterms> to record their work
+day by day.</esp:termsdefinition>
+
+<esp:termsdefinition term="demon">Demons were considered to be the
+agents of death and illness. They were not fully under the control of
+the gods, and could move easily between the divine and human
+worlds. Many were visualised as being composed of body parts from a
+variety of creatures. See also <esp:techterms
+term="genie">genie</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="diachronic">Concerning change or sameness over time.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="diadem">Royal crown in the form of a highly
+decorated band
+that runs all the way round the head. </esp:termsdefinition>
+
+<esp:termsdefinition term="dig house">On more remote archaeological sites,
+the building(s) where the team lives and works on the objects it has excavated.</esp:termsdefinition>
+
+<esp:termsdefinition term="Director-General of Antiquities">Senior government official in charge of archaeology in Iraq, reporting to the <esp:techterms term="Ministry of Culture">Ministry of Culture</esp:techterms>. Their responsibility includes the management of Iraq's museums, local and international archaeological projects, and—before 1975—overseeing <esp:techterms term="division of finds">division of finds</esp:techterms>. In the <esp:techterms term="Mandate">Mandate</esp:techterms> era, the DGA was always British or European; since independence the post has always been held by an Iraqi.</esp:termsdefinition>
+
+<esp:termsdefinition term="diviner"><esp:techterms term="scholar">Scholar</esp:techterms>  who reads the gods'
+intentions from <esp:techterms term="omen">omens</esp:techterms>; see
+also <esp:techterms term="astrologer">astrologer</esp:techterms>, <esp:techterms term="augur">augur</esp:techterms>,
+<esp:techterms term="exorcist">exorcist</esp:techterms>, and <esp:techterms term="haruspex">haruspex</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="division of finds">Before Iraqi antiquities
+law was amended in 1975, the <esp:techterms term="State Board of
+Antiquities and Heritage">State Board of Antiquities and Heritage</esp:techterms>
+agreed with archaeological teams at the end of each <esp:techterms
+term="excavation season">season</esp:techterms> which
+excavated objects belonged to the Iraqi state and which could remain
+the property of the excavators and leave the country. Nowadays under
+Iraqi law all antiquities are state property and cannot be exported.</esp:termsdefinition>
+
+<esp:termsdefinition term="docket">Clay tablet which was originally
+attached to another object, usually to serve as a label or <esp:link
+page="legaldocuments">legal document</esp:link> of some kind. Holes
+for string or the impressions of long-perished sealings are typical
+features of dockets.</esp:termsdefinition>
+
+<esp:termsdefinition term="Drew Theological Seminary">Training college for future <esp:techterms term="Methodism">Methodist</esp:techterms> ministers in New Jersey; now Drew University.</esp:termsdefinition>
+
+
+<!-- E -->
+<esp:termsdefinition term="East India Company">British trading
+company, founded in 1600, with a royally-granted monopoly on commerce with the
+Indian subcontinent. It eventually became so thoroughly embroiled in
+local governance and
+politics that it was in practice a branch of the British goverment. It
+had a <esp:techterms term="Residency">Resident</esp:techterms> in
+<esp:glossary term="Basra (place)">Basra</esp:glossary> from 1763 and one in <esp:glossary term="Baghdad (place)">Baghdad</esp:glossary> from 1798, to
+secure overland communication routes and protect against the
+French. EIC officials such as <esp:glossary term="Rich, Claudius James
+(person)">Claudius James Rich</esp:glossary> and <esp:glossary
+term="Rawlinson, Henry Creswicke (person)">Henry Creswicke
+Rawlinson</esp:glossary> also became involved in the rediscovery of Assyria. The EIC was effectively nationalised and dissolved after the
+so-called Indian Mutiny of 1857. </esp:termsdefinition>
+
+<esp:termsdefinition term="ecstatic">Some cultic personnel received messages from the gods not through the
+observation or induction of omens  but through direct communication
+while in a trance-like state. Ecstatic trances could be induced (for
+instance by drugs or ritual  actions) but could also overwhelm any
+individual unexpectedly. See also <esp:techterms term="prophet(ess)">prophet(ess)</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="emissary">Assyria exchanged diplomats with
+its allies and <esp:techterms term="vassal">vassal</esp:techterms> states who represented their rulers at the
+foreign court and acted as their representatives in
+oath-taking ceremonies. They also accompanied the annual
+<esp:techterms term="tribute">tribute</esp:techterms> due to the Assyrian king. The Assyrian term, <i>ṣīru</i>, literally means "excellency", reflecting the emissaries' high status.</esp:termsdefinition>
+
+<esp:termsdefinition term="Epic of Creation">The <i>Epic of Creation</i> existed in two forms. The <esp:glossary term="Babylonia (place)">Babylonian</esp:glossary> version describes how the heroic god <esp:glossary term="Marduk (deity)">Marduk</esp:glossary> defeated the monstrous sea <esp:glossary term="Tiamat (deity)">Tiamat</esp:glossary> and her evil army in a cosmic battle, created the world from her body, and thereby became head of the gods. The Assyrian version replaces Marduk with <esp:glossary term="Aššur (deity)">Aššur</esp:glossary>. It was performed on the fourth day of the <esp:techterms term="akītu"><i>akītu</i></esp:techterms>  festival.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="Enūma Anu Ellil">The standard series of
+<esp:techterms term="celestial">celestial</esp:techterms>
+<esp:techterms term="omen">omens</esp:techterms>,
+named after its first line: literally "When the gods <esp:glossary
+term="Anu (deity)">Anu</esp:glossary>, <esp:glossary term="Ellil
+(deity)">Ellil</esp:glossary>  (and <esp:glossary term="Ea (deity)">Ea</esp:glossary>  established in council the plans of the sky and earth)".</esp:termsdefinition>
+
+<esp:termsdefinition term="epithet">Adjective or phrase which describes a person or event, usually in a positive or negative light.</esp:termsdefinition>
+
+<esp:termsdefinition term="eponym">
+    In the Assyrian empire, years  were not counted but named after
+    the king, high officials and provincial governors. These people
+    are collectively called eponym officials. <esp:techterms term="scribe">Scribes</esp:techterms>  maintained
+    standard reference <esp:link hide-print="yes" rel="external" url="http://oracc.org/saao/aebp/eponymlistsandchronicles/">lists of eponyms</esp:link>, which are now invaluable
+    resources for understanding Assyrian chronology. However, the surviving
+lists run out in the mid-seventh century BC, even though the system
+continued to be used for several decades afterwards. These so-called
+<em>post-canonical eponym</em> dates, whose order we cannot be sure of, are
+typically marked with an asterisk, e.g., 620* BC.</esp:termsdefinition>
+
+<esp:termsdefinition term="equinox">Twice a year, daytime and
+nighttime are of equal length. In the modern dating system the spring
+and autumn equinoxes fall on or near to 20 March and 23 September. In
+Assyrian times the first appearance of the crescent moon in the
+evening sky after the spring equinox signalled the new year. See also
+<esp:techterms
+    term="akītu"><i>akītu</i></esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Eton College">British private school for
+boys, founded in the 15th century. Highly infuential, it has educated
+many future politicians, diplomats, and powerful men.</esp:termsdefinition>
+
+<esp:termsdefinition term="eunuch">Castrated man, usually a palace
+courtier.</esp:termsdefinition>
+
+<esp:termsdefinition term="Euphrates Expedition">Project funded by the British government and the <esp:techterms term="East India Company">East India Company</esp:techterms> in 1835, to determine whether or not the river <esp:glossary term="Euphrates (place)">Euphrates</esp:glossary> could be used for river traffic to shorten the long journey between Britain and India.  As part of their mapping duties, its members surveyed several archaeological sites near the river, including Nimrud.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="excavation season">Period during
+which an archaeological team is working on the excavation site, any
+time from a few weeks to several months a year. The length and timing
+of an excavation season depends on many factors, from the academic
+teaching commitments of the archaeologists, the funding available for
+the dig, and the typical weather conditions at the site.</esp:termsdefinition>
+
+<esp:termsdefinition term="exegesis">Explanation and interpretation of difficult passages of holy scripture.</esp:termsdefinition>
+
+<esp:termsdefinition term="exorcist">Traditional translation of a
+type of <esp:techterms term="scholar">scholar</esp:techterms> called <i>āšipu</i> in
+Assyrian. Their intellectual
+interests were wide but centred on healing. At the Assyrian court their expertise was often called to
+ritually protect the king from harm.</esp:termsdefinition>
+
+<esp:termsdefinition term="extispicy">Divination through the
+observation of the entrails of a
+sacrificed sheep or ram, carried out by a <esp:techterms
+term="haruspex">haruspex</esp:techterms>.</esp:termsdefinition>
+
+<!-- F -->
+<esp:termsdefinition term="faience">Glass-like material made of
+crushed quartz or sand, mixed with small amounts of other
+materials. It can be moulded and modelled like clay. When fired its
+exterior turns a glassy blue or green, depending on the additives
+used.</esp:termsdefinition>
+
+<esp:termsdefinition term="figurine">Small clay model or statue, often
+used in <esp:techterms term="rite, ritual">rituals</esp:techterms> to represent supernatural beings - either
+<esp:techterms term="apotropaic">apotropaic</esp:techterms> <esp:techterms
+term="genie">genies</esp:techterms>  to ward off evil, or the
+<esp:techterms term="demon">demon</esp:techterms> or witch  thought to be the cause of the
+misfortune. Apotropaic figurines were preserved and ritually buried;
+<esp:techterms term="maleficent">maleficent</esp:techterms> figurines were ritually destroyed,
+sometimes by throwing them into a river.</esp:termsdefinition>
+
+<esp:termsdefinition term="findspot">Location of discovery of an
+archaeological artefact, ideally recorded in in three co-ordinates and
+documented in relation to the surround <esp:techterms
+term="assemblage">assemblage</esp:techterms> and archaeological context.</esp:termsdefinition>
+
+<esp:termsdefinition term="fish-man">Hybrid <esp:techterms term="demon">demon</esp:techterms> or <esp:techterms term="genie">genie</esp:techterms>,
+half man and half fish, which was often associated with 
+the <esp:techterms term="sage">Seven Sages</esp:techterms> from before
+the <esp:techterms term="Flood">Flood</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="flax">
+An annual crop with beautiful blue flowers, native to the Middle East
+and beyond. It is grown for its fibrous stalks, which are woven into
+linen, and for its highly nutritious seeds, from which linseed oil is
+made.</esp:termsdefinition>
+
+<esp:termsdefinition term="Flood">
+    Assyrian scholars divided past time into a mythical, primeval era
+    and more recent human history, demarcated by a great flood. As
+    well as one human family, rescued by the great god <esp:glossary
+    term="Ea (deity)">Ea</esp:glossary>, seven
+    <esp:techterms term="sage">sages</esp:techterms> - half-human, half-fish - survived to bring the ancient
+    arts of civilisation to contemporary humanity.</esp:termsdefinition>
+
+<esp:termsdefinition term="foundation deposit">Collection of ritual
+objects ceremonially placed in the foundation of an Assyrian palace, temple or
+fortification wall, often including a <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> <esp:link page="inscriptions">inscription</esp:link> identifying and praising the initiator of the
+construction work; in most cases, this was the
+king</esp:termsdefinition>
+
+<esp:termsdefinition term="foundation course">The lower part of a
+wall, designed to remain underground or protrude only slightly above
+it. In Assyrian times, foundation courses were often made of fired
+brick, even when the rest of the building was made of less durable materials.</esp:termsdefinition>
+
+<!-- G -->
+
+<esp:termsdefinition term="Gantt chart">Bar chart used to visualise
+a project's schedule, showing multiple elements positioned on a timeline, named after its inventor.</esp:termsdefinition>
+
+<esp:termsdefinition term="gelatinous">Sticky and thick like gelatine,
+the key ingredient in jelly.</esp:termsdefinition>
+
+<esp:termsdefinition term="genie">Supernatural being that was
+considered to protect human clients from <esp:techterms
+term="demon">demons</esp:techterms> and other <esp:techterms
+term="maleficent">maleficent</esp:techterms> forces. On the <esp:techterms
+term="bas-relief">reliefs</esp:techterms> of the <esp:link page="northwestpalace">Northwest Palace</esp:link> at Kalhu, genies
+were mostly depicted as human-like figures with wings, sometimes with
+eagles' heads. See also <i><esp:techterms term="apkallu">apkallu</esp:techterms></i>.</esp:termsdefinition>
+
+<esp:termsdefinition term="glaze">Glassy layer on the surface of some
+types of pottery, applied as a powder or solution before firing and
+used for decoration, waterproofing and/or to strengthen the vessel.</esp:termsdefinition>
+
+<esp:termsdefinition term="gold">Almost all Assyrian gold came
+ultimately from <esp:glossary term="Egypt
+(place)">Egypt</esp:glossary>, whether through direct trade,
+collection of <esp:techterms term="tribute">tribute</esp:techterms>
+from <esp:techterms term="vassal">vassals</esp:techterms> or capture
+of booty from conquered cities in the region.</esp:termsdefinition>
+
+<esp:termsdefinition term="governor">Highest official in a <esp:techterms term="province">province</esp:techterms> of the Assyrian empire, personally selected and appointed by the king to govern this subdivision of the state on his behalf. In addition to their local administrative duties, governors were in charge of collecting and distributing taxes, and of mustering and supporting contingents of soldiers for the Assyrian army. </esp:termsdefinition>
+
+<esp:termsdefinition term="griffin">Modern term for eagle-headed
+<esp:techterms term="demon">demon</esp:techterms>
+with a lion's body, often with wings.</esp:termsdefinition>
+
+<esp:termsdefinition term="Gulf War">Fought January-February 1991. On 2 August 1990, the Iraqi army invaded neighbouring Kuwait, precipitating an international crisis. The United Natiosn first imposed a range of <esp:techterms term="sanctions">sanctions</esp:techterms> on the government of Iraq to force them to leave. When that appeared to have no effect, the UN backed an international coalition of armies, led United States of America. The war ended with Iraq's withdrawal from Kuwait and an increased sanctions regime. In the aftermath of the war, anti-government rebellions in the south of Iraq were heavily quashed; some <esp:techterms term="province">provincial</esp:techterms> museums were looted and damaged.</esp:termsdefinition>
+
+<!-- H -->
+<esp:termsdefinition term="hand-copy">In <esp:techterms
+term="Assyriology">Assyriology</esp:techterms>, a black-and-white
+scale drawing of a cuneiform tablet.</esp:termsdefinition>
+
+<esp:termsdefinition term="harem">Literally "house of the women": a
+part of the royal palace containing the living quarters of the female
+members of the court headed by the queen, managed by a female
+administrator and
+guarded by a <esp:techterms term="eunuch">eunuch</esp:techterms>..</esp:termsdefinition> 
+
+<esp:termsdefinition term="haruspex">Type of <esp:techterms term="scholar">scholar</esp:techterms>  specialising in <esp:techterms term="extispicy">extispicy</esp:techterms>, i.e., determining the divine will by reading the entrails of sacrificed sheep; the Assyrian term is <i>bārû</i>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Hellenistic">Period of c.300 years from the
+death of Alexander the Great in 323 BC, during which Greek language,
+culture, and political power dominated the Middle East; also applied
+to typical features of that era.</esp:termsdefinition>
+
+<esp:termsdefinition term="humidity">How damp the air is; important to
+control in museums and
+<esp:techterms term="conservation">conservation</esp:techterms> work because some ancient artefacts are particularly
+sensitive to changes in humidity.</esp:termsdefinition>
+
+<!-- I -->
+<esp:termsdefinition term="iconography">Conventional meanings attached to images (such as love, for a heart); and the academic study of those meanings and the ways in which they are represented visually.</esp:termsdefinition>
+
+<esp:termsdefinition term="idolatry">Worship of idols; that is, images or statues of gods, saints or other divine beings.</esp:termsdefinition>
+
+<esp:termsdefinition term="Illustrated London News">Pioneering illustrated news magazine, which was founded in 1842 and folded in 2003, after decades of declining circulation. Throughout its history the ILN took a strong interest in the excavations and discoveries at Nimrud, and the arrival of finds at the British Museum.  </esp:termsdefinition>
+
+
+<esp:termsdefinition term="impression">Mark left, especially on clay
+tablets, by other objects such as <esp:techterms term="seal, sealing">seals</esp:techterms>, cloth, or fingernails pushed
+into the surface.</esp:termsdefinition>
+
+<esp:termsdefinition term="incantation">Words spoken or chanted in <esp:techterms term="rite, ritual">ritual</esp:techterms> context to communicate with a deity, <esp:techterms term="demon">demon</esp:techterms>, or <esp:techterms term="genie">genie</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="incense">Mixture of aromatic plant products, designed to be burnt in a censer to release fragrant smoke during <esp:techterms term="rite, ritual">rituals</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="inclusion">Grit, plant matter, and other
+tiny particles in clay, often added deliberately; for instance to
+increase its flexibility when working with it, or
+help steam escape during firing so the pot doesn't
+break. <esp:techterms term="tablet">Tablet</esp:techterms> clay
+may also have accidental or deliberate inclusions.</esp:termsdefinition>
+
+<esp:termsdefinition term="inscribed brick">Assyrian bricks were very
+large, square and flat, more like modern paving stones than modern
+house bricks. Some bricks used in important buildings such as temples
+and palaces had a small inscription stamped into their top surface,
+typically recording information such as the name and function of the
+building, the king who commissioned it, and the god(s) who inspired him.</esp:termsdefinition>
+
+<esp:termsdefinition term="Institute of Archaeology">Formerly
+a department of the University of London, now part of University
+College London, this was the institutional base for <esp:glossary
+term="Mallowan, Max (person)">Max Mallowan</esp:glossary> (Professor
+of Western Asiatic Archaeology, 1947–62) and
+other members of the team who worked on Nimrud in the
+1950s.</esp:termsdefinition>
+
+<esp:termsdefinition term="Iraq Museum">Museum founded in the
+1920s by <esp:glossary term="Bell, Gertrude (person)">Gertrude
+Bell</esp:glossary> in <esp:glossary term="Baghdad (place)">Baghdad</esp:glossary> and now Iraq's national
+museum. Holds many artefacts excavated from Nimrud in the 20th century.</esp:termsdefinition>
+
+<esp:termsdefinition term="Iraq Petroleum Company">Founded by a consortium of international companies after the discovery of oil in northern Iraq in 1927, the IPC held a virtual monopoly on oil production in Iraq for nearly half a century. It was nationalised in 1972.</esp:termsdefinition>
+
+<esp:termsdefinition term="Iraq War">The United States of America led an invasion of Iraq in March 2003 on the grounds that it had developed chemical, biological and/or nuclear weapons in contravention of the <esp:techterms term="sanctions">UN sanctions</esp:techterms> regime. Those claims proved unfounded but the Iraqi army was swiftly defeated and for many years Iraq remained occupied by international forces.</esp:termsdefinition>
+
+<esp:termsdefinition term="ivory">Teeth or tusks of elephants or
+<esp:glossary term="Egypt (place)">Egyptian</esp:glossary>
+hippopotami. Elaborately carved and inlaid ivory objects, from tiny
+boxes to thrones and bedsteads, were highly prized by the
+Assyrians. Large quantities of decorated ivory <esp:link page="ivories">have been found</esp:link> by
+archaeologists in Assyrian palaces, much of which seems to have been
+plundered as booty from other cities. Ivory requires <esp:link page="bmag-conservation">special conservation techniques.</esp:link></esp:termsdefinition>
+
+<!-- J -->
+<esp:termsdefinition term="jar-stopper">Object made to fit inside the narrow
+opening of a pot or jug in order to stop its contents leaking
+out.</esp:termsdefinition>
+
+<!-- K -->
+<esp:termsdefinition term="kettledrum"><esp:techterms
+					   term="lamenter">Lamenters</esp:techterms>
+used enormous hemispherical drums in their <esp:techterms
+term="rite, ritual">ritual</esp:techterms> performances to dooth divine
+anger. The drums, made of oxhide and bronze, were themselves ritually
+constructed.</esp:termsdefinition>
+
+<esp:termsdefinition term="Korean War">Fought between North Korea and South Korea, June 1950-July 1950. The United States allied with the South, the Soviet Union with the North. It is seen by many historians as one of the starting points of the Cold War perios, several decades of heightened international tension during which capitalist western nations faced off against communist Eastern countried.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="Kuyunjik collection">Large collection of cuneiform
+<esp:techterms term="tablet">tablets</esp:techterms> now housed in the <esp:techterms term="British Museum">British Museum</esp:techterms>, mostly found during <esp:glossary
+term="Layard, Austen Henry (person)">Layard's</esp:glossary>
+excavations through the <esp:techterms
+term="citadel">citadel</esp:techterms> mound at <esp:glossary
+term="Nineveh (place)">Nineveh</esp:glossary>, whose modern
+name is Kuyunjik. For more information see the <esp:link
+rel="external" hide-print="yes" url="http://oracc.org/asbp">Ashurbanipal Library
+Project</esp:link>'s website</esp:termsdefinition>
+
+<!-- L -->
+
+<esp:termsdefinition term="label run">Type of museum labelling where text is written on a long, thin label strip. Usually placed at the bottom of the case or on a shelf edge.</esp:termsdefinition>
+
+<esp:termsdefinition term="lahmu">Literally, "hairy": benevolent
+protective spirit or <esp:techterms term="genie">genie</esp:techterms> in the form of a curly-haired hero.</esp:termsdefinition>
+
+<esp:termsdefinition term="lamenter">Scholar responsible for performing propitiatory (soothing,
+or apologetic) <esp:techterms term="rite, ritual">rituals</esp:techterms>
+with chanting and kettledrums to calm the gods' mood after a <esp:techterms term="diviner">diviner</esp:techterms>
+had detected unfavourable omens. The aim was to reverse the
+gods' decision and persuade them to be favourable once more. The Assyrian word is <i>kalû</i>.</esp:termsdefinition>
+
+<esp:termsdefinition term="landscape format">Alternatively, horizontal
+format: when a document is written with the script parallel to the
+long edge. The opposite is <esp:techterms term="portrait
+format">portrait format</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="lapis lazuli">Intensely blue semi-precious stone from Afghanistan that was highly valued in Assyria. Sparkling yellow flecks on the stone's surface were thought to resemble the twinkling stars in the night sky. </esp:termsdefinition>
+
+<esp:termsdefinition term="levy">Summoning part-time soldiers from their peacetime occupations, such as farming, in perparation for
+military activity.</esp:termsdefinition>
+
+<esp:termsdefinition term="lexical list">Scribal training invariably included the copying and memorisation of long, standardised lists of cuneiform signs, words and phrases, usually with both Sumerian and Akkadian spellings.</esp:termsdefinition>
+
+<esp:termsdefinition term="libation"><esp:techterms term="rite, ritual">Rituals</esp:techterms> often included the sacrifice of a liquid offering to a god or supernatural being. The libation, usually wine but sometimes also beer or milk, was poured into the ground from a special libation bowl.</esp:termsdefinition>
+
+<esp:termsdefinition term="lime">Mortar or cement, more particularly
+its main ingredient, powered
+calcium oxide (CaO), which is made by heating limestone to very high temperature.</esp:termsdefinition>
+
+<esp:termsdefinition term="Linked Open Data">Principle of structuring online
+information, and allowing it to be reused, in order to intregrate data
+on a common theme from many
+different sources.</esp:termsdefinition>
+
+<esp:termsdefinition term="lotus">Egyptian white water-lily, which has
+large round leaves that float on the water and large, many-petalled
+flowers. Its highly characteristic buds, which bulge at the bottom,
+taper in the middle and open wide at the top, were a popular motif in
+ancient Near Eastern art, for instance on the <esp:techterms
+term="Nimrud ivories">Nimrud
+ivories</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Louvre">Public museum in Paris, opened in 1793 during the French Revolution, in a grandiose former royal palace. Amongst its vast holdings are finds from <esp:glossary term="Botta, Paul-Émile (person)">Botta's</esp:glossary> explorations in Assyria in the 1840s.</esp:termsdefinition>
+
+<!-- M -->
+<esp:termsdefinition term="magazine">Storeroom or warehouse,
+especially for weapons.</esp:termsdefinition>
+
+<esp:termsdefinition term="magnate">Literally "great one": a designation for one of the Assyrian king's senior political or military advisors.</esp:termsdefinition>
+
+<esp:termsdefinition term="maleficent">Doing evil. The opposite of
+beneficent.</esp:termsdefinition>
+
+<esp:termsdefinition term="Mandate">Period, 1920–32, when Britain
+ruled Iraq under a mandate issued by the League of Nations, a
+forerunner to the United Nations. More generally, an official order to
+act on someone's behalf.</esp:termsdefinition>
+
+<esp:termsdefinition term="marble">Type of crystalline limestone that
+is particularly suitable for carving. Assyrian marble came from
+quarries around modern-day <esp:glossary term="Mosul
+(place)">Mosul</esp:glossary> in the heartland of the empire. See also
+<esp:techterms term="alabaster">alabaster</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Methodism"><esp:techterms term="Protestant">Protestant</esp:techterms> Christian movement, founded in the eighteenth century, with an emphasis on social inclusion and therefore also <esp:techterms term="missionary">missionary</esp:techterms> work.</esp:termsdefinition>
+
+<esp:termsdefinition term="methylated spirits">Solvent based on ethanol, formula CH<sub>3</sub>CH<sub>2</sub>OH, with various additives. Used by <esp:techterms term="conservator">conservators</esp:techterms> for cleaning archaeological artefacts; useful because it can be mixed with water.</esp:termsdefinition>
+
+<esp:termsdefinition term="Metropolitan Museum of Art">Large art museum in New York, founded in 1870, which was one of the major sponsors of the <esp:link page="nd1950">1950s excavations</esp:link> at Nimrud. It houses a significant number of finds from the site.</esp:termsdefinition>
+
+<esp:termsdefinition term="mezzotint">Engraving technique that enables the artist to depict very delicate differentations of shade and light.</esp:termsdefinition>
+
+<esp:termsdefinition term="microfilm">Before the advent of digital photography, an efficient way to reproduce documents and books in portable form was to photograph them onto film, which could then be read with a special magnifying machine.</esp:termsdefinition>
+
+<esp:termsdefinition term="Middle Assyrian">Period of Assyria's first major
+empire, in the late second
+millennium BC, c.1392-1056 BC; also the dialect of <esp:techterms
+term="Akkadian">Akkadian</esp:techterms> and form of <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> script written at that
+time. </esp:termsdefinition>
+
+<esp:termsdefinition term="mina">Weight measure roughly equivalent to
+     0.5kg, which was divided into 60 shekels.</esp:termsdefinition>
+
+<esp:termsdefinition term="Ministry of Culture">Iraqi government ministry which manages archaeology in the country, and has done so for much of the country's history. For three years, 2012-2015, archaeology was under the direction of a separate Ministry of Tourism and Antiquities.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="missionary">Person sent to do religious
+work in another country; particularly refers to nineteenth-century European and north
+American <esp:techterms term="Protestant">Protestant</esp:techterms> Christians who tried to convert others to their religion.</esp:termsdefinition>
+
+<esp:termsdefinition term="mayor">Either the representative of a city
+(or a city quarter, as in <esp:glossary term="Assur
+(place)">Assur</esp:glossary>) or a temple (like the <esp:link
+page="ezida">temple of Nabu</esp:link> in Kalhu); chosen by the king
+from among the local population.</esp:termsdefinition>
+
+<esp:termsdefinition term="Mosul Museum">Public museum in <esp:glossary term="Mosul (place)">Mosul</esp:glossary> which displayed antiquities from northern Iraq, especially from Nimrud, <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> and <esp:link url="https://en.wikipedia.org/wiki/Hatra" hide-print="yes" rel="external">Hatra</esp:link>. Closed for many years for refurbishment, it was ransacked by <esp:techterms term="Da'esh/ISIS">Da'esh/ISIS</esp:techterms> in early 2015.</esp:termsdefinition>
+
+<esp:termsdefinition term="mud brick">Bricks made of mud or clay and left to harden in the sun instead of being baked in a kiln. They are much cheaper to produce than baked bricks, and so were often used in antiquity. But they are not as weather-proof and are therefore problematic for <esp:techterms term="restoration">restoration</esp:techterms> projects. </esp:termsdefinition>
+
+<!-- N -->
+<esp:termsdefinition term="natural history">Study of nature and its history, through observation of natural objects; a counterpart to <esp:techterms term="antiquarianism">antiquarianism</esp:techterms> and a precursor to the modern disciplines of biology, botany, etc.</esp:termsdefinition>
+
+<esp:termsdefinition term="Neo-Assyrian">Period of Assyria's greatest
+empire, c.883–612 BC; also the dialect of <esp:techterms term="Akkadian">Akkadian</esp:techterms> and form of <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> script written at that time. </esp:termsdefinition>
+
+<esp:termsdefinition term="Neo-Babylonian">Period of Babylonian
+imperial rule, c.623–539 BC; more generally the dialect of <esp:techterms term="Akkadian">Akkadian</esp:techterms> and form of <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> script written in
+<esp:glossary term="Babylonia (place)">Babylonia</esp:glossary>
+in the first half of the first millennium BC.</esp:termsdefinition>
+
+<esp:termsdefinition term="New Year Festival">Religious festival
+performed over several days at the spring <esp:techterms term="equinox">equinox</esp:techterms>, and featuring the gods'
+renewal of the king's right to rule; See <i><esp:techterms term="akītu">akītu</esp:techterms></i></esp:termsdefinition>
+
+<esp:termsdefinition term="Nimrud Horse Lists">Forty-two letters form
+<esp:glossary term="Nabu-šumu-iddina (person)">Nabu-šumu-iddina</esp:glossary>,
+<esp:techterms term="mayor">mayor</esp:techterms> of <esp:link page="ezida">Nabu's temple</esp:link> in Kalhu, concerning
+deliveries of horses to <esp:link page="fortshalmaneser">Fort
+Shalmaneser</esp:link>. See further <esp:link page="templestaff" bookmark="h_royalliaisonofficersthehazannuandqpu">Royal liaison officers</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Nimrud ivories">Archaeologists have found
+many thousands of carved, inlaid, and/or gilded
+<esp:techterms term="ivory">ivory</esp:techterms> fragments—of furniture, domestic objects and ornaments—at
+Nimrud. They were mostly made in Egypt and the Levant and were taken
+to Assyria as tribute or war booty. Specialist art historians study
+their decorative motifs and styles of production. See the page on their <esp:link page="ivories">object biographies</esp:link> and the page on <esp:link page="bmag-conservation">their conservation</esp:link> for more details.</esp:termsdefinition>
+
+<esp:termsdefinition term="Nimrud Wine Lists">About 30 ration lists of
+bread and wine found in <esp:link page="fortshalmaneser">Fort Shalmaneser</esp:link>, dating from the reigns of
+<esp:glossary term="Adad-nerari III (person)">Adad-nerari
+III</esp:glossary>  and <esp:glossary term="Tiglath-pileser III
+(person)">Tiglath-pileser III</esp:glossary>. These texts may represent regular allocations to court personnel and
+visiting dignitaries, or extra distributions on special occasions. See
+also <esp:link page="professions"
+bookmark="h_scholarsatcourtin8thcenturykalhu">Scholars at court in 8th
+century Kalhu</esp:link>.</esp:termsdefinition>
+
+<!-- O -->
+<esp:termsdefinition term="obelisk">Tall, needle-like monument made of
+a single piece of stone, often decorated with images and/or
+inscribed with text. See for instance the <esp:link page="obelisk">Black Obelisk</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="oblate">Woman or man dedicated (often by
+a patron or senior family member) to a deity, to work for and/or worship them in perpetuity.</esp:termsdefinition>
+
+<esp:termsdefinition term="obverse, reverse">Front and back of a
+cuneiform <esp:techterms term="tablet">tablet</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Old Assyrian">Period of <esp:glossary
+term="Assur (place)">Assur</esp:glossary>'s greatest
+influence as a city state, c.1910–1740 BC; also the dialect of <esp:techterms term="Akkadian">Akkadian</esp:techterms> and form of <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> script written at that time.</esp:termsdefinition>
+
+<esp:termsdefinition term="omen">Plural sometimes "omina";
+adjective "ominous". Assyrian omens take the form, "If X
+is observed, then Y will happen", where X is any event or phenomenon
+in the sky, on earth, or on a person's body. The outcome Y (which
+could be favourable or unfavourable) was not inevitable but could
+be averted by <esp:techterms term="rite, ritual">rituals</esp:techterms>
+performed by expert <esp:techterms
+term="lamenter">lamenters</esp:techterms>. Specialist <esp:techterms
+term="diviner">diviners</esp:techterms> such as <esp:techterms
+term="astrologer">astrologers</esp:techterms>, <esp:techterms
+term="augur">augurs</esp:techterms>, <esp:techterms
+term="exorcist">exorcists</esp:techterms>, and <esp:techterms
+term="haruspex">haruspices</esp:techterms> were responsible for
+reading and interpreting ominous signs by means of standardised collections of omens. </esp:termsdefinition>
+
+<esp:termsdefinition term="oracle">Message from the gods, usually
+sent to a <esp:techterms
+term="prophet(ess)">prophet(ess)</esp:techterms> through a dream or
+trance; but it can also mean the divine answer to an <esp:techterms
+term="extispicy">extispicy</esp:techterms>
+query.</esp:termsdefinition>
+
+<esp:termsdefinition term="Ottoman">Empire based in modern-day Turkey
+that ruled the Middle East from the mid-fifteenth century to the eve
+of the First World War; also a form of Turkish spoken and written in Arabic
+script.</esp:termsdefinition>
+
+
+<!-- P -->
+<esp:termsdefinition term="palace ware">Finely made <esp:techterms term="glaze">unglazed</esp:techterms> pottery
+with few <esp:techterms term="inclusion">inclusions</esp:techterms>,
+in elegant shapes suitable for use by members of the royal court.</esp:termsdefinition> 
+
+<esp:termsdefinition term="papyrus">Early form of paper, made from
+the pith of the papyrus reed that grows in the Nile valley, and
+imported into Assyria from <esp:glossary term="Egypt
+(place)">Egypt</esp:glossary>.</esp:termsdefinition>
+
+<esp:termsdefinition term="parasol">In Assyria the parasol was as much a status symbol as it was a sun-shade. In palace <esp:techterms term="bas-relief">bas-reliefs</esp:techterms> showing outdoor scenes, the Assyrian king is fequently depicted standing or sitting under a parasol, held aloft by a personal servant. </esp:termsdefinition>
+
+<esp:termsdefinition term="parchment">Using a pen and ink, texts in
+<esp:link page="alphabetic">alphabetic Aramaic script</esp:link> were commonly recorded on leather scrolls. While the term "parchment" is frequently used as a translation for these scrolls, this is anachronistic and should be avoided as "parchment" refers to a very specific leather-derived product prepared according to a recipe not yet attested in Assyrian times.</esp:termsdefinition>
+
+<esp:termsdefinition term="pasha"><esp:techterms
+				      term="province">Provincial
+governor</esp:techterms> of the <esp:techterms term="Ottoman">Ottoman</esp:techterms>
+empire.</esp:termsdefinition>
+
+<esp:termsdefinition term="physician">In the Assyrian court, a
+     <esp:techterms term="scholar">scholar</esp:techterms>  with particular responsibility for the physical wellbeing of the royal family; Assyrian <i>asû</i>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Picture Post">Popular British weekly magazine, published from 1938 to 1957, featuring photographic essays on a range of journalistic topics. It was very different in style and politics to its more conservative rival <esp:techterms term="Illustrated London News"><i>The Illustrated London News</i></esp:techterms>.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="plaque">Flat object used for decoration or
+display; may be made of precious materials and usually carries an
+image and/or inscription.</esp:termsdefinition>
+
+<esp:termsdefinition term="polyptych"><esp:techterms term="writing board">Writing
+board</esp:techterms>  with several waxed writing surfaces hinged together.</esp:termsdefinition>
+
+<esp:termsdefinition term="polyvinyl acetate">Adhesive commonly known as PVA, formula (C<sub>4</sub>H<sub>6</sub>O<sub>2</sub>)<sub>n</sub>. Used by <esp:techterms term="conservator">conservators</esp:techterms> to consolidate fragile organic materials such as <esp:techterms term="ivory">ivory</esp:techterms>, or to glue pieces together.</esp:termsdefinition>
+
+<esp:termsdefinition term="pomegranate">Fruit tree native to the
+Middle East, whose sweet multi-seeded fruit was popular as a food and,
+symbolising fertility, also in <esp:techterms term="rite, ritual">rituals</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="potsherd">Also sherd; a broken fragment of
+pottery.</esp:termsdefinition> 	
+
+<esp:termsdefinition term="portrait format">Alternatively, vertical
+format: when a document is written with the script parallel to the
+short edge. The opposite is <esp:techterms term="landscape
+format">landscape format</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="postern gate">Minor or private entrance.</esp:termsdefinition>
+
+<esp:termsdefinition term="prophet(ess)">Individual who receives
+messages from the gods through <esp:techterms term="oracle">oracles</esp:techterms>. They can be attached to a temple.</esp:termsdefinition>
+
+<esp:termsdefinition term="Protestant">Christian who does not
+recognise the authority of the Pope; for instance followers of the
+Church of England. In the nineteenth century, some British and
+American Protestant churches sent <esp:techterms term="missionary">missionaries</esp:techterms> to the Middle East to
+try and convert Muslims and Catholic Christians to their faith.</esp:termsdefinition>
+
+<esp:termsdefinition term="provenance">In US English, provenience. The life history and/or origins of
+an artefact, including past ownership and, for archaeological objects, any <esp:techterms
+term="findspot">findspot</esp:techterms> information. Also refers to documentary evidence of
+this life history. </esp:termsdefinition>
+
+<esp:termsdefinition term="province">Large-scale administrative unit
+of an empire. Assyria was divided into about 70 provinces, each under
+the control of a governor (Assyrian <i>pāhutu</i> or <i>bēl
+pāhete</i>) personally appointed
+by the king. The three provinces (<i>vilayets</i>) of the
+<esp:techterms term="Ottoman">Ottoman</esp:techterms> empire
+that roughly correspond to modern-day Iraq were centred on
+<esp:glossary term="Mosul (place)">Mosul</esp:glossary>,
+<esp:glossary term="Baghdad (place)">Baghdad</esp:glossary> and <esp:glossary term="Basra (place)">Basra</esp:glossary>. Each was governed by a <esp:techterms term="pasha">pasha</esp:techterms>. Iraq is now divided into 19 provinces or governorates, including the three that make up Kurdistan.</esp:termsdefinition>
+
+<!-- Q -->
+<esp:termsdefinition term="queen">Literally "woman of the palace": the
+official wife of the Assyrian king and usually also the mother of the
+<esp:techterms term="crown prince">crown prince</esp:techterms>. Many of the early <esp:techterms term="Neo-Assyrian">Neo-Assyrian</esp:techterms> queens were buried in the <esp:link page="northwestpalace" bookmark="h_behindthesceneslivingwiththedead">Northwest Palace</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="queen mother">[1] The widow of the preceding king; [2] the ruling king's
+mother.</esp:termsdefinition>
+
+<!-- R -->
+
+<esp:termsdefinition term="registration number">Unique number assigned to an object upon entry to a museum collection. Used for identification purposes and usually inscribed upon the object itself.</esp:termsdefinition>
+
+<esp:termsdefinition term="relief">See <esp:techterms term="bas-relief">bas-relief</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Residency">Post of senior representative of
+the <esp:techterms term="East India Company">East India
+Company</esp:techterms> (EIC) and/or that person's official residence; in
+early nineteenth-century
+Mesopotamia there were EIC Residencies at <esp:glossary term="Basra (place)">Basra</esp:glossary> and <esp:glossary term="Baghdad (place)">Baghdad</esp:glossary>.</esp:termsdefinition>
+
+<esp:termsdefinition term="restoration">Archaeological restoration involves preserving a building or settlement to help give researchers and visitors a sense of what it must have originally been like. Restoration should not damage the original fabric of the structure but it should also protect it from wear and tear. A closely related method is reconstruction, which uses new materials in the restoration. Good reconstruction projects are careful to differentiate the original structure from the new additions.</esp:termsdefinition>
+
+
+<esp:termsdefinition term="ring base">Many pots and containers are
+made with flat bases so that they can stand upright
+unsupported. Others have rounded bases to enable easy internal
+cleaning, or even heat distribution when suspended over a fire. In
+some cases, either of these types may have an extra horizontal ring added to the
+base for increased stability.</esp:termsdefinition>
+
+<esp:termsdefinition term="rite, ritual">At its simplest, a ritual is
+a socially agreed set of symbolic actions and/or utterances, performed
+in a stylised way. Rituals may be performed at set times or as the
+need arises. In Assyria rituals could have any combination of
+religous, magical, political, social, or healing significance; they
+could be perfomed by <esp:techterms term="scholar">scholars</esp:techterms>  or priests on behalf of a client (such as the king). The word "rite" is usually reserved to describe predominantly religious rituals. </esp:termsdefinition>
+
+<esp:termsdefinition term="rock crystal">Transparent type of quartz stone
+which looks like modern glass.</esp:termsdefinition>
+
+<esp:termsdefinition term="Royal Asiatic Society of Great Britain and Ireland">London-based learned society
+founded in 1823 to study the history, languages, cultures and
+religions of Asia, from the Middle East to the Far East and <esp:link
+rel="external" hide-print="yes" url="http://www.royalasiaticsociety.org/">still in
+existence today</esp:link>. In 1830 the
+<esp:glossary term="Bombay (place)">Bombay</esp:glossary>
+Literary Society (which had been running for some 25 years already)
+affiliated with it as the Bombay Branch of the Royal Asiatic Society,
+publishing its own journal.</esp:termsdefinition>
+
+<!-- S -->
+<esp:termsdefinition term="sacred marriage"><esp:techterms
+						term="rite, ritual">Ritual</esp:techterms>
+in which two deities, or a goddess and a king, were symbolically
+united. At Kalhu, the <esp:techterms
+term="akītu"><i>akītu</i></esp:techterms> ritual featured an annual marriage
+between the gods <esp:link page="nabu">Nabu</esp:link> and
+<esp:glossary term="Tašmetu (deity)">Tašmetu</esp:glossary>.</esp:termsdefinition>
+
+<esp:termsdefinition term="sacred tree">Modern name for the highly
+stylised tree shown on <esp:techterms
+term="bas-relief">bas-reliefs</esp:techterms> in the ceremonial spaces
+of Assyrian palaces, especially the <esp:link
+page="northwestpalace">Northwest Palace</esp:link> in Kalhu.</esp:termsdefinition>
+
+<esp:termsdefinition term="sage">Wise person; in Assyria, one of the
+seven semi-divine scholars from before the great <esp:techterms term="Flood">Flood</esp:techterms>, who brought
+wisdom and learning to humankind.</esp:termsdefinition>
+
+<esp:termsdefinition term="sanctions">In August 1990, in response to Iraq's invasion of Kuwait, the United Nations imposed a heavy ban on international trade and communication with Iraq. The original aim was to force the withdrawal of Iraqi troops without declaring war. However, even after the 1991 <esp:techterms term="Gulf War">Gulf War</esp:techterms>, the sanctions regime remained in place and was tightened further. It began to be lifted only after <esp:techterms term="Iraq War">Iraq War</esp:techterms> of 2003.</esp:termsdefinition>
+
+<esp:termsdefinition term="sarcophagus">Monumental coffin, usually
+made of stone.</esp:termsdefinition>
+
+<esp:termsdefinition term="scarab">Semi-precious stone cut in the
+shape of an oval beetle, with an inscription or decoration carved on
+the flat underside; often used as a <esp:techterms term="seal, sealing">seal</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="scholar">The Assyrian court employed a
+variety of learned, literate men to advise the king on his
+relationship with the gods. The scholars  included <esp:techterms term="astrologer">astrologers</esp:techterms>, <esp:techterms term="augur">augurs</esp:techterms>, <esp:techterms term="exorcist">exorcists</esp:techterms>, <esp:techterms term="haruspex">haruspices</esp:techterms>, <esp:techterms term="lamenter">lamenters</esp:techterms>, and <esp:techterms term="scribe">scribes</esp:techterms>. <esp:link page="professions">Such roles</esp:link>, and the specialist education they entailed, were often handed down <esp:link page="families">within families</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="scribe">Professionally literate person,
+who may have been as lowly as a secretary or as eminent and powerful
+as the king's senior <esp:techterms
+term="scholar">scholar</esp:techterms>. Scribes might write on
+<esp:techterms term="papyrus">papyrus</esp:techterms>  or
+<esp:techterms term="writing board">writing boards</esp:techterms>  as well as, or instead of, clay <esp:techterms term="tablet">tablets</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="seal, sealing"><esp:techterms
+					    term="tablet">Tablets</esp:techterms>,
+<esp:techterms term="writing board">writing boards</esp:techterms>,
+<esp:techterms term="papyrus">papyri</esp:techterms>, and other
+objects could be sealed with clay, either to prevent unauthorised
+access to them or to mark them with the symbol of the official or
+individual responsible for them. The sealing official either impressed
+the clay with a stamp-seal, or rolled out the inscribed or decorated
+surface of a cylinder-seal, and left it to dry before releasing the object.</esp:termsdefinition>
+
+<esp:termsdefinition term="Semitic language"><esp:techterms term="Akkadian">Akkadian</esp:techterms>, <esp:techterms term="Aramaic">Aramaic</esp:techterms>, and
+Hebrew and Arabic, amongst other languages, all share a set of common
+features. One of the monst important of these is that the basic
+meanings of words are carried by two to four <esp:link
+url="http://oracc.org/saao/knpp/cuneiformrevealed/akkadianlanguage/nounsandadjectives/#h_rootconsonantscarriersoflexicalconent"
+rel="external" hide-print="yes">root consonants</esp:link>,
+regardless of their grammatical function. The same roots may be
+shared, or changed a little, across Semitic languages too.</esp:termsdefinition>
+
+<esp:termsdefinition term="sickle">Large knife with a curved blade, used for harvesting grain but also as a weapon.</esp:termsdefinition>
+
+<esp:termsdefinition term="silver">In Assyrian times, most silver came
+from mines around the area of <esp:glossary term="Que (place)">Que</esp:glossary> in the northwest of the empire.</esp:termsdefinition>
+
+<esp:termsdefinition term="Society for Biblical Archaeology">British
+society of Egyptologists and Assyriologists, founded in London in 1870
+to discuss, publish, and promote research (not just archaeology) on
+the ancient Middle East (not just the Biblical lands). In the early
+20th century its membership declined dramatically as these subjects became increasingly
+embedded in British universities and it was eventually wound up.</esp:termsdefinition>
+
+<esp:termsdefinition term="squeeze">Impression of an inscription or
+carving made by pressing layers wet paper into it, leaving the paper
+to dry, and then peeling it off. The result is a mirror image of the
+original. Squeezes were a useful means of accurately copying
+inscriptions on immovable objects before photography became reliable
+but they were also fragile and difficult to reproduce. </esp:termsdefinition>
+
+<esp:termsdefinition term="Standard Babylonian">Literary dialect of <esp:techterms term="Akkadian">Akkadian</esp:techterms> in the first millennium BC, used in Assyria as well as <esp:glossary term="Babylonia (place)">Babylonia</esp:glossary>.</esp:termsdefinition>
+
+<esp:termsdefinition term="State Board of Antiquities and Heritage">Iraqi government authority in charge of
+managing archaeology, museum work, and related research, under the
+direction of the <esp:techterms term="Ministry of Culture">Ministry of Culture</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="stela, stele">Plural stelae. Large, standing stone monument, carved with inscriptions and/or images.</esp:termsdefinition>
+
+<esp:termsdefinition term="stereoview">Two slightly different photographic images, designed to be viewed together — one by the right eye, the other by the left — in order to create a sense of visual depth.</esp:termsdefinition>
+
+<esp:termsdefinition term="stratified">Having
+clear <esp:techterms term="stratigraphy">stratigraphy</esp:techterms>;
+unstratified excavation sites have usually been disturbed before the
+arrival of the archaeologists, for instance by long-ago burials or
+building works, or the activities of farmers or burrowing animals.</esp:termsdefinition>
+
+<esp:termsdefinition term="stratigraphy">Archaeological study of
+the different layers, or strata, left by human (or animal) occupation
+of a building or settlement over time. Individual stratigraphic layers
+often show up as different colours, textures or densities of earth in
+the excavation.</esp:termsdefinition>
+
+<esp:termsdefinition term="succession">In the Assyrian context,
+ensuring that the ruling king's nominated successor, his
+<esp:techterms term="crown prince">crown prince</esp:techterms>,
+becomes king in his turn.</esp:termsdefinition>
+
+<esp:termsdefinition term="stylus">Pointed writing implement, the
+size and shape of a pen, used to impress <esp:techterms
+term="cuneiform">cuneiform</esp:techterms>  signs on the surface of a
+<esp:techterms term="tablet">tablet</esp:techterms>  or a
+<esp:techterms term="writing board">writing
+board</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="survey">Archaeological survey involves investigating the surface of a site, or series of sites. It may include techniques such as examining pottery and other artefacts found on the surface in order to date the site, mapping the contours of the site(s), or taking soil samples at regular intervals. </esp:termsdefinition>
+
+
+<!-- T -->
+<esp:termsdefinition term="tablet">Most simply, a document made of
+clay, on which <esp:techterms
+term="cuneiform">cuneiform</esp:techterms>  writing was impressed with
+a reed <esp:techterms term="stylus">stylus</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Tablet of Destinies">Magnificent
+<esp:techterms term="lapis lazuli">lapis
+lazuli</esp:techterms> <esp:techterms term="tablet">tablet</esp:techterms>
+owned by the gods, on which they inscribed the fate of humankind. It was stolen by
+the evil <esp:glossary term="Anzu (deity)">Anzu</esp:glossary> and
+reclaimed by the god <esp:link
+page="ninurta">Ninurta</esp:link>. Likewise, the
+<esp:techterms term="seal, sealing">Seal</esp:techterms> of
+Destinies was used by the gods to sign particularly important
+documents such as <esp:link page="vte-intro">Esarhaddon's succession treaties</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="Tašritu"></esp:termsdefinition>
+
+<esp:termsdefinition term="temple steward">While the Assyrian term
+<i>lahhinnu</i> is a loan from a Hurrian word of unknown meaning, it is clear
+that it designates a high-ranking administrative temple
+official.</esp:termsdefinition>
+
+<esp:termsdefinition term="topographical map">In archaeology, a map that details the contours of a site, often in order to determine where the remains of structures mihght be lying under the surface.</esp:termsdefinition>
+
+<esp:termsdefinition term="torque">Decorative metal band worn tightly around
+the arm, emphasising the wearer's muscles; appears frequently on the
+king and <esp:techterms term="genie">genies</esp:techterms> on
+Assyrian palace
+<esp:techterms term="bas-relief">bas-reliefs</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="treason">Act of betraying one's country, or
+its current ruler.</esp:termsdefinition>
+
+<esp:termsdefinition term="trench">In archaeology, a narrow,
+rectangular hole cut into the surface of a site, layer by layer in
+order to expose and record the site's <esp:techterms
+term="stratigraphy">stratigraphy</esp:techterms> and any artefacts
+found in that context.</esp:termsdefinition>
+
+<esp:termsdefinition term="tribute">Annual payment by a <esp:techterms term="vassal">vassal</esp:techterms> state
+to the Assyrian king, either handed over at the border to a
+<esp:techterms term="governor">governor</esp:techterms>  or delivered
+by <esp:techterms term="emissary">emissaries</esp:techterms> to the
+king in person. This second option was seen as more dignified and prestigious.</esp:termsdefinition>
+
+<esp:termsdefinition term="type series">In archaeology, a collection
+of artefacts, especially pottery, that systematically shows a representative range
+and variety of shapes found at a particular site from a particular
+period in the past. This series of typical artefacts then serves as a
+standard reference set to help date or categorise
+material found at other sites.</esp:termsdefinition> 
+	
+
+<!-- V -->
+<esp:termsdefinition term="vassal">In relation to Assyria, a
+neighbouring state which was loyal to Assyria and paid regular
+<esp:techterms term="tribute">tribute</esp:techterms> to ensure
+Assyria's continuing protection and friendship but was still nominally
+independent from it. </esp:termsdefinition>
+
+<esp:termsdefinition term="viscid">Gluey or sticky; see also
+<esp:techterms term="gelatinous">gelatinous</esp:techterms>.</esp:termsdefinition>
+
+<esp:termsdefinition term="vizier">Very senior official
+(<esp:techterms term="magnate">magnate</esp:techterms>) in the king's
+personal retinue, who held high administrative functions within the
+empire and commanded a border <esp:techterms
+term="province">province</esp:techterms> of key strategic
+importance. </esp:termsdefinition>
+
+<esp:termsdefinition term="votive">Object or person dedicated to a
+deity, thereby becoming the property of the temple; see also
+<esp:techterms term="oblate">oblate</esp:techterms>.</esp:termsdefinition>
+
+<!-- W -->
+<esp:termsdefinition term="water buffalo">Large cattle with huge horns
+which spend a lot of time in rivers and marshes, and eat reeds and
+other aquatic plants. They are very
+strong and docile draft animals, and produce
+highly nutritious milk. Water buffalos probably originate in India but
+there have been significant populations in southern Iraq since at
+least the third millennium BC.</esp:termsdefinition>
+
+<esp:termsdefinition term="wedge">Basic component of <esp:techterms
+term="cuneiform">cuneiform</esp:techterms> script made by pushing the
+edge of a <esp:techterms term="stylus">stylus</esp:techterms> into the
+surface of a clay <esp:techterms term="tablet">tablet</esp:techterms>
+and lifting it up again. For more detail see the <esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/aboutcuneiform/wedgesandsigns/#h_wedges">Cuneiform Revealed</esp:link> website.</esp:termsdefinition>
+
+<esp:termsdefinition term="West Semitic">Subgroup of the
+<esp:techterms term="Semitic language">Semitic
+languages</esp:techterms> from Syria and the <esp:glossary term="Levant (place)">Levant</esp:glossary>; <esp:techterms
+term="Akkadian">Akkadian</esp:techterms>, by contrast, is the only
+Eastern member of this language family.</esp:termsdefinition>
+
+<esp:termsdefinition term="winged disk">Symbol originating in
+ancient <esp:glossary term="Egypt (place)">Egypt</esp:glossary>, consisting of a round centre flanked by two horizontal
+wings. On Assyrian palace <esp:techterms
+term="bas-relief">bas-reliefs</esp:techterms> it is always shown
+close the king's head. It may represent the divine aspect of
+kingship, or the sun-god <esp:glossary term="Šamaš (deity)">Šamaš</esp:glossary> or a
+combination of the two.</esp:termsdefinition>
+
+<esp:termsdefinition term="writing board"><esp:techterms
+					      term="scribe">Scribes</esp:techterms>
+often wrote on wooden boards which were covered in a thin layer of
+wax. The wax could be warmed to smooth the surface and erase the
+writing on it. Writing boards had the advantage of being more portable
+than <esp:techterms term="tablet">tablets</esp:techterms>  and could
+be hinged together to form <esp:techterms
+term="polyptych">polyptychs</esp:techterms>. Fortunately for modern
+scholarship, in Assyrian times the perishable writing board never completely replaced the relatively indestructible <esp:techterms term="tablet">tablet</esp:techterms>  - or we would have almost no surviving written evidence to work with.</esp:termsdefinition>
+
+<!-- Z -->
+<esp:termsdefinition term="ziggurat">Stepped tower in or near a
+temple precinct and itself a place of worship as well as a major
+landmark and symbol of a city's prestige. In Kalhu the ziggurat was
+associated with <esp:link page="ziggurat"
+bookmark="h_thezigguratandthetempleofninurta">Ninurta's
+temple</esp:link>.</esp:termsdefinition>
+
+<esp:termsdefinition term="xxxxxxxx"></esp:termsdefinition>
+
+					</esp:techterms-list>
+					
+					<esp:email address="nimrud@oracc.org"/>
+
+				<p>Content last modified: <esp:content-last-modified/>.</p>
+
+			</body>
+
+		</html>
+
+	</esp:page>
+

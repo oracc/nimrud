@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>On the mound</esp:name>
+	<esp:title>On and in the mound of Nimrud</esp:title>
+
+	<html><head></head><body>
+	
+	<p class="firstpara">The archaeological site of Nimrud has been the subject of investigation since the 1840s — a similar length of time to its heyday as Assyria's most important royal city. In the 19th century Nimrud was particularly associated with the British Museum, in the 20th with the British School of Archaeology in Iraq, now the <esp:techterms term="British Institute for the Study of Iraq">British Institute for the Study of Iraq</esp:techterms>. Teams from Poland, Italy, and Iraq have also worked on the site, as well as unaffiliated individuals, whether thieves or explorers. This section considers the changing images of the ancient city of Kalhu produced by successive generations of researchers.</p>
+	
+	<esp:image file="mound/layard_drnb_80.jpg" description="View of Nimrud from Layard, Discoveries in the Ruins of Nineveh and Babylon, p. 80" position="inline"><esp:caption><esp:bookmark id="img261"/><b>Image 1</b>: View of Nimrud in 1850 <esp:ref referent="layard1853" page="80"/></esp:caption></esp:image>
+
+	<p>It is a truism that our knowledge of the past is determined by archaeological happenstance. But we more rarely  focus on the socio-political factors that shape archaeological decision-making. As this section shows, it matters where archaeologists choose to dig: which sites they pick, which parts of the site they open up. But what they find is not the end of it. How they choose to interpret it is largely based on geographical and chronological factors beyond their control as well. </p> 
+
+<!-- <p>Each generation builds on the work of their predecessors. But new knowledge does not simply accumulate.
+None of our historical evidence comes directly from the 9th-century Assyrian city, but from the modern archaeological site. It has to have survived the late 7th-century destruction of the city, remained more or less intact over three millennia, and have happened to have been found and saved by moderns investigating the ruins. So the dataset is altered by time, and by archaeological choices: where to dig, how deep to go, which techniques of investigation and conservation to deploy.</p>
+
+<p>Further, what we can see depends on where we are looking from, as well as what we are looking for.  The view of Assyria from early 21st-century London is necessarily different from the view from, say, 19th-century Mosul. For we ourselves are historically situated, no more or less than the Assyrians or the Victorians, and we cannot help but impose our presuppositions about how things work—whether people, societies, states, or institutions—on our interpretations of the past. This is neither a problem nor a benefit, just an unavoidable consequence of the fact that we cannot remove ourselves from our own social worlds, and nor should we try to—but we can at least be aware of our positions.</p>  -->
+
+<p>So this section takes four pairs of snapshots of Kalhu, from Nimrud and London each 50 years apart, to try and recreate past views of the city. Explorers and academics from a different time, a different place, might have chosen to focus on different aspects of the site of Nimrud: its <esp:link page="latekalhu" bookmark="h_kalhuinthepostassyrianperiod">post-Assyrian occupation</esp:link>, its <esp:link page="earlykalhu">earliest settlement</esp:link>, life in the lower town, for instance. And they would have revealed a very different Kalhu than the one we think we know today.</p>
+
+<p>For a long time Kalhu, or rather Calah, existed only in the pages of the Biblical Old Testament. The Book of Genesis mentions Calah twice, as "a great city" near <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>, but says no more about it (<i>Gen</i> 10.11-12). That meant there was little to stimulate the imagination of readers, while for local people the place itself was just an irregularly shaped hill surrounded by farmland, near the modern village of Nimrud (<b>Image 1</b>). This story begins, then, in 1850, just a few years after work began on the ancient site. </p>
+
+<esp:h><esp:link page="nd1850">Kalhu in 1850</esp:link></esp:h>
+<esp:image file="mound/mw196242-4sq.jpg" description="NPG image of Layard, cropped" position="float"/>
+<p>By 1850, the young British explorer <esp:glossary term="Layard, Austen Henry (person)">Austen Henry Layard</esp:glossary> had been tunnelling into the site of Nimrud, on and off, for the past five years. He had found a <esp:link page="stonegenies">spectacular series of sculptures</esp:link> and other objects, and shipped them home to the <esp:techterms term="British Museum">British Museum</esp:techterms>. He had mapped the rooms of a series of palaces, which seemed to belong to the fabled Old Testament city of <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>. Back in London, his lively writings and illustrations had captured the imaginations of the Christian establishment and the men of empire alike. It was now time to leave Nimrud behind for a new career in diplomacy - but the names of Layard and Nimrud would remain inseparable for a long, long time to come.</p>
+
+<esp:h><esp:link page="nd1900">Kalhu in 1900</esp:link></esp:h>
+<esp:image file="mound/nimrud-ziggurat-stereoview-c1910-4sq.jpg" description="Close up of local man at Nimrud, c.1910, cropped" position="float"/>
+<p>If in 1850 ancient Kalhu was not yet clearly visible from the modern site of Nimrud, by 1900 Nimrud itself had lost all geographical reality in the English speaking world. There could be no view of Kalhu from Nimrud because there was no-one on site, and no-one of any academic authority had set foot there for decades. And for the new generation of university-based <esp:techterms term="Assyriology">Assyriologists</esp:techterms>, the heroic story of Layard's adventures still overshadowed attempts to understand the ancient city.</p>
+
+<esp:h><esp:link page="nd1950">Kalhu in 1950</esp:link></esp:h>
+<esp:image file="mound/INT-F-417545-000-4sq.png" description="Agatha Christie at Nimrud, 1956, cropped" position="float"/>
+
+<p>By 1950, at last, serious investigations were underway to reveal the geography and history of the ancient city of Kalhu. Under the direction of <esp:glossary term="Mallowan, Max (person)">Max Mallowan</esp:glossary> the archaeological site of Nimrud was active again, for the first time in about a hundred years. Much had changed in attitudes and approaches over the past century but much had stayed surprisingly the same.</p>
+
+<esp:h><esp:link page="nd2000">Kalhu in 2000</esp:link></esp:h>
+<esp:image file="mound/muzahim_tomb_er_4sq.jpg" description="Muzahim Mahmoud and Heather Baker at Nimrud 2001" position="float"/>
+<p>Around the year 2000, ancient Kalhu was much more visible than it had ever been before, while the site of Nimrud had never been less accessible. The second half of the twentieth century had brought dramatic changes in the ways ancient Kalhu was studied and viewed. Work on site was forced to a halt by <esp:techterms term="Gulf War">war in 1990</esp:techterms>, but this enabled a period of re-analysis and synthesis of earlier work. At the turn of the new millennium, a decade of far-reaching <esp:techterms term="sanctions">UN sanctions</esp:techterms> on Iraq seemed to be coming to an end, encouraging archaeologists to travel to and from Iraq, and new international working relationships to be forged.</p>
+
+<esp:h><esp:link page="ndnow">Kalhu in 2015</esp:link></esp:h>
+<esp:image file="mound/factum_arte_ashurnasirpal_02_4sq.jpg" description="Factum Arte staff scanning at the British Museum" position="float"/>
+<p>Right now, in the summer of 2015, the name of Nimrud is better known globally than at any time before. Yet the site itself is under <esp:techterms term="Da'esh/ISIS">jihadi occupation</esp:techterms> and the <esp:link page="northwestpalace">Northwest Palace</esp:link> has been destroyed. Archaeologists, museum staff and university academics in <esp:glossary term="Mosul (place)">Mosul</esp:glossary> have been forced from their jobs, and many have fled to safer places. Only when Daʾesh/ISIS has been expelled from northern Iraq will it be possible to truly assess its current state. Meanwhile new computer-based techniques can help to the prepare for <esp:techterms term="restoration">restoration</esp:techterms> and a new phase of research.</p>
+
+
+<esp:h><esp:link page="ndtimeline">Timeline of excavations</esp:link></esp:h>
+<esp:image file="mound/layard_monuments_1_III_2000_4sq.jpg" description="Layard's plan of Northwest place, showing removed bas-reliefs" position="float"/>
+<p>For a more conventional overview of the site's history, this page gives a brief summary of archaeological work carried out at Nimrud over the past two centuries.</p>
+
+<p><i>This section of the website is based on Eleanor Robson's talk <esp:link url="/nimrud/images/tale-of-two-cities-poster.jpg">A Tale of Two Cities</esp:link> given at UC Berkeley in September 2014.</i></p> 
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+<esp:email address="nimrud@oracc.org"/>
+<esp:content-last-modified/>
+
+
+
+
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Professions</esp:name>
+	<esp:title>Assyrian scholarly professions</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Several different scholarly professions are attested at the royal court at Kalhu, in literary works, colophons, letters, administrative records and legal documents. The <esp:link bookmark="ummanu"><i>ummânu</i></esp:link> ("chief scribe") was the king's most trusted scholarly advisor. There were also <esp:link bookmark="baru">diviners</esp:link>, <esp:link bookmark="ashipu">healers</esp:link>, and <esp:link bookmark="kalu">lamenters</esp:link>.</p>
+
+<esp:h><esp:bookmark id="ummanu"/>The king's senior scholar</esp:h>
+
+<esp:image file="ancientcity/P370882.png" description="Synchronistic king list" position="float"><esp:link url="http://cdli.ucla.edu/dl/lineart/P370882_l.jpg" title="View large image of synchronistic king list on CDLI" hide-print="yes"/><esp:caption><esp:bookmark id="img241"><b>Image 1.</b> The so-call Synchronistic King List systematically names the <i>ummânus</i> of Assyrian kings <esp:ref referent="grayson1980-83" page="116–21"/>.</esp:bookmark> Unlocated collection, <esp:link url="http://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp;ObjectID=P370882" rel="external" hide-print="yes">CDLI P370882</esp:link>. <esp:link url="http://cdli.ucla.edu/dl/lineart/P370882_l.jpg" title="View large image of synchronistic king list on CDLI" hide-print="yes">View large image on CDLI</esp:link>.</esp:caption></esp:image>
+
+
+<p>The Assyrian king appointed one particularly wise and trustworthy man to be his senior <esp:techterms term="scholar">scholar</esp:techterms>. The literary term for this role was <i>ummânu</i> ("expert") but in more everyday contexts people used the phrases <i>rab ṭupšarri</i> ("chief scribe"), <i>ṭupšar šarri</i> ("king's scribe"), or variants on them.</p>
+
+<p>The so-called <esp:link url="http://www.livius.org/k/kinglist/synchronic.html" hide-print="yes" rel="external"
+title="Translation of the Synchronistic King List on Livius">Synchronistic King List</esp:link> (King List 12) aligns the names of Assyrian kings with their royal counterparts in <esp:glossary term="Babylonia (place)">Babylonia</esp:glossary> (<esp:link bookmark="img241"><b>Image 1</b></esp:link>). From the early 9th century BC it also gives the names of each Assyrian ruler's <i>ummânu</i>. Unfortunately there is a large gap in the <esp:techterms term="tablet">tablet</esp:techterms> but these are the names that survive:</p>
+
+<dl>
+<dt><esp:glossary term="Gabbu-ilani-ereš (person)">Gabbu-ilani-ereš</esp:glossary></dt>
+<dd><i>ummânu</i> of <esp:glossary term="Tukulti-Ninurta II (person)">Tukulti-Ninurta II</esp:glossary> and <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link></dd>
+<dt><esp:glossary term="Meluhhaya (person)">Meluhhaya</esp:glossary></dt>
+<dd><i>ummânu</i> of <esp:link page="shalmaneser3">Shalmaneser III</esp:link></dd>
+<dd>(gap)</dd>
+<dt><esp:glossary term="Nabu-aplu-iddina (person)">Nabu-aplu-iddina</esp:glossary>, <esp:glossary term="Bel-upahhir (person)">Bel-upahhir</esp:glossary> and <esp:glossary term="Kalbu (person)">Kalbu</esp:glossary></dt>
+<dd><i>ummânus</i> of <esp:glossary term="Sennacherib (person)">Sennacherib</esp:glossary></dd>
+<dt><esp:glossary term="Nabu-zeru-lešir (person)">Nabu-zeru-lešir</esp:glossary></dt>
+<dd><i>ummânu</i> of <esp:glossary term="Esarhaddon (person)">Esarhaddon</esp:glossary></dd>
+<dt><esp:glossary term="Ištar-šumu-ereš (person)">Ištar-šumu-ereš</esp:glossary></dt>
+<dd><i>ummânu</i> of Esarhaddon and <esp:glossary term="Assurbanipal (person)">Assurbanipal</esp:glossary></dd>
+</dl>
+
+<p>The father and son Nabu-zeru-lešir and Ištar-šumu-ereš are well known from 7th-century court letters and scholarly writings. They traced
+their ancestry back to <esp:glossary term="Gabbu-ilani-ereš (person)">Gabbu-ilani-ereš</esp:glossary>, the very first Assyrian <i>ummânu</i>, who must have moved from <esp:glossary term="Assur (place)">Assur</esp:glossary> to Kalhu with king Assurnasirpal II in the early 9th century. Although the court mainly met in <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> by this time, the family still had close links to Kalhu.</p>
+
+<p>However, the descendants of <esp:link page="families" bookmark="h_thedescendantsofgabbuilaniere">Gabbu-ilani-ereš</esp:link> did not have a monopoly on the position of <i>ummânu</i>. <esp:techterms term="colophon">Colophons</esp:techterms> on scholarly tablets from Kalhu tell us that other men held that title at some periods of the 8th century BC:</p>
+
+<dl>
+<dt><esp:glossary term="Marduk-[...] (person)">Marduk-[...]</esp:glossary>, son of <esp:glossary term="Babilayu (person)">Babilayu</esp:glossary>, descendant of <esp:link page="families"
+bookmark="h_thedescendantsofitaranumuukin">Ištaran-šumu-ukin</esp:link></dt>
+<dd><i>ṭupšar šarri</i> ("king's scribe") and <i>ummânu</i> of
+<esp:glossary term="Adad-nerari III (person)">Adad-nerari III</esp:glossary> (r. 810-783 BC) (according to <esp:link rel="external"
+hide-print="yes" url="http://oracc.org/cams/gkab/P363423">CTN 4: 8</esp:link>, written in 787 BC)</dd>
+
+<dt><esp:glossary term="Nabu-šallimšunu (person)">Nabu-šallimšunu</esp:glossary>, son of Harmakki</dt>
+<dd><i>ṭupšar šarri rabû</i> ("king's senior scribe"), <i>rab ṭupšarri</i> ("chief scribe") and <i>ummânu</i> of <esp:glossary term="Sargon II (person)">Sargon II</esp:glossary> in Kalhu. He was the author of the famous <em>Letter to Aššur</em> documenting Sargon's <esp:link page="nabu" bookmark="musasir">victory over Muṣaṣir</esp:link> in 714 BC, and also performed royal <esp:techterms term="rite, ritual">rituals</esp:techterms> in Assur that same year <esp:ref referent="mayer1983"/> <esp:ref referent="vandriel1969" page="198-205"/>.</dd>
+
+<dt><esp:glossary term="Nabu-zuqup-kenu (person)">Nabu-zuqup-kenu</esp:glossary>, descendant of Gabbu-ilani-ereš</dt>
+<dd>Nabu-zuqup-kenu himself modestly only uses the title <i>ṭupšarru</i> ("scribe") in his scholarly writings from the period 716-683 BC,
+at Kalhu and perhaps elsewhere. But he may have succeeded Nabu-šallimšunu as Sargon II's <i>ummânu</i>, helping to restablish the Gabbu-ilani-ereš family's claim to the title.</dd>
+</dl>
+
+<esp:image file="ancientcity/ND-06219-obv.jpg" description="Cuneiform tablet listing wine rations" position="float"><esp:link url="http://cdli.ucla.edu/P370849" title="View large image of wine ration list on CDLI" hide-print="yes"/><esp:caption><esp:bookmark id="img242"><b>Image 2.</b> A wine distribution list for courtiers in 8th-century Kalhu, found in Fort Shalmaneser; the scholars come way down the pecking order</esp:bookmark> (CTN 1: 6). British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1641749&amp;partId=1" rel="external" hide-print="yes">ND 6219</esp:link>. <esp:link url="http://cdli.ucla.edu/P370849" title="View large image of wine ration list on CDLI" hide-print="yes">View large image on CDLI (P370849)</esp:link>.</esp:caption></esp:image>
+
+<esp:h><esp:bookmark id="winelists"/>Scholars at court in 8th century Kalhu</esp:h>
+
+<p>About 30 ration lists of bread and wine found in <esp:link page="fortshalmaneser">Fort Shalmaneser</esp:link> (the so-called <esp:techterms term="Nimrud Wine Lists">Nimrud Wine Lists</esp:techterms>) date from the reigns of <esp:glossary term="Adad-nerari III (person)">Adad-nerari III</esp:glossary> and <esp:glossary term="Tiglath-pileser III (person)">Tiglath-pileser III</esp:glossary>. It is still disputed whether these texts represent regular allocations to court personnel and visiting dignitaries or extra distributions on special occasions. Either way, because they list the recipients in order of importance, they give us a glimpse into palace hierarchies in the 8th century BC.</p> 
+
+<p>On this evidence, perhaps surprisingly, it seems that the king did not hold his regular court scholars in particularly high regard (<esp:link bookmark="img242"><b>Image 2</b></esp:link>). Rather, he gave pride of place to the <i>dāgil iṣṣūrī</i> (<esp:techterms term="augur">"augurs"</esp:techterms>), from Assyria’s northwestern <esp:techterms term="vassal">vassal</esp:techterms> and close ally <esp:glossary term="Commagene (place)">Commagene</esp:glossary>. These augurs divined the future from observing the flights of birds following a long-standing Syro-<esp:glossary term="Anatolia (place)">Anatolian</esp:glossary> tradition. As Karen Radner argues, they were quite likely diplomatic visitors or long-term envoys and may have participated in an annual spring festival for the storm-god <esp:glossary term="Adad (deity)">Adad</esp:glossary> <esp:ref referent="radner2009" page="231–233"/>.</p>  
+
+<p>Local scholars came much further down the lists of bread and wine given out on such occasions, and were never named in person. The
+ <esp:link bookmark="baru"><i>bārû</i></esp:link>-<esp:techterms term="diviner">diviners</esp:techterms>  - once or twice described as <i>kaššaya</i> ("Kassite" or Babylonian) - always preceeded the <esp:link bookmark="ashipu"><i>āšipu</i></esp:link>-healers and the <esp:link bookmark="asu"><i>asû</i></esp:link>-healers usually ranked bottom. Now and again, though, the <i>rab asî</i> ("chief <i>asû</i>-healer") headed the group of scholars.</p> 
+
+<ul>
+<li><i>dāgil iṣṣūri</i>-augurs, 784, 735?, 734? BC (CTN 1: 3, 8?, 9?,
+14?, 16?, 29 <esp:ref referent="kinnierwilson1972"/>)</li>
+<li><i>dāgil iṣṣūri kummuhaya</i>, Commagene augurs, 784 BC (CTN 1: 3
+= CTN 3 : 145 <esp:ref referent="dalleypostgate1984"/>);</li>
+<li><i>bārû</i>-diviners, c.780, 735 BC (CTN 1: 6, 8, 12, 13, 15, 16, 19, 20, 35; CTN 3: 120);</li>
+<li><i>bārû kaššaya</i>, Babylonian diviners, c.780 BC (CTN 1: 30 = CTN 3: 120; CTN 1: 35)</li>
+<li><i>āšipu</i>-healers, c.780, 735 BC (CTN 1: 6, 8, 13, 15, 16, 19, 35; CTN 3: 146);</li>
+<li><i>asû</i>-healers, c.780, 735 BC (CTN 1: 8, 15; CTN 3: 122, 133, 139);</li>
+<li><i>rab asî</i>, c.780 BC (CTN 1: 6, 19, 35).</li>
+</ul>
+
+
+
+<esp:h><esp:bookmark id="ashipu"/><i>āšipu</i>-healers</esp:h>
+
+<esp:image file="ancientcity/Met-ME51_72_4.jpg" description="Clay plaque with fish-man figure" position="float"><esp:link url="http://www.metmuseum.org/collection/the-collection-online/search/324161" hide-print="yes"/><esp:caption><esp:bookmark id="img243"><b>Image 3.</b> A small clay plaque depicting an <i>āšipu</i>-healer dressed in a fish-shaped cloak and performing a purification ritual.</esp:bookmark> Metropolitan Museum of Art, <esp:link url="http://www.metmuseum.org/collection/the-collection-online/search/324161" hide-print="yes">51.72.4</esp:link>. Met Museum <esp:link url="http://www.metmuseum.org/research/image-resources" hide-print="yes">OASC licence</esp:link>. <esp:link url="http://www.metmuseum.org/collection/the-collection-online/search/324161" hide-print="yes">View large image on the Met Museum's website.</esp:link></esp:caption></esp:image>
+
+<p>The Assyrian word <i>āšipu</i> is often translated <esp:techterms term="exorcist">"exorcist"</esp:techterms> but this unhappy term does not capture the range and importance of this profession's work. As explained on the Knowledge and Power website, court <i>āšipus</i> in 7th century <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> <esp:link url="http://oracc.org/saao/knpp/essentials/lamentationritual" hide-print="yes" rel="external">protected the king from harm</esp:link> through ritual purification, and <esp:link url="http://oracc.org/saao/knpp/essentials/medicinehealing" hide-print="yes" rel="external">helped to heal him</esp:link> in body and spirit (<esp:link bookmark="img243"><b>Image 3</b></esp:link>).</p>
+
+<p>The profession of <i>āšip šarri</i> ("king's healer") is attested at Kalhu from the ninth to the seventh centuries BC. For the early
+period we have little more than names on scholarly tablets from <esp:link page="ezida">the Ezida temple</esp:link>:</p>
+
+<dl>
+<dt><esp:glossary term="Ištaran-mudammiq (person)">Ištaran-mudammiq</esp:glossary></dt> 
+<dd>who served Assurnasirpal II (<esp:link rel="external"
+hide-print="yes" url="http://oracc.org/cams/gkab/P363423,P363473,P363517">CTN 4: 8,
+58, 103</esp:link>)</dd>
+<dt><esp:glossary term="Nabu-mudammiq (person)">Nabu-mudammiq</esp:glossary></dt>
+<dd>Ištaran-mudammiq's son, c.850 BC (<esp:link rel="external"
+hide-print="yes" url="http://oracc.org/cams/gkab/P363423,P363661,P363517">CTN 4: 8, 103, 247</esp:link>)</dd>
+<dt><esp:glossary term="Babilayu (person)">Babilayu</esp:glossary></dt>
+<dd>Ištaran-mudammiq's grandson, c.820 (<esp:link rel="external"
+hide-print="yes" url="http://oracc.org/cams/gkab/P363423,P363661,P363517">CTN 4: 8, 103?, 247</esp:link>)</dd>
+</dl>
+
+<p>These men were all descendants of Ištaran-šumu-ukin, that is, from the same family as Adad-nerari III's <esp:link bookmark="ummanu"><i>ummânu</i></esp:link> Marduk-[...]. To judge from the archaeological <esp:techterms term="findspot">findspots</esp:techterms> of their tablets, these men were based at Nabu's temple, <esp:link page="ezida">Ezida</esp:link>, in Kalhu.</p>
+
+<p>This location continued to be closely linked to royal <i>āšipus</i> in the early 7th century BC. However, by that time, the Gabbu-ilani-ereš family had taken over. We have much more information about these men, not only from the colophons of their scholarly tablets but also from royal correspondence:</p>
+
+<dl>
+<dt><esp:glossary term="Adad-šumu-uṣur (person)">Adad-šumu-uṣur</esp:glossary>, <i>āšip šarri</i>, <i>rab āšipī</i>,
+<i>šangamahhu</i> of Esarhaddon</dt>
+<dd>This man was the son of Nabu-zuqup-kenu, descendant of Gabbu-ilani-ereš. He is attested in the reigns of Esarhaddon and Assurbanipal, last mentioned in 666 BC. At least some of Adad-šumu-uṣur’s letters and astrological reports to his royal masters were sent from Kalhu (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P336448,P240347,P336237,P336554">SAA
+8: 160–163</esp:link>; <esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa10/corpus">SAA 10</esp:link>: 185-232). He deposited scholarly works in Ezida (<esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/P363460,P363489,P363493,P363503">CTN 4: 45, 74?, 78?, 89?</esp:link>) and performed <esp:techterms term="rite, ritual">ritual</esp:techterms> measures against fungus in that temple (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334243">SAA 13: 71</esp:link>).</dd>
+
+<dt><esp:glossary term="Šumaya (person)">Šumaya</esp:glossary>, <i>āšipu</i> of Esarhaddon</dt>
+<dd>Šumaya was Adad-šumu-uṣur's nephew. He requested permission from <esp:techterms term="crown prince">crown prince</esp:techterms> Assurbanipal to inherit his dead father Nabu-šumu-lešir's position in Kalhu (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334608">SAA 16: 34</esp:link>) and may have copied scholarly tablets for Ezida (<esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/P363474,P363489,P363493,P363503">CTN 4: 59?, 74?, 78?, 89?</esp:link>).</dd>
+
+<dt><esp:glossary term="Banunu (person)">Banunu</esp:glossary>, <i>āšipu</i></dt>
+<dd>This man, of unknown family, copied scholarly works for Ezida in the 7th century (<esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/P363476,P363530,P363599,P363602,P363606">CTN 4: 61, 116, 185?, 188, 192</esp:link>).</dd>
+
+<dt><esp:glossary term="Marduk-šakin-šumi (person)">Marduk-šakin-šumi</esp:glossary>, <i>rab āšipī</i></dt>
+<dd>Adad-šumu-uṣur's successor consulted tablets in Kalhu in
+preparation for a ritual with the <esp:techterms term="queen mother">queen mother</esp:techterms> (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334315,P334744">SAA 10: 245-246</esp:link>) and recommended that an <esp:techterms term="apotropaic">apotropaic</esp:techterms> ritual to be performed in Kalhu as well as Nineveh (<esp:link rel="external" hide-print="yes"
+url="http://oracc.org/saao/knpp/P333975,P313764">SAA 10: 240, 271</esp:link>).</dd>
+
+<dt><esp:glossary term="Nabu-nadin-šumi (person)">Nabu-nadin-šumi</esp:glossary>, <i>āšipu</i></dt>
+<dd>He apologises to Esarhaddon that he has been uncontactable in Kalhu (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P333958">SAA 10: 228</esp:link>).</dd>
+</dl>
+
+<esp:h><esp:bookmark id="asu"/><i>asû</i>-healers</esp:h>
+
+<p>The <i>asû</i>-healers worked closely with their <i>āšipu</i> colleagues, at least in the Assyrian court of 7th century Nineveh. We don't know much about their activities at Kalhu, and they don't seem to have been associated with Nabu's temple there (they were by and large secular). But three are mentioned by name in early 8th century administrative documents:</p>
+
+<dl>
+<dt><esp:glossary term="Nabu-šumu-ibni (person)">Nabu-šumu-ibni</esp:glossary>, <i>asû</i></dt>
+<dd>Witness in a <esp:link page="legaldocuments">legal
+document</esp:link>, 797 BC (CTN 2 <esp:ref referent="postgate1973"/>: 51)</dd>
+<dt><esp:glossary term="Bur-Zinani (person)">Bur-Zinani</esp:glossary>, <i>asû</i></dt>
+<dd>Acts as a witness in a legal document from the <esp:link page="governorspalace">Governor's Palace</esp:link>; receives <esp:link bookmark="winelists">wine rations</esp:link>, 784?, 779 BC (CTN 2: 68; CTN 1 <esp:ref referent="kinnierwilson1972"/>: 2 = CTN 3 <esp:ref referent="dalleypostgate1984"/>: 145; CTN 1: 3; 18)</dd>
+<dt><esp:glossary term="Birtayu (person)">Birtayu</esp:glossary>, <i>asû</i> of the chief <esp:techterms term="eunuch">eunuch</esp:techterms></dt>
+<dd>Witness in the legal document of a <esp:link bookmark="baru"><i>bārû</i></esp:link>, 783 BC (CTN 2: 17)</dd>
+</dl>
+
+
+<esp:h><esp:bookmark id="teae"/><i>ṭupšar Enūma Anu Ellil</i> experts</esp:h>
+
+<esp:image file="ancientcity/ND-4357-obverse.jpg" description="Celestial omen tablet" position="float"><esp:link url="/nimrud/images/ancientcity/ND-4357-large.jpg" title="View large image of celestial omen tablet" hide-print="yes"/><esp:caption><esp:bookmark id="img244"><b>Image 4.</b> Tablet from the celestial omen series <i>Enūma Anu Ellil</i>, found in Nabu's temple (<esp:link url="http://oracc.org/cams/gkab/P363420" rel="external" hide-print="yes">CTN 4: 5</esp:link>).</esp:bookmark> British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1606100&amp;partId=1" rel="external" hide-print="yes">ND 4357</esp:link>. <esp:link url="/nimrud/images/ancientcity/ND-4357-large.jpg" title="View large image of celestial omen tablet" hide-print="yes">View large image (634 KB)</esp:link>.</esp:caption></esp:image>
+
+<p>The profession known as <i>ṭupšar Enūma Anu Ellil</i> (literally "scribes of the <esp:techterms term="celestial">celestial</esp:techterms> <esp:techterms term="omen">omen</esp:techterms> series <esp:techterms term="Enūma Anu Ellil">When the gods Anu Ellil (and Ea)</esp:techterms>") are often described as <esp:techterms term="astrologer">astrologers</esp:techterms> (<esp:link bookmark="img244"><b>Image 4</b></esp:link>). We should be wary of this designation, though. They did not cast horoscopes (and could not have done, centuries before the invention of the zodiac). Nor were they concerned only with the night sky. Rather, they read the gods' intentions for the Assyrian empire through <esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/essentials/celestialterrestrialdivination/">observing ominous events in the heavens and on the earth</esp:link>, as described on the Knowledge and Power website.</p>
+
+<p>We know of no <i>ṭupšar Enūma Anu Ellil</i> active at Kalhu in the 9th or 8th centuries BC. In the 7th century (when we have the richest evidence), kings Esarhaddon and Assurbanipal received reports from many central Assyrian and northern Babylonian cities. Many of the men who sent these omen reports to the king were also engaged in other scholarly activities. It is likely, then, that  <i>ṭupšar Enūma Anu Ellil</i> was not a primary professional designation but a secondary role that scholars played.</p>
+ 
+<dl>
+<dt><esp:glossary term="Baba-šumu-iddina (person)">Baba-šumu-iddina</esp:glossary></dt>
+<dd>This man wrote twice to Assurbanipal that he had observed a lunar eclipse on a cloudy night (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334605,P334604">SAA 10: 134–135</esp:link>).</dd>
+<dd>Possibly relating to the same incident, the king was urged that a report from Kalhu should be checked in Assur and <esp:glossary term="Arbela (place)">Arbela</esp:glossary> (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P314324">SAA 10: 151</esp:link>).</dd>
+</dl>
+
+
+<esp:h><esp:bookmark id="baru"/><i>bārû</i>-diviners</esp:h>
+
+<esp:image file="ancientcity/ND-4307-exterior.jpg" description="Clay model of a sheep's lungs" position="float"><esp:link url="/nimrud/images/ancientcity/ND-4307-exterior-large.jpg" title="View large image of clay model of a sheep's lungs" hide-print="yes"/><esp:caption><esp:bookmark id="img245"><b>Image 5.</b> Inscribed clay model of a sheep's lungs, found on the street outside Nabu's temple in Kalhu (CTN 4: 60, photos pl. 147).</esp:bookmark>. Iraq Museum, IM 64183, 9 cm long. <esp:link url="/nimrud/images/ancientcity/ND-4307-exterior-large.jpg" title="View large image of clay model of a sheep's lungs" hide-print="yes">View large image (224 KB)</esp:link>.</esp:caption></esp:image>
+
+<p>The primary role of the <i>bārû</i> was to confirm or refute the advice, rumours and prophecies that reached the ear of the king. This profession worked in teams, isolated from other members of court who might influence them, to <esp:link url="http://oracc.org/saao/knpp/essentials/sacrificialdivination" hide-print="yes" rel="external">perform sacrificial divination</esp:link>, as described on the Knowledge and Power website. They asked the gods a yes-no question on behalf of the king, as part of a ritual performed in a public space in the palace, then helped him to make sense of the answer that was inscribed in the entrails of a sacrificed animal (<esp:link bookmark="img245"><b>Image 5</b></esp:link>).</p> 
+
+<p>We know the name of only one <i>bārû</i> in early 8th century Kalhu:</p>
+
+<dl>
+<dt><esp:glossary term="Samuti (person)">Samuti</esp:glossary>, <i>bāri šarri</i> ("king's diviner") of Adad-nerari III</dt>
+<dd>This man buys land from a eunuch, as recorded in a legal documented witnessed by the chief eunuch's <esp:link bookmark="asu"><i>asû</i></esp:link>, 783 BC (CTN 2 <esp:ref referent="postgate1973"/>: 17)</dd>
+</dl>
+
+<p>However, as we have seen from the Nimrud Wine Lists, both Assyrian and Babylonian <i>bārûs</i> were allocated wine for court feasts at that time. </p>
+
+<p>In the early 7th century BC, Esarhaddon had some <i>bārûtu</i>-divinations carried out at Kalhu (<esp:link rel="external" hide-print="yes"
+url="http://oracc.org/saao/knpp/P238987,P336279">SAA 4: 122, 183</esp:link>).</p>
+
+<p>No works of <i>bārûtu</i> - the art of the diviner - survive in the Kalhu Ezida. Given their professional segregation it is unlikely that <i>bārû</i>-diviners were ever closely involved with Nabu's temple.</p>
+
+<esp:h><esp:bookmark id="kalu"/><i>kalû</i>-lamenters</esp:h>
+
+<p>The lamenter's role was to respond to negative omens or other divine messages, through ritual acts of penitence on behalf of the king. They often worked in collaboration with <i>āšipus</i> and <i>ṭupšar Enūma Anu Ellil</i>, at least in 7th century Nineveh. We don't know much about their activities in Kalhu, however, because as temple personnel, they came to the king’s attention only when they were misbehaving.</p>
+
+<p>Lamenters were not part of the courtly retinue that received wine rations in the 8th century BC. Nor, so far as we know, did they write scholarly tablets for Ezida — unless we count <esp:glossary term="Nabu-leʾi (person)"><b>Nabu-leʾi</b></esp:glossary> (professional title unknown), son of the lamenter <esp:glossary term="Urad-Ea (person)">Urad-Ea</esp:glossary> (<esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/P363601">CTN 4: 187</esp:link>).</p>
+
+<dl>
+<dt><esp:glossary term="Pulu (person)">Pulu</esp:glossary>, <i>kalû</i></dt>
+<dd>He worked in Ezida in the early 7th century, reporting to the king that a sheep slaughtered there for sacrifice had defective (and therefore potentially ominous) kidneys (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334619,P334620">SAA 10: 131, 133</esp:link>). However, the <i>bārû</i> did not normally consider the kidneys to be ominous organs. A colleague (whose name is now lost) complained at great length to the king about the liberties Pulu was taking in the conduct of the Ezida's cult (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334605">SAA 10: 134</esp:link>).</dd>
+<dt><esp:glossary term="Nabu-eriba (person)">Nabu-eriba</esp:glossary>, <i>kalû</i></dt>
+<dd>All was not well in Ninurta's temple either. Its <i>šangû</i>-priest, <esp:glossary term="Aššur-reṣuwa (person)">Aššur-reṣuwa</esp:glossary>, complained to the king that Nabu-eriba had been stealing precious metals from its decor, in cahoots with the temple guard (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334340">SAA 13: 128</esp:link>).</dd>
+</dl>
+
+<esp:h><esp:bookmark id="kalu"/><i>raggim(t)u</i>-prophet(esse)s</esp:h>
+
+<p><esp:techterms term="prophet(ess)">Prophets</esp:techterms> (literally "shouters") received <esp:techterms term="ecstatic">ecstatic</esp:techterms> revelations from the gods that were reported to the king. Uneducated, non-elite, and mostly female, they were outside the scholarly system. Diviners could be asked to check the veracity of their claims. Most surviving Assyrian prophecies are from women associated with the goddess Ištar's temple in Arbela, including one for Esarhaddon by <b><esp:glossary term="Urkittu-šarrat (person)">Urkittu-šarrat</esp:glossary></b>, who was originally from Kalhu (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P337152">SAA 9: 2</esp:link>).</p>
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+<esp:email address="nimrud@oracc.org"/>
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<param:parameters 
+	xmlns:param="http://oracc.org/ns/esp-param/1.0"
+        xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<param:title>Nimrud: Materialities of Assyrian Knowledge Production</param:title><!-- used at head of page and in citations -->
+	<param:publisher>The Nimrud Project at Oracc.org</param:publisher><!-- used in citations -->
+	<param:host>http://oracc.museum.upenn.edu</param:host>
+	<param:root>/nimrud</param:root>
+	<param:cuneify switcher="no" default="no" />
+	<param:common-headers>
+		<meta name="DC.publisher" content="Nimrud Project, Department of History and Philosophy of Science, University of Cambridge, Free School Lane, Cambridge CB2 3RH, UK"/>
+		<meta name="DC.language" scheme="ISO 639-2/T" content="eng"/>
+		<meta name="DC.rights.copyright" content="Creative Commons SA 3.0 2013"/>
+		<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" /> 	
+		<meta name="DC.format" content="text/html"/>
+		<!--<script type="text/javascript" src="/library.js"></script>-->
+	<!--	<meta name="robots" content="noindex,nofollow"/> -->
+	</param:common-headers>
+	<param:dc-id-prefix>nimrud-oracc-museum-upenn-edu/page/</param:dc-id-prefix>
+	<param:main-menu-caption>Main menu</param:main-menu-caption>
+	<param:footer>The Nimrud Project at <esp:link url="http://oracc.org/" hide-print="yes">Oracc.org</esp:link> / Content released under a <esp:link url="http://creativecommons.org/licenses/by-sa/3.0/" hide-print="yes">CC BY-SA 3.0</esp:link> licence, 2013-14<br/>
+<small>Oracc sites use cookies only to collect Google Analytics data. Read more <esp:link page="privacy">here</esp:link>; see the stats <esp:link url="http://www.seethestats.com/site/oracc.museum.upenn.edu" rel="external" hide-print="yes">here</esp:link>; opt out <esp:link url="http://tools.google.com/dlpage/gaoptout" rel="external" hide-print="yes">here</esp:link>.</small></param:footer>
+</param:parameters>

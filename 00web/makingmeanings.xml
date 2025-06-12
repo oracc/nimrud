@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Making meanings</esp:name>
+	<esp:title>Making meanings from Nimrud artefacts</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">The Nimrud project is new and exciting!</p>
+<p>There will be some stuff.</p>
+
+	</body></html>
+
+</esp:page>

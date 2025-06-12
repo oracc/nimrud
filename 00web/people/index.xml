@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>The people</esp:name>
+	<esp:title>The people involved in producing knowledge in ancient Kalhu</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Many different types of people were involved in thinking and writing about the world in the Assyrian royal court. The king looked to his <esp:techterms term="scholar">scholars</esp:techterms> for advice, <esp:techterms term="rite, ritual">ritual</esp:techterms> and healing. The scholars themselves depended on the king for continued patronage and favour. Senior administrators and <esp:techterms term="scribe">scribes</esp:techterms> recorded the king's words and composed letters and inscriptions on his behalf. The gods announced their favour or disfavour through <esp:techterms term="omen">ominous</esp:techterms> signs and revelations, which had to be interpreted and responded to.</p>
+
+<esp:image file="people/BM-118871-4sq.jpg" description="Head of statue of king Assurnasirpal II" position="float"><esp:link page="assurnasirpal2"/></esp:image>
+<esp:h>Kings</esp:h>
+
+<esp:sh><esp:link page="assurnasirpal2">Assurnasirpal II (r. 883-859 BC)</esp:link></esp:sh>
+<p>King Assurnasirpal II founded the city of Kalhu on the remains of an abandoned town. He laid out the royal <esp:techterms term="citadel">citadel</esp:techterms> and created a model of kingship that would be emulated for centuries to come.</p>
+
+<esp:sh><esp:link page="shalmaneser3">Shalmaneser III(r. 858-824 BC)</esp:link></esp:sh>
+<p>This king built on his father's work, consolidating the boundaries of empire and finalising his vision for Kalhu. Like Assurnasirpal he commissioned copious inscriptions recording his deeds.</p>
+
+<esp:sh><esp:link page="sargon">Sargon II (r. 721-705 BC)</esp:link></esp:sh>
+<p>Sargon II was the first Assyrian king to have a personal relationship with <esp:link page="nabu">Nabu</esp:link>, the god of wisdom. Major military victories, attributed in part to his scholars' ability to interpret the gods' wishes, brought Assyria enormous wealth. Amongst his many other big building projects, Sargon oversaw the rebuilding of Nabu's temple <esp:link page="ezida">Ezida</esp:link> in Kalhu.</p>
+
+<esp:sh><esp:link page="sennacherib">Sennacherib (r. 704-681 BC)</esp:link></esp:sh>
+<p>This king was more reserved in his support of scholarship, perhaps because of his father Sargon's unexpected death in battle. It was clearly a sign of the gods' displeasure — but why had the scholars not foreseen it? Sennacherib spent little time in Kalhu, preferring his new capital <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>.</p>
+
+<esp:sh><esp:link page="esarhaddon">Esarhaddon (r. 680-669 BC)</esp:link></esp:sh>
+<p>King Esarhaddon tried to strike a balance between the attitudes of his royal father and grandfather. While maintaining <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary> as the capital, he also built a palace in Kalhu, and kept the <esp:link page="vte-intro">Succession Treaties</esp:link> there in <esp:link page="nabu">Nabu's</esp:link> temple <esp:link page="ezida">Ezida</esp:link>.  </p>
+
+<esp:sh><esp:link page="assurbanipal">Assurbanipal (r. 669-c.630 BC)</esp:link></esp:sh>
+<p>This king had a particularly strong personal relationship with <esp:link page="nabu">Nabu</esp:link>, god of scholarship, because he had trained for the priesthood as a young man. Although his primary focus was <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>, he also funded repairs to <esp:link page="ezida">Ezida</esp:link> in Kalhu. Assurbanipal's <i>ummânu</i> was initially <esp:glossary term="Ištar-šumu-ereš (person)">Ištar-šumu-ereš</esp:glossary> but towards the end of his long reign the system of court scholarship seems to have collapsed.</p>
+
+<esp:h>Deities</esp:h>
+
+<esp:sh><esp:link page="ashur">Aššur</esp:link></esp:sh>
+<p>The supreme god of the Assyrian empire. Aššur was the ultimate divine authority to whom the kings were answerable. His temple was in the ancestral city of Assur but he also had a pedestal in the <esp:link page="ziggurat" bookmark="temple of kidmuru">Temple of Kidmuru</esp:link> in Kalhu.</p>
+
+<esp:sh><esp:link page="ishtar">Ištar</esp:link></esp:sh>
+<p>Goddess of sex and war, who had many manifestations in Assyria. In Kalhu <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> built <esp:link page="ziggurat" bookmark="temple of sarrat-niphi">two temples</esp:link> to aspects of this deity: Ištar <i>šarrat niphi</i> ("Blazing Queen") and Ištar <i>bēlet kidmūri</i> ("Mistress of the divine Kidmuri"). In <esp:glossary term="Arbela (place)">Arbela</esp:glossary>, she sent revelations to the king through <esp:techterms term="ecstatic">ecstatic</esp:techterms> intermediaries.</p>
+
+<esp:sh><esp:link page="nabu">Nabu</esp:link></esp:sh>
+<p>God of wisdom, who was initially worshipped only by literate, educated men: senior administrators, scribes and scholars. However, over the eighth century BC he became increasingly prominent in Assyrian royal cult. In Kalhu, his temple <esp:link page="ezida">Ezida</esp:link> was rebuilt and refurbished many times.</p>
+
+<esp:sh><esp:link page="ninurta">Ninurta</esp:link></esp:sh>
+<p>God of war, who occupied a <esp:link page="ziggurat" bookmark="ziggurat">splendid temple</esp:link> right next to the <esp:link page="northwestpalace">royal palace</esp:link>. It was one of the first of Kalhu's buildings to be completed, reflecting this deity's importance for Assyrian kingship. But as mythical rescuer of the <esp:techterms term="Tablet of Destinies">Tablet of Destinies</esp:techterms> from the evil <esp:glossary term="Anzu (deity)">Anzu bird</esp:glossary>, he also had a link to scholarly life.</p> 
+
+<esp:h>Scholars and administrators</esp:h>
+
+<!--<p>The Seven Sages represented the epitome of learning. It was said that they had preserved civilisation and knowledge through the Great Flood in the distant past. Images of these sages were used in many of Kalhu's royal and religious buildings in acknowledgement of their importance.</p>-->
+
+<esp:sh><esp:link page="families">Scribal families</esp:link></esp:sh>
+<p>Two different scribal families dominated intellectual activity in ancient Kalhu. The Ištaran-šumu-ukin family produced several generations of royal scribes and royal <i>āšipu</i>-healers in the 9th and 8th centuries BC. Members of the Gabbu-ilani-ereš family also served as royal scholars. They became particularly prominent in the late 8th and early 7th century when Nabu-zuqup-kenu and his descendants took many senior roles at court.</p>
+
+<esp:sh><esp:link page="professions">Scholarly professions</esp:link></esp:sh>
+<p>Several scholarly professions are attested at the royal court at Kalhu. The <i>ummânu</i> or Chief Scribe was the king's most trusted scholarly advisor. There were also diviners, healers, and <esp:techterms term="lamenter">lamenters</esp:techterms>.</p>
+
+<p>The <esp:techterms term="governor">governor</esp:techterms> of Kalhu ran the city and the surrounding <esp:techterms term="province">province</esp:techterms>. <esp:link page="governorspalace">His residence</esp:link> was right next to <esp:link page="nabu">Nabu's</esp:link> temple <esp:link page="ezida">Ezida</esp:link>, reflecting his and other senior administrators' trust in the god of wisdom.</p>
+
+<esp:sh> <esp:link page="templestaff">Temple staff</esp:link></esp:sh>
+<p>The officials of Nabu's temple <esp:link page="ezida">Ezida</esp:link> ran its daily affairs, ensuring a regular supply of offerings and gifts. The <esp:techterms term="mayor">"mayor"</esp:techterms> of Ezida oversaw the annual <esp:techterms term="akītu"><i>akītu</i></esp:techterms> ritual between god and king.</p>
+
+<esp:sh><esp:link page="palacescribe">The Palace Scribe</esp:link></esp:sh>
+<p>The Palace Scribe was in charge of state archives and one of the king's most trusted officials.</p>
+
+<esp:email address="nimrud@oracc.org"/>
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+	
+	</body></html>
+
+</esp:page>

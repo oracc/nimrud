@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>The writings</esp:name>
+	<esp:title>Writing practices in ancient Kalhu: languages, scripts, media and genres</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Assyria in the first millennium BC was a diverse country made up of peoples from all parts of the empire. This section explores the principal languages and scripts which were spoken and written in Assyria, and the contexts in which they were used. It also provides links to teaching resources on the Akkadian language and cuneiform script.</p>
+
+<esp:image file="langscripts/stylus-4sq.jpg" description="Detail of a scribe holding a tablet and stylus, from a palace relief" position="float"><esp:link page="materials-clay"/></esp:image>
+
+<esp:h>Cuneiform writing</esp:h>
+<esp:sh><esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/" title="Cuneiform Revealed on K&amp;P website" rel="external" hide-print="yes">Cuneiform script</esp:link></esp:sh>
+<p>This wedge-based writing system was in use for over three thousand years. It was used to record the two principal languages used in Assyria: <esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/akkadianlanguage/" title="Akkadian language on K&amp;P website" hide-print="yes" rel="external">Akkadian</esp:link> and <esp:link page="sumerian">Sumerian</esp:link>. The <i>Cuneiform Revealed</i> site provides an overview of the script, as well as exercises designed to enable anyone to read real cuneiform.</p>
+
+<esp:sh><esp:link page="materials-clay">Writing cuneiform on clay</esp:link></esp:sh>
+<p>Cuneiform script was usually written on <esp:techterms term="tablet">tablets</esp:techterms> or other objects made from clay. This page explains how such objects were made, inscribed and stored. It also looks at some ways used to authenticate and protect tablets in antiquity.</p>
+
+<esp:sh><esp:link page="materials-others">Writing cuneiform on other media</esp:link></esp:sh>
+<p>Cuneiform could be written on a variety of media besides clay. These included durable materials like stone and metal, while wooden <esp:techterms term="writing board">writing boards</esp:techterms> were used for less permanent records. Sometimes, cuneiform was even written with ink.</p>
+
+<esp:image file="langscripts/BM-84884-4sq.jpg" description="Drawing of a broken clay sealing from Nimrud, impressed with the seal of the Kushite king Shabako" position="float"><esp:link page="hieroglyphs"/></esp:image>
+
+<esp:h>Languages</esp:h>
+
+<esp:sh><esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/akkadianlanguage/" title="Akkadian language on K&amp;P website" hide-print="yes" rel="external">Akkadian language</esp:link></esp:sh> 
+<p>Have you ever wished that you could understand the language of the ancient Assyrians? This page provides an introduction to <esp:techterms term="Akkadian">Akkadian</esp:techterms> grammar and vocabulary, which can be used on its own or in conjunction with <esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/learningsigns/" hide-print="yes" rel="external">cuneiform exercises</esp:link>.</p>
+
+<esp:sh><esp:link page="sumerian">Sumerian language</esp:link></esp:sh>
+<p>Sumerian had died out as a mother tongue long before the rise of the Assyrian empire, but its prestigious cultural heritage meant that it was maintained as a language of scholarship until the final days of cuneiform writing.</p>
+
+<esp:sh><esp:link page="alphabetic">Aramaic and Hebrew in alphabetic scripts</esp:link></esp:sh>
+<p>The expansion of the <esp:techterms term="Neo-Assyrian">Neo-Assyrian</esp:techterms> empire resulted in an influx of speakers of <esp:techterms term="Semitic language">Semitic languages</esp:techterms> such as Aramaic and Hebrew. By the 8th century BC, Aramaic came to be widely used throughout the empire, including in its heartland.</p>
+
+<esp:sh><esp:link page="hieroglyphs">Egyptian in hieroglyphic script</esp:link></esp:sh>
+<p>Assyria was home to a diverse Egyptian community. No <esp:techterms term="papyrus">papyrus</esp:techterms> documents in their native language have survived from Assyria, but inscriptions on more durable materials attest to diplomatic contacts between the two countries. Egyptian influences were incorporated into luxury objects such as the <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms>.</p>
+
+<esp:image file="genres/letter-4sq.jpg" description="Detail of a letter in its clay envelope, from the state correspondence of Sargon II" position="float"><esp:link page="correspondence"/></esp:image>
+
+<esp:h>Genres</esp:h>
+
+<esp:sh><esp:link page="inscriptions">Royal inscriptions</esp:link></esp:sh>
+<p>Royal inscriptions are among the most famous texts from ancient Assyria. They could take a variety of forms, some highly visible, others deliberately hidden away from view. But all shared a common goal - to record and celebrate the king's achievements, as well as demonstrate his piety and right to rule. To achieve these objectives, the highly educated <esp:techterms term="scribe">scribes</esp:techterms> who composed such texts skilfully blended history, mythology and literature with the demands of Assyrian royal ideology.</p>
+
+<esp:sh><esp:link page="legaldocuments">Legal documents</esp:link></esp:sh>
+<p>Although no collections of laws survive from the Neo-Assyrian period, legal transactions are relatively well documented. Most come from the palaces and administrative buildings of royal cities, and record the activities of the Assyrian elite. These privileged individuals wielded considerable wealth and influence, and included such surprising groups as royal charioteers and bodyguards, and the women of the royal <esp:techterms term="harem">harem</esp:techterms>. Legal documents followed a rigidly traditional format which was directly linked to their subject matter. The documents' authenticity was guaranteed by witnesses and by the <esp:techterms term="impression">impressing</esp:techterms> of <esp:techterms term="seal, sealing">seals</esp:techterms> - with fingernail impressions a commonly accepted substitute.</p>
+
+<esp:sh><esp:link page="correspondence">State correspondence</esp:link></esp:sh>
+<p>By the 8th century BC, the Assyrian empire controlled much of the ancient Near East. Such a vast empire required a sophisticated administrative network. Officials throughout the empire exchanged letters with each other and with the king, receiving orders and passing on information about the goings-on in the empire. About 1,200 or so of these letters survive from archives kept in the royal cities of Kalhu and Nineveh - the largest such corpus from antiquity. The letters give a valuable insight into the everyday running of the empire. They also provide a fascinating glimpse into the more mundane side of Assyrian kingship, which saw kings deal with matters ranging from diplomacy and military intelligence to weather reports, transport logistics, and complaints.</p>
+
+<esp:sh><esp:link page="scholarlyworks">Scholarly works</esp:link></esp:sh>
+<p>The written word formed the basis of all <esp:techterms term="scholar">scholarly</esp:techterms> advice to the Assyrian king. Sometimes <esp:link page="professions">royal scholars</esp:link> quoted extracts from particular compositions in the letters and reports but more often learned writings formed the deep background to their thinking. Over 250 tablets containing scholarly works have been found at Nimrud since the 1950s. Here we explore what they consisted of, and how they were stored and circulated. However, we should also bear in mind that much was also written on <esp:techterms term="writing board">writing-boards</esp:techterms>, which have mostly been lost forever.</p> 
+
+	</body></html>
+
+</esp:page>

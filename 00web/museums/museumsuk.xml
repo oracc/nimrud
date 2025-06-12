@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>UK Museums</esp:name>
+	<esp:title>Museums in the United Kingdom with objects from Nimrud</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Artefacts from Nimrud (ancient Kalhu) have ended up in museum collections <esp:link page="museumsworldwide">across the world</esp:link>. This page lists the 13 museums in the United Kingdom holding Nimrud objects as of 2013. The Nimrud Project wishes to thank the museums listed here for sharing information about their collections. <esp:link page="about" bookmark="feedback">Contact us</esp:link> with any additions or amendments.</p>
+
+<esp:h><esp:bookmark id="uk-map">Map of UK museums with Nimrud material</esp:bookmark></esp:h>
+
+<p><object type="text/html" width="425" height="350" data="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004efb6d72ba9c0e9c9b&amp;msa=0&amp;ll=54.813348,-2.922363&amp;spn=8.934067,18.347168&amp;z=5&amp;output=embed">
+</object></p>
+
+<p><esp:link url="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004efb6d72ba9c0e9c9b&amp;msa=0" rel="external" hide-print="yes">View larger version using Google Maps</esp:link><br/>
+<esp:link url="/nimrud/downloads/UKmuseumswithNimrudmaterial.kml" title="Map showing UK museums with Nimrud material" rel="external" hide-print="yes">Download content to view using Google Earth or re-use within your own custom maps (KML file, 7 KB)</esp:link></p>
+
+<esp:h>UK museums with Nimrud objects</esp:h>
+
+<ul><li><esp:link bookmark="ashmolean">Ashmolean Museum, University of Oxford</esp:link></li>
+<li><esp:link bookmark="birmingham">Birmingham Museum and Art Gallery</esp:link></li>
+<li><esp:link bookmark="bolton">Bolton Museum</esp:link></li>
+<li><esp:link bookmark="bristol">Bristol Museum and Art Gallery</esp:link></li>
+<li><esp:link bookmark="britishmuseum">The British Museum</esp:link></li>
+<li><esp:link bookmark="fitzcambridge">The Fitzwilliam Museum</esp:link></li>
+<li><esp:link bookmark="glasgowburrell">Glasgow Museums, The Burrell Collection</esp:link></li>
+<li><esp:link bookmark="ipswich">Ipswich Museum</esp:link></li>
+<li><esp:link bookmark="manchester">The Manchester Museum, University of Manchester</esp:link></li>
+<li><esp:link bookmark="maacambridge">Museum of Archaeology and Anthropology, University of Cambridge</esp:link></li>
+<li><esp:link bookmark="nms">National Museums Scotland, Edinburgh</esp:link></li>
+<li><esp:link bookmark="orientalmuseum">Oriental Museum, Durham University</esp:link></li>
+<!-- <li><esp:link bookmark="paisley">Paisley Art Gallery and Museum</esp:link></li> -->
+<li><esp:link bookmark="pittrivers">The Pitt Rivers Museum, University of Oxford</esp:link></li>
+<li><esp:link bookmark="vanda">Victoria and Albert Museum (V&amp;A), London</esp:link></li>
+</ul>
+
+
+<esp:h><esp:bookmark id="ashmolean"><esp:link url="http://www.ashmolean.org/" rel="external" hide-print="yes">Ashmolean Museum</esp:link>, University of Oxford, Oxford</esp:bookmark></esp:h>
+
+<p>Oxford's <esp:techterms term="Ashmolean Museum">Ashmolean Museum</esp:techterms> has the second largest collection of Nimrud objects in the UK, with roughly 330 artefacts. Among the collection are three <esp:techterms term="relief">relief</esp:techterms> panels from king Assurnasirpal II's <esp:link page="northwestpalace">Northwest Palace</esp:link>: an eagle-headed <esp:techterms term="genie">genie</esp:techterms> from Room B and a human-headed genie from Room I came to the museum in 1850 as a gift from Layard's excavation. A further fragment of a <esp:techterms term="sacred tree">sacred tree</esp:techterms> from Room I was purchased in 1950 from Peterborough's City Museum and Art Gallery, which had acquired it from Lady Layard in 1900. <esp:ref referent="englund2003" page="56, 113, 118"/>.</p>
+
+<p>The Ashmolean Museum received a significant quantity of artefacts from excavations at Nimrud by the <esp:techterms term="British School of Archaeology in Iraq">British School of Archaeology in Iraq</esp:techterms> (BSAI) in the 1950s. Objects were gifted to the museum as a result of financial donations to the archaeological dig. The collection includes cuneiform tablets, <esp:techterms term="seal, sealing">seals</esp:techterms>, ivory <esp:techterms term="writing board">writing boards</esp:techterms>, statues, <esp:techterms term="figurine">figurines</esp:techterms>, <esp:techterms term="amulet">amulets</esp:techterms>, jewellery, weights and ceramic vessels.</p>
+
+<ul><li>Search the Ashmolean's online catalogue of <esp:link url="http://www.ashmolean.org/ash/objects/makesearch.php?pmu=138&amp;mu=151" rel="external" hide-print="yes">Ancient Near Eastern terracottas</esp:link> by entering 'Nimrud' into the quick search field.</li>
+<li>Search for inscribed objects on the <esp:link url="http://cdli.ucla.edu/search/search.php" rel="external" hide-print="yes">CDLI catalogue</esp:link> by entering 'Ashmolean' into the 'Collection' field and 'Kalhu' into the 'Provenience' field. Select 'Tabular' results to see items in list form.</li></ul>
+
+<esp:h><esp:bookmark id="birmingham"><esp:link url="http://www.bmag.org.uk/" rel="external" hide-print="yes">Birmingham Museum and Art Gallery</esp:link>, Birmingham</esp:bookmark></esp:h>
+
+<p>Birmingham Museum and Art Gallery has the third largest collection of Nimrud objects in the UK, including pottery vessels, cylinder <esp:techterms term="seal, sealing">seals</esp:techterms>, <esp:techterms term="inscribed brick">inscribed bricks</esp:techterms> and <esp:techterms term="clay hand">clay hands</esp:techterms>. The artefacts were gifted by <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms> in the 1950s in return for financial contributions to the excavation. <!-- LINK TO ADAM JAFFER'S WEB PAGE ON THE ANE COLLECTION WHEN COMPLETED --> One highlight of the collection is the group of carved <esp:techterms term="ivory">ivory</esp:techterms> <esp:techterms term="plaque">plaques</esp:techterms>, some of the so-called '<esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms>'. These ivories are the remains of Assyrian furniture that was unearthed in <esp:link page="fortshalmaneser">king Shalmaneser III's royal arsenal</esp:link>, heaped up as war booty. Birmingham Museum gave the Nimrud Project a <esp:link page="bmag-conservation">behind-the-scenes look at conservation work</esp:link> on the ivories in summer 2013.</p>
+
+<ul><li>List of Nimrud objects in Birmingham's <esp:link url="http://www.bmagic.org.uk/results?s=+nimrud" rel="external" hide-print="yes">BMAGiC online catalogue</esp:link>.</li></ul>
+
+<esp:h><esp:bookmark id="bolton"><esp:link url="http://www.boltonmuseums.org.uk/" rel="external" hide-print="yes">Bolton Museum</esp:link>, Bolton, Lancashire</esp:bookmark></esp:h>
+<p>Bolton museum has three <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms> in its <esp:link url="http://www.boltonmuseums.org.uk/about/collections-overview/archaeology/" rel="external" hide-print="yes">archaeology collections</esp:link>. These carved <esp:techterms term="ivory">ivory</esp:techterms> <esp:techterms term="plaque">plaques</esp:techterms> were purchased from <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms> in 1964 through Bolton Museum's curator Vincent Smith, who was personal friends with BSAI's Director Sir Max Mallowan. Purchase of the ivories was championed in local newspaper the Bolton <i>Evening News</i>, who reported it under the headline "Friendship gets Bolton Museum £200 Bargains" <esp:ref referent="eveningnews1964-06-09"/>.</p>
+
+<esp:h><esp:bookmark id="bristol"><esp:link url="http://www.bristol.gov.uk/node/2904" rel="external" hide-print="yes">Bristol Museum and Art Gallery</esp:link>, Bristol</esp:bookmark></esp:h>
+
+<p>Bristol Museum and Art Gallery has three relief panels from the <esp:link page="northwestpalace">Northwest Palace</esp:link> in its collection: an eagle-headed genie from Room F (museum number <esp:link url="http://museums.bristol.gov.uk/display.php?irn=146116" rel="external" hide-print="yes">H794</esp:link>) and two adjacent panels from room H depicting the king and his attendants (museum numbers <esp:link url="http://museums.bristol.gov.uk/display.php?irn=146117" rel="external" hide-print="yes">H794</esp:link> and <esp:link url="http://museums.bristol.gov.uk/display.php?irn=146118" rel="external" hide-print="yes">H796</esp:link>). The museum purchased the panels from Bristol Fine Arts Academy in 1905, who had previously acquired them from Sir Henry Rawlinson <esp:ref referent="englund2003" page="76, 93"/>.</p>
+
+<ul><li>Search Bristol's <esp:link url="http://museums.bristol.gov.uk" rel="external" hide-print="yes">online catalogue</esp:link>, by typing 'Nimrud' into the 'search by keyword' field at the bottom of the page.</li></ul>
+
+<esp:h><esp:bookmark id="britishmuseum"><esp:link url="http://www.britishmuseum.org/" rel="external" hide-print="yes">The British Museum</esp:link>, London</esp:bookmark></esp:h>
+
+<p>The British Museum's collection of artefacts from Nimrud is world-famous and has shaped the image of Assyria in public imagination since the mid-19th century. Among the artefacts discovered by Austen Henry Layard's expedition between 1845-7 and 1849-51 are around 65 <esp:link url="http://www.britishmuseum.org/explore/highlights/highlight_objects/me/s/stone_panel,_north-west_palace.aspx" title="Stone relief from the North-West Palace showing tribute bearers">stone relief panels</esp:link> from the <esp:link url="northwestpalace">Northwest Palace</esp:link> of king <esp:glossary term="Assurnasirpal II (person)">Assurnasirpal II</esp:glossary>, bearing the king's inscription and protective imagery. Colossal statues of <esp:link url="https://www.britishmuseum.org/explore/highlights/highlight_objects/me/c/colossal_statue_of_winged_lion.aspx" rel="external" hide-print="yes">winged bulls</esp:link> that once protected the palace were also hauled back to London by rail and sea, using the trade routes of the British Empire. Another object that shot to fame was the <esp:link page="obelisk">Black Obelisk of Shalmaneser III</esp:link>, due to its connections to the Christian Bible. This two-metre tall stone monument depicts Biblical king Jehu bringing tribute to the Assyrian ruler - an event that is not mentioned in the Bible itself.</p>
+
+<p>In addition to famous 19th-century discoveries, the British Museum holds the UK's largest collection of artefacts from 1950s excavations by the <esp:techterms term="British School of Archaeology in Iraq">British School of Archaeology in Iraq</esp:techterms>. The collection of around 2300 artefacts includes corpora of <esp:link page="materials-clay">cuneiform texts written on clay tablets</esp:link> and other types inscribed objects, such as <esp:link page="materials-others">weights, architectural fittings and writing boards</esp:link>.</p>
+
+<ul><li>Search for Nimrud objects in the <esp:link url="http://www.britishmuseum.org/research/search_the_collection_database.aspx" rel="external" hide-print="yes">British Museum's online collection database</esp:link>, by typing 'Nimrud' into the search field.</li></ul>
+
+
+<!--<p><esp:link url="http://www.chch.ox.ac.uk/" rel="external" hide-print="yes">Christ Church College, Oxford</esp:link></p>-->
+
+<esp:h><esp:bookmark id="fitzcambridge"><esp:link url="http://www.fitzmuseum.cam.ac.uk/" rel="external" hide-print="yes">Fitzwilliam Museum</esp:link>, University of Cambridge, Cambridge</esp:bookmark></esp:h>
+
+<p>The Fitzwilliam Museum's main entrance staircase is home to several stone <esp:techterms term="genie">genies</esp:techterms> and kings from Assurnasirpal II's <esp:link page="northwestpalace">Northwest Palace</esp:link>. These relief panels have made a <esp:link page="stonegenies">3000-year journey from Kalhu in the heart of the Assyrian empire to Cambridge</esp:link>, travelling via <esp:glossary term="Bombay (place)">Bombay</esp:glossary> and <esp:techterms term="Eton College">Eton College</esp:techterms>. The Fitzwilliam also has a collection of 9 carved ivory plaques found in king Shalmaneser III's royal <esp:techterms term="arsenal">arsenal</esp:techterms>, acquired from the BSAI excavation in the 1950s in return for financial donations to the dig.</p>
+
+<ul><li>Search the Fitzwilliam's <esp:link url="http://webapps.fitzmuseum.cam.ac.uk/explorer/" rel="external" hide-print="yes">online catalogue</esp:link> by typing 'Nimrud' into the search field.</li></ul>
+
+<!--<p><esp:link url="http://www.magd.ox.ac.uk/" rel="external" hide-print="yes">Magdalen College, Oxford</esp:link></p>-->
+
+<esp:h><esp:bookmark id="glasgowburrell">Glasgow Museums, <esp:link url="http://www.glasgowlife.org.uk/museums/burrell-collection/Pages/default.aspx" rel="external" hide-print="yes">The Burrell Collection</esp:link></esp:bookmark></esp:h>
+
+<p>Glasgow Museums have several Nimrud objects in their <esp:link url="http://collections.glasgowmuseums.com/cld.html?cid=534432" rel="external" hide-print="yes">Assyrian and Babylonian</esp:link> collection. One significant artefact is a portion of a relief panel from from Room C of the Northwest Palace, showing the <esp:link url="http://collections.glasgowmuseums.com/starobject.html?oid=37140" rel="external" hide-print="yes">head of a royal attendant</esp:link> (accession number 28.35). The attendant's head has been neatly cut out from a larger relief into a square head-and-shoulders portrait. The panel portion was acquired by shipping magnate and art collector <esp:link url="http://www.glasgowlife.org.uk/museums/burrell-collection/about/Pages/History.aspx" rel="external" hide-print="yes">Sir William Burrell (1861-1958)</esp:link> in 1947 from the collection of Seymour, Wiltshire via the Spink &amp; Son auction house. Also in the Burrell Collection is a small fragment of stone bearing the <esp:link page="sia-intro">Standard Inscription of Assurnasirpal II</esp:link> (accession number 28. Burrell purchased this two-line fragment of inscription, measuring c.19x4.5cm in 1956 <esp:ref referent="englund2003" page="60"/>, <esp:ref referent="peltenburg1991" page="71-74"/>.  It is an example of the many <esp:link page="sia-intro" bookmark="smallfragments">small fragments of inscription</esp:link> created by cutting larger pieces during the nineteenth century.</p>
+
+<ul><li>Search Glasgow Museums <esp:link url="http://www.glasgowlife.org.uk/museums/collections-research/online-collections-navigator/Pages/home.aspx" rel="external" hide-print="yes">online collections</esp:link> by typing 'Nimrud' into the 'keyword search' field at the bottom of the page.</li></ul>
+
+<esp:h><esp:bookmark id="ipswich"><esp:link url="http://www.cimuseums.org.uk/venues/ipswich-museum.html/" rel="external" hide-print="yes">Ipswich Museum</esp:link>, Ipswich, Suffolk</esp:bookmark></esp:h>
+
+<p>Ipswich Museum provides a good example of how artefacts can move to a new location even after entering a museum's collection. Ipswich Museum acquired 3 <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms> in June 1966 in return for a financial contribution to the <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms> excavation. After a review of the ivories in c.2012, Ipswich Museum decided that these artefacts should be transferred to the British Museum where they could be better appreciated in the context of the wider Nimrud collection. The transfer of the 3 ivories was completed in January 2014 and Ipswich Museum continues to work in partnership with the British Museum.</p>
+
+<p>Information on <esp:link url="http://www.cimuseums.org.uk/collections/archaeology-ipswich.html" rel="external" hide-print="yes">archaeology collections</esp:link> at Ipswich Museum.</p>
+
+<esp:h><esp:bookmark id="manchester"><esp:link url="http://www.museum.manchester.ac.uk/" rel="external" hide-print="yes">Manchester Museum</esp:link>, University of Manchester, Manchester</esp:bookmark></esp:h>
+
+<p>Manchester Museum has a fragmentary relief panel from the Northwest Palace and an additional fragment of inscription. The partial panel (accession number 35525) shows a winged genie and was gifted to the museum from the family of J. C. Hilton in 1926, via Dr. J. M. Hyslop. This Hyslop is likely the same 'Dr Hyslop' who received several reliefs around 1852 and who was surgeon to the  <esp:techterms term="Residency">Residency</esp:techterms> of Colonel Henry Rawlinson, the <esp:techterms term="East India Company">East India Company</esp:techterms> agent in Baghdad <esp:ref referent="englund2003" page="28, 147"/>, <esp:ref referent="tyler1859" page="373"/>.</p>
+
+<p>In addition, Manchester has four carved <esp:techterms term="Nimrud ivories">ivories</esp:techterms> from the haul discovered in Room SW37 of <esp:link page="fortshalmaneser">king Shalmaneser's royal arsenal</esp:link>. The ivories were acquired from the 1949-1963 BSAI excavation.</p>
+
+<ul><li>Search Manchester's <esp:link url="http://emu.man.ac.uk/mmcustom/narratives/" rel="external" hide-print="yes">online catalogue</esp:link> by typing 'Nimrud' into the 'find' field.</li></ul>
+
+<esp:h><esp:bookmark id="maacambridge"><esp:link url="http://maa.cam.ac.uk/" rel="external" hide-print="yes">Museum of Archaeology and Anthropology</esp:link> (MAA), University of Cambridge, Cambridge</esp:bookmark></esp:h>
+
+<p>Cambridge's Museum of Archaeology and Anthropology has a <esp:link page="maa-intro">collection of around 50 objects from Nimrud</esp:link>, all excavated by <esp:techterms term="British School of Archaeology in Iraq">BSAI</esp:techterms> in the 1950s. The Nimrud Project has studied some of the artefacts in detail, including the collection of <esp:link page="maapots">wine goblets, bowls and pots from Kalhu's royal residences</esp:link> and a <esp:techterms term="bronze">bronze</esp:techterms> <esp:link page="maapots">model dog found down a palace well</esp:link>.</p>
+
+<ul><li>Search MAA's <esp:link url="http://maa.cam.ac.uk/home/index.php?a=40&amp;b=catalogue&amp;c=32" rel="external" hide-print="yes">online catalogue</esp:link> by typing 'Nimrud' into the 'search catalogue' field.</li></ul>
+
+<esp:h><esp:bookmark id="nms"><esp:link url="http://nms.ac.uk/" rel="external" hide-print="yes">National Museums Scotland</esp:link>, Edinburgh</esp:bookmark></esp:h>
+
+<p>National Museums Scotland (NMS) has only one Nimrud object in its collection, but it is a fine one: a carved <esp:techterms term="relief">relief</esp:techterms> panel from king Assurnasirpal II's <esp:link page="northwestpalace">Northwest Palace</esp:link>, showing <esp:link url="https://www.nms.ac.uk/explore-our-collections/stories/world-cultures/assyrian-relief/" rel="external" hide-print="yes">king Assurnasirpal himself, making an offering to the gods</esp:link>. The relief panel was formerly owned by Scottish physician Sir James Young Simpson (1811-1870), who collected antiquities and objects related to medical history. Simpson donated the panel to the <esp:link url="http://www.socantscot.org/" rel="external" hide-print="yes">Society of Antiquaries of Scotland</esp:link> in 1865. It remained there until the 1930s when the Society passed its collection of non-Scottish material to the museum on long-term loan. These collections, including the panel, were formally transferred to NMS in 1956. The panel had been displayed at the museum in the same location since the 1950s due to its large size and weight, but in 2010 <esp:techterms term="conservator">conservators</esp:techterms> <esp:link url="http://feastbowl.wordpress.com/2010/07/08/what-a-relief/" rel="external" hide-print="yes">carefully moved it to a fresh location</esp:link> in the <esp:link url="http://www.facebook.com/media/set/?set=a.241487132528019.72503.140058172670916" rel="external" hide-print="yes">museum's new building</esp:link>.</p>
+
+<ul><li>View entry for the relief in NMS's <esp:link url="https://www.nms.ac.uk/explore-our-collections/collection-search-results/relief/412206" rel="external" hide-print="yes">online catalogue</esp:link>.</li></ul>
+
+<esp:h><esp:bookmark id="durham"><esp:link url="http://www.dur.ac.uk/oriental.museum/" rel="external" hide-print="yes">Oriental Museum</esp:link>, University of Durham, Durham</esp:bookmark></esp:h>
+<p>Durham's Oriental Museum has 8 objects from Nimrud within its <esp:link url="http://www.dur.ac.uk/oriental.museum/collections/islamic/" rel="external" hide-print="yes">Islamic and Near Eastern collections</esp:link>, all excavated by BSAI. The material was gifted to the University in return for financial support of the 1953 and 1958 <esp:techterms term="excavation season">excavation seasons</esp:techterms> at Nimrud <esp:ref referent="mallowan1954" page="60"/> <esp:ref referent="mallowan1959" page="93"/>.</p>
+
+<p>Durham's Nimrud objects include a <esp:techterms term="inscribed brick">brick inscribed</esp:techterms> with the name of king <esp:link page="shalmaneser3">Shalmaneser III</esp:link>, which describes the <esp:link page="ziggurat" bookmark="thezigguratandthetempleofninurta">building of the Kalhu ziggurat</esp:link>; several fine <esp:techterms term="palace ware">palace ware</esp:techterms> vessels from the <esp:link page="northwestpalace">Northwest Palace</esp:link>; and a ceramic vase from Room 3 of the <esp:link page="ezida">temple of the god Nabu</esp:link>.</p>
+
+<!-- <esp:h><esp:bookmark id="paisley"/>Paisley Art Gallery and Museum</esp:h> -->
+
+<esp:h><esp:bookmark id="pittrivers"/>Pitt Rivers Museum, University of Oxford, Oxford</esp:h>
+
+<p>The Pitt Rivers Museum's collection contains three pieces of iron that come from tripods found at Nimrud (<esp:link url="http://objects.prm.ox.ac.uk/pages/PRMUID97706.html" hide-print="yes" rel="external">1953.6.1 .1</esp:link>, <esp:link url="http://objects.prm.ox.ac.uk/pages/PRMUID97707.html" hide-print="yes" rel="external">1953.6.1 .2</esp:link>, <esp:link url="http://objects.prm.ox.ac.uk/pages/PRMUID97708.html" hide-print="yes" rel="external">1953.6.1 .3</esp:link>). Iron tripods were used in antiquity to support large <esp:techterms term="cauldron">cauldrons</esp:techterms> and several were found at Nimrud in a reasonably complete state, some with bronze feet shaped like bull's hooves or lion's paws <esp:ref referent="curtis2013" page="65-67, pl XXXII-XXXV"/>. The pieces in the Pitt Rivers collection, by contrast, are tiny samples of rusted iron from a fragmentary tripod. They were acquired from the British Museum in the 1950s as research samples. Metal analysis was carried out on them as part of research study into ancient iron <esp:ref referent="coghlan1956"/>.</p>
+
+<esp:h><esp:bookmark id="vanda">V&amp;A</esp:bookmark>, London</esp:h>
+
+<p>The Victoria and Albert Museum (V&amp;A) in London has one object from Nimrud in its collection: a <esp:link url="http://collections.vam.ac.uk/item/O341294/brick-fragment" rel="external" hide-print="yes">fragment of glazed earthenware brick</esp:link>, which came to the V&amp;A by transfer from the Museum of Practical Geology in London's Jermyn Street. The Museum of Practical Geology (1851-1933) displayed man-made items of artistic or industrial value, produced from raw materials mined from the earth <esp:ref referent="yanni1999"/>. Its Nimrud brick fragment was given as a gift by <esp:glossary term="Layard, Austen Henry (person)">Austen Henry Layard</esp:glossary>, as described in an 1871 catalogue of museum specimens <esp:ref referent="delabecheetal1876" page="30"/>.</p>
+
+<ul><li>View catalogue entry for the V&amp;A's <esp:link url="http://collections.vam.ac.uk/item/O341294/brick-fragment" rel="external" hide-print="yes">brick fragment 5560-1901</esp:link>.</li></ul>
+
+<p>Content last modified: <esp:content-last-modified/><br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+<esp:author first-names="Ruth A." last-name="Horry"/>
+
+	</body></html>
+
+</esp:page>

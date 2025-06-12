@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>About the project</esp:name>
+	<esp:title>About the project</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Museum visitors and their online counterparts are often just as curious to explore how an artefact made its way into the museum case or web database as they are to learn about its original uses and meanings in the past. Similarly, historians of science are increasingly interested in the processes by which objects in the natural world become scientific specimens.</p>
+
+<esp:image file="fish-bull-nimrud.jpg" description="A monumental winged bull wearing a fish cloak at the entrance to the main palace of Nimrud" position="float"><esp:link url="/nimrud/images/fish-bull-nimrud-large.jpg" hide-print="yes"/><esp:caption><esp:bookmark id="img3">Monumental <esp:techterms term="colossal bull">winged bulls</esp:techterms> typically protected the entrances to Assyrian palaces.</esp:bookmark> This one, at the main entrance to king <esp:glossary term="Assurnasirpal II (person)">Assurnasirpal II's</esp:glossary> <esp:link page="northwestpalace">palace</esp:link> in Kalhu (c. 885 BC) wears a fish-skin cloak, symbolising the importance of scholarship and wisdom in the functioning of the court and state. Photo: Eleanor Robson (2001). <esp:link url="/nimrud/images/fish-bull-nimrud-large.jpg" title="View large image" hide-print="yes">View large version of image</esp:link>.</esp:caption></esp:image>
+
+<p>In this project we tackle these two sets of questions together, by tracing the biographies of <esp:techterms term="cuneiform">cuneiform</esp:techterms> <esp:techterms term="tablet">tablets</esp:techterms> and other inscribed artefacts from their manufacture and use in the ancient Assyrian city of <esp:link page="ancientkalhu">Kalhu</esp:link>, to their excavation at modern <esp:link page="modernnimrud">Nimrud</esp:link> and current locations in museum collections, plus their virtual representations on the web.</p>
+
+<p>We welcome re-use of the contents of the website subject to our <esp:link page="copyright">licensing conditions</esp:link>.</p>
+
+<p>Our technical focus is on the development of <esp:techterms term="Linked Open Data">Linked Open Data</esp:techterms>, especially for handheld devices such as mobile phones and tablet computers, to encourage meaningful connectivity between previously isolated resources and to bridge the gap between the museum case and the online world.</p>
+
+<p>In this way we aim to develop academics’, curators’ and museum-users’ understanding of the processes by which the ancient past is understood and reconstructed by academic research, and thus to enrich public engagement with one of the most influential and yet largely forgotten civilizations of antiquity.</p>
+ 
+<esp:h>Events</esp:h>
+
+<p>The project team organised a number of public events in 2013-14, including museum gallery talks and family activities. Several events were live-tweeted with the hashtag <code>#nimrud</code> enabling people to join in from afar. The event summaries linked to below include archived live-tweets where available.</p>
+
+<ul><li><b>27 April 2013</b>: <esp:link page="moundmuseum">From Mound to Museum: Making Knowledge from Archaeological Objects</esp:link>, study day at the Ashmolean Museum, Oxford</li>
+
+<li><b>19 June 2013</b>: <esp:link page="fitzgenies">The Genies on the Stairs</esp:link>, gallery talk at the Fitzwilliam Museum, Cambridge</li>
+
+<li><b>26 October 2013</b>: <esp:link page="discoverassyria">Discovering Ancient Assyria</esp:link>, family events at the Fitzwilliam Museum, Cambridge</li>
+
+<li><b>21 January 2014</b>: <esp:link page="kingsandscholars">Kings and Scholars</esp:link>, gallery talk at the British Museum, London</li>
+
+<li><b>27 June 2014</b>: <esp:link page="kingsandscholars">Kings and Scholars</esp:link>, gallery talk at the British Museum, London</li>
+<li><b>9 September 2014</b>: <esp:link url="/nimrud/images/tale-of-two-cities-poster.jpg" title="Poster for 'A Tale of Two Cities' lecture">A Tale of Two Cities: Kalhu and Nimrud</esp:link>, public lecture by Eleanor Robson at the University of California, Berkeley, sponsored by the Assyrian Heritage Fund</li>
+</ul>
+
+<p>We have also produced <esp:link page="eventsresources">re-useable resources for Assyrian-themed events</esp:link>, including downloadable images of kings and <esp:techterms term="genie">genies</esp:techterms>.</p>
+
+<p>In addition to public events, the project also organised a day workshop for UK museum professionals, showcasing mobile-friendly resources for interpreting cuneiform collections:</p>
+
+<ul><li>12 December 2013: <esp:link page="tabletsontablets">Tablets on Tablets: Reusable Mobile-Friendly Museum Resources on Ancient Mesopotamia</esp:link>. Event summary includes archived programme and live-tweets.</li></ul>
+
+<p>Project team members also presented findings at academic conferences and workshops:</p>
+
+<ul><li><b>31 October 2014</b>: Ruth Horry, "Things and Virtual Things". Paper in session on stored museum collections in the digital age, at the <esp:link url="http://iearn.iea-nantes.fr/focus-areas/museum-and-art-history/workshops/2014" hide-print="yes">"Tales From The Crypt: Museum Storage And Meaning"</esp:link> workshop organised by the <esp:link url="http://iearn.iea-nantes.fr/" hide-print="yes">Indian-European Advanced Research Network Research Group</esp:link>, Victoria &amp; Albert Museum, London.</li>
+
+<li><b>3 February 2014</b>: Ruth Horry, discussant to paper by Alice Stevenson, Petrie Museum, UCL. <esp:link url="http://www.crassh.cam.ac.uk/events/25385" hide-print="yes">Field Notes: Histories of Archaeology seminar series</esp:link>, Centre for the Arts, Social Sciences and Humanities (CRASSH), University of Cambridge.</li>
+</ul>
+
+<esp:h>Project staff, funders and partners</esp:h>
+
+<p>The research project "Materialities of Assyrian Knowledge Production: Object Biographies of Inscribed Artefacts from Nimrud for Museums and Mobiles" was funded by the UK <esp:link url="http://www.ahrc.ac.uk/" hide-print="yes">Arts and Humanities Research Council</esp:link> (AH/K003089/1). It was based at the <esp:link url="http://www.hps.cam.ac.uk/" hide-print="yes">Department of History and Philosophy of Science</esp:link> (HPS), University of Cambridge, UCL, the British Museum's <esp:link url="http://www.britishmuseum.org/about_us/departments/middle_east.aspx" rel="external" hide-print="yes">Department of the Middle East</esp:link>, and the Babylonian Section of <esp:link url="http://penn.museum/">Penn Museum</esp:link>.</p>
+
+<p>The project team comprises:</p>
+
+<ul>
+ <li>Ruth A. Horry, (Cambridge <esp:link url="http://www.hps.cam.ac.uk" rel="external" hide-print="yes">HPS</esp:link>), postdoctoral researcher</li>
+<li>Alex Loktionov (Cambridge <esp:link url="http://www.ane.arch.cam.ac.uk/index.html" rel="external" hide-print="yes">Assyriology</esp:link>), student research assistant</li>
+<li><esp:link url="http://www.ucl.ac.uk/history/people/academic-staff/eleanor-robson/eleanor-robson" rel="external" hide-print="yes">Eleanor Robson</esp:link> (<esp:link url="http://www.hps.cam.ac.uk" rel="external" hide-print="yes">UCL History</esp:link>), principal investigator</li>
+<li>Christoph Schmidhuber (Cambridge <esp:link url="http://www.ane.arch.cam.ac.uk/index.html" rel="external" hide-print="yes">Assyriology</esp:link>), student research assistant</li>
+<li><esp:link url="http://www.britishmuseum.org/about_us/departments/staff/middle_east/jonathan_taylor.aspx" rel="external" hide-print="yes">Jonathan Taylor</esp:link> (British Museum, <esp:link url="http://www.britishmuseum.org/about_us/departments/middle_east.aspx" rel="external" hide-print="yes">Department of Middle East</esp:link>), co-investigator</li>
+<li><esp:link url="http://www.sas.upenn.edu/aamw/faculty/#Tinney" rel="external" hide-print="yes">Steve Tinney</esp:link> (Penn Museum, <esp:link url="http://www.penn.museum/about-our-collections/babylonian-section.html" rel="external" hide-print="yes">Babylonian Section</esp:link>), co-investigator</li>
+<li>Silvie Zamazalová (Cambridge <esp:link url="http://www.hps.cam.ac.uk" rel="external" hide-print="yes">HPS</esp:link>), postdoctoral researcher</li>
+</ul>
+
+<p>The <esp:link page="niod">Nimrud Inscribed Objects Database</esp:link> was created by Christopher Walker and a group of volunteers at the British Museum. We are very grateful for Christopher's generous permission to host the database.</p> 
+
+<p>Official project partners were <esp:link url="http://www.bisi.ac.uk/" rel="external" hide-print="yes">The British Institute for the Study of Iraq</esp:link> and <esp:link url="http://www.ashmolean.org/" hide-print="yes">The Ashmolean Museum</esp:link>, Oxford (with particular thanks to <esp:link url="http://www.orinst.ox.ac.uk/staff/eanes/pcollins.html" rel="external" hide-print="yes">Dr Paul Collins</esp:link>, Assistant Keeper for Ancient Near East). We also collaborated closely with the following museums:</p> 
+
+<ul>
+<li><esp:link url="http://www.bmag.org.uk/birmingham-museum" rel="external" hide-print="yes">Birmingham Museum and Art Gallery</esp:link>, Birmingham</li>
+<li><esp:link url="http://www.boltonmuseums.org.uk" rel="external" hide-print="yes">Bolton Museum</esp:link>, Bolton, Lancashire</li>
+<li><esp:link url="https://www.dur.ac.uk/museums" rel="external" hide-print="yes">Durham University Museums</esp:link>, Durham</li>
+ <li><esp:link url="http://www.fitzmuseum.cam.ac.uk/" rel="external" hide-print="yes">The Fitzwilliam Museum</esp:link>, Cambridge (with particular thanks to Keeper of Antiquities, <esp:link url="http://www.fitzmuseum.cam.ac.uk/dept/ant/greeceandrome/display/whoswho.html" hide-print="yes" rel="external">Dr Lucilla Burn</esp:link>)</li>
+<li><esp:link url="http://www.cimuseums.org.uk/venues/ipswich-museum.html" rel="external" hide-print="yes">Ipswich Museum</esp:link>, Ipswich, Suffolk</li>
+<li><esp:link url="http://www.museum.manchester.ac.uk" rel="external" hide-print="yes">Manchester Museum</esp:link>, Manchester</li>
+ <li><esp:link url="http://maa.cam.ac.uk/maa/" rel="external" hide-print="yes">Museum of Archaeology and Anthropology</esp:link>, Cambridge (with thanks to <esp:link url="http://maa.cam.ac.uk/maa/imogen-gunn-curatorial-assistant-archaeology/" rel="external" hide-print="yes">Imogen Gunn</esp:link>, Archaeology Collections Manager)</li>
+ <li><esp:link url="http://www.rammuseum.org.uk/" rel="external" hide-print="yes">Royal Albert Memorial Museum &amp; Art Gallery</esp:link>, Exeter</li>
+</ul>
+
+<esp:h>Timing, development and feedback</esp:h>
+
+<p>Phase 1 of project ran from January 2013 to March 2014; phase 2 was released at the end of 2015. Feedback is always welcome: please email us at <esp:email address="nimrud@oracc.org"/>.</p>
+
+<p>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Ninurta</esp:name>
+	<esp:title>Ninurta, god of victory</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Ninurta, god of victory, occupied a <esp:link page="ziggurat">splendid temple</esp:link>
+right next to the <esp:link page="northwestpalace">royal
+palace</esp:link>. It was one of the first of Kalhu's buildings to be
+completed, reflecting this deity's importance for Assyrian
+kingship. But as mythical rescuer of the Tablet of Destinies from the
+evil Anzu bird, he also had a link to scholarly life. Ninurta may also
+be the origin of the modern site-name Nimrud.</p>
+
+
+
+<esp:h>Mythical hero, conquerer of chaos: Ninurta and the Tablet of Destinies</esp:h>
+
+<esp:image file="ancientcity/BM-23287.jpg" description="Stone
+							mace-head
+							carved with
+							image of the
+							lion-eagle
+							Anzu"
+	   position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=604870&amp;objectId=368268&amp;partId=1"
+title="View large image on British Museum website" hide-print="yes"
+rel="external"/><esp:caption><esp:bookmark id="img224"><b>Image 1.</b>
+The evil Anzu bird, who is part lion and part eagle, depicted on a
+stone macehead from the mid-third millennium BC.</esp:bookmark>
+<esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368268&amp;partid=1" hide-print="yes" rel="external">BM 23287</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=604870&amp;objectId=368268&amp;partId=1"
+title="View large image on British Museum website" hide-print="yes"
+rel="external">View large image on British Museum website</esp:link> ©
+The Trustees of the British Museum.</esp:caption></esp:image>
+
+
+<p>In Babylonia, people had worshipped Ninurta since at least the
+mid-third millennium BC (<esp:link bookmark="img224"><b>Image 1</b></esp:link>). His main
+temple, <esp:glossary term="Ešumeša (place)">Ešumeša</esp:glossary>, was in the Babylonian city of <esp:glossary term="Nippur (place)">Nippur</esp:glossary>. There in the south he
+was primarily a deity of agriculture and son of the great god
+<esp:glossary term="Ellil (deity)">Ellil</esp:glossary> <esp:ref referent="streck1998-2001"/>,  <esp:ref
+referent="wiggermann2011"/>. Many myths and hymns described how he
+overcame forces of chaos to bring order, and farming, to the natural
+world.</p> 
+
+<p>Three of them were widely copied in Assyria too.</p> 
+
+
+<dl>
+<dt><esp:link rel="external" hide-print="yes" url="http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.6.2#"><i>Ninurta's Exploits</i> (<i>Lugale</i>)</esp:link></dt> 
+<dd>This <esp:link page="sumerian">Sumerian-language</esp:link> composition recounts Ninurta's defeat of
+the <esp:glossary term="Azag (deity)">Azag</esp:glossary> demon and its stone army, with the help of his trusty
+mace. The victory enables him to bring about agriculture and to
+commission fates for the conquered stones, assigning them roles—for good or
+bad—in the world. He returns to his home city of Nippur to great
+acclaim and celebration <esp:ref referent="blacketal2004" page="163-180"/>.</dd> 
+<dd><i>Ninurta's Exploits</i> is a modern title. In
+Sumerian this work was known as <i>Lugale</i>, "O king!", after its
+opening word. By Assyrian
+times it had acquired a line-by-line <esp:techterms term="Akkadian">Akkadian</esp:techterms> translation, as Sumerian
+was considered to be increasingly hard to understand.</dd>
+
+<dt><esp:link rel="external" hide-print="yes" url="http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.6.2#"><i>Ninurta's Return
+to Nippur</i> (<i>Angim dimma</i>)</esp:link></dt>
+<dd>This Sumerian-language companion piece to <i>Ninurta's
+Exploits</i> focuses, as the modern title suggests, on the god's
+victorious return to his city. It is more a hymn of praise than a
+narrative work. Its ancient title, <i>Angim dimma</i>, "Created like
+the god An", gives a flavour of the exuberant similes employed. It too
+gained an Akkadian translation in the first millennium BC  <esp:ref referent="blacketal2004" page="181-186"/>.</dd>
+<dt><esp:link rel="external" hide-print="yes"
+	     url="http://oracc.org/cams/anzu/corpus"><i>Anzu</i></esp:link></dt>
+<dd>This Akkadian-language myth is very similar in structure to
+<i>Ninurta's Exploits</i> and, like it and <i>Ninurta's Return</i>, had been in
+circulation since at least the early second millennium BC. In three chapters it describes how Ninurta heroically overcomes the evil <esp:glossary term="Anzu (deity)">Anzu bird</esp:glossary>, who has
+stolen the gods' <esp:techterms term="Tablet of Destinies">Tablet of
+Destinies</esp:techterms> from <esp:glossary term="Ellil (deity)">Ellil</esp:glossary>. Anzu cunningly uses the Tablet of
+Destinies' powers over the future to turn back time, disassembling
+the god's arrows into their constituent parts. Eventually Ninurta
+tricks Anzu into defeat and brings back the Tablet of Destinies to its
+rightful owner, to much rejoicing. The composition is described in more detail <esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/scribalapprenticeship/literaryworks/anzu/">on the GKAB project's website</esp:link>.</dd>  
+</dl>
+
+<p><i>Anzu</i> in particular resonated with Assyrian <esp:link page="professions">court scholars</esp:link> as it accounted
+for the fundamentally negotiable nature of the divinely determined
+future. Omens were not predictors of a fixed fate but an advance
+warning system of the gods' intentions for Assyria. A well judged
+supplication or <esp:link url="http://oracc.museum.upenn.edu/saao/knpp/essentials/lamentationritual/" hide-print="yes" rel="external">lamentation ritual</esp:link> could persuade them to rewrite the
+Tablet of Destinies in the empire's favour. Conversely, if events did
+not turn out as predicted, then that was because the Tablet had been
+altered meanwhile.</p> 
+
+
+<esp:h>Splendid and perfect warrior: Ninurta as supporter of Assyrian kingship</esp:h>
+
+<esp:image file="ancientcity/BM-115694.jpg" description="Carved gypsum
+							 tile
+							 depicting a a
+							 worshipper
+							 before a god
+							 carrying a
+							 bow, thought
+							 to be Ninurta
+							 " position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&amp;assetid=36526&amp;objectid=282846"
+title="View large image on British Museum website" hide-print="yes"
+rel="external"/><esp:caption><esp:bookmark id="img233"><b>Image 2.</b>
+On this 8th-century stone carving from Assur, a bare-headed king worships a god holding a bow, thought to be Ninurta. </esp:bookmark>
+<esp:link url="http://www.britishmuseum.org/explore/highlights/highlight_objects/me/g/gypsum_tile.aspx" hide-print="yes" rel="external">BM
+115694</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&amp;assetid=36526&amp;objectid=282846" title="View large image
+on British Museum website" hide-print="yes" rel="external">View large image on British Museum website</esp:link> © The Trustees of the
+British Museum.</esp:caption></esp:image>
+
+<p>For the kings of Assyria, it was the warlike element of Ninurta's
+divine personality that was particularly attractive (<esp:link bookmark="img233"><b>Image 2</b></esp:link>). In the late
+second millennium BC there was a fashion for
+royal names such as Tukulti-Ninurta ("the trusted one of Ninurta"),
+Ninurta-apil-Ekur ("Ninurta is the heir of (Ellil's temple) Ekur"),
+and Ninurta-tukulti-Aššur ("Ninurta is the god <esp:glossary term="Aššur (deity)">Aššur's</esp:glossary> trusted
+one"). <esp:glossary term="Tukulti-Ninurta I (person)">Tukulti-Ninurta I</esp:glossary> hunted fierce wild animals "at the command of
+the god Ninurta, who loves me", while <esp:glossary term="Adad-nerari II (person)">Adad-nerari II</esp:glossary> claimed to "act
+with the support of Aššur and the god Ninurta, the great gods, his
+lords, and (thereby) has felled his foes" <esp:ref
+referent="grayson1991" page="25-26, A.0.87.1; 143, A.0.99.1"/>.</p>
+
+<p>When king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> moved the Assyrian capital city to
+Kalhu, the first temple he built was <esp:link page="ziggurat"
+bookmark="ziggurat">for Ninurta</esp:link>. He lined its main rooms
+with stone slabs covered in magnificent carvings, including a striking
+image of Ninurta defeating the evil Anzu bird. The walls were also inscribed with a long
+account of his building works and military victories. Ninurta,
+Assurnasirpal says, is:</p>
+<blockquote><p>the strong, the almighty,
+the exalted, foremost among the gods,
+the splendid (and) perfect warrior whose attack in
+battle is unequalled, the eldest son who commands
+battle (skills), ... king of
+battle, the hero who rejoices in battles, the triumphant,
+the perfect, lord of springs and seas, the
+angry (and) merciless whose attack is a deluge,
+the one who overwhelms enemy lands (and) fells
+the wicked, the splendid god who never once
+changes, light of heaven (and) underworld who illuminates
+the interior of the apsû, annihilator of
+the evil, subduer of the insubmissive, destroyer of
+enemies, the one whose command none of the
+gods in the divine assembly can alter, bestower of
+life, the compassionate god to whom it is good to
+pray <esp:ref referent="grayson1991" page="193-4 A.0.101.1"/>.</p></blockquote>
+
+<p>It was left to Assurnasirpal's son <esp:link
+page="shalmaneser3">Shalmaneser III</esp:link> to complete Ninurta's <esp:techterms term="ziggurat">ziggurat</esp:techterms>. His son in turn, <esp:glossary term="Šamši-Adad V (person)">Šamši-Adad V</esp:glossary>, dedicated a monumental stone
+carving of himself to Ninurta, on which he recounted the military
+victories of his first years of rule and even before, when he quashed
+a rebellion against his father. None of this would have been possible,
+he implies, without Ninurta's support <esp:ref referent="grayson1996"
+page="182 A.0.103.1"/>. And when <esp:glossary term="Adad-nerari III (person)">Adad-nerari III</esp:glossary> set up new endowments
+for the god Aššur's temple in <esp:glossary term="Assur (place)">Assur</esp:glossary> they were <esp:techterms term="seal, sealing">sealed</esp:techterms> with Ninurta's
+seal as well as Aššur's (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P285569,P336283">SAA 12: 1, 71</esp:link>).</p>
+
+<p>The Assyrian kings' move from Kalhu saw a decline in Ninurta's
+importance, however. <esp:glossary term="Sargon II (person)">Sargon II</esp:glossary> particularly favoured <esp:link
+page="nabu">Nabu</esp:link>. Ninurta still counted amongst the
+pantheon of great gods who bestowed blessings &amp; curses, while
+<esp:link page="professions"><i>asû</i>-healers</esp:link> blessed the
+king on behalf of Ninurta and the healing goddess <esp:glossary
+term="Gula (deity)">Gula</esp:glossary> (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa10/corpus/">SAA 10</esp:link>: 314-337). The
+(male) <esp:techterms term="prophet(ess)">prophet</esp:techterms> <esp:glossary term="La-dagil-ili (person)">La-dagil-ili</esp:glossary> twice reassured king Esarhaddon that "Your
+son and grandson shall rule as kings on the lap of Ninurta" (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P333952,P337152">SAA 9: 1,
+2</esp:link>). Yet an angry letter from Ninurta to an unknown king
+(<b>Image 3</b>) suggests that
+he and his priests were not happy with this long-term loss of status (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P336130">SAA 3: 47</esp:link>).</p>
+
+<esp:h>Ninurta residing in Kalhu: personal piety</esp:h>
+
+<esp:image file="ancientcity/BM-K2764-P336130-obverse.jpg" description="Cuneiform
+						       tablet, letter
+						       from Ninurta"
+	   position="float"><esp:link
+	   url="http://cdli.ucla.edu/P336130" title="View large
+	   image of letter from Ninurta on CDLI"
+	   hide-print="yes"/><esp:caption><esp:bookmark
+	   id="img234">A letter from Ninurta to an unknown king: "I am
+distressed, I am
+wrathful, I am angry!"</esp:bookmark> (<esp:link
+	   url="http://oracc.museum.upenn.edu/saao/P336130"
+	   hide-print="yes" rel="external">SAA 3:
+047</esp:link>). British Museum 
+<esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=310775&amp;partId=1" hide-print="yes" rel="external">
+K.2764</esp:link>. <esp:link
+	   url="http://cdli.ucla.edu/P336130" title="View large
+	   image of letter from Ninurta on CDLI"
+	   hide-print="yes">View large image on CDLI (P336130)</esp:link>
+</esp:caption></esp:image>
+
+<p>Even if the kings' attention turned from Ninurta in the late eighth
+century, the residents of the former capital city remained devoted to
+"Ninurta residing in Kalhu", as they called him. <esp:link page="legaldocuments">Legal documents</esp:link>
+regularly state that those who break contracts "shall place two minas of <esp:techterms term="silver">silver</esp:techterms> and one mina of <esp:techterms term="gold">gold</esp:techterms> in the lap of Ninurta residing in
+Kalhu" (e.g., <esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa06/P335431">SAA 6: 220</esp:link>). The amount of the forfeit varies but it
+is paid on top of a tenfold penalty to the other party and, sometimes,
+a quantity of tin to the city authorities. The latest known clause
+of this type is from 669 BC, the last year of king Esarhaddon's reign (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa14/P336739">SAA 14: 63</esp:link>).</p>
+
+<p>Ninurta's temple in Kalhu continued to flourish right until the end
+of empire. It took in the unwanted and the destitute as labourers, as
+well as buying specialist artisans such as weavers (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P334997,P335015,P334977">SAA 12: 92-94</esp:link>). Its cultic personnel included a <i>šangû</i>-priest and a chief
+singer with support staff including a cook, a steward, and
+a porter (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P334997,P335015,P334977,P334976,P335415">SAA 12: 92–96</esp:link>; <esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334340">SAA 13: 128</esp:link>). In the late seventh century, many of these men witnessed legal documents together with their counterparts at Nabu's temple Ezida, and the two temples shared a <esp:link page="templestaff"><i>qēpu</i>-official</esp:link>.</p>
+
+
+<esp:h>Nimrod and Nisroch, echoes of the past</esp:h>
+
+<esp:image file="ancientcity/Tissot-A-Little-Nimrod-detail.jpg"
+	   description="Oil painting of children playing in a park
+			while their governess sews. One boy is dressed as a warrior, riding a rocking
+			horse. Three other children are playing dead
+			on the ground, two of them wearing animal skins"
+	   position="float"><esp:link
+	   url="/nimrud/images/ancientcity/Tissot-A-Little-Nimrod-large.jpg" title="View large
+	   image of James Tissot's painting 'A Little Nimrod'"
+	   hide-print="yes"/><esp:caption><esp:bookmark
+	   id="img235"><b>Image 4.</b> Detail from the oil painting 'A Little Nimrod' by James Tissot, c.1882</esp:bookmark>
+ (<esp:link
+url="http://commons.wikimedia.org/wiki/File:James_Tissot_-_A_Little_Nimrod.jpg"
+title="View file on Wikimedia Commons" hide-print="yes" rel="external">Wikimedia Commons</esp:link>, CC BY-SA 3.0). <esp:link
+	   url="/nimrud/images/ancientcity/Tissot-A-Little-Nimrod-large.jpg" title="View large image of James Tissot's painting 'A Little Nimrod'"
+	   hide-print="yes">View large image (445 KB)</esp:link>.</esp:caption></esp:image>
+
+<p>Like the rest of the city of Kalhu, Ninurta's temple fell to
+invaders in the late seventh century BC and was not restored. But his name was never
+quite forgotten. In the Book of Genesis (10:8-12), and thus in
+Jewish, Christian, and Muslim tradition, he lived on as <esp:glossary term="Nimrod (deity)">Nimrod</esp:glossary> the
+mighty hunter  (<esp:link bookmark="img235"><b>Image 4</b></esp:link>). Elsewhere in the Old Testament
+a transcription error turned מ (Hebrew M) into ס (S), and ד (D) into ך (K or CH).  Thus Nimrod turned into <esp:glossary term="Nisroch (deity)">Nisroch</esp:glossary>, deity of the
+temple in which king <esp:glossary term="Sennacherib (person)">Sennacherib</esp:glossary> was supposed to have been murdered (2
+Kings 19:37) <esp:ref referent="toorn-horst1990"/>.</p>
+
+<p>In due course Nimrod, Arabic <i>Namrūd</i>, became the name of the mound under
+which Ninurta's city was buried, while the stone winged <esp:techterms
+term="genie">genies</esp:techterms> that <esp:glossary term="Layard,
+Austen Henry (person)">Layard</esp:glossary> and his
+team uncovered in the 1840s were popularly known as "Nisrochs" for
+much of the nineteenth century. In <esp:link
+rel="external" hide-print="yes" url="http://www.gutenberg.org/ebooks/837"><i>The Story of the
+Amulet</i></esp:link> British author <esp:glossary term="Nesbit, Edith (person)">E. Nesbit</esp:glossary> even has her
+child protagonists summon
+a Nisroch to help them:</p>
+<blockquote><p> 'Walk forward without fear,' said Nisroch. 'Is there aught else that the Servant of the great Name can do for those who speak that name?'</p>
+
+<p>'No—oh, no,' said Cyril. 'It's all right now. Thanks ever so.'</p>
+
+<p>'You are a dear,' cried Anthea, not in the least knowing what she was saying. 'Oh, thank you thank you. But DO go NOW!'</p>
+
+<p>She caught the hand of the creature, and it was cold and hard in hers, like a hand of stone.</p>
+
+<p>'Go forward,' said Nisroch. And they went <esp:ref
+referent="nesbit1906" page="112"/>.</p></blockquote>
+
+<p>Even now the names and martial, macho reputations of Nisroch and Nimrod live on in contexts as
+various as <esp:link rel="external" hide-print="yes" url="https://www.youtube.com/watch?v=sUgoBb8m1eE">classical music</esp:link>,
+<esp:link rel="external" hide-print="yes" url="http://en.wikipedia.org/wiki/Hawker_Siddeley_Nimrod">aircraft design</esp:link>, and <esp:link rel="external" hide-print="yes"
+url="http://www.theonion.com/articles/forgotten-assyrian-god-revived-to-name-sports-drin,2910/">popular
+satire</esp:link>. Most recently Ninurta's evil foe Anzu has had <esp:link rel="external" hide-print="yes" url="http://www.bbc.co.uk/news/world-us-canada-26653799">a dinosaur named after him</esp:link>.</p>
+
+<p>Content last modified: <esp:content-last-modified/><br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+	</body></html>
+
+</esp:page>

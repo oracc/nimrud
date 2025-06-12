@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>UK museums with Nimrud material</name>
+  <description><![CDATA[Museums in the UK that hold archaeological material from the ancient Assyrian city of Kalhu (modern Nimrud).
+
+Map created by Ruth Horry in January 2014 as part of the Nimrud Project: http://oracc.org/nimrud
+funded by the UK Arts and Humanities Research Council. Created using data provided by the individual museums listed.]]></description>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/target_maps.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Calah-Kalhu (Nimrud, Iraq)</name>
+    <description><![CDATA[<div dir="ltr">Nimrud, Iraq.<br>The archaeological site of the ancient Assyrian royal city of Kalhu. This ancient city was situated between Assur and Nineveh on the Tigris river. Kalhu's Biblical name was Calah.</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>43.328831,36.098297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Birmingham Museum and Art Gallery</name>
+    <description><![CDATA[Birmingham, England]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-1.904279,52.480770,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bolton Museum</name>
+    <description><![CDATA[<div dir="ltr">Bolton, England</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-2.431381,53.577328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bristol Museum and Art Gallery</name>
+    <description><![CDATA[<div dir="ltr">Bristol, England</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-2.605174,51.456078,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fitzwilliam Museum, University of Cambridge</name>
+    <description><![CDATA[Cambridge, England]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>0.119943,52.199558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum of Archaeology and Anthropology, University of Cambridge</name>
+    <description><![CDATA[<div dir="ltr">Cambridge, England</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>0.121053,52.202560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oriental Museum, University of Durham</name>
+    <description><![CDATA[<div dir="ltr">Durham, England</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-1.581960,54.763420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The British Museum</name>
+    <description><![CDATA[London, England]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-0.126337,51.518852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Manchester Museum, University of Manchester</name>
+    <description><![CDATA[<div dir="ltr">Manchester, England</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-2.234309,53.466442,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ashmolean Museum, University of Oxford</name>
+    <description><![CDATA[<div dir="ltr">Oxford, England</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-1.260026,51.755302,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pitt Rivers Museum, University of Oxford</name>
+    <description><![CDATA[<div dir="ltr">Oxford, England</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-1.255188,51.758915,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ipswich Museum</name>
+    <description><![CDATA[<div dir="ltr">Ipswich, England</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>1.150990,52.060566,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>National Museums Scotland</name>
+    <description><![CDATA[Edinburgh, Scotland]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-3.190847,55.947052,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Burrell Collection</name>
+    <description><![CDATA[Glasgow, Scotland]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-4.307628,55.830914,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

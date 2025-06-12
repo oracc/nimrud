@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+		xmlns:esp="http://oracc.org/ns/esp/1.0"
+		xmlns="http://www.w3.org/1999/xhtml">
+	
+	<esp:name>About this website</esp:name>
+	<esp:title>About this website: re-use, privacy, accessibility</esp:title>
+	
+	<html><head></head><body>
+
+<p class="firstpara">We encourage you to re-use and adapt the material on this website that was created by the Nimrud Project. These pages explain the straightforward conditions under which you can do this, and point to further resources on how to do so. We also explain here our policies and practices on privacy and accessibility.</p>
+
+<esp:h>How to re-use materials from this website</esp:h>
+<p>The contents of this website, except where noted below, are released under a <esp:link url="http://creativecommons.org/licenses/by-sa/3.0/" hide-print="yes" rel="external">Creative Commons Attribution Share-Alike license 3.0</esp:link>.</p>
+
+<esp:image url="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" description="Creative Commons License"/>
+
+<p>This means that you are free to copy, distribute, transmit and adapt our work without permission, under the following conditions:</p>
+<ul>
+<li><p>You must attribute the work to the Nimrud project and (if relevant) the individual author, and also acknowledge the fact that we are funded by the the <esp:link url="http://www.ahrc.ac.uk/" rel="external">UK Arts and Humanities Research Council</esp:link>. We recommend the following wording: "Based on materials prepared by [name of author] for the AHRC-funded Nimrud project" or "Based on materials prepared by the AHRC-funded Nimrud project".</p></li>
+<li><p>If you alter, transform, or build upon any material in this website, you may distribute the resulting work only under the same or similar license to this one.</p></li>
+</ul>
+<p>Any of these conditions may be waived in the right circumstances, if you explicitly ask us for permission. You can email us at <esp:email address="nimrud@oracc.org" />.</p>
+
+<ul>
+<li>Read the hints and suggestions for <esp:link url="http://build.oracc.org/doc2/help/visitor/reusing/" hide-print="yes" rel="external">reusing material from Oracc</esp:link>.</li>
+</ul>
+<!-- NB Fix this link when O3 goes live! -->
+
+<p><esp:bookmark id="BISIimages">Images credited 'BSAI/BISI' are released under a <esp:link url="http://creativecommons.org/licenses/by-sa/3.0/" hide-print="yes" rel="external">Creative Commons Attribution Share-Alike license 3.0</esp:link> courtesy of the <esp:link url="http://www.bisi.ac.uk" hide-print="yes" rel="external">British Institute for the Study of Iraq</esp:link> (BISI).</esp:bookmark> <b>Images taken from third-party websites are all credited and linked to those websites, where information about copyright may be found.</b> If you have any doubts or questions about the licensing conditions of any material on our website please do not hesitate to get in touch.</p>
+
+<esp:sh>Homepage image credit</esp:sh>
+<p>"The palaces of Nimrud restored", as imagined by the city's first excavator, A.H. Layard (<i>A Second Series of the Monuments of Nineveh</i>, London 1853, <esp:link url="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/library/3ADD60G8/pageimg&amp;start=11&amp;pn=15&amp;mode=imagepath" rel="external" hide-print="yes">pl. 1 detail</esp:link>, after a sketch by James Fergusson).</p>
+
+<esp:h>Privacy and accessibility</esp:h>
+<p>Read more about this website's use of:</p>
+<ul>
+<li><esp:link page="accesskeys">Access keys</esp:link></li>
+<li><esp:link page="site-map">Site map</esp:link></li>
+<li><esp:link page="standards">Accessibility standards</esp:link></li>
+<li><esp:link page="privacy">Cookies under EU law</esp:link>.</li>
+</ul>
+
+
+<esp:h>Software development</esp:h>
+<p>The website is based on a design by <esp:link url="http://mackerron.com/home/" rel="external" hide-print="yes">George MacKerron</esp:link> for the <esp:link url="http://www.hps.cam.ac.uk/whipple/" rel="external">Whipple Museum</esp:link>, and was created using <esp:link url="http://oracc.org/help/portals/esp/" hide-print="yes">ESP</esp:link>, Steve Tinney's Oracc port of MacKerron's electrostatic website-building software.</p>
+
+
+
+<p><small>Content last modified: <esp:content-last-modified/></small></p>
+<esp:email address="nimrud@oracc.org"/>
+
+		</body>
+	</html>
+
+</esp:page>

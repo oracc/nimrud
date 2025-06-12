@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0"
+	  xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:xh="http://www.w3.org/1999/xhtml"
+	  xmlns:xpd="http://oracc.org/ns/xpd/1.0"><esp:name>Home</esp:name><esp:title>Nimrud
+Inscribed Objects Database</esp:title><html><head/><body><esp:image
+file="" description=""/><p>A catalogue of inscribed objects from
+Nimrud created by Christopher Walker and a group of volunteers at the
+<esp:link page="museumsuk" bookmark="britishmuseum">British Museum</esp:link>.</p>
+<ul>
+<li>You can view the catalogue's content <esp:link
+url="/nimrud/ood/niod/pager" hide-print="yes">here</esp:link>.</li></ul>
+
+<esp:h>Key to catalogue fields</esp:h>
+<p>For general tips on browsing and searching Oracc catalogues, see
+the <esp:link url="http://oracc.org/help/visitingoracc/index.html"
+rel="external" hide-print="yes">visitor help pages</esp:link>. {NB
+this link won't work until Oracc 3 goes live; meanwhile it's at
+<esp:link
+    url="http://build.oracc.org/doc2/help/visitingoracc/index.html" hide-print="yes">visitor help pages</esp:link>.}</p>
+<esp:sh>In the Pager listing:</esp:sh>
+<dl>
+<dt><esp:bookmark id="id"/>ID</dt>
+<dd>A stable running number identifying the database record. Records may be added or deleted from this database, but each record ID stays unchanged. For instance ID <code class="example">1104</code> always refers to the tablet ND 4342 = IM 67547 = CTN 4, 98. You can use this ID to link stably to the item view, whether in print or online, e.g., <code class="example"><esp:link url="http://oracc.org/nimrud/ood/noid/1104" hide-print="yes">http://oracc.org/nimrud/ood/noid/1104</esp:link>.</code>
+</dd>
+<dd>The <code>ID</code> field also acts as a link to the <esp:link bookmark="h_ontheitemviewpage">Item View page</esp:link>, which contains more information about the artefact.</dd>
+<dt><esp:bookmark id="designation"/>Designation</dt>
+<dd>The excavation number of the artefact. Objects which do not have an excavation number are catalogued with designations such as <code class="example">Unnumbered tablet</code>.</dd>
+<dt><esp:bookmark id="description"/>Description</dt>
+<dd>A brief description of the artefact, e.g., <code class="example">writing board</code>.</dd>
+<dt><esp:bookmark id="location"/>Location</dt>
+<dd>Gives the current institional location of the artefact, where
+known, including museum number, e.g., <code class="example">Melbourne
+IA.5.034</code>. See the pages on <esp:link
+url="http://build.oracc.org/nimrud/museumsholdingnimrudobjects/" hide-print="yes">museums holding Nimrud objects</esp:link> for further details of each collection.</dd>
+<dt><esp:bookmark id="publication"/>Publication</dt>
+<dd>Gives a brief bibliography for each item. See the <esp:link
+url="http://cdli.ox.ac.uk/wiki/abbreviations_for_assyriology"
+rel="external" hide-print="yes">CDLI wiki</esp:link> for a list of
+abbreviations and the page on <esp:link
+url="http://build.oracc.org/nimrud/onlineresources/" hide-print="yes">online resources</esp:link> for downloadable PDFs, etc., where available.</dd>
+</dl>
+
+<esp:sh>On the Item View page:</esp:sh>
+<dl>
+<dt>ND</dt>
+<dd>The excavation number of the artefact, e.g., <code class="example">ND 453</code></dd>
+<dt>ND2</dt>
+<dd>Some Nimrud artefacts were given supplementary letters, e.g., <code class="example">ND 1106b</code>. The supplementary letter is in the <code>ND2</code> field.</dd> 
+<dd>In the <esp:link bookmark="h_inthepagerlisting">pager</esp:link>, the <code>ND</code> and <code>ND2</code> fields are combined to create the <esp:link bookmark="designation"><code>Designation</code></esp:link> field.</dd>
+<!--<dt>DIVISION</dt>
+<dd>HIDE??</dd>-->
+<dt>Location</dt>
+<dd>Gives the current institional location of the artefact, where known, including museum number, e.g., <code class="example">Melbourne IA.5.034</code>. Identical to the <esp:link bookmark="location"><code>Location</code></esp:link> field in the pager.</dd>
+<!--<dt>Quantity</dt>
+<dd>Usually 1, but now and again more than one item was registered with the same excavation number.</dd>-->
+<dt>Object</dt>
+<dd>A brief classification of the type of artefact.</dd>
+<dt>Material</dt>
+<dd>The primary material(s) from which the artefact was made, e.g., <code class="example">ivory</code>.</dd>
+<!--<dt>Inscribed</dt>
+<dd>The content of this field is always <code class="cookbook">yes</code>. HIDE??</dd>-->
+<dt>Provenance1</dt>
+<dd>The primary archaeological locus where the artefact was found, usually a building or a room within a building. The main abbreviations are:</dd>
+<dd><ul>
+<li>FS = <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/fortshalmaneser/" hide-print="yes">Fort Shalmaneser</esp:link></li>
+<li>GP = <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/thegovernorspalace/"
+hide-print="yes">Governor's Palace</esp:link></li>
+<li>NT = <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/nabustemple/" hide-print="yes">Nabu's temple</esp:link></li>
+<li>NWP = <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/northwestpalace/" hide-print="yes">Northwest Palace</esp:link></li>
+<li>PD = soundings in the outer town, below the citadel</li>
+<li>SEB = "South East Building", an area of <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/nabustemple/" hide-print="yes">Nabu's temple</esp:link></li>
+<li>TW = Town Wall</li>
+<li>ZT(E/W) = <esp:link
+url="http://build.oracc.org/nimrud/theancientcity/zigguratandtemples/"
+hide-print="yes">Ziggurat Terrace</esp:link> (East/West)</li>
+</ul>
+</dd>
+<dt>Provenance2</dt>
+<dd>More precise information on the artefact's archaeological findspot, where known.</dd>
+<dt>Description</dt>
+<dd>A brief description of the artefact, e.g., <code class="example">writing board</code>. Identical to the <esp:link bookmark="description">Description</esp:link> field in the pager listing.</dd>
+<dt>Dimensions</dt>
+<dd>The measurements of the artefact, where known.</dd>
+<dt>Publication</dt>
+<dd>A brief bibliography for the artefact. Identical to the <esp:link bookmark="publication">Publication</esp:link> field in the pager listing.</dd>
+<!--<dt>COMMENTS</dt>
+<dd>HIDE??</dd>-->
+<dt>Date</dt>
+<dd>Date BC of inscription, where known.</dd>
+<!--<dt>UNPUBLISHED</dt>
+<dd>HIDE??</dd>-->
+</dl>
+
+<p>Please notify corrections to <esp:email address="nimrud@oracc.org"/>.</p>
+
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+
+</body></html></esp:page>

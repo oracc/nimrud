@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>The city</esp:name>
+	<esp:title>The ancient Assyrian royal city of Kalhu</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">The archaeological site of Nimrud was known in antiquity as Kalhu (biblical Calah). It is located just to the east of the <esp:glossary term="Tigris (place)">Tigris</esp:glossary> river, in what is nowadays northern Iraq, some 30 km (roughly 20 miles) south of the the modern city of Mosul. Although Nimrud is now a peaceful archaeological site in the countryside, in ancient times Kalhu was a huge and bustling city. It served as the capital of the mighty Assyrian empire for nearly 200 years, from the early 9th to the late 8th century BC, but was also inhabited for many centuries before and after. In this section of the website we explore the ancient history and geography of Kalhu.</p>
+
+<esp:image file="ancientcity/BM-130870-4sq.jpg" description="Detail of a glazed faience rosette from Kalhu" position="float"><esp:link page="earlykalhu"/></esp:image>
+
+<esp:h>History</esp:h>
+
+<esp:sh><esp:link page="earlykalhu">Kalhu: from prehistoric settlement to royal capital</esp:link></esp:sh>
+<p>The site's strategically important location ensured that it was inhabited long before its heyday as royal capital in the 9th and 8th centuries BC. While we know very little about Kalhu's earliest days, the city enjoyed a prominent status during the 2nd millennium BC, when it served as a <esp:techterms term="province">provincial</esp:techterms> capital - a role which it would keep until the final days of the Assyrian empire.</p>
+
+<esp:sh><esp:link page="kalhu-aeb">Kalhu, the imperial capital of the 9th and 8th centuries BC</esp:link></esp:sh>
+<p>Early in his reign, <esp:link page="earlykalhu">Assurnasirpal II</esp:link> made the decision to move his court from the empire's traditional capital, <esp:glossary term="Assur (place)">Assur</esp:glossary>. He set his sights on the ancient settlement of Kalhu, which he transformed into a fitting symbol of Assyrian power and wealth. The city served as the seat of kingship for the next 150 years.</p>
+
+<esp:sh><esp:link page="latekalhu">Kalhu from the 7th century BC to the post-Assyrian period</esp:link></esp:sh>
+<p>From the end of the 8th century BC, Kalhu no longer served as a royal capital. However, it continued to thrive as a centre of learning and scholarship, as well as the seat of provincial administration. The city's was destroyed by <esp:glossary term="Media (place)">Median</esp:glossary> invaders in 612 BC, but its ruins provided shelter to local people into the <esp:techterms term="Hellenistic">Hellenistic</esp:techterms> period and beyond.</p>
+
+<!--<esp:sh>The city, the citadel and its surrounding landscape</esp:sh>-->
+
+<esp:image file="ancientcity/ziggurat-reconstruction-4sq.jpg" description="Detail from an engraving by Layard showing a reconstruction of Kalhu's ziggurat" position="float"><esp:link page="ziggurat"/></esp:image>
+
+<esp:h>Geography</esp:h>
+
+<esp:sh><esp:link page="northwestpalace">Assurnasirpal's Northwest Palace</esp:link></esp:sh>
+<p>Early in his reign, king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> commissioned a huge new palace. It comprised administrative and military wings, an official reception area for visiting dignitaries, and private quarters for the royal family and their domestic staff. Each area had a distinctive decorative scheme that reflected its purpose in Assyrian state-making.</p>
+
+<esp:sh><esp:link page="ziggurat">The ziggurat and its temples</esp:link></esp:sh>
+<p>The northwestern part of Kalhu's <esp:techterms term="citadel">citadel</esp:techterms> mound was home to a temple precinct dominated by the <esp:techterms term="ziggurat">ziggurat</esp:techterms>, an imposing stepped structure attached to the temple of Ninurta. Two further temples have been uncovered in the area in addition to <esp:link page="northwestpalace">Ezida</esp:link>, including the ancient temple of the <esp:glossary term="Kidmuru (deities)">Kidmuru</esp:glossary> which long predated Assurnasirpal's rebuilding of Kalhu.</p>
+
+<esp:sh><esp:link page="ezida">The god Nabu's temple of scholarship</esp:link></esp:sh> 
+<p>Ezida, the temple of the god of wisdom, was at the opposite end of the royal citadel to the <esp:link page="northwestpalace">palace</esp:link>, next to the <esp:link page="governorspalace">governor's residence</esp:link>. It gained in importance over the 8th century and king <esp:glossary term="Sargon II (person)">Sargon II</esp:glossary> remodelled it to reflect a close, triangular relationship between deity, royalty and scholarship. Royal <i>āšipu</i>-healers led <esp:link page="professions" bookmark="h_ipuhealers">scholarly activities</esp:link> in the temple, including the development of a large library of learned works.</p>
+
+<esp:sh><esp:link page="governorspalace">The Governor's Palace</esp:link></esp:sh> 
+<p>This beautifully decorated building lay not far from <esp:link page="nabu">Nabu's</esp:link> temple <esp:link page="ezida">Ezida</esp:link>. While it may not actually have served as the <esp:techterms term="governor">governor</esp:techterms>'s residence, the many <esp:techterms term="tablet">tablets</esp:techterms> which were kept here provide evidence of the important administrative role which it played until at least the end of the 8th century BC, whenSargon II moved the royal court to <esp:glossary term="Dur-Šarruken (place)">Dur-Šarruken</esp:glossary>. The building continued to be used until the destruction of Kalhu in 612 BC, and afterwards by squatters into the <esp:techterms term="Hellenistic">Hellenistic</esp:techterms> period.</p>
+
+<esp:sh><esp:link page="fortshalmaneser">Fort Shalmaneser, the royal arsenal</esp:link></esp:sh>
+<p>Built by <esp:link page="shalmaneser3">Shalmaneser III</esp:link> in the southwest corner of the city of Kalhu, this "review palace", as it was known in antiquity, combined the functions of a royal residence and a repository for the king's property, including booty, <esp:techterms term="tribute">tribute</esp:techterms> and military equipment. Unlike <esp:link page="assurnasirpal2">Assurnasirpal II's</esp:link> <esp:link page="northwestpalace">Northwest Palace</esp:link>, it was decorated not with carved <esp:techterms term="bas-relief">reliefs</esp:techterms> but with painted friezes and <esp:techterms term="glaze">glazed bricks</esp:techterms>. Excavations of the palace have yielded a great quantity of decorative objects such as the famous <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms>, as well as administrative tablets which help shed light on the day-to-day realities of the court and the army.</p>
+ 
+<esp:email address="nimrud@oracc.org"/>
+
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+
+	</body></html>
+
+</esp:page>

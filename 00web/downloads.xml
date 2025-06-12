@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Events resources</esp:name>
+	<esp:title>Downloadable resources for teaching and events</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Need source material for an Assyrian-themed event? Or want to colour in your own Assyrian genies? These resources are <esp:link page="copyright">freely available for reuse</esp:link>.</p>
+ 
+<ul><li><esp:link bookmark="h_imagesofgeniesandkings">Images of genies and kings</esp:link></li>
+<li><esp:link bookmark="h_colouringeniesandkingsa4size">Colour-in genies and kings (A4 size)</esp:link></li>
+<li><esp:link bookmark="fitzcolouringenies">Fitzwilliam Museum colour-in genies (A4 size)</esp:link></li>
+<li><esp:link bookmark="h_writeyournameincuneiformsignlist">Write your name in cuneiform sign list</esp:link></li></ul>
+
+<esp:h>Images of genies and kings</esp:h>
+
+<p>Drawings of Assyrian kings and <esp:techterms term="genie">genies</esp:techterms> based on <esp:techterms term="bas-relief">relief</esp:techterms> panels from the <esp:link page="northwestpalace">Northwest Palace</esp:link> of king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> in the city of Kalhu.</p>
+
+<esp:image file="resources/assyrian-king-thumb.png" description="Assyrian king line drawing"><esp:link url="/nimrud/downloads/assyrian-king.jpg" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/assyrian-king.jpg" rel="external" hide-print="yes">Assyrian king JPG</esp:link> (1.9 MB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/birdheaded-genie-thumb.png" description="Bird-headed genie line drawing"><esp:link url="/nimrud/downloads/birdheaded-genie.jpg" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/birdheaded-genie.jpg" rel="external" hide-print="yes">Bird-headed genie JPG</esp:link> (760 KB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/standing-genie-thumb.png" description="Standing genie line drawing"><esp:link url="/nimrud/downloads/standing-genie.jpg" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/standing-genie.jpg" rel="external" hide-print="yes">Standing genie JPG</esp:link> (1.6 MB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/kneeling-genie-thumb.png" description="Kneeling genie line drawing"><esp:link url="/nimrud/downloads/kneeling-genie.jpg" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/kneeling-genie.jpg" rel="external" hide-print="yes">Kneeling genie JPG</esp:link> (2.7 MB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/fish-man-thumb.png" description="Line drawing of fish-man"><esp:link url="/nimrud/downloads/fish-man.jpg" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/fish-man.jpg" rel="external" hide-print="yes">Fish-man JPG</esp:link> (1.4 MB). Based on a stone relief panel of a <esp:techterms term="fish-man">fish-cloaked</esp:techterms> <esp:techterms term="apkallu"><i>apkallu</i></esp:techterms>-sage in the British Museum (<esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=365970&amp;partId=1" title="View catalogue record on British Museum website" rel="external" hide-print="yes">BM 124573</esp:link>)</esp:caption></esp:image>
+
+<p></p>
+
+<esp:h><esp:bookmark id="fitzcolouringenies">Fitzwilliam Museum colour-in genies (A4 size)</esp:bookmark></esp:h>
+
+<p>Drawings of particular genies in the <esp:link url="http://www.fitzmuseum.cam.ac.uk/" rel="external" hide-print="yes">Fitzwilliam Museum</esp:link>, Cambridge.</p>
+
+<esp:image file="resources/fitz-bird-headed-genie-thumb.png" description="Line drawing of Fitzwilliam Museum bird headed genie for colouring in"><esp:link url="/nimrud/downloads/fitz-bird-headed-genie-ANE_1_1908.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/fitz-bird-headed-genie-ANE_1_1908.png" rel="external" hide-print="yes">Fitzwilliam Museum bird-headed genie (ANE.1.1908)</esp:link> (1.5 MB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/fitz-kneeling-genie-thumb.png" description="Line drawing of Fitzwilliam Museum kneeling genie for colouring in"><esp:link url="/nimrud/downloads/fitz-kneeling-genie-ANE_2_1908.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/fitz-kneeling-genie-ANE_2_1908.png" rel="external" hide-print="yes">Fitzwilliam Museum kneeling genie (ANE.2.1908)</esp:link> (1.2 MB)</esp:caption></esp:image>
+<p></p>
+
+<esp:h>Colour-in genies and kings (A4 size)</esp:h>
+
+<esp:image file="resources/colour-in-assyrian-king-thumb.png" description="Line drawing of Assyrian king for colouring in"><esp:link url="/nimrud/downloads/colour-in-assyrian-king.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/colour-in-assyrian-king.png" rel="external" hide-print="yes">Colour in Assyrian king (A4) </esp:link> (1 MB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/colour-in-kneeling-genie-thumb.png" description="Line drawing of kneeling genie for colouring in"><esp:link url="/nimrud/downloads/colour-in-kneeling-genie.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/colour-in-kneeling-genie.png" rel="external" hide-print="yes">Colour in kneeling genie (A4)</esp:link> (791 KB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/colour-in-standing-genie-thumb.png" description="Line drawing of kneeling genie for colouring in"><esp:link url="/nimrud/downloads/colour-in-standing-genie.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/colour-in-standing-genie.png" rel="external" hide-print="yes">Colour in standing genie (A4)</esp:link> (791 KB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/colour-in-fish-man-thumb.png" description="Line drawing of fish-man for colouring in"><esp:link url="/nimrud/downloads/colour-in-fish-man.png" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/colour-in-fish-man.png" rel="external" hide-print="yes">Colour in fish-man (A4)</esp:link> (593 KB). Based on a stone relief panel of a fish-cloaked <i>apkallu</i>-sage in the British Museum (<esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=365970&amp;partId=1" title="View catalogue record on British Museum website" rel="external" hide-print="yes">BM 124573</esp:link>)</esp:caption></esp:image>
+
+<p></p>
+
+<esp:h>'Write your name in cuneiform' sign lists</esp:h>
+
+<p>These sign lists can be used to run a 'write your name in cuneiform' activity that introduces participants to cuneiform writing. The only materials additional needed are plasticine or modelling clay and disposable chopsticks. See the <esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/learningsigns/tipsforlearningsigns/" rel="external" hide-print="yes">Cuneiform Revealed</esp:link> website for more information on running a cuneiform writing activity, and a video of cuneiform writing in action.</p>
+
+<p>Cuneiform sign lists are provided below in <esp:techterms term="Neo-Assyrian">Neo-Assyrian</esp:techterms> and Old Babylonian scripts.</p>
+
+ 
+<esp:image file="resources/cuneiform-signs-na-thumb.jpg" description="Thumbnail of simple Neo-Assyrian cuneiform sign list"><esp:link url="/nimrud/downloads/cuneiform-signs-na.pdf" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/cuneiform-signs-na.pdf" rel="external" hide-print="yes">Basic cuneiform sign list in Neo-Assyrian script</esp:link> PDF (48 KB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/cuneiform-signs-ob-thumb.jpg" description="Thumbnail of simple Neo-Assyrian cuneiform sign list"><esp:link url="/downloads/cuneiform-signs-ob.pdf" rel="external" hide-print="yes"/><esp:caption><esp:link url="/downloads/cuneiform-signs-ob.pdf" rel="external" hide-print="yes">Basic cuneiform sign list in Old Babylonian script</esp:link> PDF (75 KB)</esp:caption></esp:image>
+
+<p></p>
+<esp:image file="resources/2-cuneiform-leaflets-thumb.png" description="Thumbnail of cuneiform writing information sheet"><esp:link url="/nimrud/downloads/2-cuneiform-leaflets.pdf" rel="external" hide-print="yes"/><esp:caption><esp:link url="/nimrud/downloads/2-cuneiform-leaflets.pdf" rel="external" hide-print="yes">Information sheet on cuneiform writing</esp:link> PDF (891 KB) &#150; 2 A5 size leaflets on an A4 page</esp:caption></esp:image>
+
+<p></p>
+
+<p>Many of these resources were created for our <esp:link page="discoverassyria">Discovering Ancient Assyria</esp:link> event at the Fitzwilliam Museum, Cambridge in October 2013. Cuneiform sign lists by Eleanor Robson. Drawings by Ruth Horry.</p>
+
+<esp:email address="nimrud@oracc.org"/>
+
+<esp:author first-names="Ruth A." last-name="Horry"/>
+</body></html>
+
+</esp:page>

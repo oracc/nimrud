@@ -1,0 +1,19 @@
+<project n="nimrud" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Nimrud: Materialities of Assyrian Knowledge Production</name>
+  <abbrev>Nimrud</abbrev>
+  <project-type>oracc</project-type>
+  <type>portal</type>
+  <logo type="text">nimrud</logo>
+<public>yes</public>
+<blurb>A portal to all things related to the ancient Assyrian city of Nimrud (Kalhu/Calah), on Oracc and beyond. Explores how scientific and historical knowledge is made from archaeological objects.<br/>Directed by Eleanor Robson at the University of Cambridge and funded by the UK <a href="http://www.ahrc.ac.uk/">Arts and Humanities Research Council</a>.</blurb>
+<image>nimrud.png</image>
+<image-alt>The Assyrian city of Nimrud, as re-imagined by its first excavator, Austen Henry Layard (detail).</image-alt>
+  <option name="build-approved-policy" value="static"/>
+  <option name="build-outlined-policy" value="atf"/>
+<!--  <option name="catalog-build-policy" value="auto"/> -->
+  <option name="cbd-mode" value="mixed"/>
+  <option name="pager-glossaries" value="akk sux qpn"/>
+  <option name="pager-outline" value="yes"/>
+</project>

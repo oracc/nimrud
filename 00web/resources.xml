@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Online resources</esp:name>
+	<esp:title>Online resources related to Nimrud</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">One of the Nimrud Project's aims to bring together online resources related to Nimrud. This page lists bibliographic material available online, plus web resources and other online content.</p>
+
+<ul>
+<li><esp:link bookmark="BISIbooks">Books on Nimrud published by the British Institute for the Study of Iraq (BISI)</esp:link></li>
+<li><esp:link bookmark="articlesIraq">Articles from the BISI's journal <em>Iraq</em></esp:link></li>
+<li><esp:link bookmark="JSTORarticles">Articles available via JSTOR (requires subscription)</esp:link></li>
+<li><esp:link bookmark="Scopusarticles">Articles available via Scopus (requires subscription)</esp:link></li>
+<li><esp:link bookmark="booksonline">Books available online</esp:link></li>
+<li><esp:link bookmark="webresources">Web resources</esp:link></li>
+</ul>
+
+<!-- BISI BOOKS -->
+
+<esp:h><esp:bookmark id="BISIbooks" title="Jump to books published by BISI on this page">Books on Nimrud</esp:bookmark> published by the <esp:link url="http://www.bisi.ac.uk/" hide-print="yes" rel="external">British Institute for the Study of Iraq</esp:link></esp:h>
+
+<p>PDFs are downloadable from the BISI website; follow the links below and see the <esp:link url="http://bisi.ac.uk/content/book-catalogue" hide-print="yes" rel="external">terms of use</esp:link>. These publications were digitised as part of the Nimrud project.</p>
+
+<esp:sh>Cuneiform Texts from Nimrud (CTN)</esp:sh>
+
+<ul><li>Kinnier Wilson, J.V., <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN1_Kinnier_Wilson_The_Nimrud_Wine_Lists.pdf" hide-print="yes" rel="external"><i>The Nimrud Wine Lists</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud" hide-print="yes" rel="external">Cuneiform Texts from Nimrud</esp:link>, 1) 1972 (113 MB).</li>
+<li>Postgate, J.N., <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN2_Postgate_The_Governors_Palace_Archive.pdf" hide-print="yes" rel="external"><i>The Governor’s Palace Archive</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud" hide-print="yes" rel="external">Cuneiform Texts from Nimrud</esp:link>, 2) 1973 (175 MB).</li>
+<li>Dalley, S.M. and J.N. Postgate, <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN3_Dalley_Postgate_Tablets_from_Fort_Shalmaneser.pdf" hide-print="yes" rel="external"><i>The Tablets from Fort Shalmaneser</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud" hide-print="yes" rel="external">Cuneiform Texts from Nimrud</esp:link>, 3) 1984 (123 MB).</li>
+<li>Wiseman, D.J. and J.A. Black, <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN4_Wiseman_Black_Literary_Texts_from_the_Temple_of_Nabu.pdf" hide-print="yes" rel="external"><i>Literary Texts from the Temple of Nabu</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud" hide-print="yes" rel="external">Cuneiform Texts from Nimrud</esp:link>, 4) 1996 (119 MB).</li>
+<li>Saggs, H.W.F., <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/CTN5_Saggs_Nimrud_Letters.pdf" hide-print="yes" rel="external"><i>The Nimrud Letters, 1952</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/cuneiform-texts-nimrud" hide-print="yes" rel="external">Cuneiform Texts from Nimrud</esp:link>, 5) 2001 (156 MB).</li></ul>
+
+<esp:sh>Ivories from Nimrud (IN)</esp:sh>
+
+<ul><li>Orchard, J.J., <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN1-2_Orchard_Equestrian_Bridle-Harness_Ornaments.pdf" hide-print="yes" rel="external"><i>Equestrian Bridle-Harness Ornaments: Catalogue &amp; Plates</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, I/2), 1967 (18.1 MB).</li>
+<li>Mallowan, M.E.L. and L.G. Davies, <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN2_Mallowan_Davies_Ivories_in_Assyrian_style.pdf" hide-print="yes" rel="external"><i>Ivories in the Assyrian Style</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, II), 1970 (21.9 MB).</li>
+<li>Mallowan, M.E.L. and G. Herrmann, <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN3_Mallowan_Herrmann_Furniture_from_SW7_Fort_Shalmaneser.pdf" hide-print="yes" rel="external"><i>Furniture from SW 7, Fort Shalmaneser</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, III), 1974 (52.2 MB).</li>
+<li>Herrmann, G., <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN4-1_Herrmann_Ivories_from_Room_SW37_Fort_Shalmaneser.pdf" hide-print="yes" rel="external"><i>Ivories from Room SW 37, Fort Shalmaneser, part I</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>,  IV/1), 1986 (76.3 MB).</li>
+<li>Herrmann, G., <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN4-2_Herrmann_Ivories_from_Room_SW37_Fort_Shalmaneser.pdf" hide-print="yes" rel="external"><i>Ivories from Room SW 37, Fort Shalmaneser, part 2</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, IV/2), 1986 (81.4 MB).</li>
+<li>Herrmann, G., <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN5_Herrmann_The_Small_Collections_from_Fort_Shalmaneser.pdf" hide-print="yes" rel="external"><i>The Small Collections from Fort Shalmaneser</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, V), 1992 (60.9 MB).</li>
+<li>Herrmann, G., S. Laidlaw and H. Coffey, <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN6_Hermann_et_al_Ivories_from_the_Northwest_Palace_4.pdf" hide-print="yes" rel="external"><i> 	
+Ivories from the North West Palace (1845-1992)</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, VI), 2009 (37 MB).</li>
+<li>Herrmann, G. and S. Laidlaw, <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/IN7_1_Hermann_Laidlaw_Ivories_from_Rooms_SW11-12_and_T10.pdf" hide-print="yes" rel="external"><i>Ivories from Rooms SW11/12 and T10 Fort Shalmaneser, parts 1-2</i></esp:link> (<esp:link url="http://bisi.ac.uk/content/ivories-nimrud" hide-print="yes" rel="external">Ivories from Nimrud</esp:link>, VII), 2013 (5.7 MB).</li> </ul>
+
+<esp:sh>Other publications</esp:sh>
+
+<ul><li>Curtis, J.E. (ed.), <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/Curtis_Fifty_Years_of_Mesopotamian_Discovery.pdf" hide-print="yes" rel="external"><i>Fifty Years of Mesopotamian Discovery: The Work of the British School of Archaeology in Iraq, 1932-1982</i></esp:link>, 1982 (131 MB; includes a chapter on Nimrud).</li>
+<li>Oates, D. and J. Oates, <esp:link url="http://bisi.ac.uk/sites/bisi.localhost/files/Oates_and_Oates_Nimrud_an_Imperial_City_Revealed.pdf" hide-print="yes" rel="external"><i>Nimrud: An Assyrian Imperial City Revealed</i></esp:link>, 2001 (128 MB).</li>
+<li>Herrmann, G., S. Laidlaw and H. Coffey, <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Hermann_et_al_Published_Ivories_from_Fort_Shalmaneser_Nimrud.pdf" hide-print="yes" rel="external"><i>The Published Ivories from Fort Shalmaneser, Nimrud</i></esp:link>, 2004 (27 MB).</li>
+<li>Curtis, J.E. <i>et al.</i> (eds.), <esp:link url="http://www.bisi.ac.uk/sites/bisi.localhost/files/Curtis_et_al_New_Light_On_Nimrud.pdf" hide-print="yes" rel="external"><i>New Light on Nimrud: Proceedings of the Nimrud Conference, 11th-13th March 2002</i></esp:link>, 2008 (22 MB).</li>
+</ul>
+
+<!-- ARTICLES IN IRAQ JOURNAL -->
+
+<esp:h><esp:bookmark id="articlesIraq" title="Jump to books articles in the journal Iraq on this page">Articles on Nimrud (Kalhu/Calah)</esp:bookmark> from the <esp:link url="http://www.bisi.ac.uk/" rel="external" hide-print="yes">British Institute for the Study of Iraq</esp:link>'s journal <esp:link url="http://bisi.ac.uk/content/iraq-bisi-journal" rel="external" hide-print="yes"><i>Iraq</i></esp:link> (ordered alphabetically by author)</esp:h>
+
+<ul>
+<li>Albenda, P. "Assyrian Sacred Trees in the Brooklyn Museum." <i>Iraq</i> 56 (1994): 123–33. doi:<esp:link url="http://dx.doi.org/10.2307/4200390" rel="external" hide-print="yes">10.2307/4200390</esp:link>.</li>
+
+<li>Barnett, R.D. “The Nimrud Ivories and the Art of the Phoenicians.” <i>Iraq</i> 2 (1935): 179–210. <esp:link url="http://www.jstor.org/stable/4241579" rel="external" hide-print="yes">http://www.jstor.org/stable/4241579</esp:link>.</li>
+
+<li>Barnett, R.D. “Hamath and Nimrud: Shell Fragments from Hamath and the Provenance of the Nimrud Ivories.” <i>Iraq</i> 25 (1963): 81–85. <esp:link url="http://www.jstor.org/stable/4199733" rel="external" hide-print="yes">http://www.jstor.org/stable/4199733</esp:link>.</li>
+
+<li>Bartl, P.V. “Layard’s Drawings of the Incised Decorations on the Nimrud Reliefs Compared with the Originals.” <i>Iraq</i> 67 (2005): 17–29. <esp:link url="http://www.jstor.org/stable/4200596" rel="external" hide-print="yes">http://www.jstor.org/stable/4200596</esp:link>.</li>
+
+<li>Brill, R.H. “Some Miniature Glass Plaques from Fort Shalmaneser, Nimrud. Part II: Laboratory Studies.” <i>Iraq</i> 40 (1978): 23–39. <esp:link url="http://www.jstor.org/stable/4200082" rel="external" hide-print="yes">http://www.jstor.org/stable/4200082</esp:link>.</li>
+
+<li>Canby, J.V. "Decorated Garments in Ashurnasirpal’s Sculpture." <i>Iraq</i> 33, no. 1 (1971): 31–53. doi:<esp:link url="http://dx.doi.org/10.2307/4199909" rel="external" hide-print="yes">10.2307/4199909</esp:link>.</li>
+
+<li>Collins, P. "Trees and Gender in Assyrian Art." <i>Iraq</i> 68, no. 1 (2006): 99–107. doi:<esp:link url="http://dx.doi.org/10.2307/4200609" rel="external" hide-print="yes">10.2307/4200609</esp:link>.</li>
+
+<li>Collon, D. "Ivory." <i>Iraq</i> 39, no. 2 (1977): 219–22. doi:<esp:link url="http://dx.doi.org/10.2307/4200069" rel="external" hide-print="yes">10.2307/4200069</esp:link>.</li>
+
+<li>Cooper, J.S. “A Sumerian Šu-íl-la from Nimrud with a Prayer for Sin-šar-iškun.” <i>Iraq</i> 32 (1970): 51–67. <esp:link url="http://www.jstor.org/stable/4199891" rel="external" hide-print="yes">http://www.jstor.org/stable/4199891</esp:link>.</li>
+
+<li>Crowfoot, E. “Textiles from Recent Excavations at Nimrud.” <i>Iraq</i> 57 (1995): 113–118. <esp:link url="http://www.jstor.org/stable/4200405" rel="external" hide-print="yes">http://www.jstor.org/stable/4200405</esp:link>.</li>
+
+<li>Curtis, J.E. “Some Axe-Heads from Chagar Bazar and Nimrud.” <i>Iraq</i> 45 (1983): 73–81. <esp:link url="http://www.jstor.org/stable/4200180" rel="external" hide-print="yes">http://www.jstor.org/stable/4200180</esp:link>.</li>
+
+<li>Curtis, J.E. “Glass Inlays and Nimrud Ivories.” <i>Iraq</i> 61 (1999): 59–69. <esp:link url="http://www.jstor.org/stable/4200467" rel="external" hide-print="yes">http://www.jstor.org/stable/4200467</esp:link>.</li>
+
+<li>Curtis, J.E., D. Collon and A. Green. “British Museum Excavations at Nimrud and Balawat in 1989.” <i>Iraq</i> 55 (1993): 1–37. <esp:link url="http://www.jstor.org/stable/4200365" rel="external" hide-print="yes">http://www.jstor.org/stable/4200365</esp:link>.</li>
+
+<li>Curtis, J.E. and K.R. Maxwell-Hyslop. “The Gold Jewellery from Nimrud.” <i>Iraq</i> 33 (1971): 101–112. <esp:link url="http://www.jstor.org/stable/4199918" rel="external" hide-print="yes">http://www.jstor.org/stable/4199918</esp:link>.</li>
+
+<li>Dalley, S. "Foreign Chariotry and Cavalry in the Armies of Tiglath-Pileser III and Sargon II." <i>Iraq</i> 47 (1985): 31–48. doi:<esp:link url="http://dx.doi.org/10.2307/4200230" rel="external" hide-print="yes">10.2307/4200230</esp:link>  | <esp:link url="http://www.jstor.org/stable/4200230" rel="external" hide-print="yes">http://www.jstor.org/stable/4200230</esp:link>.</li>
+
+<li>Danrey, V. "Winged Human-Headed Bulls of Nineveh: Genesis of an Iconographic Motif." <i>Iraq</i> 66 (2004): 133–39. doi:<esp:link url="http://dx.doi.org/10.2307/4200568" rel="external" hide-print="yes">10.2307/4200568</esp:link>  | <esp:link url="http://www.jstor.org/stable/4200568" rel="external" hide-print="yes">http://www.jstor.org/stable/4200568</esp:link>.</li>
+
+<li>Dezsö, T. and J. Curtis. “Assyrian Iron Helmets from Nimrud Now in the British Museum.” <i>Iraq</i> 53 (1991): 105–126. <esp:link url="http://www.jstor.org/stable/4200341" rel="external" hide-print="yes">http://www.jstor.org/stable/4200341</esp:link>.</li>
+
+<li>"Errata: Recent Excavations in Iraq." <i>Iraq</i> 62 (2000): 234. doi:<esp:link url="http://dx.doi.org/10.2307/4200493" rel="external" hide-print="yes">10.2307/4200493</esp:link> | <esp:link url="http://www.jstor.org/stable/4200493" rel="external" hide-print="yes">http://www.jstor.org/stable/4200493</esp:link>.</li>
+
+<li>"Excavations in Iraq 1971-72." <i>Iraq</i> 34, no. 2 (1972): 138–50. doi:<esp:link url="http://dx.doi.org/10.2307/4199942" rel="external" hide-print="yes">10.2307/4199942</esp:link>  | <esp:link url="http://www.jstor.org/stable/4199942" rel="external" hide-print="yes">http://www.jstor.org/stable/4199942</esp:link>.</li>
+
+<li>"Excavations in Iraq 1972-73." <i>Iraq</i> 35, no. 2 (1973): 188–204. doi:<esp:link url="http://dx.doi.org/10.2307/4199964" rel="external" hide-print="yes">10.2307/4199964</esp:link> | <esp:link url="http://www.jstor.org/stable/4199964" rel="external" hide-print="yes">http://www.jstor.org/stable/4199964</esp:link>.</li>
+
+<li>"Excavations in Iraq 1973-74." <i>Iraq</i> 37, no. 1 (1975): 56–67. doi:<esp:link url="http://dx.doi.org/10.2307/4200003" rel="external" hide-print="yes">10.2307/4200003</esp:link> | <esp:link url="http://www.jstor.org/stable/4200003" rel="external" hide-print="yes">http://www.jstor.org/stable/4200003</esp:link>.</li>
+
+<li>"Excavations in Iraq 1975." <i>Iraq</i> 38, no. 1 (1976): 65–79. doi:<esp:link url="http://dx.doi.org/10.2307/4200026" rel="external" hide-print="yes">10.2307/4200026</esp:link> | <esp:link url="http://www.jstor.org/stable/4200026" rel="external" hide-print="yes">http://www.jstor.org/stable/4200026</esp:link>.</li>
+
+<li>"Excavations in Iraq, 1976." <i>Iraq</i> 39, no. 2 (1977): 300–320. doi:<esp:link url="http://dx.doi.org/10.2307/4200076" rel="external" hide-print="yes">10.2307/4200076</esp:link> | <esp:link url="http://www.jstor.org/stable/4200076" rel="external" hide-print="yes">http://www.jstor.org/stable/4200076</esp:link>.</li>
+
+<li>"Excavations in Iraq, 1977-78." <i>Iraq</i> 41, no. 2 (1979): 141–81. doi:<esp:link url="http://dx.doi.org/10.2307/4200109" rel="external" hide-print="yes">10.2307/4200109</esp:link> | <esp:link url="http://www.jstor.org/stable/4200109" rel="external" hide-print="yes">http://www.jstor.org/stable/4200109</esp:link>.</li>
+
+<li>"Excavations in Iraq, 1979-80." <i>Iraq</i> 43, no. 2 (1981): 167–98. doi:<esp:link url="http://dx.doi.org/10.2307/4200144" rel="external" hide-print="yes">10.2307/4200144</esp:link> | <esp:link url="http://www.jstor.org/stable/4200144" rel="external" hide-print="yes">http://www.jstor.org/stable/4200144</esp:link>.</li>
+
+<li>"Excavations in Iraq, 1981-82." <i>Iraq</i> 45, no. 2 (1983): 199–224. doi:<esp:link url="http://dx.doi.org/10.2307/4200202" rel="external" hide-print="yes">10.2307/4200202</esp:link> | <esp:link url="http://www.jstor.org/stable/4200202" rel="external" hide-print="yes">http://www.jstor.org/stable/4200202</esp:link>.</li>
+
+<li>"Excavations in Iraq 1987-88." <i>Iraq</i> 51 (1989): 249–65. doi:<esp:link url="http://dx.doi.org/10.2307/4200307" rel="external" hide-print="yes">10.2307/4200307</esp:link> | <esp:link url="http://www.jstor.org/stable/4200307" rel="external" hide-print="yes">http://www.jstor.org/stable/4200307</esp:link>.</li>
+
+<li>"Excavations in Iraq 1989-1990." <i>Iraq</i> 53 (1991): 169–82. doi:<esp:link url="http://dx.doi.org/10.2307/4200346" rel="external" hide-print="yes">10.2307/4200346</esp:link> | <esp:link url="http://www.jstor.org/stable/4200346" rel="external" hide-print="yes">http://www.jstor.org/stable/4200346</esp:link>.</li>
+
+<li>Freestone, I. C. "Technical Examination of Neo-Assyrian Glazed Wall Plaques." <i>Iraq</i> 53 (1991): 55–58. doi:<esp:link url="http://dx.doi.org/10.2307/4200334">10.2307/4200334</esp:link> | <esp:link url="http://www.jstor.org/stable/4200334" rel="external" hide-print="yes">http://www.jstor.org/stable/4200334</esp:link>.</li>
+
+<li>Gadd, C. J. "An Egyptian Game in Assyria." <i>Iraq</i> 1, no. 1 (1934): 45–50. doi:<esp:link url="http://dx.doi.org/10.2307/4241556" rel="external" hide-print="yes">10.2307/4241556</esp:link> | <esp:link url="http://www.jstor.org/stable/4241556" rel="external" hide-print="yes">http://www.jstor.org/stable/4241556</esp:link>.</li>
+
+<li>Gadd, C.J. “A Visiting Artist at Nineveh in 1850.” <i>Iraq</i> 5 (1938): 118–22 <esp:link url="http://www.jstor.org/stable/4241628" rel="external" hide-print="yes">http://www.jstor.org/stable/4241628</esp:link>.</li>
+
+<li>Gadd, C.J. “Inscribed Prisms of Sargon II from Nimrud.” <i>Iraq</i> 16 (1954): 173–201. <esp:link url="http://www.jstor.org/stable/4199590" rel="external" hide-print="yes">http://www.jstor.org/stable/4199590</esp:link>.</li>
+
+<li>Grayson, A. K. "Two Fragmentary Assyrian Royal Inscriptions." <i>Iraq</i> 37, no. 1 (1975): 69–74. doi:<esp:link url="http://dx.doi.org/10.2307/4200004" rel="external" hide-print="yes">10.2307/4200004</esp:link> | <esp:link url="http://www.jstor.org/stable/4200004" rel="external" hide-print="yes">http://www.jstor.org/stable/4200004</esp:link>.</li>
+
+<li>George, A. R. "Cuneiform Texts in the Birmingham City Museum." <i>Iraq</i> 41, no. 2 (1979): 121–40. doi:<esp:link url="http://dx.doi.org/10.2307/4200108" rel="external" hide-print="yes">10.2307/4200108</esp:link> | <esp:link url="http://www.jstor.org/stable/4200108" rel="external" hide-print="yes">http://www.jstor.org/stable/4200108</esp:link>.</li>
+
+<li>Ghirshman, R. “Un Mède sur les bas-reliefs de Nimrud.” <i>Iraq</i> 36 (1974): 37–38. <esp:link url="http://www.jstor.org/stable/4199972" rel="external" hide-print="yes">http://www.jstor.org/stable/4199972</esp:link>.</li>
+
+<li>Green, A. "A Note on the Assyrian ‘Goat-Fish’, ‘Fish-Man’ and ‘Fish-Woman.’" <i>Iraq</i> 48 (1986): 25–30. doi:<esp:link url="http://dx.doi.org/10.2307/4200248" rel="external" hide-print="yes">10.2307/4200248</esp:link> | <esp:link url="http://www.jstor.org/stable/4200248" rel="external" hide-print="yes">http://www.jstor.org/stable/4200248</esp:link>.</li>
+
+<li>Green, A. "A Note on the ‘Scorpion-Man’ and Pazuzu." <i>Iraq</i> 47 (1985): 75–82. doi:<esp:link url="http://dx.doi.org/10.2307/4200233" rel="external" hide-print="yes">10.2307/4200233</esp:link> | <esp:link url="http://www.jstor.org/stable/4200233" rel="external" hide-print="yes">http://www.jstor.org/stable/4200233</esp:link>.</li>
+
+<li>Green, A. “Neo-Assyrian Apotropaic Figures: Figurines, Rituals and Monumental Art, with Special Reference to the Figurines from the Excavations of the British School of Archaeology in Iraq at Nimrud.” <i>Iraq</i> 45 (1983): 87–96. <esp:link url="http://www.jstor.org/stable/4200182" rel="external" hide-print="yes">http://www.jstor.org/stable/4200182</esp:link>.</li>
+
+<li>Guralnick, E. "Neo-Assyrian Patterned Fabrics." <i>Iraq</i> 66 (2004): 221–32. doi:<esp:link url="http://dx.doi.org/10.2307/4200576" rel="external" hide-print="yes">10.2307/4200576</esp:link> | <esp:link url="http://www.jstor.org/stable/4200576" rel="external" hide-print="yes">http://www.jstor.org/stable/4200576</esp:link>.</li>
+
+<li>Herrmann, G. “The Nimrud Ivories, 1: The Flame and Frond School.” <i>Iraq</i> 51 (1989): 85–109. <esp:link url="http://www.jstor.org/stable/4200298" rel="external" hide-print="yes">http://www.jstor.org/stable/4200298</esp:link>.</li>
+
+<li>Horowitz, W., and W. G. Lambert. "A New Exemplar of Ludlul Bēl Nēmeqi Tablet I from Birmingham." <i>Iraq</i> 64 (2002): 237–45. doi:<esp:link url="http://dx.doi.org/10.2307/4200525" rel="external" hide-print="yes">10.2307/4200525</esp:link> | <esp:link url="http://www.jstor.org/stable/4200525" rel="external" hide-print="yes">http://www.jstor.org/stable/4200525</esp:link>.</li>
+
+<li>Howard, M. “Technical Description of the Ivory Writing-Boards from Nimrud.” <i>Iraq</i> 17 (1955): 14–20. <esp:link url="http://www.jstor.org/stable/4241714" rel="external" hide-print="yes">http://www.jstor.org/stable/4241714</esp:link>.</li>
+
+<li>Hulin, P. “A Hemerological Text from Nimrud.” <i>Iraq</i> 21 (1959): 42–53. <esp:link url="http://www.jstor.org/stable/4199647" rel="external" hide-print="yes">http://www.jstor.org/stable/4199647</esp:link>.</li>
+
+<li>Hulin, P. “Another Esarhaddon Cylinder from Nimrud.” <i>Iraq</i> 24 (1962): 116–118. <esp:link url="http://www.jstor.org/stable/4199721" rel="external" hide-print="yes">http://www.jstor.org/stable/4199721</esp:link>.</li>
+
+<li>Hulin, P. "The Inscriptions on the Carved Throne-Base of Shalmaneser III." <i>Iraq</i> 25, no. 1 (1963): 48–69. doi:<esp:link url="http://dx.doi.org/10.2307/4199731" rel="external" hide-print="yes">10.2307/4199731</esp:link> | <esp:link url="http://www.jstor.org/stable/4199731" rel="external" hide-print="yes">http://www.jstor.org/stable/4199731</esp:link>.</li>
+
+<li>Hulin, P. “Inscribed Fragments of a Statue from Nimrud.” <i>Iraq</i> 28 (1966): 84–88. <esp:link url="http://www.jstor.org/stable/4199797" rel="external" hide-print="yes">http://www.jstor.org/stable/4199797</esp:link>.</li>
+
+<li>Huxley, M. "The Gates and Guardians in Sennacherib’s Addition to the Temple of Assur." <i>Iraq</i> 62 (2000): 109–37. doi:<esp:link url="http://dx.doi.org/10.2307/4200484" rel="external" hide-print="yes">10.2307/4200484</esp:link> | <esp:link url="http://www.jstor.org/stable/4200484" rel="external" hide-print="yes">http://www.jstor.org/stable/4200484</esp:link>.</li>
+
+<li>Jenkins, G. K. “Hellenistic Coins from Nimrud.” <i>Iraq</i> 20 (1958): 158–168. <esp:link url="http://www.jstor.org/stable/4199638" rel="external" hide-print="yes">http://www.jstor.org/stable/4199638</esp:link>.</li>
+
+<li>Kinnier Wilson, J.V. “Two Medical Texts from Nimrud.” <i>Iraq</i> 18 (1956): 130–146. <esp:link url="http://www.jstor.org/stable/4199" rel="external" hide-print="yes">http://www.jstor.org/stable/4199607</esp:link>.</li>
+
+<li>Kinnier Wilson, J.V. “Two Medical Texts from Nimrud (Continued).” <i>Iraq</i> 19 (1957): 40–49. <esp:link url="http://www.jstor.org/stable/4199615" rel="external" hide-print="yes">http://www.jstor.org/stable/4199615</esp:link>.</li>
+
+<li>Kinnier Wilson, J.V. “The Nimrud Catalogue of Medical and Physiognomical Omina.” <i>Iraq</i> 24, no. 1 (1962): 52–62. <esp:link url="http://www.jstor.org/stable/4199712" rel="external" hide-print="yes">http://www.jstor.org/stable/4199712</esp:link>.</li>
+
+<li>Kinnier Wilson, J. V. "The Kurba’il Statue of Shalmaneser III." <i>Iraq</i> 24, no. 2 (1962): 90–115. doi:<esp:link url="http://dx.doi.org/10.2307/4199720" rel="external" hide-print="yes">10.2307/4199720</esp:link> | <esp:link url="http://www.jstor.org/stable/4199720" rel="external" hide-print="yes">http://www.jstor.org/stable/4199720</esp:link>.</li>
+
+<li>Kinnier Wilson, J. V. "Lines 40-52 of the Banquet Stele of Aššurnaṣirpal II." <i>Iraq</i> 50 (1988): 79–82. doi:<esp:link url="http://dx.doi.org/10.2307/4200285" rel="external" hide-print="yes">10.2307/4200285</esp:link> | <esp:link url="http://www.jstor.org/stable/4200285" rel="external" hide-print="yes">http://www.jstor.org/stable/4200285</esp:link>.</li>
+
+<li>Knudsen, E.E. “A Version of the Seventh Tablet of Shurpu, from Nimrud.” <i>Iraq</i> 19 (1957): 50–54. <esp:link url="http://www.jstor.org/stable/4199616" rel="external" hide-print="yes">http://www.jstor.org/stable/4199616</esp:link>.</li>
+
+<li>Knudsen, E.E. “An Incantation Tablet from Nimrud.” <i>Iraq</i> 21 (1959): 54–61. <esp:link url="http://www.jstor.org/stable/4199648" rel="external" hide-print="yes">http://www.jstor.org/stable/4199648</esp:link>.</li>
+
+<li>Knudsen, E.E. “Two Nimrud Incantations of the Utukku Type.” <i>Iraq</i> 27 (1965): 160–170. <esp:link url="http://www.jstor.org/stable/4199789" rel="external" hide-print="yes">http://www.jstor.org/stable/4199789</esp:link>.</li>
+
+<li>Knudsen, E.E. “Fragments of Historical Texts from Nimrud: II.” <i>Iraq</i> 29 (1967): 49–69. <esp:link url="http://www.jstor.org/stable/4199822" rel="external" hide-print="yes">http://www.jstor.org/stable/4199822</esp:link>.</li>
+
+<li>Læssøe, J. “Building Inscriptions from Fort Shalmaneser, Nimrud.” <i>Iraq</i> 21 (1959): 38–41. <esp:link url="http://www.jstor.org/stable/4199646" rel="external" hide-print="yes">http://www.jstor.org/stable/4199646</esp:link>.</li>
+
+<li>Læssøe, J. “A Statue of Shalmaneser III, from Nimrud.” <i>Iraq</i> 21 (1959): 147–157. <esp:link url="http://www.jstor.org/stable/4199657" rel="external" hide-print="yes">http://www.jstor.org/stable/4199657</esp:link>.</li>
+
+<li>Lambert, W. G. "The Reigns of Aššurnaṣirpal II and Shalmaneser III: An Interpretation." <i>Iraq</i> 36, no. 1/2 (1974): 103–9. doi:<esp:link url="http://dx.doi.org/10.2307/4199978" rel="external" hide-print="yes">10.2307/4199978</esp:link> | <esp:link url="http://www.jstor.org/stable/4199978" rel="external" hide-print="yes">http://www.jstor.org/stable/4199978</esp:link>.</li>
+
+<li>Lines, J. “Late Assyrian Pottery from Nimrud.” <i>Iraq</i> 16 (1954): 164–167. <esp:link url="http://www.jstor.org/stable/4199588" rel="external" hide-print="yes">http://www.jstor.org/stable/4199588</esp:link>.</li>
+
+<li>Littauer, M. A., and J. H. Crouwel. "Assyrian Trigas and Russian Dvoikas." <i>Iraq</i> 53 (1991): 97–99. doi:<esp:link url="http://dx.doi.org/10.2307/4200339" rel="external" hide-print="yes">10.2307/4200339</esp:link> | <esp:link url="http://www.jstor.org/stable/4200339" rel="external" hide-print="yes">http://www.jstor.org/stable/4200339</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “Excavations at Nimrud. 1949-1950.” <i>Iraq</i> 12 (1950): 147–183. <esp:link url="http://www.jstor.org/stable/4241708" rel="external" hide-print="yes">http://www.jstor.org/stable/4241708</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1949-1950. Ivories from the N. W. Palace.” <i>Iraq</i> 13 (1951): 1–20. <esp:link url="http://www.jstor.org/stable/4199535" rel="external" hide-print="yes">http://www.jstor.org/stable/4199535</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1951.” <i>Iraq</i> 14 (1952): 1–23. <esp:link url="http://www.jstor.org/stable/4199548" rel="external" hide-print="yes">http://www.jstor.org/stable/4199548</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1949-1950 Ivories from the N. W. Palace.” <i>Iraq</i> 14 (1952): 45–53. <esp:link url="http://www.jstor.org/stable/4199550" rel="external" hide-print="yes">http://www.jstor.org/stable/4199550</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1952.” <i>Iraq</i> 15 (1953): 1–42. <esp:link url="http://www.jstor.org/stable/4199564" rel="external" hide-print="yes">http://www.jstor.org/stable/4199564</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1953.” <i>Iraq</i> 16 (1954): 59–114. <esp:link url="http://www.jstor.org/stable/4199583" rel="external" hide-print="yes">http://www.jstor.org/stable/4199583</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1953 (Continued).” <i>Iraq</i> 16 (1954): 115–163. <esp:link url="http://www.jstor.org/stable/4199587" rel="external" hide-print="yes">http://www.jstor.org/stable/4199587</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1955.” <i>Iraq</i> 18 (1956): 1–21. <esp:link url="http://www.jstor.org/stable/4199594" rel="external" hide-print="yes">http://www.jstor.org/stable/4199594</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1956.” <i>Iraq</i> 19 (1957): 1–25. <esp:link url="http://www.jstor.org/stable/4199613" rel="external" hide-print="yes">http://www.jstor.org/stable/4199613</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalḫu), 1957.” <i>Iraq</i> 20 (1958): 101–108. <esp:link url="http://www.jstor.org/stable/4199635" rel="external" hide-print="yes">http://www.jstor.org/stable/4199635</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The Excavations at Nimrud (Kalẖu), 1958.” <i>Iraq</i> 21 (1959): 93–97. <esp:link url="http://www.jstor.org/stable/4199654" rel="external" hide-print="yes">http://www.jstor.org/stable/4199654</esp:link>.</li>
+
+<li>Mallowan, M.E.L. “The ‘Mona Lisa’ of Nimrud.” <i>Iraq</i> 25 (1963): 1–5. <esp:link url="http://www.jstor.org/stable/4199728" rel="external" hide-print="yes">http://www.jstor.org/stable/4199728</esp:link>.</li>
+
+<li>Marcus, M. I. "Geography as an Organizing Principle in the Imperial Art of Shalmaneser III." <i>Iraq</i> 49 (1987): 77–90. doi:<esp:link url="http://dx.doi.org/10.2307/4200267" rel="external" hide-print="yes">10.2307/4200267</esp:link> | <esp:link url="http://www.jstor.org/stable/4200267" rel="external" hide-print="yes">http://www.jstor.org/stable/4200267</esp:link>.</li>
+
+<li>Meuszyński, J. “Neo-Assyrian Reliefs from the Central Area of Nimrud Citadel.” <i>Iraq</i> 38 (1976): 37–43. <esp:link url="http://www.jstor.org/stable/4200023" rel="external" hide-print="yes">http://www.jstor.org/stable/4200023</esp:link>.</li>
+
+<li>Millard, A.R. “Esarhaddon Cylinder Fragments from Fort Shalmaneser, Nimrud.” <i>Iraq</i> 23 (1961): 176–178. <esp:link url="http://www.jstor.org/stable/4199705" rel="external" hide-print="yes">http://www.jstor.org/stable/4199705</esp:link>.</li>
+
+<li>Millard, A.R. “Alphabetic Inscriptions on Ivories from Nimrud.” <i>Iraq</i> 24 (1962): 41–51. <esp:link url="http://www.jstor.org/stable/4199711" rel="external" hide-print="yes">http://www.jstor.org/stable/4199711</esp:link>.</li>
+
+<li>Millard, A. R. "The Assyrian Royal Seal Type Again." <i>Iraq</i> 27, no. 1 (1965): 12–16. doi:<esp:link url="http://dx.doi.org/10.2307/4199776" rel="external" hide-print="yes">10.2307/4199776</esp:link> | <esp:link url="http://www.jstor.org/stable/4199776" rel="external" hide-print="yes">http://www.jstor.org/stable/4199776</esp:link>.</li>
+
+<li>Millard, A. R. "Some Aramaic Epigraphs." <i>Iraq</i> 34, no. 2 (1972): 131–37. doi:<esp:link url="http://dx.doi.org/10.2307/4199941" rel="external" hide-print="yes">10.2307/4199941</esp:link> | <esp:link url="http://www.jstor.org/stable/4199941" rel="external" hide-print="yes">http://www.jstor.org/stable/4199941</esp:link>.</li>
+
+<li>Millard, A. R. "Assyrians and Arameans." <i>Iraq</i> 45, no. 1 (1983): 101–8. doi:<esp:link url="http://dx.doi.org/10.2307/4200184" rel="external" hide-print="yes">10.2307/4200184</esp:link> | <esp:link url="http://www.jstor.org/stable/4200184" rel="external" hide-print="yes">http://www.jstor.org/stable/4200184</esp:link>.</li>
+
+<li>Mitchell, T. C. "Camels in the Assyrian Bas-Reliefs." <i>Iraq</i> 62 (2000): 187–94. doi:<esp:link url="http://dx.doi.org/10.2307/4200489"> 10.2307/4200489</esp:link> | <esp:link url="http://www.jstor.org/stable/4200489" rel="external" hide-print="yes">http://www.jstor.org/stable/4200489</esp:link>.</li>
+
+<li>Munn-Rankin, J. M. "Ancient near Eastern Seals in the Fitzwilliam Museum, Cambridge." <i>Iraq</i> 21, no. 1 (1959): 20–37. doi:<esp:link url="http://dx.doi.org/10.2307/4199645" rel="external" hide-print="yes">10.2307/4199645</esp:link> | <esp:link url="http://www.jstor.org/stable/4199645" rel="external" hide-print="yes">http://www.jstor.org/stable/4199645</esp:link>.</li>
+
+<li>Munn-Rankin, J. M. "Two Reliefs of an Assyrian King with Bowl." <i>Iraq</i> 36, no. 1/2 (1974): 169–71. doi:<esp:link url="http://dx.doi.org/10.2307/4199983" rel="external" hide-print="yes">10.2307/4199983</esp:link> | <esp:link url="http://www.jstor.org/stable/4199983" rel="external" hide-print="yes">http://www.jstor.org/stable/4199983</esp:link>.</li>
+
+<li>Nadali, D. “Esarhaddon’s Glazed Bricks from Nimrud: The Egyptian Campaign Depicted.” <i>Iraq</i> 68 (2006): 109–119.  <esp:link url="http://www.jstor.org/stable/4200610" rel="external" hide-print="yes">http://www.jstor.org/stable/4200610</esp:link>.</li>
+
+<li>Niederreiter, Z. "Le Rôle Des Symboles Figurés Attribués Aux Membres de La Cour de Sargon II: Des Emblèmes Créés Par Les Lettrés Du Palais Au Service de L’idéologie Royale." <i>Iraq</i> 70 (2008): 51–86. doi:<esp:link url="http://dx.doi.org/10.2307/25608659" rel="external" hide-print="yes">10.2307/25608659</esp:link> | <esp:link url="http://www.jstor.org/stable/25608659" rel="external" hide-print="yes">http://www.jstor.org/stable/25608659</esp:link>.</li>
+
+<li>Oates, D. "Ezida: The Temple of Nabu." <i>Iraq</i> 19, no. 1 (1957): 26–39. doi:<esp:link url="http://dx.doi.org/10.2307/4199614" rel="external" hide-print="yes">10.2307/4199614</esp:link> | <esp:link url="http://www.jstor.org/stable/4199614" rel="external" hide-print="yes">http://www.jstor.org/stable/4199614</esp:link>.</li>
+
+<li>Oates, D. "Fort Shalmaneser: An Interim Report." <i>Iraq</i> 21, no. 2 (1959): 98–129. doi:<esp:link url="http://dx.doi.org/10.2307/4199655" rel="external" hide-print="yes">10.2307/4199655</esp:link> | <esp:link url="http://www.jstor.org/stable/4199655" rel="external" hide-print="yes">http://www.jstor.org/stable/4199655</esp:link>.</li>
+
+<li>Oates, D. “The Excavations at Nimrud (Kalḫu), 1960.” <i>Iraq</i> 23 (1961): 1–14. <esp:link url="http://www.jstor.org/stable/4199694" rel="external" hide-print="yes">http://www.jstor.org/stable/4199694</esp:link>.</li>
+
+<li>Oates, D. “The Excavations at Nimrud (Kalḫu), 1961.” <i>Iraq</i> 24 (1962): 1–25. <esp:link url="http://www.jstor.org/stable/4199709" rel="external" hide-print="yes">http://www.jstor.org/stable/4199709</esp:link>.</li>
+
+<li>Oates, D. “The Excavations at Nimrud (Kalḫu), 1962.” <i>Iraq</i> 25 (1963): 6–37. <esp:link url="http://www.jstor.org/stable/4199729" rel="external" hide-print="yes">http://www.jstor.org/stable/4199729</esp:link>.</li>
+
+<li>Oates, D. and J. Oates. “Nimrud 1957: The Hellenistic Settlement.” <i>Iraq</i> 20 (1958): 114–157. <esp:link url="http://www.jstor.org/stable/4199637" rel="external" hide-print="yes">http://www.jstor.org/stable/4199637</esp:link>.</li>
+
+<li>Oates, D. and J. H. Reid. “The Burnt Palace and the Nabu Temple; Nimrud Excavations, 1955.” <i>Iraq</i> 18 (1956): 22–39. <esp:link url="http://www.jstor.org/stable/4199595" rel="external" hide-print="yes">http://www.jstor.org/stable/4199595</esp:link>.</li>
+
+<li>Oates, J. “Late Assyrian Pottery from Fort Shalmaneser.” <i>Iraq</i> 21, no. 2 (1959): 130–46. <esp:link url="http://www.jstor.org/stable/4199656" rel="external" hide-print="yes">http://www.jstor.org/stable/4199656</esp:link>.</li>
+
+<li>Orchard, J.J. “Some Miniature Painted Glass Plaques from Fort Shalmaneser, Nimrud. Part 1: Description and a Restoration.” <i>Iraq</i> 40 (1978): 1–21. <esp:link url="http://www.jstor.org/stable/4200081" rel="external" hide-print="yes">http://www.jstor.org/stable/4200081</esp:link>.</li>
+
+<li>Ornan, T. "Who Is Holding the Lead Rope? The Relief of the Broken Obelisk." <i>Iraq</i> 69 (2007): 59–72. doi:<esp:link url="http://dx.doi.org/10.2307/25608648" rel="external" hide-print="yes">10.2307/25608648</esp:link> | <esp:link url="http://www.jstor.org/stable/25608648" rel="external" hide-print="yes">http://www.jstor.org/stable/25608648</esp:link>.</li>
+
+<li>Paley, S.M. and R. Sobolewski. “A New Reconstruction of Room Z in the North-West Palace of Aššurnaṣirpal II at Nimrud (Kalḫu).” <i>Iraq</i> 43 (1981): 85–99. <esp:link url="http://www.jstor.org/stable/4200139" rel="external" hide-print="yes">http://www.jstor.org/stable/4200139</esp:link>.</li>
+
+<li>Parker, B. “The Nimrud Tablets, 1952: Business Documents.” <i>Iraq</i> 16 (1954): 29–58. <esp:link url="http://www.jstor.org/stable/4199582" rel="external" hide-print="yes">http://www.jstor.org/stable/4199582</esp:link>.</li>
+
+<li>Parker, B. “Excavations at Nimrud, 1949-1953: Seals and Seal Impressions.” <i>Iraq</i> 17 (1955): 93-125. <esp:link url="http://www.jstor.org/stable/4241722" rel="external" hide-print="yes">http://www.jstor.org/stable/4241722</esp:link>.</li>
+
+<li>Parker, B. “Nimrud Tablets, 1956: Economic and Legal Texts from the Nabu Temple.” <i>Iraq</i> 19 (1957): 125–138. <esp:link url="http://www.jstor.org/stable/4199624" rel="external" hide-print="yes">http://www.jstor.org/stable/4199624</esp:link>.</li>
+
+<li>Parker, B. “Administrative Tablets from the North-West Palace, Nimrud.” <i>Iraq</i> 23 (1961): 15–67. <esp:link url="http://www.jstor.org/stable/4199695" rel="external" hide-print="yes">http://www.jstor.org/stable/4199695</esp:link>.</li>
+
+<li>Parker, B. “Seals and Seal Impressions from the Nimrud Excavations, 1955-58.” <i>Iraq</i> 24 (1962): 26–40. <esp:link url="http://www.jstor.org/stable/4199710" rel="external" hide-print="yes">http://www.jstor.org/stable/4199710</esp:link>.</li>
+
+<li>Parker, B. J. "Garrisoning the Empire: Aspects of the Construction and Maintenance of Forts on the Assyrian Frontier." <i>Iraq</i> 59 (1997): 77–87. doi:<esp:link url="http://dx.doi.org/10.2307/4200438" rel="external" hide-print="yes">10.2307/4200438</esp:link> | <esp:link url="http://www.jstor.org/stable/4200438" rel="external" hide-print="yes">http://www.jstor.org/stable/4200438</esp:link>.</li>
+
+<li>Postgate, J. N. "On Some Assyrian Ladies." <i>Iraq</i> 41, no. 2 (1979): 89–103. doi:<esp:link url="http://dx.doi.org/10.2307/4200106" rel="external" hide-print="yes">10.2307/4200106</esp:link> | <esp:link url="http://www.jstor.org/stable/4200106" rel="external" hide-print="yes">http://www.jstor.org/stable/4200106</esp:link>.</li>
+
+<li>Postgate, J. N. "The Assyrian Army in Zamua." <i>Iraq</i> 62 (2000): 89–108. doi:<esp:link url="http://dx.doi.org/10.2307/4200483" rel="external" hide-print="yes">10.2307/4200483</esp:link> | <esp:link url="http://www.jstor.org/stable/4200483" rel="external" hide-print="yes">http://www.jstor.org/stable/4200483</esp:link>.</li>
+
+<li>Powell, Marvin A. "On the Absolute Value of the Assyrian Qa and Emār." <i>Iraq</i> 46, no. 1 (1984): 57–61. doi:<esp:link url="http://dx.doi.org/10.2307/4200211" rel="external" hide-print="yes">10.2307/4200211</esp:link> | <esp:link url="http://www.jstor.org/stable/4200211" rel="external" hide-print="yes">http://www.jstor.org/stable/4200211</esp:link>.</li>
+
+<li>Rawson, P.S. “Palace Wares from Nimrud Technical Observations on Selected Examples.” <i>Iraq</i> 16 (1954): 168–172. <esp:link url="http://www.jstor.org/stable/4199589" rel="external" hide-print="yes">http://www.jstor.org/stable/4199589</esp:link>.</li>
+
+<li>Reade, J.E. “A Glazed-Brick Panel from Nimrud.” <i>Iraq</i> 25 (1963): 38–47. <esp:link url="http://www.jstor.org/stable/4199730" rel="external" hide-print="yes">http://www.jstor.org/stable/4199730</esp:link>.</li>
+
+<li>Reade, J. E. "Twelve Ashurnasirpal Reliefs." <i>Iraq</i> 27, no. 2 (1965): 119–34. doi:<esp:link url="http://dx.doi.org/10.2307/4199787" rel="external" hide-print="yes">10.2307/4199787</esp:link> | <esp:link url="http://www.jstor.org/stable/4199787" rel="external" hide-print="yes">http://www.jstor.org/stable/4199787</esp:link>.</li>
+
+<li>Reade, J. E. "The Palace of Tiglath-Pileser III." <i>Iraq</i> 30, no. 1 (1968): 69–73. doi:<esp:link url="http://dx.doi.org/10.2307/4199839" rel="external" hide-print="yes">10.2307/4199839</esp:link> | <esp:link url="http://www.jstor.org/stable/4199839" rel="external" hide-print="yes">http://www.jstor.org/stable/4199839</esp:link>.</li>
+
+<li>Reade, J. E. "The Neo-Assyrian Court and Army: Evidence from the Sculptures." <i>Iraq</i> 34, no. 2 (1972): 87–112. doi:<esp:link url="http://dx.doi.org/10.2307/4199938" rel="external" hide-print="yes">10.2307/4199938</esp:link> | <esp:link url="http://www.jstor.org/stable/4199938" rel="external" hide-print="yes">http://www.jstor.org/stable/4199938</esp:link>.</li>
+
+<li>Reade, J. E. "The Rassam Obelisk." <i>Iraq</i> 42, no. 1 (1980): 1–22. doi:<esp:link url="http://dx.doi.org/10.2307/4200113" rel="external" hide-print="yes">10.2307/4200113</esp:link> | <esp:link url="http://www.jstor.org/stable/4200113" rel="external" hide-print="yes">http://www.jstor.org/stable/4200113</esp:link>.</li>
+
+<li>Reade, J. E. "Fragments of Assyrian Monuments." <i>Iraq</i> 43, no. 2 (1981): 145–56. doi:<esp:link url="http://dx.doi.org/10.2307/4200142" rel="external" hide-print="yes">10.2307/4200142</esp:link> | <esp:link url="http://www.jstor.org/stable/4200142" rel="external" hide-print="yes">http://www.jstor.org/stable/4200142</esp:link>.</li>
+
+<li>Reade, J.E. “Texts and Sculptures from the North-West Palace, Nimrud.” <i>Iraq</i> 47 (1985): 203–214. <esp:link url="http://www.jstor.org/stable/4200240" rel="external" hide-print="yes">http://www.jstor.org/stable/4200240</esp:link>.</li>
+
+<li>Reade, J.E. “The Ziggurrat and Temples of Nimrud.” <i>Iraq</i> 64 (2002): 135–216. <esp:link url="http://www.jstor.org/stable/4200523" rel="external" hide-print="yes">http://www.jstor.org/stable/4200523</esp:link>.</li>
+
+<li>"Recent Excavations in Iraq." <i>Iraq</i> 61 (1999): 195–202. doi:<esp:link url="http://dx.doi.org/10.2307/4200476" rel="external" hide-print="yes">10.2307/4200476</esp:link> | <esp:link url="http://www.jstor.org/stable/4200476" rel="external" hide-print="yes">http://www.jstor.org/stable/4200476</esp:link>.</li>
+
+<li>Robins, G. “Proportions of Standing Figures in the North-West Palace of Aššurnaṣirpal II at Nimrud.” <i>Iraq</i> 52 (1990): 107–119. <esp:link url="http://www.jstor.org/stable/4200323" rel="external" hide-print="yes">http://www.jstor.org/stable/4200323</esp:link>.</li>
+
+<li>Sachs, A. J. "The Late Assyrian Royal-Seal Type." <i>Iraq</i> 15, no. 2 (1953): 167–70. doi:<esp:link url="http://dx.doi.org/10.2307/4199575" rel="external" hide-print="yes">10.2307/41636317</esp:link> | <esp:link url="http://www.jstor.org/stable/41636317" rel="external" hide-print="yes">http://www.jstor.org/stable/41636317</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part I.” <i>Iraq</i> 17 (1955): 21–56. <esp:link url="http://www.jstor.org/stable/4241715" rel="external" hide-print="yes">http://www.jstor.org/stable/4241715</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part II.” <i>Iraq</i> 17 (1955): 126–160. <esp:link url="http://www.jstor.org/stable/4241723" rel="external" hide-print="yes">http://www.jstor.org/stable/4241723</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part III.” <i>Iraq</i> 18 (1956): 40–56. <esp:link url="http://www.jstor.org/stable/4199596" rel="external" hide-print="yes">http://www.jstor.org/stable/4199596</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part IV.” <i>Iraq</i> 20 (1958): 182–212. <esp:link url="http://www.jstor.org/stable/4199640" rel="external" hide-print="yes">http://www.jstor.org/stable/4199640</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part V.” <i>Iraq</i> 21 (1959): 158–179. <esp:link url="http://www.jstor.org/stable/4199658" rel="external" hide-print="yes">http://www.jstor.org/stable/4199658</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part VI.” <i>Iraq</i> 25 (1963): 70–80. <esp:link url="http://www.jstor.org/stable/4199732" rel="external" hide-print="yes">http://www.jstor.org/stable/4199732</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part VII.” <i>Iraq</i> 27 (1965): 17–32. <esp:link url="http://www.jstor.org/stable/4199777" rel="external" hide-print="yes">http://www.jstor.org/stable/4199777</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part VIII.” <i>Iraq</i> 28 (1966): 177–191. <esp:link url="http://www.jstor.org/stable/4199811" rel="external" hide-print="yes">http://www.jstor.org/stable/4199811</esp:link>.</li>
+
+<li>Saggs, H.W.F. “The Nimrud Letters, 1952: Part IX.” <i>Iraq</i> 36 (1974): 199–221. <esp:link url="http://www.jstor.org/stable/4199989" rel="external" hide-print="yes">http://www.jstor.org/stable/4199989</esp:link>.</li>
+
+<li>Segal, J.B. “An Aramaic Ostracon from Nimrud.” <i>Iraq</i> 19 (1957): 139–145. <esp:link url="http://www.jstor.org/stable/4199625" rel="external" hide-print="yes">http://www.jstor.org/stable/4199625</esp:link>.</li>
+
+<li>Shibata, D. "A Nimrud Manuscript of the Fourth Tablet of the Series ‘Mīs Pî’, ‘CTN’ IV 170 (+) 188, and a ‘Kiutu’ Incantation to the Sun God." <i>Iraq</i> 70 (2008): 189–204. doi:<esp:link url="http://dx.doi.org/10.2307/25608666" rel="external" hide-print="yes">10.2307/25608666</esp:link> | <esp:link url="http://www.jstor.org/stable/25608666" rel="external" hide-print="yes">http://www.jstor.org/stable/25608666</esp:link>.</li>
+
+<li>Spycket, A. "‘Le Carnaval Des Animaux’: On Some Musician Monkeys from the Ancient Near East." <i>Iraq</i> 60 (1998): 1–10. doi:<esp:link url="http://dx.doi.org/10.2307/4200450" rel="external" hide-print="yes">10.2307/4200450</esp:link> | <esp:link url="http://www.jstor.org/stable/4200450" rel="external" hide-print="yes">http://www.jstor.org/stable/4200450</esp:link>.</li>
+
+<li>Stronach, D. “Metal Objects from the 1957 Excavations at Nimrud.” <i>Iraq</i> 20 (1958): 169–181. <esp:link url="http://www.jstor.org/stable/4199639" rel="external" hide-print="yes">http://www.jstor.org/stable/4199639</esp:link>.</li>
+
+<li>Turner, G. "The State Apartments of Late Assyrian Palaces." <i>Iraq</i> 32, no. 2 (1970): 177–213. doi:<esp:link url="http://dx.doi.org/10.2307/4199901" rel="external" hide-print="yes">10.2307/4199901</esp:link> | <esp:link url="http://www.jstor.org/stable/4199901" rel="external" hide-print="yes">http://www.jstor.org/stable/4199901</esp:link>.</li>
+
+<li>Turner, W.E.S. “Glass Fragments from Nimrud of the Eighth to the Sixth Century B.C.” <i>Iraq</i> 17 (1955): 57–68. <esp:link url="http://www.jstor.org/stable/4241716" rel="external" hide-print="yes">http://www.jstor.org/stable/4241716</esp:link>.</li>
+
+<li>Winter, I. J. "Is There a South Syrian Style of Ivory Carving in the Early First Millennium B.C.?" <i>Iraq</i> 43, no. 2 (1981): 101–30. doi:<esp:link url="http://dx.doi.org/10.2307/4200140" rel="external" hide-print="yes">10.2307/4200140</esp:link> | <esp:link url="http://www.jstor.org/stable/4200140" rel="external" hide-print="yes">http://www.jstor.org/stable/4200140</esp:link>.</li>
+
+<li>Winter, I. J. "Phoenician and North Syrian Ivory Carving in Historical Context: Questions of Style and Distribution." <i>Iraq</i> 38, no. 1 (1976): 1–22. doi:<esp:link url="http://dx.doi.org/10.2307/4200021" rel="external" hide-print="yes">10.2307/4200021</esp:link> | <esp:link url="http://www.jstor.org/stable/4200021" rel="external" hide-print="yes">http://www.jstor.org/stable/4200021</esp:link>.</li>
+
+<li>Wiseman, D.J. “The Nimrud Tablets, 1949.” <i>Iraq</i> 12 (1950): 184–200. <esp:link url="http://www.jstor.org/stable/4241709" rel="external" hide-print="yes">http://www.jstor.org/stable/4241709</esp:link>.</li>
+
+<li>Wiseman, D.J. “Two Historical Inscriptions from Nimrud.” <i>Iraq</i> 13 (1951): 21–26. <esp:link url="http://www.jstor.org/stable/4199536" rel="external" hide-print="yes">http://www.jstor.org/stable/4199536</esp:link>.</li>
+
+<li>Wiseman, D. J. "A New Stela of Aššur-Naṣir-Pal II." <i>Iraq</i> 14, no. 1 (1952): 24–44. doi:<esp:link url="http://dx.doi.org/10.2307/4199549" rel="external" hide-print="yes">10.2307/4199549</esp:link> | <esp:link url="http://www.jstor.org/stable/4199549" rel="external" hide-print="yes">http://www.jstor.org/stable/4199549</esp:link>.</li>
+
+<li>Wiseman, D.J. “An Esarhaddon Cylinder from Nimrud.” <i>Iraq</i> 14, no. 1 (1952): 54–60. <esp:link url="http://www.jstor.org/stable/4199551" rel="external" hide-print="yes">http://www.jstor.org/stable/4199551</esp:link>.</li>
+
+<li>Wiseman, D.J. “The Nimrud Tablets, 1951.” <i>Iraq</i> 14, no. 1 (1952): 61–71. <esp:link url="http://www.jstor.org/stable/4199552" rel="external" hide-print="yes">http://www.jstor.org/stable/4199552</esp:link>.</li>
+
+<li>Wiseman, D.J. “The Nimrud Tablets, 1953.” <i>Iraq</i> 15 (1953): 135–160. <esp:link url="http://www.jstor.org/stable/4199573" rel="external" hide-print="yes">http://www.jstor.org/stable/4199573</esp:link>.</li>
+
+<li>Wiseman, D. J. "Assyrian Writing-Boards." <i>Iraq</i> 17, no. 1 (1955): 3–13. doi:<esp:link url="http://dx.doi.org/10.2307/4241713" rel="external" hide-print="yes">10.2307/4241713</esp:link> | <esp:link url="http://www.jstor.org/stable/4241713" rel="external" hide-print="yes">http://www.jstor.org/stable/4241713</esp:link>.</li>
+
+<li>Wiseman, D.J. “A Fragmentary Inscription of Tiglath-Pileser III from Nimrud.” <i>Iraq</i> 18 (1956): 117–129. <esp:link url="http://www.jstor.org/stable/4199606" rel="external" hide-print="yes">http://www.jstor.org/stable/4199606</esp:link>.</li>
+
+<li>Wiseman, D. J. "The Vassal-Treaties of Esarhaddon." <i>Iraq</i> 20, no. 1 (1958): i – 99. doi:<esp:link url="http://dx.doi.org/10.2307/4199630" rel="external" hide-print="yes">10.2307/4199630</esp:link> | <esp:link url="http://www.jstor.org/stable/4199630" rel="external" hide-print="yes">http://www.jstor.org/stable/4199630</esp:link>.</li>
+
+<li>Wiseman, D.J. “Fragments of Historical Texts from Nimrud.” <i>Iraq</i> 26 (1964): 118–124. <esp:link url="http://www.jstor.org/stable/4199770" rel="external" hide-print="yes">http://www.jstor.org/stable/4199770</esp:link>.</li>
+
+<li>Wiseman, D.J. “A Lipšur Litany from Nimrud.” <i>Iraq</i> 31 (1969): 175–183. <esp:link url="http://www.jstor.org/stable/4199881" rel="external" hide-print="yes">http://www.jstor.org/stable/4199881</esp:link>.</li>
+
+<li>Wiseman, D. J. "Murder in Mesopotamia." <i>Iraq</i> 36, no. 1/2 (1974): 249–60. doi:<esp:link url="http://dx.doi.org/10.2307/4199994" rel="external" hide-print="yes">10.2307/4199994</esp:link> | <esp:link url="http://www.jstor.org/stable/4199994" rel="external" hide-print="yes">http://www.jstor.org/stable/4199994</esp:link>.</li>
+
+<li>Wiseman, D.J. “A Gilgamesh Epic Fragment from Nimrud.” <i>Iraq</i> 37 (1975): 157–163. <esp:link url="http://www.jstor.org/stable/4200015" rel="external" hide-print="yes">http://www.jstor.org/stable/4200015</esp:link>.</li>
+
+<li>Wiseman, D.J. and J.V. Kinnier Wilson. “The Nimrud Tablets, 1950.” <i>Iraq</i> 13 (1951): 102–122. <esp:link url="http://www.jstor.org/stable/4199544" rel="external" hide-print="yes">http://www.jstor.org/stable/4199544</esp:link>.</li>
+
+<li>Yamada, S. "Peter Hulin’s Hand Copies of Shalmaneser III’s Inscriptions." <i>Iraq</i> 62 (2000): 65–87. doi:<esp:link url="http://dx.doi.org/10.2307/4200482" rel="external" hide-print="yes">10.2307/4200482</esp:link> | <esp:link url="http://www.jstor.org/stable/4200482" rel="external" hide-print="yes">http://www.jstor.org/stable/4200482</esp:link>.</li>
+</ul>
+
+<!-- JSTOR ARTICLES -->
+
+<esp:h><esp:bookmark id="JSTORarticles" title="Jump to JSTOR articles on this page">Articles on Nimrud available via JSTOR</esp:bookmark> (ordered alphabetically, requires subscription)</esp:h>
+
+<ul>
+<li>Albenda, P. "Ashurnasirpal II Lion Hunt Relief BM124534." <i>Journal of Near Eastern Studies</i> 31, no. 3 (1972): 167–78. doi:<esp:link url="http://dx.doi.org/10.2307/543617" rel="external" hide-print="yes">10.2307/543617</esp:link> | <esp:link url="http://www.jstor.org/stable/543617" rel="external" hide-print="yes">http://www.jstor.org/stable/543617</esp:link>.</li>
+
+<li>Albenda, P. "Assyrian Royal Hunts: Antlered and Horned Animals from Distant Lands." <i>Bulletin of the American Schools of Oriental Research</i>, no. 349 (2008): 61–78. doi:<esp:link url="http://dx.doi.org/10.2307/25067056" rel="external" hide-print="yes">10.2307/25067056</esp:link> | <esp:link url="http://www.jstor.org/stable/25067056" rel="external" hide-print="yes">http://www.jstor.org/stable/25067056</esp:link>.</li>
+
+<li>Albright, W.F. “An Ostracon from Calah and the North-Israelite Diaspora.” <i>Bulletin of the American Schools of Oriental Research</i> 149 (1958): 33–36. <esp:link url="http://www.jstor.org/stable/1355742" rel="external" hide-print="yes">http://www.jstor.org/stable/1355742</esp:link>.</li>
+
+<li>Allison K. T. "Representations of the North Syrian Landscape in Neo-Assyrian Art." <i>Bulletin of the American Schools of Oriental Research</i>, no. 323 (2001): 63–96. doi:<esp:link url="http://dx.doi.org/10.2307/1357592" rel="external" hide-print="yes">10.2307/1357592</esp:link> | <esp:link url="http://www.jstor.org/stable/1357592" rel="external" hide-print="yes">http://www.jstor.org/stable/1357592</esp:link>.</li>
+
+<li>Amandry, P. "A Propos D’un Récent Catalogue Des Ivoires de Nimroud." <i>Revue d’Assyriologie et d’archéologie Orientale</i> 52, no. 4 (1958): 226–32. doi:<esp:link url="http://dx.doi.org/10.2307/23294898" rel="external" hide-print="yes">10.2307/23294898</esp:link> | <esp:link url="http://www.jstor.org/stable/23294898" rel="external" hide-print="yes">http://www.jstor.org/stable/23294898</esp:link>.</li>
+
+<li>Barag, D. "Glass Inlays and the Classification and Dating of Ivories from the Ninth-Eighth Centuries B.C." <i>Anatolian Studies</i> 33 (1983): 163–67. doi:<esp:link url="http://dx.doi.org/10.2307/3642706" rel="external" hide-print="yes">10.2307/3642706</esp:link> | <esp:link url="http://www.jstor.org/stable/3642706" rel="external" hide-print="yes">http://www.jstor.org/stable/3642706</esp:link>.</li>
+
+<li>Barnett, R. D., E. Winter, and H. Brunner. "Altorientalische Altertümer in Museen Und Privatsammlungen." <i>Archiv Für Orientforschung</i> 24 (1973): 146–49. doi:<esp:link url="http://dx.doi.org/10.2307/41637749" rel="external" hide-print="yes">10.2307/41637749</esp:link> | <esp:link url="http://www.jstor.org/stable/41637749" rel="external" hide-print="yes">http://www.jstor.org/stable/41637749</esp:link>.</li>
+
+<li>Barnett, R.D. and D.J. Wiseman. “The Excavations of Nimrud, 1949-53.” <i>The British Museum Quarterly</i> 20 (1955): 16–18. <esp:link url="http://www.jstor.org/stable/4422507" rel="external" hide-print="yes">http://www.jstor.org/stable/4422507</esp:link>.</li>
+
+<li>Bertman, S. "Tasseled Garments in the Ancient East Mediterranean." <i>The Biblical Archaeologist</i> 24, no. 4 (1961): 119–28. doi:<esp:link url="http://dx.doi.org/10.2307/3209197" rel="external" hide-print="yes">10.2307/3209197</esp:link> | <esp:link url="http://www.jstor.org/stable/3209197" rel="external" hide-print="yes">http://www.jstor.org/stable/3209197</esp:link>.</li>
+
+<li>Brown, B. "The Structure and Decline of the Middle Assyrian State: The Role of Autonomous and Nonstate Actors." <i>Journal of Cuneiform Studies</i> 65 (2013): 97–126. doi:<esp:link url="http://dx.doi.org/10.5615/jcunestud.65.2013.0097" rel="external" hide-print="yes">10.5615/jcunestud.65.2013.0097</esp:link> | <esp:link url="http://www.jstor.org/stable/10.5615/jcunestud.65.2013.0097" rel="external" hide-print="yes">http://www.jstor.org/stable/10.5615/jcunestud.65.2013.0097</esp:link>.</li>
+
+<li>Byrne, R. "Early Assyrian Contacts with Arabs and the Impact on Levantine Vassal Tribute." <i>Bulletin of the American Schools of Oriental Research</i>, no. 331 (2003): 11–25. doi:<esp:link url="http://dx.doi.org/10.2307/1357756" rel="external" hide-print="yes">10.2307/1357756</esp:link> | <esp:link url="http://www.jstor.org/stable/1357756" rel="external" hide-print="yes">http://www.jstor.org/stable/1357756</esp:link>.</li>
+
+<li>Cogan, M. "Ashurbanipal Prisms K and C: Further Restorations." <i>Journal of Cuneiform Studies</i> 41, no. 1 (1989): 96–99. doi:<esp:link url="http://dx.doi.org/10.2307/1359745" rel="external" hide-print="yes">10.2307/1359745</esp:link> | <esp:link url="http://www.jstor.org/stable/1359745" rel="external" hide-print="yes">http://www.jstor.org/stable/1359745</esp:link>.</li>
+
+<li>Collon, D. "Dance in Ancient Mesopotamia." <i>Near Eastern Archaeology</i> 66, no. 3 (2003): 96–102. doi:<esp:link url="http://dx.doi.org/10.2307/3210911" rel="external" hide-print="yes">10.2307/3210911</esp:link> | <esp:link url="http://www.jstor.org/stable/3210911" rel="external" hide-print="yes">http://www.jstor.org/stable/3210911</esp:link>.</li>
+
+<li>Elat, M. "The Economic Relations of the Neo-Assyrian Empire with Egypt." <i>Journal of the American Oriental Society</i> 98, no. 1 (1978): 20–34. doi:<esp:link url="http://dx.doi.org/10.2307/600148" rel="external" hide-print="yes">10.2307/600148</esp:link> | <esp:link url="http://www.jstor.org/stable/600148" rel="external" hide-print="yes">http://www.jstor.org/stable/600148</esp:link>.</li>
+
+<li>'E. W.' [E. Weidner] "Tontafel-Sammlungen, Reliefs, Skulpturen." <i>Archiv Für Orientforschung</i> 15 (1945): 135–40. doi:<esp:link url="http://dx.doi.org/10.2307/41635710" rel="external" hide-print="yes">10.2307/41635710</esp:link> | <esp:link url="http://www.jstor.org/stable/41635710" rel="external" hide-print="yes">http://www.jstor.org/stable/41635710</esp:link>.</li>
+
+<li>Filippi, W. de. "New Evidence for the Separate Identity of d.Šarrat-Kidmuri and d.Šarrat-Nipḫi (GAŠAN KUR) Formerly Read d.Bēlat-Māti." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 70, no. 2 (1976): 181–82. doi:<esp:link url="http://dx.doi.org/10.2307/23282314" rel="external" hide-print="yes">10.2307/23282314</esp:link> | <esp:link url="http://www.jstor.org/stable/23282314" rel="external" hide-print="yes">http://www.jstor.org/stable/23282314</esp:link>.</li>
+
+<li>Furlani, Giuseppe, and Ernst F. Weidner. "Die Reliefs Der Assyrischen Könige. III. Die Assyrischen Reliefs in Italien." <i>Archiv Für Orientforschung</i> 11 (1936): 109–45. doi:<esp:link url="http://dx.doi.org/10.2307/41634922" rel="external" hide-print="yes">10.2307/41634922</esp:link> | <esp:link url="http://www.jstor.org/stable/41634922" rel="external" hide-print="yes">http://www.jstor.org/stable/41634922</esp:link>.</li>
+
+<li>Geller, M.J. “Fragments of Magic, Medicine, and Mythology from Nimrud.” <i>Bulletin of the School of Oriental and African Studies, University of London</i> 63 (2000): 331–339. <esp:link url="http://www.jstor.org/stable/1559490" rel="external" hide-print="yes">http://www.jstor.org/stable/1559490</esp:link>.</li>
+
+<li>Gerardi, P. "Epigraphs and Assyrian Palace Reliefs: The Development of the Epigraphic Text." <i>Journal of Cuneiform Studies</i> 40, no. 1 (1988): 1–35. doi:<esp:link url="http://dx.doi.org/10.2307/1359704" rel="external" hide-print="yes">10.2307/1359704</esp:link> | <esp:link url="http://www.jstor.org/stable/1359704" rel="external" hide-print="yes">http://www.jstor.org/stable/1359704</esp:link>.</li>
+
+<li>Goff, B.L. “Observations on Barnett’s <i>A Catalogue of the Nimrud Ivories</i>.” <i>Journal of the American Oriental Society</i> 80 (1960): 340–347. <esp:link url="http://www.jstor.org/stable/595884" rel="external" hide-print="yes">http://www.jstor.org/stable/595884</esp:link>.</li>
+
+<li>Grayson, A. K. "Akkadian Treaties of the Seventh Century B.C." <i>Journal of Cuneiform Studies</i> 39, no. 2 (1987): 127–60. doi:<esp:link url="http://dx.doi.org/10.2307/1359778" rel="external" hide-print="yes">10.2307/1359778</esp:link> | <esp:link url="http://www.jstor.org/stable/1359778" rel="external" hide-print="yes">http://www.jstor.org/stable/1359778</esp:link>.</li>
+
+<li>Green, A. "The Iconography of Meslamtaea." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 82, no. 2 (1988): 173–75. doi:<esp:link url="http://dx.doi.org/10.2307/23282099" rel="external" hide-print="yes">10.2307/23282099</esp:link> | <esp:link url="http://www.jstor.org/stable/23282099" rel="external" hide-print="yes">http://www.jstor.org/stable/23282099</esp:link>.</li>
+
+<li>Gunter, A. "Representations of Urartian and Western Iranian Fortress Architecture in the Assyrian Reliefs." <i>Iran</i> 20 (1982): 103–12. doi:<esp:link url="http://dx.doi.org/10.2307/4299724" rel="external" hide-print="yes">10.2307/4299724</esp:link> | <esp:link url="http://www.jstor.org/stable/4299724" rel="external" hide-print="yes">http://www.jstor.org/stable/4299724</esp:link>.</li>
+
+<li>Heidorn, L. A. "The Horses of Kush." <i>Journal of Near Eastern Studies</i> 56, no. 2 (1997): 105–14. doi:<esp:link url="http://dx.doi.org/10.2307/545752" rel="external" hide-print="yes">10.2307/545752</esp:link> | <esp:link url="http://www.jstor.org/stable/545752" rel="external" hide-print="yes">http://www.jstor.org/stable/545752</esp:link>.</li>
+
+<li>Hoglund, K. G. "The Museum Trail: The Collections at Yale University." <i>The Biblical Archaeologist</i> 47, no. 3 (September 1, 1984): 160–65. doi:<esp:link url="http://dx.doi.org/10.2307/3209917" rel="external" hide-print="yes">10.2307/3209917</esp:link> | <esp:link url="http://www.jstor.org/stable/3209917" rel="external" hide-print="yes">http://www.jstor.org/stable/3209917</esp:link>.</li>
+
+<li>Holloway, S. W. "Porch Lights in Neo-Assyrian Temples." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 90, no. 1 (1996): 27–32. doi:<esp:link url="http://dx.doi.org/10.2307/23281725" rel="external" hide-print="yes">10.2307/23281725</esp:link> | <esp:link url="http://www.jstor.org/stable/23281725" rel="external" hide-print="yes">http://www.jstor.org/stable/23281725</esp:link>.</li>
+
+<li>Lemaire, A. "Milkiram, Nouveau Roi Phénicien de Tyr?" <i>Syria</i> 53, no. 1/2 (1976): 83–93. doi:<esp:link url="http://dx.doi.org/10.2307/4198037" rel="external" hide-print="yes">10.2307/4198037</esp:link> | <esp:link url="http://www.jstor.org/stable/4198037" rel="external" hide-print="yes">http://www.jstor.org/stable/4198037</esp:link>.</li>
+
+<li>Lieberman, S. J. "The Aramaic Argillary Script in the Seventh Century." <i>Bulletin of the American Schools of Oriental Research</i>, no. 192 (1968): 25–31. doi:<esp:link url="http://dx.doi.org/10.2307/1356402"> 10.2307/1356402</esp:link> | <esp:link url="http://www.jstor.org/stable/1356402" rel="external" hide-print="yes">http://www.jstor.org/stable/1356402</esp:link>.</li>
+
+<li>Lines, J. “Ivories from Nimrud.” <i>The Metropolitan Museum of Art Bulletin</i> 13 (1955): 233–243. <esp:link url="http://www.jstor.org/stable/3257626" rel="external" hide-print="yes">http://www.jstor.org/stable/3257626</esp:link>.</li>
+
+<li>Littauer, M.A. and J. Crouwel. “The Dating of a Chariot Ivory from Nimrud Considered Once Again.” <i>Bulletin of the American Schools of Oriental Research</i> 209 (February 1, 1973): 27–33. <esp:link url="http://www.jstor.org/stable/1356419" rel="external" hide-print="yes">http://www.jstor.org/stable/1356419</esp:link>.</li>
+
+<li>Marchetti, N. "Texts Quoting Artworks: The Banquet Stele and the Palace Reliefs of Assurnasirpal II." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 103 (2009): 85–90. doi:<esp:link url="http://dx.doi.org/10.2307/23281458" rel="external" hide-print="yes">10.2307/23281458</esp:link> | <esp:link url="http://www.jstor.org/stable/23281458" rel="external" hide-print="yes">http://www.jstor.org/stable/23281458</esp:link>.</li>
+
+<li>Melville, S. C. "Neo-Assyrian Royal Women and Male Identity: Status as a Social Tool." <i>Journal of the American Oriental Society</i> 124, no. 1 (2004): 37–57. doi:<esp:link url="http://dx.doi.org/10.2307/4132152" rel="external" hide-print="yes">10.2307/4132152</esp:link> | <esp:link url="http://www.jstor.org/stable/4132152" rel="external" hide-print="yes">http://www.jstor.org/stable/4132152</esp:link>.</li>
+
+<li>Mierzejewski, A. "Janusz Meuszyński (22. November 1946 Bis 23. Mai 1976)." <i>Archiv Für Orientforschung</i> 25 (1974): 342–44. doi:<esp:link url="http://dx.doi.org/10.2307/41636348" rel="external" hide-print="yes">10.2307/41636348</esp:link> | <esp:link url="http://www.jstor.org/stable/41636348" rel="external" hide-print="yes">http://www.jstor.org/stable/41636348</esp:link>.</li>
+
+<li>Mitchell, T. C., and A. P. Middleton. "The Stones Used in the Assyrian Sculptures." <i>Journal of Cuneiform Studies</i> 54 (2002): 93–98. doi:<esp:link url="http://dx.doi.org/10.2307/1360046" rel="external" hide-print="yes">10.2307/1360046</esp:link> | <esp:link url="http://www.jstor.org/stable/1360046" rel="external" hide-print="yes">http://www.jstor.org/stable/1360046</esp:link>.</li>
+
+<li>Moortgat-Correns, U. "Ein Kultbild Ninurtas Aus Neuassyrischer Zeit." <i>Archiv Für Orientforschung</i> 35 (1988): 117–33. doi:<esp:link url="http://dx.doi.org/10.2307/41661660" rel="external" hide-print="yes">10.2307/41661660</esp:link> | <esp:link url="http://www.jstor.org/stable/41661660" rel="external" hide-print="yes">http://www.jstor.org/stable/41661660</esp:link>.</li>
+
+<li>Muscarella, O. W. "Fibulae Represented on Sculpture." <i>Journal of Near Eastern Studies</i> 26, no. 2 (1967): 82–86. doi:<esp:link url="http://dx.doi.org/10.2307/543704" rel="external" hide-print="yes">10.2307/543704</esp:link> | <esp:link url="http://www.jstor.org/stable/543704" rel="external" hide-print="yes">http://www.jstor.org/stable/543704</esp:link>.</li>
+
+<li>Nougayrol, J. "Rapports Paléo-Babyloniens D’haruspices." <i>Journal of Cuneiform Studies</i> 21 (1967): 219–35. doi:<esp:link url="http://dx.doi.org/10.2307/1359372" rel="external" hide-print="yes">10.2307/1359372</esp:link> | <esp:link url="http://www.jstor.org/stable/1359372" rel="external" hide-print="yes">http://www.jstor.org/stable/1359372</esp:link>.</li>
+
+<li>Puech, E. “Un ivoire de Bît-Guši (Arpad) à Nimrud.” <i>Syria</i> 55 (1978): 163–169. <esp:link url="http://www.jstor.org/stable/4198150" rel="external" hide-print="yes">http://www.jstor.org/stable/4198150</esp:link>.</li>
+
+<li>Porada, E. "Remarks about Some Assyrian Reliefs." <i>Anatolian Studies</i> 33 (1983): 15–18. doi:<esp:link url="http://dx.doi.org/10.2307/3642685" rel="external" hide-print="yes">10.2307/3642685</esp:link> | <esp:link url="http://www.jstor.org/stable/3642685" rel="external" hide-print="yes">http://www.jstor.org/stable/3642685</esp:link>.</li>
+
+<li>Porter, B. N. "Sacred Trees, Date Palms, and the Royal Persona of Ashurnasirpal II." <i>Journal of Near Eastern Studies</i> 52, no. 2 (1993): 129–39. doi:<esp:link url="http://dx.doi.org/10.2307/545566" rel="external" hide-print="yes">10.2307/545566</esp:link> | <esp:link url="http://www.jstor.org/stable/545566" rel="external" hide-print="yes">http://www.jstor.org/stable/545566</esp:link>.</li>
+
+<li>Reade, J. E., and C. B. F. Walker. "Some Neo-Assyrian Royal Inscriptions." <i>Archiv Für Orientforschung</i> 28 (1981): 113–22. doi:<esp:link url="http://dx.doi.org/10.2307/41637775" rel="external" hide-print="yes">10.2307/41637775</esp:link> | <esp:link url="http://www.jstor.org/stable/41637775" rel="external" hide-print="yes">http://www.jstor.org/stable/41637775</esp:link>.</li>
+
+<li>Reese, D. S., and C. Sease. "Some Previously Unpublished Engraved Tridacna Shells." <i>Journal of Near Eastern Studies</i> 52, no. 2 (1993): 109–28. doi:<esp:link url="http://dx.doi.org/10.2307/545565" rel="external" hide-print="yes">10.2307/545565</esp:link> | <esp:link url="http://www.jstor.org/stable/545565" rel="external" hide-print="yes">http://www.jstor.org/stable/545565</esp:link>.</li>
+
+<li>Russell, J.M. “The Program of the Palace of Assurnasirpal II at Nimrud: Issues in the Research and Presentation of Assyrian Art.” <i>American Journal of Archaeology</i> 102 (1998): 655–715. <esp:link url="http://www.jstor.org/stable/506096" rel="external" hide-print="yes">http://www.jstor.org/stable/506096</esp:link>.</li>
+
+<li>Ross, J. F. "A Note on the Ashurnasirpal Reliefs at Virginia Theological Seminary." <i>Archiv Für Orientforschung</i> 25 (1974): 166–69. doi:<esp:link url="http://dx.doi.org/10.2307/41636317" rel="external" hide-print="yes">10.2307/41636317</esp:link> | <esp:link url="http://www.jstor.org/stable/41636317" rel="external" hide-print="yes">http://www.jstor.org/stable/41636317</esp:link>.</li>
+
+<li>Schipper, F. T. "The Protection and Preservation of Iraq’s Archaeological Heritage, Spring 1991-2003." <i>American Journal of Archaeology</i> 109, no. 2 (2005): 251–72. doi:<esp:link url="http://dx.doi.org/10.2307/40024511" rel="external" hide-print="yes">10.2307/40024511</esp:link> | <esp:link url="http://www.jstor.org/stable/40024511" rel="external" hide-print="yes">http://www.jstor.org/stable/40024511</esp:link>.</li>
+
+<li>Seidl, U., and W. Sallaberger. "Der 'Heilige Baum'." <i>Archiv Für Orientforschung</i> 51 (2005): 54–74. doi:<esp:link url="http://dx.doi.org/10.2307/41670230" rel="external" hide-print="yes">10.2307/41670230</esp:link> | <esp:link url="http://www.jstor.org/stable/41670230" rel="external" hide-print="yes">http://www.jstor.org/stable/41670230</esp:link>.</li>
+
+<li>Spruytte, J. "Etude Technologique. La Roue du Char Royal Assyrien." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 88, no. 1 (1994): 37–48. doi:<esp:link url="http://dx.doi.org/10.2307/23282020" rel="external" hide-print="yes">http://dx.doi.org/10.2307/23282020</esp:link> | <esp:link url="http://www.jstor.org/stable/23282020" rel="external" hide-print="yes">http://www.jstor.org/stable/23282020</esp:link>.</li>
+
+<li>Stieber, N. “Protecting Nimrud.” <i>Journal of the Society of Architectural Historians</i> 62 (2003): 292–293. <esp:link url="http://www.jstor.org/stable/3592515" rel="external" hide-print="yes">http://www.jstor.org/stable/3592515</esp:link>.</li>
+
+<li>Tadmor, H. “An Ancient Scribal Error and Its Modern Consequences: The Date of the Nimrud Slab Inscription No. 1.” <i>Anatolian Studies</i> 33 (1983): 199–203. <esp:link url="http://www.jstor.org/stable/3642709" rel="external" hide-print="yes">http://www.jstor.org/stable/3642709</esp:link>.</li>
+
+<li>Ussishkin, D. “On the Date of a Group of Ivories from Nimrud.” <i>Bulletin of the American Schools of Oriental Research</i> 203 (October 1, 1971): 22–27. <esp:link url="http://www.jstor.org/stable/1356287" rel="external" hide-print="yes">http://www.jstor.org/stable/1356287</esp:link>.</li>
+
+<li>Veldhuis, N. "Purity and Access: A Catalog of Lexical Texts Dedicated to Nabû." <i>Journal of Cuneiform Studies</i> 65 (2013): 169–80. doi:<esp:link url="http://dx.doi.org/10.5615/jcunestud.65.2013.0169" rel="external" hide-print="yes">10.5615/jcunestud.65.2013.0169</esp:link> | <esp:link url="http://www.jstor.org/stable/10.5615/jcunestud.65.2013.0169" rel="external" hide-print="yes">http://www.jstor.org/stable/10.5615/jcunestud.65.2013.0169</esp:link>.</li>
+
+<li>Vivante, A. "The Sacrificial Altar in Assyrian Temples: A Suggested New Interpretation of the Term Maškittu." <i>Revue d’Assyriologie et D’archéologie Orientale</i> 88, no. 2 (1994): 163–68. doi:<esp:link url="http://dx.doi.org/10.2307/23281642" rel="external" hide-print="yes">10.2307/23281642</esp:link> | <esp:link url="http://www.jstor.org/stable/23281642" rel="external" hide-print="yes">http://www.jstor.org/stable/23281642</esp:link>.</li>
+
+<li>Weidner, E.F., and G. Furlani. "Die Reliefs Der Assyrischen Könige." <i>Archiv Für Orientforschung</i> 10 (1935): 205–36. doi:<esp:link url="http://dx.doi.org/10.2307/41634872" rel="external" hide-print="yes">10.2307/41634872</esp:link> | <esp:link url="http://www.jstor.org/stable/41634872" rel="external" hide-print="yes">http://www.jstor.org/stable/41634872</esp:link>.</li>
+
+<li>Weidner, E. F. "Die Reliefs Der Assyrischen Könige. IV. Die Assyrischen Reliefs in England (II. Teil)." <i>Archiv Für Orientforschung</i> 12 (1937): 205–37. doi:<esp:link url="http://dx.doi.org/10.2307/41680333" rel="external" hide-print="yes">10.2307/41680333</esp:link> | <esp:link url="http://www.jstor.org/stable/41680333" rel="external" hide-print="yes">http://www.jstor.org/stable/41680333</esp:link>.</li>
+
+<li>Weidner, E. F. "Die Reliefs Der Assyrischen Könige. IV. Die Assyrischen Reliefs in England (II. Teil) (Schluss)." <i>Archiv Für Orientforschung</i> 12 (1937): 325–41. doi:<esp:link url="http://dx.doi.org/10.2307/41680356" rel="external" hide-print="yes">10.2307/41680356</esp:link> | <esp:link url="http://www.jstor.org/stable/41680356" rel="external" hide-print="yes">http://www.jstor.org/stable/41680356</esp:link>.</li>
+
+<li>Wilkinson, C.K. “Some New Contacts with Nimrud and Assyria.” <i>The Metropolitan Museum of Art Bulletin</i> 10 (1952): 233–240. <esp:link url="http://www.jstor.org/stable/3258103" rel="external" hide-print="yes">http://www.jstor.org/stable/3258103</esp:link>.</li>
+
+<li>Winter, E. "Altorientalische Altertümer in Museen Und Privatsammlungen." <i>Archiv Für Orientforschung</i> 21 (1966): 123–30. doi:<esp:link url="http://dx.doi.org/10.2307/41637686" rel="external" hide-print="yes">10.2307/41637686</esp:link> | <esp:link url="http://www.jstor.org/stable/41637686" rel="external" hide-print="yes">http://www.jstor.org/stable/41637686</esp:link>.</li>
+
+<li>Winter, I.J. “Carved Ivory Furniture Panels from Nimrud: A Coherent Subgroup of the North Syrian Style.” <i>Metropolitan Museum Journal</i> 11 (1976): 25–54. <esp:link url="http://www.jstor.org/stable/1512683" rel="external" hide-print="yes">http://www.jstor.org/stable/1512683</esp:link>.</li>
+
+<li>Winter, I. J. "‘Seat of Kingship’/‘A Wonder to Behold’: The Palace as Construct in the Ancient near East." <i>Ars Orientalis</i> 23 (1993): 27–55. doi:<esp:link url="http://dx.doi.org/10.2307/4629440" rel="external" hide-print="yes">10.2307/4629440</esp:link> | <esp:link url="http://www.jstor.org/stable/4629440" rel="external" hide-print="yes">http://www.jstor.org/stable/4629440</esp:link>.</li>
+
+<li>Wiseman, D.J. “The Nabu Temple Texts from Nimrud.” <i>Journal of Near Eastern Studies</i> 27 (1968): 248–250. <esp:link url="http://www.jstor.org/stable/543542" rel="external" hide-print="yes">http://www.jstor.org/stable/543542</esp:link>.</li>
+
+<li>Wiseman, D. J. "A New Text of the Babylonian Poem of the Righteous Sufferer." <i>Anatolian Studies</i> 30 (1980): 101–7. doi:<esp:link url="http://dx.doi.org/10.2307/3642782" rel="external" hide-print="yes">10.2307/3642782</esp:link> | <esp:link url="http://www.jstor.org/stable/3642782" rel="external" hide-print="yes">http://www.jstor.org/stable/3642782</esp:link>.</li>
+
+<li>Yamada, S. "The Manipulative Counting of the Euphrates Crossings in the Later Inscriptions of Shalmaneser III." <i>Journal of Cuneiform Studies</i> 50 (1998): 87–94. doi:<esp:link url="http://dx.doi.org/10.2307/1360036" rel="external" hide-print="yes">10.2307/1360036</esp:link> | <esp:link url="http://www.jstor.org/stable/1360036" rel="external" hide-print="yes">http://www.jstor.org/stable/1360036</esp:link>.</li>
+
+<li>Younger, K. Lawson Jr. “Yahweh at Ashkelon and Calaḫ? Yahwistic Names in Neo-Assyrian.” <i>Vetus Testamentum</i> 52 (2002): 207–218. <esp:link url="http://www.jstor.org/stable/1585090" rel="external" hide-print="yes">http://www.jstor.org/stable/1585090</esp:link>.</li>
+</ul>
+
+<!-- SCOPUS ARTICLES -->
+
+<esp:h><esp:bookmark id="Scopusarticles" title="Jump to Scopus articles on this page">Articles on Nimrud available via Scopus</esp:bookmark> (ordered alphabetically, requires subscription)</esp:h>
+
+<ul>
+<li>Brown, B. "Kingship and Ancestral Cult in the Northwest Palace at Nimrud." <i>Journal of Ancient Near Eastern Religions</i> 10, no. 1 (2010): 1–53. doi:<esp:link url="http://dx.doi.org/10.1163/156921210X500495" rel="external" hide-print="yes">10.1163/156921210X500495</esp:link>.</li>
+
+<li>Cassar, M. "A Flexible Climate-Controlled Storage System for a Collection of Ivory Veneers from Nimrud." <i>Museum Management and Curatorship</i> 5, no. 2 (1986): 171–81. doi:<esp:link url="http://dx.doi.org/10.1016/0260-4779(86)90047-6" rel="external" hide-print="yes">10.1016/0260-4779(86)90047-6</esp:link>.</li>
+
+<li>Geller, M.J. "Fragments of Magic, Medicine, and Mythology from Nimrud." <i>Bulletin of the School of Oriental and African Studies</i> 63, no. 3 (2000). doi:<esp:link url="http://dx.doi.org/10.1017/S0041977X00008429" rel="external" hide-print="yes">10.1017/S0041977X00008429</esp:link>.</li>
+
+<li>Herrmann, G., and J. Curtis. "Reflections on the Four-Winged Genie: A Pottery Jar and an Ivory Panel from Nimrud." <i>Iranica Antiqua</i> 33 (1998): 107–34. doi:<esp:link url="http://dx.doi.org/10.2143/IA.33.0.519126" rel="external" hide-print="yes">10.2143/IA.33.0.519126
+</esp:link>.</li>
+</ul>
+
+
+<!-- OTHER ONLINE ARTICLES AND BOOKS-->
+
+<esp:h><esp:bookmark id="booksonline" title="Jump to online books on this page">Books on Nimrud available online (ordered alphabetically)</esp:bookmark></esp:h>
+
+<ul>
+<li><esp:bookmark id="Crawfordetal1980" title="Porter 1989">Crawford, V.E., P.O. Harper and H. Pittman.</esp:bookmark> <i>Assyrian Reliefs and Ivories in the Metropolitan Museum of Art: Palace Reliefs of Assurnasirpal II and Ivory Carvings from Nimrud</i>. Metropolitan Museum of Art, 1980. <esp:link url="http://www.metmuseum.org/research/metpublications/Assyrian_Reliefs_and_Ivories_in_The_Metropolitan_Museum_of_Art_Palace_Reliefs_of_Assurnasirpal_II_an" title="Link to download PDF via MetPublications" hide-print="yes" rel="external">Download PDF from MetPublications (5.2 MB)</esp:link>.</li>
+
+<li>Gonzales, E., and Williams College Museum of Art. <i>Stones of Assyria: Ancient Spirits from the Palace of Ashurnasirpal II</i>. Williamstown, Massachusetts: Williams College Museum of Art, 2001. <esp:link url="http://wcma.williams.edu/files/2012/10/StonesOfAssyria.pdf" rel="external" hide-print="yes">Download PDF from Williams College Museum of Art (4.3 MB)</esp:link>.</li>
+
+<li>Grotefend, G.F. <i>Die Tributverzeichnisse Des Obelisken Aus Nimrud</i>, Göttingen: Dieterich, 1852. <esp:link url="http://archive.org/stream/dietributverzei00grotgoog">View book online via the Internet Archive</esp:link>.</li>
+
+<li>Layard, A.H. <i>Nineveh and its Remains</i>, London: John Murray, 1849. <esp:link url="http://archive.org/details/ninevehanditsre19layagoog" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link></li>
+
+<li>Layard, A.H. <i>The Monuments of Nineveh: From Drawings Made on the Spot, vols. I–II</i>, London: John Murray, 1849-1853. <esp:link url="http://echo.mpiwg-berlin.mpg.de/MPIWG:U9E1HPX8" hide-print="yes" rel="external">Volume 1</esp:link> and <esp:link url="http://echo.mpiwg-berlin.mpg.de/MPIWG:B755VSM7" hide-print="yes" rel="external">Volume 2</esp:link> via <esp:link url="http://echo.mpiwg-berlin.mpg.de" rel="external" hide-print="yes">ECHO Cultural Heritage Online</esp:link>.</li>
+
+<li>Layard, A.H. <i>Discoveries in the ruins of Nineveh and Babylon</i>, London: John Murray, 1853. <esp:link url="http://archive.org/details/discoveriesinru01layagoog" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link></li>
+
+<li>Layard, A.H. <i>Discoveries among the ruins of Nineveh and Babylon</i>, New York: Harper &amp; Brothers, 1853. <esp:link url="https://archive.org/details/discoveriesamon00layagoog" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link></li>
+
+<li><esp:bookmark id="Porter1989" title="Porter 1989">Porter, B.N.</esp:bookmark> <i>Assyrian bas reliefs at the Bowdoin College Museum of Art</i>, Brunswick, Maine: Bowdoin College Museum of Art, 1989. <esp:link url="http://www.bu.edu/av/core/gilgamesh/Assyrian-bas-reliefs-pamphlet-from-Bowdoin.pdf" hide-print="yes" rel="external">Download PDF (8.3MB)</esp:link>.</li>
+
+<li>Rassam, H. <i>Asshur and the Land of Nimrod; Being an Account of the Discoveries Made in the Ancient Ruins of Nineveh, Asshur, Sepharvaim, Calah, Babylon, Borsippa, Cuthah, and Van</i>, Cincinnati; New York: Curts &amp; Jennings; Eston &amp; Mains, 1897. <esp:link url="http://www.archive.org/stream/asshurandlandni00rogegoog" hide-print="yes" rel="external">View book online via Internet Archive</esp:link>.</li>
+
+<li>Renouf, P. Le Page. <i>Assyrian Antiquities: Guide to the Nimroud Central Saloon</i>, London: British Museum, printed by order of the Trustees, 1886. <esp:link url="http://archive.org/details/guidetonimroudce00brituoft" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link>.</li>
+
+<li>Russell, J.M. "The Modern Sack of Nineveh and Nimrud." <i>Culture without context</i> (Newsletter of the Illicit Antiquities Research Centre) issue 1 (Autumn 1997). <esp:link url="http://www.mcdonald.cam.ac.uk/projects/iarc/culturewithoutcontext/issue1/russell.htm" title="Read Russell 1997 online" hide-print="yes" rel="external">Available online via The McDonald Institute for Archaeological Research, Cambridge</esp:link>.</li>
+
+<li>Smith, G. <i>Assyrian Discoveries: an Account of Explorations and Discoveries on the Site of Ninevah, during 1873-74</i>, London: Sampson Low, Marston, Low and Searle, 1875. <esp:link url="http://archive.org/details/assyriandiscove00smitgoog" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link>.</li>
+
+<li>Tyler, W. S. <i>Memoir of Rev. Henry Lobdell, M.D. Late Missionary of the American Board at Mosul: Including the Early History of the Assyrian Mission</i>, Boston: The American Tract Society, 1859. <esp:link url="https://archive.org/details/memoirofrevhenry00tyle" hide-print="yes" rel="external">View book online via the Internet Archive</esp:link>.</li>
+</ul>
+
+<!-- WEB RESOURCES -->
+
+<esp:h><esp:bookmark id="webresources" title="Jump to web resources on this page">Other web resources on Nimrud (ordered alphabetically by provider)</esp:bookmark></esp:h>
+
+<esp:sh><esp:link url="http://www.britishmuseum.org" hide-print="yes" rel="external">British Museum</esp:link></esp:sh>
+
+<ul><li><esp:link url="http://www.mesopotamia.co.uk/palaces/explore/exp_set.html" title="Palaces of Assyria, Ashurnasirpal II at Nimrud" hide-print="yes" rel="external">Palaces of Assyria, King Ashurnasirpal II's palace at Nimrud</esp:link>
+<br/>British Museum resource from the early 2000s featuring explorable map of the <esp:link page="northwestpalace">Northwest Palace</esp:link> of <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link>.</li>
+
+<li><esp:link url="http://www.britishmuseum.org/research/projects/the_nimrud_bowls.aspx" title="The Nimrud Bowls, British Museum" hide-print="yes" rel="external">The Nimrud Bowls</esp:link>
+<br/>British Museum research project examining bronze bowls from Nimrud.</li></ul>
+
+<esp:sh><esp:link url="http://cdli.ucla.edu/" title="Cuneiform Digital Library Initiative" hide-print="yes" rel="external">Cuneiform Digital Library Initiative</esp:link> (CDLI)</esp:sh>
+
+<ul>
+<li><esp:link url="http://cdli.ox.ac.uk/wiki/doku.php?id=nimrud_kalhu" title="Nimrud on CDLIwiki" hide-print="yes" rel="external">Nimrud on CDLIwiki</esp:link>
+<br/>Information on excavation history at Nimrud, buildings on the <esp:techterms term="citadel">citadel</esp:techterms> mound, and the Northwest Palace.</li>
+
+<li><esp:link url="http://cdli.ucla.edu/tools/nimrud/index.html" title="Map of Northwest Palace, Nimrud on CDLI" hide-print="yes" rel="external">The Northwest Palace, Nimrud</esp:link>
+<br/>Map and information on the Northwest Palace of Assurnasirpal II.</li>
+</ul>
+
+<esp:sh><esp:link url="http://www.factum-arte.com/eng/about.asp" title="Factum Arte">Factum Arte</esp:link></esp:sh>
+
+<ul><li><esp:link url="http://www.factum-arte.com/pag/39/The-Reconstruction-of-the-Eastern-End-of-the-Throne-room-of-Ashurnasirpal-II" title="Factum Arte, Ashurnasirpal II throne room reconstruction" hide-print="yes" rel="external">Facsimile reconstruction of the eastern end of the throne room of Ashurnasirpal II, Northwest Palace, Nimrud</esp:link>
+<br/>Since 2010, <esp:link url="http://www.factum-arte.com/eng/about.asp" title="Factum Arte">Factum Arte</esp:link> together with the <esp:link url="http://www.factumfoundation.org/" title="Factum Foundation for Digital Technology in Conservation" hide-print="yes" rel="external">Factum Foundation for Digital Technology in Conservation</esp:link> have been running a project to create a physical reconstruction of the eastern end of Assurnasirpal II's throne room, using high resolution digital scanning to create replicas of <esp:techterms term="bas-relief">bas-reliefs</esp:techterms> held in various museum collections. The project aims to display the reunited replicas in Iraq.</li></ul>
+
+<esp:sh><esp:link url="http://www.learningsites.com" hide-print="yes" rel="external">Learning Sites Inc.</esp:link></esp:sh>
+
+<ul><li><esp:link url="http://www.learningsites.com/CPalace_Nimrud/CP_html-pgs/CPalace_genl_html/CPalace_frame-layout.html" title="Central Palace, Nimrud, Digital Publication Project, 2002" hide-print="yes" rel="external">The Central Palace of Tiglath-pileser III at Nimrud</esp:link>
+<br/>Digital resource (created 2002) on <esp:glossary term="Tiglath-pileser III (person)">Tiglath-pileser III's</esp:glossary> <esp:glossary term="Central Palace (place)">Central Palace</esp:glossary>, based on excavations of the site conducted by the Polish Centre of Mediterranean Archaeology between 1974 and 1976. Contains excavation photographs, site plan drawings and computer model renderings.</li>
+
+<li><esp:link url="http://www.learningsites.com/NWPalace/NWPalhome.html" title="The Northwest Palace of Ashur-nasir-pal II at Nimrud, an interactive publication -- prototype" hide-print="yes" rel="external">The Northwest Palace of Ashurnasirpal II at Nimrud</esp:link>
+<br/>Digital resource (created 1997) on the Northwest Palace, based on excavations of the site conducted by the Polish Centre of Mediterranean Archaeology from 1974 to 1976. Contains reconstructions of the Palace and computer model renderings.</li></ul>
+
+<esp:sh><esp:link url="http://oi.uchicago.edu" rel="external" hide-print="yes">Oriental Institute of the University of Chicago</esp:link></esp:sh>
+
+<ul><li><esp:link url="http://oi.uchicago.edu/gallery/asp_meso_nimrud/" title="Archaeological site photographs, Nimrud, Oriental Institute of the University of Chicago" rel="external" hide-print="yes">Archaeological site photographs of Nimrud</esp:link>
+<br/>Site photographs from Nimrud <esp:link url="http://oi.uchicago.edu/research/lab/photos/" title="Archaeological site photography, Oriental Institute of the University of Chicago" hide-print="yes" rel="external">taken by John and Peggy Sanders between 1973 and 1990</esp:link>.</li></ul>
+
+<p>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+	</body></html>
+
+</esp:page>

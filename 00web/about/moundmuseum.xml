@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>From Mound to Museum</esp:name>
+	<esp:title>Nimrud, from Mound to Museum: Making Knowledge from Archaeological Objects</esp:title>
+
+	<html><head></head><body>
+
+<p>A study day held on Saturday 27 April 2013 at the <esp:link url="http://www.ashmolean.org" rel="external" hide-print="yes">Ashmolean Museum</esp:link>, Oxford, which was co-sponsored by the <esp:link url="http://www.bisi.ac.uk/"  rel="external" hide-print="yes">British Institute for the Study of Iraq</esp:link> (BISI).</p>
+
+<esp:image file="events/nimrud-ziggurat.jpg" description="The Nimrud ziggurat in spring 2001" position="float"><esp:link url="/nimrud/images/events/nimrud-ziggurat-large.jpg" title="View large image" hide-print="yes"/><esp:caption><esp:bookmark id="img4">The <esp:techterms term="ziggurat">ziggurat</esp:techterms> of Nimrud in spring 2001.</esp:bookmark> Photo: Eleanor Robson (2001). <esp:link url="/nimrud/images/events/nimrud-ziggurat-large.jpg" title="view large image" hide-print="yes">View large image.</esp:link></esp:caption></esp:image>
+
+<p>How do archaeological artefacts find their way into gallery cases and museum websites? How do objects found in the ground get transformed into specimens for scientific and historical study? This study day brought together a range of academic experts who have been involved in this process, to give their personal stories of making knowledge from objects excavated from the ancient city of Nimrud, capital of the Assyrian empire in the early first millennium BC.</p>
+
+<p>You can read an <esp:link url="http://storify.com/Eleanor_Robson/nimrud-from-mound-to-museum" hide-print="yes">archive of live-tweets from the event</esp:link> at Storify.</p>
+
+<esp:h>Programme of talks</esp:h>
+
+<dl>
+<dt><esp:link url="http://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-people/mesopotamia-researchers" rel="external" hide-print="yes">Dr Joan Oates, FBA</esp:link> (University of Cambridge)</dt>
+<dd>Excavating at the site of Nimrud in the 1950s</dd>
+<dt><esp:link url="http://cif.tors.ku.dk/people/reade/" rel="external" hide-print="yes">Professor Julian Reade</esp:link> (University of Copenhagen)</dt> 
+<dd>"Discovering and rediscovering the North-West Palace, Nimrud"</dd>
+<dt>Denise Ling and Kathleen Swales (The British Museum)</dt> 
+<dd>"Conservation of cuneiform tablets at the British Museum"</dd>
+<dt><esp:link url="http://www.orinst.ox.ac.uk/staff/eanes/pcollins.htm" rel="external" hide-print="yes">Dr Paul Collins</esp:link> (The Ashmolean Museum)</dt> 
+<dd>"Displaying Nimrud to the public"</dd>
+<dt><esp:link url="http://www.soas.ac.uk/staff/staff36942.php" rel="external" hide-print="yes">Dr Lamia Al-Gailani Werr</esp:link> (SOAS)</dt>
+<dd>"Displaying and redisplaying Nimrud at the Iraq Museum"</dd>
+</dl>
+
+<p>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+</body></html>
+
+</esp:page>

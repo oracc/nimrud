@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Museums worldwide</esp:name>
+	<esp:title>Museums worldwide holding material from Nimrud</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">Material from Nimrud has been dispersed into museum collections across the world. This page currently lists 76 museums holding Nimrud objects, with links to online information where available. The Nimrud Project <esp:link page="about" bookmark="h_timingdevelopmentandfeedback">welcomes additions and amendments</esp:link> to the list.</p>
+
+<ul><li><esp:link bookmark="world-nd-map">Map of museums worldwide holding Nimrud material</esp:link></li>
+<li><esp:link bookmark="nwp-nd-map">Map of museums worldwide holding relief panels from the Northwest Palace of king Assurnasirpal II</esp:link></li>
+<li><esp:link bookmark="bsai-nd-map">Map of museums worldwide holding material from BSAI excavations, 1949-1963</esp:link></li>
+</ul>
+
+<ul><li><esp:link bookmark="museumsworld">List of museums worldwide with Nimrud material (alphabetical by country)</esp:link></li></ul>
+
+<esp:h><esp:bookmark id="world-nd-map">Museums worldwide with Nimrud material</esp:bookmark></esp:h>
+
+<p><object type="text/html" width="425" height="350" data="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004ed45aa4eaeb9a96e1&amp;msa=0&amp;z=1&amp;output=embed">
+</object></p>
+
+<p><esp:link url="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004ed45aa4eaeb9a96e1&amp;msa=0" rel="external" hide-print="yes">View larger version of map using Google Maps</esp:link><br/>
+<esp:link url="/nimrud/downloads/MuseumsworldwidewithNDmaterial.kml" title="Map showing museums worldwide with Nimrud material" rel="external" hide-print="yes">Download content to view using Google Earth or re-use within your own custom maps (KML file, 58 KB)</esp:link></p>
+
+<p>Map compiled using documentation held by the individual museums listed on this page, data from Klaudia Englund, <i>Nimrud und seine Funde</i> (2003) <esp:ref referent="englund2003"/> and data 
+compiled by Christopher Walker and a group of volunteers at the British Museum.</p>
+
+<esp:h><esp:bookmark id="nwp-nd-map">Museums worldwide with relief panels from the Northwest Palace of king Assurnasirpal II</esp:bookmark></esp:h>
+
+<p><object type="text/html" width="425" height="350" data="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004e9e3e5e5d5b82b694&amp;msa=0&amp;z=1&amp;output=embed">
+</object></p>
+
+<p><esp:link url="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004e9e3e5e5d5b82b694&amp;msa=0" rel="external" hide-print="yes">View larger version of map using Google Maps</esp:link><br/>
+<esp:link url="/nimrud/downloads/distribution-NW-palace-reliefs.kml" title="Map showing worldwide distribution of reliefs from the Northwest Palace of king Assurnasirpal II" hide-print="yes">Download content to view using Google Earth or re-use within your own custom maps (KML file, 52 KB)</esp:link></p>
+
+<p>Map compiled using data from Klaudia Englund, <i>Nimrud und seine Funde</i> (2003) <esp:ref referent="englund2003"/>.</p>
+
+<esp:h><esp:bookmark id="bsai-nd-map">Museums worldwide with Nimrud material excavated by the <esp:techterms term="British School of Archaeology in Iraq">British School of Archaeology in Iraq</esp:techterms>, 1949-1963</esp:bookmark></esp:h>
+
+<p><object type="text/html" width="425" height="350" data="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004efb545a81189b870c&amp;msa=0&amp;z=1&amp;output=embed">
+</object></p>
+
+<p><esp:link url="https://maps.google.co.uk/maps/ms?msid=204599863567827172960.0004efb545a81189b870c&amp;msa=0" rel="external" hide-print="yes">View larger version of map using Google Maps</esp:link><br/>
+<esp:link url="/nimrud/downloads/museums-BSAI-excavations-1949-1963.kml" title="Map showing museums worldwide with Nimrud material from BSAI excavations, 1949-1963" hide-print="yes">Download content to view using Google Earth or re-use within your own custom maps (KML file, 21 KB)</esp:link></p>
+
+<p>Map compiled using documentation held by individual museums, plus data compiled by Christopher Walker and a group of volunteers at the British Museum.</p>
+
+<esp:h><esp:bookmark id="museumsworld">List of museums worldwide with Nimrud material</esp:bookmark></esp:h>
+<p>List is in alphabetical order by country. Number of museums in each country given in parentheses.</p>
+
+<ul>
+<li><esp:link bookmark="h_australia">Australia</esp:link> (3 museums)</li>
+<li><esp:link bookmark="h_belgium">Belgium</esp:link> (1)</li>
+<li><esp:link bookmark="h_canada">Canada</esp:link> (3)</li>
+<li><esp:link bookmark="h_denmark">Denmark</esp:link> (2)</li>
+<li><esp:link bookmark="h_france">France</esp:link> (1)</li>
+<li><esp:link bookmark="h_germany">Germany</esp:link> (3)</li>
+<li><esp:link bookmark="h_india">India</esp:link> (1)</li>
+<li><esp:link bookmark="h_iraq">Iraq</esp:link> (2)</li>
+<li><esp:link bookmark="h_ireland">Ireland</esp:link> (1)</li>
+<li><esp:link bookmark="h_italy">Italy</esp:link> (2)</li>
+<li><esp:link bookmark="h_japan">Japan</esp:link> (2)</li>
+<li><esp:link bookmark="h_poland">Poland</esp:link> (1)</li>
+<li><esp:link bookmark="h_portugal">Portugal</esp:link> (1)</li>
+<li><esp:link bookmark="h_russia">Russia</esp:link> (1)</li>
+<li><esp:link bookmark="h_sweden">Sweden</esp:link> (1)</li>
+<li><esp:link bookmark="h_switzerland">Switzerland</esp:link> (2)</li>
+<li><esp:link bookmark="h_turkey">Turkey</esp:link> (1)</li>
+<li><esp:link page="museumsuk">United Kingdom</esp:link> (13)</li>
+<li><esp:link bookmark="h_usa">United States of America</esp:link> (36)</li>
+<li><esp:link bookmark="h_vatican">Vatican City</esp:link> (1)</li>
+</ul>
+
+<esp:h>Australia</esp:h>
+<p><esp:bookmark id="australianinst"><esp:link url="http://www.aiarch.org.au/index.htm" rel="external" hide-print="yes">Australian Institute of Archaeology, La Trobe University</esp:link>, Bundoora, Victoria.</esp:bookmark></p>
+<p><esp:link url="http://sydney.edu.au/museums/collections/nicholson.shtml" rel="external" hide-print="yes">Nicholson Museum, University of Sydney</esp:link>, Sydney, New South Wales.<br/>
+Search for Nimrud material within the <esp:link url="http://sydney.edu.au/museums/collections_search/" rel="external" hide-print="yes">online collections</esp:link> by typing 'Nimrud' into the search field.</p>
+<p><esp:link url="http://www.art-museum.unimelb.edu.au/collection/named-collections/namecol/10" rel="external" hide-print="yes">Ian Potter Museum of Art, University of Melbourne</esp:link>, Melbourne, Victoria.<br/>
+The museum's three <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms> are featured in the <esp:link url="http://vm.arts.unimelb.edu.au/report/nimrud.html" rel="external" hide-print="yes">virtual museum</esp:link> and are the subject of a <esp:link url="www.art-museum.unimelb.edu.au/assets/files/general/04Ivory.pdf" rel="external" hide-print="yes">gallery information sheet PDF (161 KB)</esp:link>. For additional information on the ivories, search for the numbers 0000.0421, 0000.0422, 000.0423 in the 'accession no.' field of the <esp:link url="http://vm.arts.unimelb.edu.au/database/FMPro.php?-db=vmdb&amp;-lay=Websearch&amp;-format=search1.htm&amp;-view" rel="external" hide-print="yes">online database</esp:link>.</p>
+
+<esp:h>Belgium</esp:h>
+<p><esp:link url="http://www.kmkg-mrah.be/cinquantenaire-museum" rel="external" hide-print="yes">Musée du Cinquantenaire, Musées royaux d’Art et d’Histoire</esp:link>, Brussels.<br/>
+Information on collections from the <esp:link url="http://www.kmkg-mrah.be/near-east-and-iran" rel="external" hide-print="yes">Near East and Iran</esp:link>. Nimrud objects feature in the <esp:link url="http://master.kmkg-mrah.be/?lang=french" rel="external" hide-print="yes">Chefs-d'oeuvre de l'Antiquité</esp:link> catalogue (French/Flemish only): type 'Nimrud' into the 'rechercher' field at the top of the page.</p>
+
+<esp:h>Canada</esp:h>
+<p><esp:link url="http://www.mbam.qc.ca" rel="external">Montreal Museum of Fine Arts</esp:link>, Montreal<br/>
+Search for the Museum's Nimrud <esp:techterms term="relief">relief</esp:techterms> panel by typing 'Nimrud' into the  <esp:link url="http://www.mbam.qc.ca/en/collections/archeologie-cultures-du-monde" rel="external" hide-print="yes">Archaeology and World Cultures</esp:link> 'search' field.</p>
+<p><esp:link url="http://www.gallery.ca/en/" rel="external">National Gallery of Canada</esp:link>, Ottowa.</p>
+<p><esp:link url="http://www.rom.on.ca/en" rel="external" hide-print="yes">Royal Ontario Museum</esp:link>, Toronto, Ontario.<br/>
+Selected Nimrud objects are included in the <esp:link url="http://images.rom.on.ca/public/" rel="external" hide-print="yes">online image collection</esp:link> and can be found by typing 'Nimrud' into the search field.</p>
+
+<esp:h>Denmark</esp:h>
+<p><esp:link url="http://natmus.dk/" rel="external" hide-print="yes">Nationaalmuseet</esp:link>, Copenhagen.<br/>
+Information on <esp:link url="http://natmus.dk/en/besoeg-museerne/nationalmuseet/udstillinger/antiksamlingen/" rel="external" hide-print="yes">Classical and Near Eastern Antiquities</esp:link>.</p>
+<p><esp:link url="http://www.glyptoteket.com/" rel="external" hide-print="yes">Ny Carlsberg Glyptotek</esp:link>, Copenhagen<br/>
+Search for Nimrud material within the <esp:link url="https://www.kulturarv.dk/mussam/Forside.action" rel="external" hide-print="yes">online collections</esp:link> (Danish language only) by typing 'Nimrud' into the 'Søg genstand' field.</p>
+
+<esp:h>France</esp:h>
+<p><esp:link url="http://www.louvre.fr" rel="external" hide-print="yes">Musée du Louvre</esp:link>, Paris.<br/>
+Search for reliefs from Nimrud in the <esp:link url="http://www.louvre.fr/en/moteur-de-recherche-oeuvres" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud'.</p>
+
+<esp:h>Germany</esp:h>
+<p><esp:link url="http://www.skd.museum/en/museums-institutions/albertinum/skulpturensammlung/index.html" rel="external">Staatliche Kunstsammlungen - Skulpturensammlung</esp:link>, Dresden.</p>
+<p><esp:link url="http://www.aegyptisches-museum-muenchen.de/" rel="external">Ägyptisches Museum</esp:link>, Munich.</p>
+<p><esp:link url="http://www.smb.museum/smb/sammlungen/details.php?objID=23&amp;typeId=1" rel="external">Vorderasiatisches Museum</esp:link>, Berlin.</p>
+
+<esp:h>India</esp:h>
+<p><esp:link url="http://www.csmvs.in/" rel="external">Chhatrapati Shivaji Maharaj Vastu Sangrahalaya</esp:link> (formerly the Prince of Wales Museum of Western India), Mumbai (formerly <esp:glossary term="Bombay (place)">Bombay</esp:glossary>).</p>
+
+<esp:h>Iraq</esp:h>
+<p><esp:bookmark id="iraqmuseum"><esp:link url="http://www.theiraqmuseum.com/" rel="external" hide-print="yes">Iraq Museum</esp:link>, Baghdad.</esp:bookmark><br/>
+Explore the museum's galleries and floor plan using Google Street View. (Click the icon in the top right corner of the Street View window to enter full screen mode. Switch between ground floor and first floor using the 1 and 2 buttons on the left hand side.)</p>
+<p>Mosul Museum, Mosul.</p>
+
+<esp:h>Ireland</esp:h>
+<p><esp:link url="http://ahss.tcd.ie/weingreen-museum/" rel="external" hide-print="yes">Weingreen Museum</esp:link>, Trinity College. Dublin, Ireland.</p>
+
+<esp:h>Italy</esp:h>
+<p><esp:link url="http://www.museidigenova.it/spip.php?rubrique34" rel="external" hide-print="yes">Museo Civico di Archeologia Ligure</esp:link>, Genoa.</p>
+<p><esp:link url="http://www.museobarracco.it/">Museo di Scultura Antica Giovanni Barracco</esp:link>, Rome.<br/>
+The museum holds a <esp:link url="http://en.museobarracco.it/collezioni/percorsi_per_temi/arte_mesopotamica/genio_alato_inginocchiato" rel="external" hide-print="yes">relief from Room I of Assurnasirpal's Northwest Palace</esp:link>.</p>
+
+<esp:h>Japan</esp:h>
+<p><esp:link url="http://www.idemitsu.com/museum/honkan/index.html" rel="external" hide-print="yes">Idemitsu Museum of Arts</esp:link>, Tokyo.<br/>
+(Previously exhibited at the Middle Eastern Culture Center, Mitaka, Tokyo.)</p>
+<p><esp:link url="http://www.miho.or.jp/index.htm" rel="external" hide-print="yes">Miho Museum</esp:link>, Shiga Prefecture.</p>
+
+<esp:h>Poland</esp:h>
+<p><esp:link url="http://www.mnw.art.pl/" rel="external" hide-print="yes">Muzeum Narodowe w Warszawie</esp:link>, Warsaw.</p>
+
+<esp:h>Portugal</esp:h>
+<p><esp:link url="http://www.museu.gulbenkian.pt/main.asp?lang=pt" rel="external" hide-print="yes">Museu Calouste Gulbenkian</esp:link>, Lisbon.<br/>
+Information on the museum's <esp:link url="http://museu.gulbenkian.pt/Museu/en/Collection/Antiquity/MesopotamianArt/Piece?a=45" rel="external" hide-print="yes">relief panel from the Northwest Palace of Assurnasirpal II</esp:link>, acquired by Calouste Gulbenkian in 1920 through art dealer <esp:link url="http://research.frick.org/directoryweb/browserecord.php?-action=browse&amp;-recid=7116" rel="external" hide-print="yes">Paul Mallon</esp:link> of Paris.</p>
+
+<esp:h>Russia</esp:h>
+<p><esp:link url="http://www.hermitagemuseum.org" rel="external" hide-print="yes">State Hermitage Museum</esp:link>, St. Petersburg.<br/>
+Information on the Hermitage Museum's <esp:link url="http://www.hermitagemuseum.org/html_En/08/hm89_0_0_32_0.html" rel="external" hide-print="yes">relief panel from the Northwest Palace of Assurnasirpal II</esp:link>.</p>
+
+<esp:h>Sweden</esp:h>
+<p><esp:link url="http://www.nationalmuseum.se/sv/english-startpage/" rel="external" hide-print="yes">Nationalmuseum</esp:link>, Stockholm.</p>
+
+<esp:h>Switzerland</esp:h>
+<p><esp:link url="http://www.abegg-stiftung.ch/e/abegg.html" rel="external" hide-print="yes">Abegg-Stiftung</esp:link>, Bern.</p>
+<p><esp:link url="http://www.archinst.uzh.ch/Museum.html" rel="external" hide-print="yes">Archäologische Sammlung</esp:link>, Archäologisches Institut, Universität Zürich, Zurich.</p>
+
+<esp:h>Turkey</esp:h>
+<p><esp:link url="https://muze.gov.tr/muze-detay?SectionId=IAR01&amp;DistId=IAR" rel="external">Arkeoloji Müzesi</esp:link>, Istanbul.</p>
+
+<esp:h><esp:link page="museumsuk">United Kingdom</esp:link> (listed separately)</esp:h>
+
+<esp:h>United States of America</esp:h>
+
+<p><esp:link url="http://www.artic.edu/" rel="external" hide-print="yes">The Art Institute of Chicago</esp:link>, Chicago, Illinois.<br/>
+Online information about the museum's <esp:link url="http://www.artic.edu/aic/collections/artwork/64936" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II</esp:link>.</p>
+
+<p><esp:link url="http://www.bowdoin.edu/art-museum/" rel="external" hide-print="yes">Bowdoin College Museum of Art</esp:link>, Brunswick, Maine.<br/> 
+To search for Nimrud objects in the collections catalogue, perform searches for the following keywords: 'Nimrud'; 'winged figure'; 'winged genius'; 'Ashurnazirpal'. (NB. keyword 'Nimrud' alone only returns a partial list.) For information on the Museum's <esp:techterms term="relief">relief panels</esp:techterms> from the Northwest Palace of king <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link>, see <esp:link page="resources" bookmark="Porter1989">Porter (1989)</esp:link>. The process of relocating the reliefs to a new gallery is documented in a <esp:link url="https://www.bowdoin.edu/news/archives/1bowdoincampus/003638.shtml" rel="external" hide-print="yes">news story from 2006</esp:link>.</p>
+<p><esp:link url="http://www.brooklynmuseum.org" rel="external" hide-print="yes">Brooklyn Museum</esp:link>, Brooklyn, New York.<br/>
+Information on the museum's <esp:link url="http://www.brooklynmuseum.org/opencollection/search/?q=Nimrud" rel="external" hide-print="yes">Nimrud relief panels, plus details of past exhibitions and provenance</esp:link>, is available online.</p>
+<p><esp:link url="http://www.clevelandart.org/" rel="external" hide-print="yes">Cleveland Museum of Art</esp:link>, Cleveland, Ohio.<br/>
+To search for Nimrud objects in the <esp:link url="http://www.clevelandart.org/art/collection/search" rel="external" hide-print="yes">online catalogue</esp:link>, type 'Nimrud' into the search field.</p>
+<p><esp:link url="http://www.chrysler.org/" rel="external" hide-print="yes">Chrysler Museum of Art</esp:link>, Norfolk, Virginia.<br/>
+Search for the museum's Nimrud relief in the <esp:link url="http://www.chrysler.org/our-collection/" rel="external" hide-print="yes">online collection</esp:link> using the keyword 'Assyria'.</p>
+<p><esp:link url="http://www.cincinnatiartmuseum.org/" rel="external" hide-print="yes">Cincinnati Art Museum</esp:link>, Cincinnati, Ohio.</p>
+<p><esp:link url="http://www.dia.org/" rel="external" hide-print="yes">Detroit Institute of the Arts</esp:link>, Detroit, Michigan.<br/>
+Search for the museum's Nimrud relief in the <esp:link url="http://www.dia.org/art/search-collection.aspx" rel="external" hide-print="yes">online collection</esp:link> using the keyword 'eagle-headed'.</p>
+<p><esp:link url="http://www.uvm.edu/~fleming/" rel="external" hide-print="yes">Fleming Museum, University of Vermont</esp:link>, Burlington, Vermont.</p>
+<p><esp:link url="http://www.harvardartmuseums.org/art/fogg-museum" rel="external" hide-print="yes">Fogg Museum, Harvard Art Museums</esp:link>, Harvard University, Cambridge, Massachusetts.<br/>
+Online information about the museum's <esp:link url="http://www.harvardartmuseums.org/art/291708" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II.</esp:link></p>
+<p><esp:link url="http://www.glencairnmuseum.org/" rel="external" hide-print="yes">Glencairn Museum</esp:link>, Academy of the New Church, Bryn Athyn, Pennsylvania.<br/>
+Online information about the museum's <esp:link url="http://www.glencairnmuseum.org/ancient-near-east-collection/" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II.</esp:link></p>
+<p><esp:link url="http://www.semiticmuseum.fas.harvard.edu/icb/icb.do" rel="external" hide-print="yes">Harvard Semitic Museum</esp:link>, Harvard University, Boston, Massachusetts.<br/>
+The Harvard Semitic Museum holds several <esp:techterms term="Nimrud ivories">Nimrud ivories</esp:techterms> and also <esp:link url="http://isites.harvard.edu/icb/icb.do?keyword=k66717&amp;pageid=icb.page406875&amp;pageContentId=icb.pagecontent855695&amp;state=maximize&amp;view=message&amp;viewParam_message_id=728841" rel="external" hide-print="yes">early 20th-century plaster casts of Nimrud relief panels</esp:link>.</p>
+<p><esp:link url="http://hoodmuseum.dartmouth.edu/" rel="external" hide-print="yes">Hood Museum of Art, Dartmouth College</esp:link>, Hanover, New Hampshire.<br/>
+Nimrud objects include <esp:link url="http://hoodmuseum.dartmouth.edu/collections/overview/asia/neareast/" rel="external" hide-print="yes">six relief panels from Assurnasirpal II's Northwest Palace</esp:link>. For a full list, type 'Nimrud' into the <esp:link url="http://dcisweb.dartmouth.edu:50080/v3?db=181&amp;conn=829152307&amp;page=s&amp;seq=1389276505" rel="external" hide-print="yes">online collection</esp:link> basic search field. (Longer versions of catalogue entries are available by selecting 'Format=long' under 'redisplay items'.) In 2006 the museum held a <esp:link url="http://hoodmuseum.dartmouth.edu/education/dartmouth/students/lectures.html" rel="external" hide-print="yes">symposium on the history of the reliefs</esp:link> to mark 150 years since their arrival at Dartmouth College. A cultural biography of the reliefs was subsequently published in 2010 <esp:ref referent="cohenkangas2010"/>.</p>
+<p><esp:link url="http://www.kalamazoomuseum.org/" rel="external" hide-print="yes">Kalamazoo Valley Museum</esp:link>, Kalamazoo, Michigan.</p>
+<p><esp:link url="https://www.kimbellart.org/" rel="external" hide-print="yes">Kimbell Art Museum</esp:link>, Fort Worth, Texas.<br/>
+Search for the museum's Nimrud relief in the <esp:link url="https://www.kimbellart.org/collection" rel="external" hide-print="yes">online collection</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:link url="http://www.lacma.org/" rel="external" hide-print="yes">Los Angeles County Museum of Art</esp:link>, Los Angeles, California.<br/>
+Search for Nimrud objects in the <esp:link url="http://collections.lacma.org/" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:link url="https://www.amherst.edu/museums/mead" rel="external" hide-print="yes">Mead Art Museum</esp:link>, Amherst College, Amherst, Massachussetts.<br/>
+Search for Nimrud objects in the <esp:link url="http://museums.fivecolleges.edu/index.php" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud' (limit the search to Amherst College).</p>
+<p><esp:link url="http://mag.rochester.edu/" rel="external" hide-print="yes">Memorial Art Gallery</esp:link>, University of Rochester, Rochester, New York.<br/>
+Search for Nimrud objects in the <esp:link url="http://magart.rochester.edu/" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:bookmark id="metmuseum"><esp:link url="http://www.metmuseum.org/" rel="external" hide-print="yes">Metropolitan Museum of Art</esp:link>, New York, New York.</esp:bookmark><br/>
+To search for Nimrud objects in the <esp:link url="http://www.metmuseum.org/collections/search-the-collections" rel="external" hide-print="yes">collections search</esp:link> catalogue, type 'Nimrud' into the search field. The Met's collection of <esp:techterms term="relief">reliefs</esp:techterms> and <esp:techterms term="Nimrud ivories">ivories</esp:techterms> has been published in <esp:link page="resources" bookmark="Crawfordetal1980" rel="external">Crawford et al (1980)</esp:link>. Explore the Met's relief panels from the Northwest Palace with <esp:link url="http://82nd-and-fifth.metmuseum.org/hyperreality" rel="external" hide-print="yes">close-ups and video by Kim Benzel</esp:link>.</p>
+<p><esp:link url="http://museum.middlebury.edu" rel="external" hide-print="yes">Middlebury College Museum of Art</esp:link>, Middlebury College, Middlebury, Vermont.<br/>
+Online information about the museum's <esp:link url="http://museum.middlebury.edu/collections/antiquities" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II</esp:link></p>
+<p><esp:link url="http://new.artsmia.org/" rel="external" hide-print="yes">Minneapolis Institute of the Arts</esp:link>, Minneapolis, Minnesota.<br/>
+<esp:link url="https://collections.artsmia.org/index.php" rel="external" hide-print="yes">Search for Nimrud objects in the collection</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:link url="https://www.mtholyoke.edu/artmuseum" rel="external" hide-print="yes">Mount Holyoke College Art Museum</esp:link>, Mount Holyoke College, South Hadley, Massachusetts.<br/>
+Search for Nimrud objects in the <esp:link url="http://museums.fivecolleges.edu/index.php" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud' (limit the search to Mount Holyoke College Art Museum).</p>
+<p><esp:link url="http://www.mfa.org/" rel="external" hide-print="yes">Museum of Fine Arts, Boston</esp:link>, Boston, Massachusetts.<br/>
+Search for Nimrud objects in the <esp:link url="http://www.mfa.org/search/collections" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:link url="http://www.mfah.org/" rel="external" hide-print="yes">The Museum of Fine Arts, Houston</esp:link>, Houston, Texas.</p>
+<p><esp:link url="http://www.nelson-atkins.org/" rel="external" hide-print="yes">The Nelson-Atkins Museum of Art</esp:link>, Kansas City, Missouri.<br/>
+Online information about the museum's <esp:link url="http://www.nelson-atkins.org/collections/collection-history-Ancient.cfm" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II.</esp:link></p>
+<p><esp:link url="https://oi.uchicago.edu/" rel="external" hide-print="yes">The Oriental Institute Museum, University of Chicago</esp:link>, Chicago, Illinois.<br/>
+Search for Nimrud objects in the <esp:link url="https://oi.uchicago.edu/idb/" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud' (limit search to 'Museum Collection').</p>
+<p><esp:link url="http://www.penn.museum/" rel="external" hide-print="yes">Penn Museum</esp:link>, University of Pennsylvania, Philadelphia, Pennsylvania.<br/>
+To search for Nimrud objects in the <esp:link url="http://www.penn.museum/collections/" rel="external" hide-print="yes">collections database</esp:link>, type 'Nimrud' into the 'keyword search' field.</p>
+<p><esp:link url="http://artmuseum.princeton.edu/" rel="external" hide-print="yes">Princeton University Art Museum</esp:link>, Princeton, New Jersey.<br/>
+Online information about the museum's <esp:link url="http://artmuseum.princeton.edu/collections/objects/34202" rel="external" hide-print="yes">relief from the Northwest Palace of Assurnasirpal II</esp:link>.</p>
+<p><esp:link url="http://www.slam.org/" rel="external" hide-print="yes">Saint Louis Art Museum</esp:link>, Saint Louis, Missouri.<br/>
+Search for Nimrud objects in the <esp:link url="http://www.slam.org/Collections/" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud'.</p>
+<p><esp:link url="http://www.vmfa.state.va.us" rel="external" hide-print="yes">Virginia Museum of Fine Arts</esp:link>, Richmond, Virginia.</p>
+<p><esp:link url="http://www.vts.edu/" rel="external" hide-print="yes">Virginia Theological Seminary</esp:link>, Alexandria, Virginia.<br/>
+Online information about the museum's <esp:link url="http://www.vts.edu/podium/default.aspx?t=120356" rel="external" hide-print="yes">reliefs from from the Northwest Palace of Assurnasirpal II.</esp:link></p>
+<p><esp:link url="http://www.thewadsworth.org/" rel="external" hide-print="yes">Wadsworth Atheneum Museum of Art</esp:link>, Hartford, Connecticut.<br/> Nimrud material is on loan from the Connecticut Historical Society.</p>
+<p><esp:link url="http://thewalters.org/" rel="external" hide-print="yes">The Walters Art Museum</esp:link>, Baltimore, Maryland.<br/>
+Search for Nimrud objects in the <esp:link url="http://art.thewalters.org/search/" rel="external" hide-print="yes">collections database</esp:link> using the keyword 'Nimrud' and <esp:link url="http://art.thewalters.org/browse/?type=tags" rel="external" hide-print="yes">browse collection</esp:link> using the tag 'Nimrud'.</p>
+<p><esp:link url="http://wcma.williams.edu/" rel="external" hide-print="yes">Williams College Museum of Art</esp:link>, Williamstown, Massachusetts.<br/>
+The museum has online information about its <esp:link url="http://wcma.williams.edu/exhibit/a-collection-of-histories/" rel="external" hide-print="yes">relief panels from the Northwest Palace of Assurnasirpal II</esp:link> plus an archived booklet from its 2001-2 exhibition  <esp:link url="http://wcma.williams.edu/files/2012/10/StonesOfAssyria.pdf" rel="external" hide-print="yes"><i>Stones of Assyria</i> (PDF 4.3 MB)</esp:link>.  To search for the reliefs in the <esp:link url="http://emuseum.williams.edu:8080/emuseum/" rel="external" hide-print="yes">online collections search</esp:link>, type 'Nimrud' into the search field. </p>
+<p><esp:link url="http://www.worcesterart.org" rel="external" hide-print="yes">Worcester Art Museum</esp:link>, Worcester, Massachusetts.<br/>
+To search for the museum's relief panel in the <esp:link url="http://www.worcesterart.org/Collection/ancient.html" rel="external" hide-print="yes">ancient art collection</esp:link>, type 'winged genius' into the search field.</p>
+<p><esp:link url="http://artgallery.yale.edu/" rel="external" hide-print="yes">Yale University Art Gallery</esp:link>, New Haven, Connecticut.<br/>
+To search for Nimrud reliefs in the  <esp:link url="http://artgallery.yale.edu/collection/search" rel="external" hide-print="yes">online collections search</esp:link>, type 'Nimrud' into the 'Geography' search field.</p>
+<p><esp:link url="http://deyoung.famsf.org/" rel="external" hide-print="yes">de Young Fine Arts Museums of San Francisco</esp:link>, San Francisco, California.<br/>
+Search for Nimrud objects in the <esp:link url="http://deyoung.famsf.org/search-collections" rel="external" hide-print="yes">collections catalogue</esp:link>, using the keyword 'Nimrud' in the 'search by keyword' field.</p>
+
+<esp:h><esp:bookmark id="vatican">Vatican City</esp:bookmark></esp:h>
+<p><esp:link url="http://mv.vatican.va/3_EN/pages/MV_Home.html" rel="external">Musei Vaticani (Musei Gregoriani Egizio)</esp:link>, Vatican City.<br/>
+Online information about the museum's <esp:link url="http://mv.vatican.va/2_IT/pages/MEZ/MEZ_Sala09.html" rel="external" hide-print="yes">Assyrian artefacts</esp:link> and one of its <esp:link url="http://mv.vatican.va/2_IT/pages/x-Schede/MEZs/MEZs_Sala09_01_037.html" rel="external" hide-print="yes">reliefs from from the Northwest Palace of Assurnasirpal II</esp:link>.</p>
+
+
+<p>Content last modified: <esp:content-last-modified/><br/>
+<esp:email address="nimrud@oracc.org"/></p>
+
+<esp:author first-names="Ruth A." last-name="Horry"/>
+
+	</body></html>
+
+</esp:page>

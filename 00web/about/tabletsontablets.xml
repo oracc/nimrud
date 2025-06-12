@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Museums workshop</esp:name>
+	<esp:title>Tablets on Tablets: Reusable Mobile-Friendly Museum Resources on Ancient Mesopotamia</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">On 12 December 2013 the Nimrud project held a focus group meeting with UK museum staff – curators, educators and IT developers – showcasing the role of <esp:techterms term="Linked Open Data">Linked Open Data</esp:techterms> and mobile-friendly technologies in enhancing access to, and use of, cuneiform collections in mobile gallery guides, public websites and group events. The event was held in collaboration with the <esp:link url="http://www.bisi.ac.uk" rel="external" hide-print="yes">British Institute for the Study of Iraq</esp:link> at <esp:link url="http://www.britac.ac.uk/" rel="external" hide-print="yes">The British Academy</esp:link>, London.</p>
+
+<esp:image file="events/tabletoniphone.jpg" description="A cuneiform tablet displayed on an iPhone" position="float"><esp:caption><esp:bookmark id="img11">Photo of British Museum cuneiform tablet <esp:link page="materials-clay" bookmark="img126">ND2325</esp:link> from Nimrud, pictured on an iPhone 4.</esp:bookmark> Photo: Ruth Horry for the Nimrud Project, 2013.</esp:caption></esp:image>
+
+<p>Members of the Nimrud project team gave informal presentations, followed by round-table discussion. You can read an <esp:link url="http://storify.com/Eleanor_Robson/tablets-on-tablets-reusable-mobile-friendly-museum" hide-print="yes">archive of live-tweets</esp:link> from the focus group on Storify.</p>
+
+<esp:h>Programme</esp:h>
+
+<dl>
+<dt>Professor Steve Tinney (University of Pennsylvania), “Oracc for museums”</dt>
+<dd>The <esp:link url="http://oracc.org/" rel="external" hide-print="yes">Open Richly Annotated Cuneiform Corpus</esp:link> supports free online editions of cuneiform texts and provides a wealth of tools for specialists and non-specialists alike to learn about ancient Mesopotamia. These include websites on a wide range of research projects, some of which act as explanatory portals to large groups of cuneiform texts and their translations, helping to contextualise the material and make it more accessible.</dd>
+
+<dt>Ruth Horry (University of Cambridge), “Telling object stories: exploring the lives of artefacts from Nimrud”</dt>
+<dd>How does an archaeological object make its way from the field site into a museum case? The website <esp:link page="home">Nimrud: Materialities of Assyrian Knowledge Production</esp:link> website explores how cuneiform artefacts have journeyed from the ancient Assyrian city of Kalhu into museum collections worldwide. The site offers a variety of resources for enhancing visitors' engagement with cuneiform collections, including 'life stories' of objects from Nimrud and contextual information about the ancient city. It also explores how academics have studied cuneiform collections, from the mid-nineteenth century to the present day, to understand the ancient past. All content is licensed for open re-use by museums, and is flexibly designed for both desktop and handheld devices. The site also acts as a portal to external digital resources on Nimrud and ancient Assyria.</dd>
+
+<dt>Silvie Zamazalová (University of Cambridge/UCL), “Putting the tablets in context: Assyrian Empire Builders”</dt>
+<dd>A demonstration of <esp:link url="http://oracc.org/saao/aebp/" hide-print="yes" rel="external">Assyrian Empire Builders</esp:link>, a highly focused history website which acts as portal to a corpus of correspondence from the 8th century BC, when Assyria was the mightiest power in the ancient world. It provides a range of accessible information, including themed essays, which is designed to put the correspondence in its historical context and facilitate its interpretation, in addition to opening up a fascinating period of history to the wider public.</dd>
+
+<dt>Dr Eleanor Robson (UCL), “Cuneiform Revealed: demystifying the tablets”</dt>
+<dd>How do we know what cuneiform tablets say? The <esp:link url="http://oracc.org/saao/knpp/cuneiformrevealed/" hide-print="yes" rel="external">Cuneiform Revealed</esp:link> web resource offers an introduction to the cuneiform script which was used to write the of <esp:techterms term="Akkadian">Akkadian</esp:techterms> language in Mesopotamia as well as other languages in the ancient Near East. By providing introductory essays, practical exercises and cuneiform fonts, as well as a gallery of selected museum tablets, the website aims to widen access to specialised linguistic knowledge and enable a fuller appreciation of the written evidence for the ancient Near Eastern past.</dd>
+
+<dt>Discussion: The role of reusable online resources in helping museum-goers to create knowledge about the ancient past</dt><dd></dd>
+<dt>Discussion: Optimising Oracc for museum use</dt><dd></dd>
+</dl>
+
+<p><esp:link url="/nimrud/downloads/oracc-workshop-programme.pdf" title="Programme for museums workshop on online cuneiform resources" hide-print="yes">Download the workshop programme in PDF format (185KB)</esp:link>.</p>
+
+<esp:email address="nimrud@oracc.org"/>
+
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+
+</body></html>
+
+</esp:page>

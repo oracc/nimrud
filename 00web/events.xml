@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Events</esp:name>
+	<esp:title>Events</esp:title>
+
+	<html><head></head><body>
+	
+
+<p class="firstpara">The project team organised a number of public events in 2013 and 2014 as part of the Nimrud project, which are summarised in this section. Several events were live-tweeted with the hashtag <code>#nimrud</code> enabling people to join in from afar. Links to archived live-tweets are included.</p>
+
+<p><esp:link page="moundmuseum">27 April 2013: From Mound to Museum: Making Knowledge from Archaeological Objects</esp:link>, study day at the Ashmolean Museum, Oxford</p>
+
+<p><esp:link page="fitzgenies">19 June 2013: The Genies on the Stairs</esp:link>, gallery talk at the Fitzwilliam Museum, Cambridge</p>
+
+<p><esp:link page="discoverassyria">26 October 2013: Discovering Ancient Assyria</esp:link>, family events at the Fitzwilliam Museum, Cambridge</p>
+
+<p><esp:link page="kingsandscholars">21 January 2014: Kings and Scholars</esp:link>, gallery talk at the British Museum, London</p>
+
+<p><esp:link page="kingsandscholars">27 June 2014: Kings and Scholars</esp:link>, gallery talk at the British Museum, London</p>
+
+<p>In addition to public events, the project also organised a day workshop for UK museum professionals, showcasing mobile-friendly resources for interpreting cuneiform collections:</p>
+
+<p><esp:link page="tabletsontablets">12 December 2013: Tablets on Tablets: Reusable Mobile-Friendly Museum Resources on Ancient Mesopotamia</esp:link>. Archived event programme and live-tweets.</p>
+
+<esp:email address="nimrud@oracc.org"/>
+
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+
+</body></html>
+
+</esp:page>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Lives of objects</esp:name>
+	<esp:title>Biographies of Nimrud objects</esp:title>
+
+	<html><head>	
+</head><body>
+
+<p class="firstpara">How did particular objects that were made or used in ancient Kalhu travel from the archaeological site at Nimrud to museum collections? And how were new ideas about them created, and by whom? This page tells the stories of selected objects now housed in UK museums.</p> 
+
+<esp:h><esp:link page="sia-intro">The Standard Inscription of Assurnasirpal II</esp:link></esp:h>
+<esp:image file="sia/BM124560-4sq.jpg" description="Detail of carved stone panel showing a protective genie carrying a deer. The Standard Inscription of king Assurnasirpal is carved across the middle" position="float"><esp:link page="sia-intro"/></esp:image>
+<p>King <esp:link page="assurnasirpal2">Assurnasirpal II</esp:link> built a <esp:link page="northwestpalace">vast palace</esp:link> in his new capital city of Kalhu. The palace walls were lined with stone panels carved in <esp:techterms term="bas-relief">low-relief</esp:techterms> depicting war, hunting and religious scenes. The same <esp:techterms term="cuneiform">cuneiform</esp:techterms> inscription runs across many of the reliefs, telling of Assurnasirpal's victories and the founding of the city. This text is now known as the "Standard Inscription" of Assurnasirpal II. Reliefs inscribed with the Standard Inscription are scattered across <esp:link page="museumsworldwide">many museums around the world</esp:link>, including the <esp:techterms term="British Museum">British Museum</esp:techterms> in London.</p>
+
+<esp:h><esp:link page="obelisk">The Black Obelisk of Shalmaneser III</esp:link></esp:h>
+<esp:image file="obelisk/obelisk-4sq.jpg" description="Detail of the Black Obelisk" position="float"><esp:link page="obelisk"/></esp:image>
+<p>This two-metre high stone monument is inscribed with words and imagery celebrating the military successes of king <esp:link page="shalmaneser3">Shalmaneser III</esp:link>. After its <esp:link page="obeliskdiscovery">discovery in 1846</esp:link>, the Obelisk quickly became famous for containing the earliest depiction of a king of <esp:glossary term="Israel (place)">Israel</esp:glossary>. It is now on display in the <esp:link page="museumsworldwide">many museums around the world</esp:link>, including the <esp:techterms term="British Museum">British Museum</esp:techterms> in London.</p>
+
+<esp:h><esp:link page="vte-intro">The Succession Treaties of Esarhaddon</esp:link></esp:h>
+<esp:image file="vte/vulture-4sq.jpg" description="Detail of the Succession Treaties" position="float"><esp:link page="vte-intro"/></esp:image>
+<p>These treaties were drawn up in 672 BC by king <esp:glossary term="Esarhaddon (person)">Esarhaddon</esp:glossary> in order to control his subjects. The treaties were designed to ensure that Esarhaddon's son <esp:glossary term="Assurbanipal (person)">Assurbanipal</esp:glossary> would take the throne of Assyria after him. Everyone who signed the treaty was expected to protect the new king. Anyone breaking its oaths was threatened with horrible curses by the gods, including having their innards devoured by vultures. Copies of the treaty are spread across several museums, including the <esp:link page="museumsworldwide">many museums around the world</esp:link>, including the <esp:techterms term="British Museum">British Museum</esp:techterms> in London.</p>
+
+<esp:h><esp:link page="ivories">The Nimrud ivories</esp:link></esp:h>
+<esp:image file="ivories/ash_1962-50-4sq.jpg" description="Carved ivory horse blinker" position="float"><esp:link page="ivories"/></esp:image>
+<p>The many thousands of beautiful ivory carvings from Nimrud have been alternately treasured and forgotten throughout their long history. Most were made by master craftsmen in the northeastern Mediterranean, then abandoned as surplus booty in the storerooms of Kalhu. Some were carved in Assyria itself and were an important element of luxury court living. In modern times, some have been plundered or forgotten again, while others are cherished as exquisite examples of ancient art in museums across the world.</p>
+
+<esp:h><esp:link page="anzu">Anzu the monstrous lion-eagle</esp:link></esp:h>
+<esp:image file="anzu/anzu-4sq.jpg" description="Anzu, terrifying lion-eagle monster" position="float"><esp:link page="anzu"/></esp:image>
+<p>The <esp:glossary term="Anzu (deity)">Anzu</esp:glossary> bird was a mythical creature, half-lion, half-eagle. In 9th-century Kalhu, he was portrayed doing battle with the warrior god <esp:link page="ninurta">Ninurta</esp:link>, at an entrance to <esp:link page="ziggurat" bookmark="h_thezigguratandtempleofninurta">the most important shrine</esp:link> of the royal citadel. <esp:glossary term="Layard, Austen Henry (person)">Layard</esp:glossary> discovered this sculpture in the mid-19th century, and shipped it to the <esp:techterms term="British Museum">British Museum</esp:techterms>. For many generations this unnamed "dragon" or <esp:techterms term="demon">"demon"</esp:techterms> captivated the public imagination in many different ways. However, it took over half a century to rediscover Anzu's true identity.</p>
+
+<esp:h><esp:link page="stonegenies">The stone genies in the Northwest Palace</esp:link></esp:h>
+<esp:image file="objectbios/Fitz-ANE-1-1908-4sq.jpg" description="Carved relief of kneeling winged genie from the Northwest Palace of Assurnasirpal II" position="float"><esp:link page="stonegenies"/></esp:image>
+<p>Sculptural elements from king <esp:link page="assurnasirpal2">Assurnasirpal II's</esp:link> <esp:link page="northwestpalace">Northwest Palace</esp:link> have ended up in museums and collections all over the world. Behind each sculpture is a story of creation, disappearance, rediscovery and reinterpretation - too many to tell one by one. Here we take the images of three different winged figures, now in the <esp:link url="http://www.fitzmuseum.cam.ac.uk" hide-print="yes" rel="external">Fitzwilliam Museum, Cambridge</esp:link>, as case studies in the dispersal and re-evaluation of some of Nimrud's most striking finds.</p>
+
+<esp:h><esp:link page="maadog">The model dog that became a cat</esp:link></esp:h>
+<esp:image file="maa/MAA-1956_05-4sq.jpg" description="Bronze figurine of a dog, with a cat-like pose" position="float"><esp:link page="maadog"/></esp:image>
+<p>Objects from 1950s excavations at Nimrud have been dispersed into museum collections across the world because of the way those excavations were funded. Museums gave financial donations to the digs in return for gifts of artefacts, and groups of similar objects were deliberately separated to give different museums a representative sample. What effects have separation and dispersal had on how Nimrud objects are understood? This article explores that question using the case study of a model <esp:techterms term="figurine">figurine</esp:techterms> gifted to the <esp:link url="http://maa.cam.ac.uk/maa" hide-print="yes" rel="external">Museum of Archaeology and Anthropology, Cambridge</esp:link>. The model began life in antiquity as a dog, but gained a new identity as a cat after its rediscovery.</p>
+
+<esp:h><esp:link page="maapots">Royal pots and broken pots</esp:link></esp:h>
+<esp:image file="maa/MAA-1958_01-4sq.jpg" description="Collection of broken pottery pieces" position="float"><esp:link page="maadog"/></esp:image>
+<p>Pottery vessels in museum collections are usually complete or restored artefacts, which are appealing for display. <esp:link url="http://maa.cam.ac.uk/maa" hide-print="yes" rel="external">The Museum of Archaeology and Anthropology in Cambridge</esp:link> (MAA) has many fine vessels from the royal residences of Kalhu, including wine cups from the <esp:link page="northwestpalace">Northwest Palace</esp:link>. But not all of MAA's Nimrud pots were collected with display in mind. Among them is a series of around 40 broken pottery pieces. This article explores why the museum collected broken pots, as a teaching tool for budding archaeologists.</p>
+
+	</body></html>
+
+</esp:page>

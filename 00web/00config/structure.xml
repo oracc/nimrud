@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct:page 
+	xmlns:struct="http://oracc.org/ns/esp-struct/1.0"
+        xmlns:wm="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+	file="home.xml" id="home" accesskey="1" type="page">
+	
+<!-- About -->
+	<struct:page file="abouttheproject.xml" id="about" accesskey="6"  type="page">
+	  <struct:page file="about/moundmuseum.xml" id="moundmuseum" type="page"/>
+	  <struct:page file="about/fitzgenies.xml" id="fitzgenies" type="page"/>
+	  <struct:page file="about/discoverassyria.xml" id="discoverassyria" type="page"/>
+	  <struct:page file="about/kingsandscholars.xml" id="kingsandscholars" type="page"/>
+	  <struct:page file="about/tabletsontablets.xml" id="tabletsontablets" type="page"/>
+	<struct:page file="about/eventsresources.xml" id="eventsresources"  type="page"/>
+</struct:page>
+
+<!-- Catalogues -->
+	<struct:page file="catalogues.xml" id="catalogues" type="page">
+	<struct:link url="http://oracc.org/nimrud/ood/niod/" id="niod"
+	     title="Nimrud Inscribed Objects Database"/>
+	<struct:link url="http://oracc.org/nimrud/corpus/" id="nvtc"
+	     title="Nimrud Virtual Text Corpus"/>
+	<struct:page file="museums/museumsuk.xml" id="museumsuk" type="page">
+	  <struct:page file="museums/maa-intro.xml" id="maa-intro"
+		       type="page"/>
+	</struct:page>
+	<struct:page file="museums/museumsworldwide.xml" id="museumsworldwide" type="page"/>
+
+
+	<struct:page file="resources.xml" id="resources"  type="page"/>
+
+</struct:page>
+
+<!-- Ancient Kalhu -->
+
+    <!-- the city -->
+<struct:page file="ancientkalhu.xml" id="ancientkalhu" type="page">
+	<struct:page file="ancientcity.xml" id="ancientcity" type="page">
+	  <struct:page file="ancientcity/earlykalhu.xml" id="earlykalhu" type="page"/>
+	  <struct:link url="http://www.ucl.ac.uk/sargon/essentials/cities/kalhu" id="kalhu-aeb" title="Kalhu as imperial capital"/>
+	  <struct:page file="ancientcity/latekalhu.xml" id="latekalhu" type="page"/>
+	  <struct:page file="ancientcity/northwestpalace.xml" id="northwestpalace" type="page"/>
+	  <struct:page file="ancientcity/ziggurat.xml" id="ziggurat" type="page"/>
+	  <struct:page file="ancientcity/ezida.xml" id="ezida" type="page"/>
+	  <struct:page file="ancientcity/governorspalace.xml" id="governorspalace" type="page"/>
+	  <struct:page file="ancientcity/fortshalmaneser.xml" id="fortshalmaneser" type="page"/>
+	</struct:page>
+     <!-- the people -->
+	<struct:page file="people/index.xml" id="people" type="page">
+	  <struct:page file="people/assurnasirpal2.xml" id="assurnasirpal2" type="page"/>
+	  <struct:page file="people/shalmaneser3.xml" id="shalmaneser3" type="page"/>
+	  <struct:link url="http://www.ucl.ac.uk/sargon/essentials/kings/sargonii/" id="sargon" title="Sargon II"/>
+	  <struct:link url="http://www.ucl.ac.uk/sargon/essentials/sennacherib/" id="sennacherib" title="Sennacherib"/>
+	  <struct:link
+	      url="http://www.ucl.ac.uk/sargon/essentials/esarhaddon/"
+	      id="esarhaddon" title="Esarhaddon"/>
+	  <struct:link
+	      url="http://www.ucl.ac.uk/sargon/essentials/assurbanipal/"
+	      id="assurbanipal" title="Assurbanipal"/>
+	  <struct:page file="people/ashur.xml" id="ashur" type="page"/>
+	  <struct:link
+	      url="http://oracc.org/amgg/listofdeities/inanaitar/"
+	      id="ishtar" title="Ištar"/>
+	  <struct:page file="people/nabu.xml" id="nabu" type="page"/>
+	  <struct:page file="people/ninurta.xml" id="ninurta" type="page"/>
+	  <struct:page file="people/families.xml" id="families" type="page"/>
+	  <struct:page file="people/professions.xml" id="professions" type="page"/>
+	  <struct:page file="people/templestaff.xml" id="templestaff" type="page"/>
+	  <struct:link
+	      url="http://www.ucl.ac.uk/sargon/essentials/governors/thepalacescribe/"
+	      id="palacescribe" title="Palace Scribe"/>
+	</struct:page>
+<!-- the writings -->
+	<struct:page file="writings-intro.xml" id="langscripts" type="page">
+	  <struct:link url="http://oracc.org/saao/knpp/cuneiformrevealed/" id="cuneiform"  title="Cuneiform script"/>
+	  <struct:page file="writings/materials-clay.xml" id="materials-clay"  type="page"/>
+	  <struct:page file="writings/materials-others.xml" id="materials-others"  type="page"/>
+	  <struct:link url="http://oracc.org/saao/knpp/cuneiformrevealed/akkadianlanguage/" id="akkadian"  title="Akkadian"/>
+	  <struct:page file="writings/sumerian.xml" id="sumerian"  type="page"/>
+	  <struct:page file="writings/alphabetic.xml" id="alphabetic"  type="page"/>
+	  <struct:page file="writings/hieroglyphs.xml" id="hieroglyphs"  type="page"/>
+	  <struct:page file="writings/inscriptions.xml" id="inscriptions"  type="page"/>
+	  <struct:page file="writings/legaldocuments.xml" id="legaldocuments"  type="page"/>
+	  <struct:link
+	      url="http://www.ucl.ac.uk/sargon/essentials/archives"
+	      id="correspondence"  title="State letters"/>
+	  <struct:page file="writings/scholarlyworks.xml" id="scholarlyworks"  type="page"/>
+	</struct:page>
+</struct:page>
+
+<!--Lives of Objects -->
+
+	<struct:page file="objectbios.xml" id="objectbios" type="page">
+	<struct:page file="objectbios/sia-intro.xml" id="sia-intro" type="page">
+	  </struct:page>
+	  <struct:page file="objectbios/obelisk.xml" id="obelisk" type="page">
+	     <struct:page
+		 file="objectbios/obelisk/obeliskdiscovery.xml"
+		 id="obeliskdiscovery" type="page"/>
+	     <struct:page file="objectbios/obelisk/selfies.xml"
+			  id="selfies" type="page"/>
+	     <struct:link url="http://shalmaneserselfies.tumblr.com/"
+			  id="tumblr" title="Selfie Tumblr"/>
+	  </struct:page>
+	  <struct:page file="objectbios/vte-intro.xml" id="vte-intro" type="page">
+	    <struct:page file="objectbios/vte/vte-detail.xml" id="vte-detail" type="page"/>
+	  </struct:page>
+	  <struct:page file="objectbios/ivories.xml" id="ivories"
+		       type="page"/>
+	  <struct:page file="objectbios/anzu.xml" id="anzu" type="page"/>
+	  <struct:page file="objectbios/stonegenies.xml" id="stonegenies" type="page"/>
+	  <struct:page file="objectbios/maadog.xml" id="maadog" type="page"/>
+	    <struct:page file="objectbios/maapots.xml" id="maapots" type="page"/>
+	</struct:page>
+
+
+<!-- Modern Nimrud -->
+
+
+<struct:page file="modernnimrud.xml" id="modernnimrud" type="page">
+  <struct:page file="onthemound.xml" id="onthemound"  type="page">
+    <struct:page file="onthemound/ndtimeline.xml" id="ndtimeline"  type="page"/>
+   <struct:page file="onthemound/nd1850.xml" id="nd1850"  type="page"/>
+   <struct:page file="onthemound/nd1900.xml" id="nd1900"  type="page"/>
+   <struct:page file="onthemound/nd1950.xml" id="nd1950"  type="page"/>
+   <struct:page file="onthemound/nd2000.xml" id="nd2000"  type="page"/>
+   <struct:page file="onthemound/ndnow.xml" id="ndnow"  type="page"/>
+  </struct:page>
+  <struct:page file="atthemuseum.xml" id="atthemuseum"  type="page">
+    <struct:page file="atthemuseum/displayprocesses.xml" id="displayprocesses"  type="page"/>
+	  <struct:page file="atthemuseum/bmag-conservation.xml" id="bmag-conservation"  type="page"/>
+	  <struct:page file="atthemuseum/iraqmuseum.xml" id="iraqmuseum"  type="page"/>
+	  <struct:page file="atthemuseum/ashmodisplay.xml" id="ashmodisplay"  type="page"/>
+	  <struct:page file="atthemuseum/materiality.xml" id="materiality"  type="page"/>
+	  <struct:page file="atthemuseum/tablets.xml" id="tablets"  type="page"/>
+		</struct:page>	
+	</struct:page>
+
+<!-- lists -->
+	<struct:page file="glossarypage.xml" id="glossarypage" type="page"/>
+	<struct:page file="techtermspage.xml" id="techtermspage" type="page"/>	
+
+<!-- tech -->
+	<struct:page file="copyright.xml" id="copyright" accesskey="7" type="page">
+	  <struct:page file="accesskeys.xml" id="accesskeys" accesskey="0"  type="page"/>
+	  <struct:page file="sitemap.xml" id="site-map" accesskey="3"  type="page"/>
+	  <!--<struct:page file="indexpage.xml" id="index" hide-menu-link="yes"/>-->
+	  <struct:page file="standards.xml" id="standards" type="page"/>
+	  <struct:page file="privacy.xml" id="privacy"  type="page"/>
+	</struct:page>
+	<struct:page file="404.xml" id="404" hide-menu-link="yes" hide-site-map-link="yes" type="page"/>
+</struct:page>

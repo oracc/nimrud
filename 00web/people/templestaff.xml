@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Temple staff</esp:name>
+	<esp:title>Temple staff</esp:title>
+
+	<html><head></head><body>
+	
+<p class="firstpara">The officials of <esp:link page="nabu">Nabu's</esp:link> temple <esp:link page="ezida">Ezida</esp:link> ran its daily affairs, ensuring a regular supply of offerings and gifts. The <esp:techterms term="mayor">"mayor"</esp:techterms> of Ezida oversaw the annual <esp:techterms term="akītu"><i>akītu</i></esp:techterms> <esp:techterms term="rite, ritual">ritual</esp:techterms> between god and king.</p>
+
+
+<p>Our evidence for temple affairs comes from three different sets of documents:</p>
+
+<ul>
+<li>the letters sent from priests in Kalhu to king <esp:glossary term="Esarhaddon (person)">Esarhaddon</esp:glossary> in <esp:glossary term="Nineveh (place)">Nineveh</esp:glossary>; </li> 
+<li><esp:link page="legaldocuments">legal documents</esp:link> from the reign of <esp:glossary term="Assurbanipal (person)">Assurbanipal</esp:glossary> and later, found in the temple;</li>
+<li>and <esp:link page="scholarlyworks" bookmark="invokingdivinesupport">hymns</esp:link> that were performed during major rituals.</li>
+</ul>
+
+<p>Together they allow us to paint a partial portrait of the men (and it was almost exclusively men) who staffed Ezida in the 7th century BC.</p>
+
+<esp:h>Royal liaison officers: the <i>hazannu</i> and <i>qēpu</i></esp:h>
+
+<esp:image file="ancientcity/BM-1883-01-18_0043-P334253-obverse.jpg" description="Cuneiform tablet with letter from Nadinu to king Esarhaddon" position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=1400915&amp;objectId=292940&amp;partId=1" title="View large image on British Museum website" hide-print="yes"/><esp:caption><esp:bookmark id="img246"><b>Image 1.</b> The <i>hazannu</i> Nadinu writes to request an audience with king Esarhaddon (<esp:link url="http://oracc.museum.upenn.edu/saao/P334253" hide-print="yes" rel="external">SAA 13: 080</esp:link>)</esp:bookmark>. British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=292940&amp;partId=1" hide-print="yes" rel="external">1883-01-18, 43</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=1400915&amp;objectId=292940&amp;partId=1" title="View large image on British Museum website" hide-print="yes">View large image on British Museum website</esp:link>. © The Trustees of the British Museum.</esp:caption></esp:image>
+
+
+<p>The <i>hazannu</i> (literally "mayor") served as a link between temple and court, ensuring that nothing of consequence escaped the king's scrutiny. We know the name of only one of these officials:</p> 
+
+<dl>
+<dt><esp:glossary term="Nabu-šumu-iddina (person)">Nabu-šumu-iddina</esp:glossary></dt>
+<dd>King <esp:glossary term="Esarhaddon (person)">Esarhaddon's</esp:glossary> <i>hazannu</i>, known as <b>Nadinu</b> for short, wrote regularly to him and to <esp:techterms term="crown prince">crown prince</esp:techterms> Assurbanipal. His letters reveal, perhaps surprisingly, that he was not an intimate of the king and even to catch a glimpse of him was a once-in-a-lifetime event (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334253">SAA 13: 80</esp:link>, <esp:link bookmark="img246"><b>Image 1</b></esp:link>). Perhaps just as unexpectedly, Nadinu was not always resident at Kalhu but was at least present to oversee the annual <i>akītu</i> ritual, in which <esp:glossary term="Nabu (deity)">Nabu</esp:glossary> and <esp:glossary term="Tašmetu (deity)">Tašmetu</esp:glossary> got together each spring (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334017">SAA 13: 79</esp:link>).</dd>
+
+<dd>To modern sensibilities it may seem surprising that most of the <i>hazannu's</i> letters comprise daily reports on horses for the army that have arrived in Kalhu from provinces all over the empire (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa13/corpus">SAA 13: 82-123</esp:link>). We do not yet know what, if anything, these reporting duties had to do with Nadinu's role as overseer of Nabu's temple.</dd>
+</dl>
+
+<p>A <i>hazannu</i> of Kalhu also witnesses two <esp:link bookmark="h_theslavesandvotives">votive donations</esp:link> to Ezida in the late 7th century (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P336278,P336734">SAA 12: 96-97</esp:link>). His name is not preserved.</p>
+
+<p>The <i>qēpu</i> official served a similar function, it seems. At least in the late 7th century, a single <i>qēpu</i> was the royal delegate to the temples of Nabu and Ninurta together (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P336734">SAA 12: 96</esp:link>).</p>
+
+<esp:h>The cultic personnel</esp:h>
+
+<p>The chief priest, or <i>šangû</i> was, as the name suggests, the head of the cultic staff of the temple. We know the names of several men who held this post in the 7th century BC. Others also write to the king about ritual matters in the temple, suggesting that they too had priestly appointments of some sort, even if we don't know what they were. Most of the time, the letter-writers just tell the king that "I", "we" or "they" will perform particular ritual actions.</p>
+
+<dl>
+<dt><esp:glossary term="Marduk-šarru-uṣur (person)">Marduk-šarru(?)-uṣur(?)</esp:glossary>, <i>šangû</i></dt>
+<dd>This man witnessed loans on Nabu's behalf and a <esp:techterms term="votive">votive</esp:techterms> donation to Ninurta's temple, in 638<esp:techterms term="eponym">*</esp:techterms> BC and 621<esp:techterms term="eponym">*</esp:techterms> BC (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P335553,P336734">SAA 12: 92, 96</esp:link>)</dd>
+<dt><esp:glossary term="Nabu-kudurri-uṣur (person)">Nabu-kudurri-uṣur</esp:glossary></dt>
+<dd>Reported to the king on a ritual for Tašmetu (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334591">SAA 13: 130</esp:link>).</dd>
+<dt><esp:glossary term="Nergal-šarrani (person)">Nergal-šarrani</esp:glossary></dt>
+<dd>Wrote several letters to Esarhaddon and to the <esp:techterms term="queen mother">queen mother</esp:techterms>, mostly about the progress of the <i>akītu</i> and other rituals, but also to request treatment for an illness he was suffering (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334242,P334243,P334449,P334147,P334523,P334524,P334244,P334391">SAA 13: 70-77</esp:link>).</dd>
+<dt><esp:glossary term="Nabu-šumu-uṣur (person)">Nabu-šumu-uṣur</esp:glossary>, <i>šangû</i></dt>
+<dd>Involved in many loans on Nabu's behalf, as borrower, lender and witness, in the years 661–655 BC, 638<esp:techterms term="eponym">*</esp:techterms>, 637<esp:techterms term="eponym">*</esp:techterms>,  634<esp:techterms term="eponym">*</esp:techterms>, 623<esp:techterms term="eponym">*</esp:techterms>, 622<esp:techterms term="eponym">*</esp:techterms> 616<esp:techterms term="eponym">*</esp:techterms> <esp:ref referent="parker1957" page="ND 5460, 5450, 2314, 2307, 2308, 5428, 2334"/>; (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P335553,P335554,P335555,P336733">SAA 12: 92–95</esp:link>) </dd>
+<dt><esp:glossary term="Urad-Ištar (person)">Urad-Ištar</esp:glossary>, <i>šangû</i></dt>
+<dd>Witnessed a temple loan taken out by a member of the queen's guard <esp:ref referent="parker1957" page="128, ND 5448"/>).</dd>
+<dt><esp:glossary term="Urad-Nabu (person)">Urad-Nabu</esp:glossary></dt>
+<dd>Wrote to king Esarhaddon about the <i>akītu</i> and other rituals, on making statues of the king for the temples, and to request an <i>āšipu</i> and an <esp:link page="professions" bookmark="asu"><i>asû</i>-healer</esp:link> when he is sick (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa13/corpus">SAA 13</esp:link>: 56–69). Priests from <esp:link page="ziggurat" bookmark="ninurtatemple">the temple of Ninurta</esp:link> accuse him of stealing land and people from them for his own temple, by drawing up a false legal document (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334122">SAA 13: 126</esp:link>).</dd>
+</dl>
+
+
+
+
+<esp:h>The scholars</esp:h>
+
+<esp:image file="ancientcity/ND5429.jpg" description="Stone bowl fragment, inscribed with text and figure of priest" position="float"><esp:link url="/nimrud/images/ancientcity/ND5429-large.jpg" title="View large image of stone bowl fragment" hide-print="yes"/><esp:caption><esp:bookmark id="img223"><b>Image 2.</b> Fragmentary stone bowl found in the Ezida, with an inscription referring to the <i>galamahhu</i>-lamenter,  'who dedicated the stone' <esp:ref referent="mallowan1966" page="270, figure 251"/>.</esp:bookmark> ND 5429. <esp:link url="/nimrud/images/ancientcity/ND5429-large.jpg" title="View large image of stone bowl fragment" hide-print="yes">View large image (109 KB).</esp:link></esp:caption></esp:image>
+
+<p>The large collection of <esp:link page="scholarlyworks">learned writings</esp:link> in the room opposite Nabu's shrine already suggests that <esp:techterms term="scholar">scholars</esp:techterms>, especially <esp:link page="professions" bookmark="ashipu"><i>āšipu</i>-healers</esp:link>, were associated with the Ezida temple. But no explicit link is made in the texts themselves. However, we know that Nabu's temple in <esp:glossary term="Dur-Šarruken (place)">Dur-Šarruken</esp:glossary> was staffed with an <i>āšipu</i>, who was given regular provisions (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/aebp/P334729">SAA 1: 129</esp:link>).</p> 
+
+<p>The letters of the royal scholars associated with the Kalhu Ezida suggest that they spent at least some of their time away in Nineveh. However, the priest <esp:glossary term="Nergal-šarrani (person)">Nergal-šarrani</esp:glossary> reassures king Esarhaddon that the senior <i>āšipu</i> <b>Adad-šumu-uṣur</b> will be treating an outbreak of fungus in the temple (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/P334243">SAA 13: 71</esp:link>). Coincidentally or not, one of the scholarly <esp:techterms term="tablet">tablets</esp:techterms> found in the Ezida is precisely a series of omens on the portentous significance of fungi (<esp:link rel="external" hide-print="yes" url="http://oracc.org/cams/gkab/P363451">CTN 4: 36</esp:link>).</p>
+
+<p>We have much clearer evidence for the activities of <esp:link page="professions" bookmark="ashipu"><i>kalû</i>-lamenters</esp:link> in Kalhu. Some time in the 8th century, a <i>galamahhû</i> ("chief lamenter") (whose name is now missing) dedicated a grey stone offering bowl to the temple (<esp:link bookmark="img223"><b>Image 2</b></esp:link>). Carved on its surface is a depiction of a ritual perfomer, presumably the <i>galamahhû</i> himself, in a tall conical hat.</p>
+
+<p>During the reign of Esarhaddon, the <i>kalû</i> <b><esp:glossary term="Pulu (person)">Pulu</esp:glossary></b> writes to the king whenever he finds malformed kidneys in sacrificial sheep, fearing they may portend ill (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334653,P334438">SAA 13: 131, 133</esp:link>). However, as far as <esp:link page="professions" bookmark="baru"><i>bārû</i>-diviners</esp:link> were concerned, kidneys had no ominous significance.</p>
+
+<p>On that evidence alone, it would appear that Pulu was highly conscientious. However, a colleague or rival — whose name is frustratingly missing — denounces Pulu to the king (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/P334641">SAA 13: 134</esp:link>, <b><esp:link bookmark="img248">Image 3</esp:link></b>). Not only has he been remodelling the fixtures and fittings in Ezida but he has updated lots of the rituals too and appointed new staff. At the end of the letter, though, there is a hint that this report comes from the son of the man Pulu has replaced — and that this is all part of a smear campaign to oust Pulu in the letter-writer's favour.</p>
+
+<p>The temple also had at least one scholar who knew how to calculate calendars. <esp:glossary term="Urad-Nabu (person)">Urad-Nabu</esp:glossary>—perhaps the same man mentioned above—reports to the king of a visit from noblemen of the cities of Babylon and Borsippa who have come to ask for advice on working out when to add an extra lunar month to the year (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334651">SAA 13: 60</esp:link>). This was necessary in order to keep the lunar calendar of twelve 29 or 30-day months aligned with the 365-day solar year so that rituals could be performed at the correct time.</p>
+
+
+
+<esp:h>The domestic staff</esp:h>
+
+<esp:image file="ancientcity/BM-K189-P334641-obverse.jpg" description="Cuneiform tablet with letter denouncing the behaviour of Pulu" position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=703800&amp;objectId=314716&amp;partId=1" title="View large image on the British Museum website" hide-print="yes" rel="external"/><esp:caption><esp:bookmark id="img248"><b>Image 3.</b> This letter denouncing the behaviour of the <i>kalû</i>-lamenter Pulu in the Ezida temple usefully lists some of the domestic roles in the temple  (<esp:link url="http://oracc.museum.upenn.edu/saao/P334641" hide-print="yes" rel="external">SAA 13: 134</esp:link>)</esp:bookmark>. British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=314716&amp;partId=1" hide-print="yes" rel="external">K.189</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=703800&amp;objectId=314716&amp;partId=1" title="View large image on the British Museum website" hide-print="yes" rel="external">View large image on British Museum website</esp:link> © The Trustees of the British Museum.</esp:caption></esp:image>
+
+<p>The domestic staff of the temple were probably not <esp:techterms term="cuneiform">cuneiform</esp:techterms> literate, and certainly did not have the status or presumption to write to the king. Therefore we know about them through the letters of more senior personnel and, especially in later times, from witness lists on temple legal documents.</p>
+
+<p>Pulu's denouncer is particularly helpful in this regard (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/knpp/P334641">SAA 13: 134</esp:link>). He mentions "a woman who carries out the lighting ceremony for the goddess Tašmetu", an "eye-opener" (who presumably looked after the divine statues) and a goldsmith, as well as an <i>āšipu</i>-healer (<esp:link bookmark="img248"><b>Image 3</b></esp:link>).</p>
+ 
+<p>The following men with temple-related job titles appear amongst the witnesses of loans and other legal documents drawn up in the late 7th-century Ezida <esp:ref referent="parker1957"/>; (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P335553,P336733,P336734">SAA 12: 92, 95, 96</esp:link>):</p>
+
+<dl>
+<dt><esp:glossary term="Gallulu (person)">Gallulu</esp:glossary>, <esp:glossary term="Nabu-ahhe-eriba (person)">Nabu-ahhe-eriba</esp:glossary>, <esp:glossary term="Nani (person)">Nani</esp:glossary></dt>
+<dd>These three men all take the title <i>lahhinu Nabu</i> "steward of Nabu"</dd>
+<dt><esp:glossary term="Urdu (person)">Urdu</esp:glossary></dt>
+<dd>Frequently called on to witness legal documents, his full title was "(household) cook of Nabu's temple"</dd>
+<dt><esp:glossary term="Nabu-ahu-iddina (person)">Nabu-ahu-iddina</esp:glossary></dt>
+<dd>(Chief) firewood supplier of Nabu's temple</dd>
+<dt><esp:glossary term="Dayai (person)">Dayai</esp:glossary></dt>
+<dd>Gatekeeper</dd>
+<dt><esp:glossary term="Nabu-kibsi-uṣur (person)">Nabu-kibsi-uṣur</esp:glossary></dt>
+<dd>Store keeper, exact title missing</dd>
+<dt><esp:glossary term="Balaṭi (person)">Balaṭi</esp:glossary>, <esp:glossary term="Nabu-naʾid (person)">Nabu-naʾid</esp:glossary></dt>
+<dd>Domestic staff with missing titles</dd>
+<dt>(name now missing)</dt>
+<dd>Chief musician of Nabu's temple</dd>
+</dl>
+
+<esp:h>The slaves and votives</esp:h>
+
+<esp:image file="ancientcity/BM-K382-P335553-obverse.jpg" description="Cuneiform tablet documenting donation of a slave to Ninurta" position="float"><esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&amp;assetid=1066294&amp;objectid=314486" title="View large image on British Museum website" hide-print="yes"/><esp:caption><esp:bookmark id="img247"><b>Image 4.</b> Record of the donation of a slave named Dur-maki-Issar to the god Ninurta's temple in Kalhu (<esp:link url="http://oracc.museum.upenn.edu/saao/P335553" hide-print="yes" rel="external">SAA 12: 92</esp:link>)</esp:bookmark>. British Museum <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=314486&amp;partId=1" hide-print="yes" rel="external">K.382</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?partid=1&amp;assetid=1066294&amp;objectid=314486" title="View large image on British Museum website" hide-print="yes">View large image on British Museum website</esp:link>. © The Trustees of the British Museum.</esp:caption></esp:image>
+
+
+<p>Finally, we must not forget the men, women and children who were given to Nabu's temple by legal deed (<esp:link bookmark="img247"><b>Image 4</b></esp:link>). Such donations could be a generous act of piety and loyalty — for instance the gift of two slaves (<b><esp:glossary term="Lul[...] (person)">Lul[...]</esp:glossary></b> and <b><esp:glossary term="Palhu-ušezib (person)">Palhu-ušezib</esp:glossary></b>) and a large tract of land "for the preservation of the life of <esp:glossary term="Sin-šarru-iškun (person)">Sin-šarru-iškun</esp:glossary>, king of Assyria, his lord, and the preservation of the life of his queen" (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P336734">SAA 12: 96</esp:link>).</p> 
+
+<p>At the other end of the socio-economic scale it could also be a sign of economic desperation. One man gives his (dead or destitute?)
+sister's sons, <b><esp:glossary term="Urad-Ištar (person)">Urad-Ištar</esp:glossary></b> and <esp:glossary term="Nabu-hamatua (person)"><b>Nabu-hamatua</b></esp:glossary>; these were mouths that could not otherwise be fed (<esp:link rel="external" hide-print="yes" url="http://oracc.org/saao/saa12/P336733">SAA 12: 95</esp:link>). But whatever the circumstances of the gift, the donor could be sure that temple would feed and house the <esp:techterms term="votive">votives</esp:techterms>, as well as putting them to work for a higher good.</p>
+
+<esp:author first-names="Eleanor" last-name="Robson"/>
+<esp:email address="nimrud@oracc.org"/>
+<p><small>Content last modified: <esp:content-last-modified/>.</small></p>
+
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>Display processes</esp:name>
+	<esp:title>Displaying Nimrud to the public: people and processes</esp:title>
+
+	<html><head>
+</head><body>
+
+<p class="firstpara">How do museums take objects from their store rooms and turn them into public displays? Dr Paul Collins is a curator at the <esp:techterms term="Ashmolean Museum">Ashmolean Museum</esp:techterms>, Oxford, and formerly at the <esp:techterms term="British Museum">British Museum</esp:techterms>, London. Here he explores the various roles and processes involved in creating displays.</p>
+
+<esp:image file="atthemuseum/BM-gallery-56-mesopotamia.jpg" description="Museum gallery with glass display cases containing a variety of small artefacts from Mesopotamia" position="float"><esp:caption><esp:bookmark id="img165"><b>Image 1</b>: <esp:link url="http://www.britishmuseum.org/explore/galleries/middle_east/room_56_mesopotamia.aspx" title="Room 56 gallery guide" hide-print="yes" rel="external">Room 56</esp:link> at the British Museum, displaying small Mesopotamian artefacts dating from 6000-1500 BC.</esp:bookmark> Source: <esp:link url="http://blog.britishmuseum.org/" title="British Museum blog" hide-print="yes" rel="external">British Museum blog</esp:link>, © Trustees of the British Museum.</esp:caption></esp:image>
+
+<esp:h>People</esp:h>
+
+<p>Who are the people involved in producing the sort of displays we see in museums today (<b>Image 1</b>)?</p>
+
+<ul>
+<li>The <b>Curator</b> is an obvious place to start, it would seem to me, being a <esp:techterms term="curator">curator</esp:techterms> myself. The curator thinks of the idea or the story that they want to introduce to the gallery visitor and selects the material through which it will be presented. But today it's no longer simply the case of a curator visiting the museum stores, writing a label, and putting the objects onto a shelf in a case. It's become a very sophisticated operation to meet the needs of modern museum audiences.</li>
+
+<li><b>Designers</b> help to shape the way the objects are viewed to make the stories behind them more obvious. The curator may have come up with a wonderful range of material but the designer will say, "Well actually, aesthetically and in terms of composition of the entire space that won't work. Let's move them around in the space and see whether we can maintain the narrative you want by displaying them in a different order or relationship."</li>
+
+<li><b>Educators</b> want to have certain themes and stories, perhaps tied to the requirements of the <esp:link url="https://www.gov.uk/government/publications/national-curriculum-in-england-history-programmes-of-study" hide-print="yes" rel="external">UK National Curriculum</esp:link>. They have expertise in how children learn and understand objects and words, and can advise on appropriate levels of language. Although the Assyrians do not appear in the National Curriculum - <esp:glossary term="Sumer (place)">Sumer</esp:glossary> and <esp:glossary term="Egypt (place)">Egypt</esp:glossary> are listed for Key Stage 2 (ages 7-11) - Assyrian art, culture and history are useful for a number of other subject areas, such as art and design, religious instruction, and literature and science.</li>
+
+<li><b>Interpreters</b> 'find the voice' of the gallery or the display, thinking about the audience and their needs: how meaningful is the narrative being developed and how accessible is the way in which it is being presented. They try to take on the role of a visitor. Part of the interpretation process may be to undertake audience evaluations – testing the public reaction and understanding of certain key terms for example. In this way museums can work out who their audiences are. At the Ashmolean, for example, we know that there are distinct groups of people who come repeatedly, others who visit fairly regularly, and also less frequent visitors. Every museum will be different in that sense, but interpreters will be able to determine from that data where the best pitch should be and adapt to reflect the range of audiences we want to target.</li>
+
+<li>The museum <b>Director</b> also has a voice. Some directors have louder voices than others but they all have a vision of what they want for the entire museum and will inflect the design and the choice of objects.</li>
+
+<li><b>Sponsors</b> play a role too. And again, like the director, some sponsors are more vocal than others. If they have several million pounds invested in a gallery or redisplay then their voice may be very loud indeed.</li>
+
+<li><b>Accountants</b> ensure that the project comes in on budget and on time. That can determine the outcome of a gallery space and how it's interpreted and understood.</li>
+
+<li>A <b>project manager</b> helps to join the dots between all these individuals and makes sure that everything happens, with tools such as delivery timetables and <esp:techterms term="Gantt chart">Gantt charts</esp:techterms>.</li>
+</ul>
+
+<p>So simply planning what might seem like a simple operation of laying out objects within a space becomes a very complex undertaking. As with any project involving many different people with a range of skills, it doesn’t always run smoothly. It also can feel slightly like design by committee, but the end result can also be extremely good and spot-on. If it all works well it's a wonderful process to be involved with: a good project manager will lead projects to fruition on time and it's a pleasure to be part of the team effort.</p>
+
+<esp:h>Processes</esp:h>
+
+<p>In order to bring Nimrud to the public, we have to select the objects and decide what stories to tell about them.</p>
+
+<p>Today we know that the ancient Near East was not one cultural and political entity any more than it is today. Yet many museum collections were brought together and managed in the nineteenth century when this vast region was considered as a single unit. One problem for a modern curator of this material is to select meaningful stories from the multitude of cultures across thousands of years of time that spoke different languages and had different ideas.</p>
+
+<ul>
+<li><b>Object selection</b>: How many objects should be displayed is a central concern. The Victorian approach was to fill display cases with as many examples of object types as would fit. There was huge value in this approach because you could see variety, form, continuity and change – think, for example, of <esp:link url="http://www.horniman.ac.uk/media/w650h650/projects/Lepidoptera_%289%29.jpg" hide-print="yes" rel="external" title="A drawer of butterflies in the Horniman Museum">a drawer of butterflies</esp:link> in a natural history museum. But the disadvantage was not being able ‘to see the wood for the trees’ and today less is more: the focus is on showing objects to their best advantage as well as using them to illustrate themes, ideas and narratives.</li>
+
+<li><b>The theme</b>: I look after a collection which embraces 10,000 years (9000 BC – AD 650), stretching geographically from the <esp:glossary term="Aegean (place)">Aegean</esp:glossary> world and the <esp:glossary term="Levant (place)">Levant</esp:glossary> across to Afghanistan. So within that enormous region and time scale, which stories does one choose to tell in a single gallery? Very often that's driven by the strengths  of a collection. At the Ashmolean we have very important material from the world’s first cities, some of <esp:link page="sumerian">the oldest writing</esp:link> for example, so this is an important theme, which also connects with stories told in other galleries of the Museum.</li>
+
+<li><b>The story</b>: In the Ashmolean we have terrific collections from the third millennium BC. Our Assyrian collections are also good, but much smaller. So the issue is choosing the right stories. And often the tendency is to try and tell too many stories. You just have to bite the bullet and say that we can't do everything, because otherwise it becomes a muddle for the visitor. What does the ancient Near East really mean to a visitor if they don't really know where it is in the world? How do we start telling that story as a narrative? You have to be selective and, very often, that comes down to the curator’s personal choice.</li>
+
+<li><b>The place</b>: On this occasion we're talking about Nimrud. Do we focus on <esp:link page="ancientcity">the buildings</esp:link> at Nimrud, <esp:link page="people">the people</esp:link> of Nimrud, the Assyrians themselves, the connections between Nimrud and the wider world? All these are questions which will need to be answered in advance through the available objects.</li>
+
+<li><b>The design</b>: This needs to be tied in to the wider scheme of the museum. That again will help to shape the space that's available.</li>
+
+<li><b>The appeal</b>: Here the interpreters come in. Who are the audiences that will want to understand this narrative and how do we encourage others to join them? In the past the Ashmolean was visited by a largely university-educated audience. Now we are trying to attract a wider range: younger visitors, families and also people from different cultural backgrounds and experiences, especially those from the modern Near East, and help them to engage with the material.</li>
+
+<li><b>Events and income</b>: Inevitably we also have to think about fund raising and opportunities for merchandising.</li>
+</ul>
+
+<p><i>The text of this article is based on Dr Collins' talk given at the <esp:link page="moundmuseum">Nimrud: Mound to Museum</esp:link> study day in April 2013.</i></p>
+
+<p><small>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></small></p>
+
+<esp:author first-names="Paul" last-name="Collins"/>
+
+</body></html>
+</esp:page>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Home</esp:name>
+	<esp:title>Materialities of Assyrian Knowledge Production: Object Biographies of Inscribed Artefacts from Nimrud</esp:title>
+
+	<html><head></head><body>
+		
+	<esp:image file="nimrud-banner.jpg" description="nimrud banner"></esp:image>
+
+	<p>How do archaeological artefacts find their way into gallery cases and museum websites? How do objects found in the ground get transformed into specimens for scientific and historical study? How have the processes of making archaeological knowledge changed over the past two centuries? This project tackles those questions using objects excavated from the ancient city of Nimrud (<esp:link url="http://www.ucl.ac.uk/sargon/essentials/cities/kalhu/" rel="external">Kalhu</esp:link>), capital of the Assyrian empire in the early first millennium BC.</p> 
+<p>The project brings together as many as possible existing online resources on Nimrud, as well as creating substantial new interpretative content, designed and licensed for re-use by museums in mobile gallery guides. We also hosted several related events throughout 2013-14. The project formally ended in 2015 but we continue to welcome feedback.</p>
+
+<p><esp:link class="twitter-timeline" data-dnt="true" url="https://twitter.com/search?q=%23nimrud" data-widget-id="293764610203451393">Tweets about "#nimrud"</esp:link>
+<script type="">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+
+
+
+	<esp:image file="partnerlogos.png" description="AHRC, BISI, Ashmolean"><esp:link url="http://www.ahrc.ac.uk"/></esp:image>
+			
+	
+
+
+	
+	</body></html>
+
+</esp:page>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Museums holding Nimrud objects</esp:name>
+	<esp:title>Museums and collections holding objects from Nimrud</esp:title>
+
+	<html><head></head><body>
+
+
+<p class="firstpara">Objects from the archaeological site of Nimrud (ancient <esp:link page="ancientcity">Kalhu</esp:link>) now reside in museum collections across the world. This section currently lists 77 museums that hold material from Nimrud and provides links to online catalogue information where available. As the Nimrud project focuses on museums in the UK, these are listed separately from museums worldwide.</p>
+
+<ul>
+<li><esp:link page="museumsuk">Museums in the United Kingdom holding Nimrud material</esp:link></li>
+
+<li><esp:link page="museumsworldwide">Museums worldwide holding Nimrud material</esp:link></li>
+
+<li><esp:link page="maa-intro">Nimrud objects at Cambridge's Museum of Archaeology and Anthropology</esp:link></li>
+</ul>
+
+<p>You can also search or browse the <esp:link page="niod">Nimrud Inscribed Objects Database</esp:link>.</p>
+
+
+<p><small>Content last modified: <esp:content-last-modified/></small></p>
+<esp:email address="nimrud@oracc.org"/>
+
+	</body></html>
+
+</esp:page>

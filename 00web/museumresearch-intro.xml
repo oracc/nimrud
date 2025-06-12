@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>At the museum</esp:name>
+	<esp:title>Research at the museum</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Museums do not only store and display objects from archaeological sites like Nimrud. They are also important centres of research in their own right. These case studies from museums in the UK explore some of the behind-the-scenes investigations being carried out on Nimrud objects in 2013-14. More will be posted during the next phase of the project.</p>
+
+<esp:image file="museumresearch/BMAG-ivory-conservation-1965A451_3-4sq.jpg" description="A newly cleaned ivory" position="float"><esp:link page="bmag-conservation"/></esp:image>
+
+<esp:h><esp:link page="bmag-conservation">Conserving Birmingham Museum's Nimrud ivories</esp:link></esp:h>
+<p>How do museums care for Assyrian artefacts in their collections? In summer 2013 the Nimrud Project visited <esp:link url="http://www.bmag.org.uk/" rel="external" hide-print="yes">Birmingham Museum and Art Gallery</esp:link> to see how they look after their collection of 3000-year-old <esp:techterms term="ivory">ivory</esp:techterms> carvings from Nimrud. <esp:techterms term="conservator">Conservator</esp:techterms> Alexandra Cantrill gave us a behind-the-scenes look at the <esp:techterms term="conservation">conservation</esp:techterms> work that helps to preserve these objects for future generations.</p>
+
+<esp:image file="museumresearch/PA-photo-4sq.jpg" description="A photograph of the PA-sign" position="float"><esp:link page="materiality"/></esp:image>
+
+<esp:h><esp:link page="materiality">Investigating the materiality of inscriptions at the British Museum</esp:link></esp:h>
+<p>Academic study of <esp:techterms term="cuneiform">cuneiform</esp:techterms> inscriptions has traditionally relied on hand-drawn copies of the inscribed text. However, valuable information can be gleaned from studying clay <esp:techterms term="tablet">tablets</esp:techterms> and other inscribed materials as physical objects in their own right. At the <esp:techterms term="British Museum">British Museum</esp:techterms>, <esp:techterms term="Assyriology">Assyriologist</esp:techterms> Dr Jon Taylor examines the evidence left behind on the tablets, to reveal the ways in which ancient scribes wrote their texts, and even to identify individual scribes from their handwriting.</p>
+
+<esp:content-last-modified/>
+<esp:email address="nimrud@oracc.org"/>
+	</body></html>
+
+</esp:page>

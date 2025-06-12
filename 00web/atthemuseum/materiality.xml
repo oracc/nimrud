@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+	<esp:name>Materiality of inscriptions</esp:name>
+	<esp:title>Investigating the materiality of inscriptions at the British Museum</esp:title>
+
+	<html><head></head><body>
+
+<p class="firstpara">Since its earliest days, the study of cuneiform inscriptions has relied on drawings of the ancient texts, known as <esp:techterms term="hand-copy">hand-copies</esp:techterms>. However, <esp:techterms term="Assyriology">Assyriologists</esp:techterms> like Jonathan Taylor at the <esp:link page="museumsuk" bookmark="britishmuseum">British Museum</esp:link> are using exciting new approaches that focus on <esp:techterms term="cuneiform">cuneiform</esp:techterms> <esp:techterms term="tablet">tablets</esp:techterms> as physical objects in their own right, enabling them to reconstruct the way these tablets were written. Here Jon describes his working methods.</p>
+
+<esp:h>Traditional approaches to cuneiform</esp:h>
+
+<p>Traditional academic study of <esp:link page="langscripts">cuneiform texts</esp:link> has separated the texts from the objects on which they were written. Assyriologists have made line drawings of the inscriptions, called <esp:techterms term="hand-copy">hand-copies</esp:techterms>, for practical reasons of publishing in printed books and journals. A hand-copy reduces the inherently three-dimensional cuneiform script to a two-dimensional representation. It also removes information that the copyist either did not notice or did not feel was significant. The drawings are then further abstracted by converting them into Latin characters. So for example, this cuneiform sign:</p>
+
+<esp:image file="atthemuseum/LUGAL.jpg" description="A hand drawing of the sign LUGAL" position="inline"/>
+
+<p>is written LUGAL (meaning “king”).</p>
+
+<p>When more than one example of a text exists – such as <esp:link page="scholarlyworks">literary texts</esp:link> or <esp:link page="inscriptions">royal inscriptions</esp:link> – a single, artificial, <esp:techterms term="composite">"composite text"</esp:techterms> is created. This merges all examples together, making something that never really existed in antiquity, but is nevertheless useful for modern Assyriologists' purposes. Composites are especially useful when the source documents are broken, which is most of the time.</p>
+
+<p>This approach is practical and certainly has benefits. It makes cuneiform relatively easy to communicate to other academics and to work with, particularly with the help of computers to manage large datasets. But it comes at a cost. It is often easy to tell a lot about a text from something as simple as <esp:link page="materials-clay" bookmark="shapes">the size and shape of the object</esp:link> on which it is written. This information is hard to communicate in drawings, and has often been ignored altogether. Even more importantly, inscriptions are hand-made. Everything from <esp:link page="materials-clay">the materials</esp:link> <esp:link page="materials-others">used</esp:link>, the <esp:link page="materials-clay" bookmark="tablet_making">processing and manufacturing techniques</esp:link>, through the formatting habits, to the handwriting and spelling all bear the mark of the person who created the inscription.</p>
+
+<esp:h>Materiality of the text</esp:h>
+
+<p>The handwritten nature of cuneiform writing presents modern researchers with a rich supply of information about how ancient <esp:techterms term="scribe">scribes</esp:techterms> worked. Academics in other fields routinely examine inked inscriptions to discover what kind of writing implement was used and how the scribe made letters from individual strokes. I have been using these new techniques in order to do the same with cuneiform writing. Photographs reveal a great deal but even better is to examine the object itself.</p>
+
+<esp:sh>Wedge order</esp:sh>
+
+<p>On the <b>left</b> below is a hand-copy of the cuneiform sign PA, taken from an inscription from Nimrud. On the <b>right</b> is a photograph of that same sign on the clay tablet:</p>
+
+<esp:image file="atthemuseum/PA-handcopy-and-photo.jpg" description="Left: black and white line drawing in pen of the cuneiform sign PA. Right: photograph of the same sign on the clay tablet" position="inline"/>
+
+<p>It is possible to extract more information from the photo than from the hand drawing. Sometimes when writing cuneiform on clay, the act of impressing the <esp:techterms term="stylus">stylus</esp:techterms> to make an individual <esp:techterms term="wedge">wedge</esp:techterms> distorts the impression left in a previous wedge. A small amount of clay can be pushed into the <esp:techterms term="impression">impression</esp:techterms> of the earlier wedge, or the long, straight section (known as the "tail") of the wedge can be bent. This allows us to tell the order in which the scribe made each wedge in the signs. Here the vertical wedge has been written before the two horizontal wedges.</p>
+
+<p>Here is another sign from a cuneiform inscription from Nimrud. On the <b>left</b> is a hand-copy of the GIŠ sign, which is very similar to the PA sign above. On the <b>right</b> is a photograph of the same sign on the clay tablet:</p>
+
+<esp:image file="atthemuseum/GISH-handcopy-and-photo.jpg" description="Left: black and white line drawing in pen of the cuneiform sign GISH. Right: photograph of the same sign on the clay tablet" position="inline"/>
+
+<p>In this example the scribe wrote the two horizontal wedges first, then the vertical. Looking at many signs from many tablets, it is possible to determine the principles governing how cuneiform was written. Some of these are common to cuneiform as written in different times and places, others are more restricted. Similar ordering principles are still used today in East Asian writing - Chinese, Japanese, Korean. They help the writer learn the characters, and how to form them properly.</p>
+
+<p>Through features such as wedge order, as well as other writing or formatting habits, and clues from the clay of the tablet itself, we can distinguish the work of scribes educated at different times and in different places. It may even help to differentiate individual scribes working at the same time in the same place. This can be important evidence in our attempts to understand the context of documents. Was more than one scribe working at the same time in a given bureau? When does scribe A’s work begin and end? How does this relate to anything else we may know about that scribe?</p>
+
+<esp:sh>The reed stylus</esp:sh> 
+
+<p>Looking again at the two photos, we can see something else that is lost in the hand drawings. The <esp:link page="materials-clay" bookmark="stylus">stylus</esp:link> these scribes were using was made from reed. This is visible in the texture of the surfaces of the wedges themselves. Each wedge is a more or less pyramid-shaped hole in the clay. The left end of each wedge is marked with lines. The top end looks spotty. And the right end looks smooth. This is a result of the way the stylus was cut from the reed. The lines are the impression left by the fibres within the reed, exposed when the scribe cut the stylus. The spots are the ends of these same fibres. The smooth surface of the right end of the wedge is the impression of the uncut, outer surface of the reed. So while other materials could have been used to make a stylus, in many cases it is clear that reed was the preferred material. </p> 
+
+<p><small>Content last modified: <esp:content-last-modified/>.<br/>
+<esp:email address="nimrud@oracc.org"/></small></p>
+
+<esp:reading referent="taylor2011"/>
+<esp:author
+	first-names="Jonathan"
+	last-name="Taylor"
+/>
+
+	</body></html>
+
+</esp:page>

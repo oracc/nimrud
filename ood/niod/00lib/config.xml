@@ -1,0 +1,24 @@
+<project n="nimrud/ood/niod" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Nimrud Inscribed Objects Database</name>
+  <abbrev>nimrud/ood/niod</abbrev>
+  <project-type>oracc</project-type>
+  <type>ood</type>
+  <subtype>xmd</subtype>
+  <logo type="text">NIOD</logo>
+  <public>yes</public>
+  <blurb>A catalogue of inscribed objects from Nimrud created by Christopher Walker and a group of volunteers at the British Museum.</blurb>
+  <image></image>
+  <image-alt></image-alt>
+  <option name="outline-default-select" value="no"/>
+  <option name="outline-default-catalog-fields" value="o:n,Description|Object,Location,Publication"/>
+  <option name="outline-default-catalog-widths" value="15,20,25,30"/>
+  <option name="outline-default-catalog-labels" value="Designation,Description,Location,Publication"/>
+  <option name="ood-licence" value="CC0"/>
+  <option name="ood-stable" value="no"/>
+  <option name="ood-curated" value="yes"/>
+  <option name="ood-updated" value="yes"/>
+  <option name="ood-original" value="none"/>
+  <option name="ood-original" value="Comments,Division,Inscribed,Unpublished"/>
+</project>

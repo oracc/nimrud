@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<esp:page
+	xmlns:esp="http://oracc.org/ns/esp/1.0"
+	xmlns="http://www.w3.org/1999/xhtml"
+>
+
+	<esp:name>Ashur</esp:name>
+	<esp:title>Aššur, divine embodiment of Assyria</esp:title>
+
+	<html><head></head><body>
+	
+	<p class="firstpara">The Assyrians' home city was Assur, 72 km (45 miles) south of Kalhu on the Tigris river. It was so important to Assyrian self-identity that it was also considered to be a god. Indeed, in <esp:techterms term="cuneiform">cuneiform</esp:techterms> script the only difference between writings of the three words are the determinatives for "land", "city" or "place", and "deity". Because the god Aššur was so closely identified with Assur the city, however, he had barely any presence at Kalhu, except in relation to the king.</p>
+
+	<esp:image file="ancientcity/andrae-assur-temple-reimagining-detail.png" description="Line drawing of Assur's temple on the banks of the Tigris river" position="float"><esp:link url="/nimrud/images/ancientcity/andrae-assur-temple-reimagining-large.png" title="View large image of reimagining of Assur's temple" hide-print="yes"/><esp:caption><esp:bookmark id="img230"><b>Image 1.</b> Reimagining of Assur's temple, drawn by Walter Andrae <esp:ref referent="andrae1977" page="54"/>.</esp:bookmark> <esp:link url="/nimrud/images/ancientcity/andrae-assur-temple-reimagining-large.png" title="View large image of reimagining of Assur's temple" hide-print="yes">View large image (286 KB)</esp:link>.</esp:caption></esp:image>
+
+
+<esp:h>Aššur the deified city</esp:h>
+<p>The city of <esp:glossary term="Assur (place)">Assur</esp:glossary> was founded in the early third millennium BC on a
+rocky escarpment which deflected the course of the river <esp:glossary term="Tigris (place)">Tigris</esp:glossary>
+eastwards around it. The height of this promontory and steepness of
+its sides meant from the top of it one could see for miles across the
+surrounding plain, while it was easy to defend should invaders
+attack. Aššur's temple <esp:glossary term="Ešarra (place)">Ešarra</esp:glossary> ("Temple of the Universe") was located
+at its very highest, northernmost point (<b><esp:link bookmark="img230">Image 1</esp:link></b>). It undoubtedly dates back to
+the first years of the city, although archaeologists who excavated
+there in 1909 struggled to make sense of the earliest remains <esp:ref
+referent="harperetal1995" page="37"/>. <!-- Already in the 21st
+century BC, Zarriqum the governor of Assur wrote the city name with
+the determinative for "deity" (<sup>d</sup>) as well as for "place"
+(<sup>ki</sup>): <sup>d</sup>a-šur<sub>3</sub><sup>ki</sup> <esp:ref
+referent="grayson1987" page="9, no. A.0.1003.2001"/> --></p>
+
+<p>Aššur's <esp:techterms term="ziggurat">ziggurat</esp:techterms> stood immediately to the west of his temple, a
+little further down the escarpment. Next to that was the so-called <esp:glossary term="Old Palace (place)">Old
+Palace</esp:glossary>, which was rebuilt many times over the millennia. This had been
+the Assyrian royal family's primary residence before <esp:link page="assurnasirpal2">Assurnasirpal</esp:link> moved out to Kalhu. The tombs below the palace continued to receive the bodies of deceased kings right until the end of empire, as they were returned to the heart of Assyria. The building above thus remained incredibly important to royal ideology too.</p>
+
+<esp:image file="ancientcity/iraqi-excavations-assur.jpg" description="Several archaeologists dig in the ruins of the city of Assur" position="float"><esp:link url="/nimrud/images/ancientcity/iraqi-excavations-assur-large.jpg" title="View large image of Iraqi excavations at Assur" hide-print="yes"/><esp:caption><esp:bookmark id="img228"><b>Image 2.</b> Iraqi excavations of a house in the city of Assur.</esp:bookmark> <esp:link url="/nimrud/images/ancientcity/iraqi-excavations-assur-large.jpg" title="View large image of Iraqi excavations at Assur" hide-print="yes">View large image (319 KB)</esp:link>. Photo: Eleanor Robson.</esp:caption></esp:image>
+
+<p>During the second millennium BC other deities acquired temples on
+the lower reaches of Assur's rocky slopes. <esp:glossary term="Anu (deity)">Anu</esp:glossary> and <esp:glossary term="Adad (deity)">Adad</esp:glossary> shared a building, as did <esp:glossary term="Sin (deity)">Sin</esp:glossary> and <esp:glossary term="Šamaš (deity)">Šamaš</esp:glossary>. <esp:glossary term="Ištar (deity)">Ištar</esp:glossary> had had a residence here for as long
+as Aššur himself, while <esp:link page="nabu">Nabu</esp:link> did not gain a home of his own until very late in the 7th century. This 40 hectare sacred precinct, known as the Inner City, <i>libbi āli</i> (literally, "city centre"), also contained the households of Assur's—and Assyria's—most elite families (<b><esp:link bookmark="img228">Image 2</esp:link></b>).</p>
+
+
+
+
+<p><esp:link page="shalmaneser3">Shalmaneser III</esp:link> enclosed
+the Inner City with a defensive double wall, controlling access
+through gates to the west, southwest and south. Where the outer wall
+curved south to encompass the lower New City, <i>ālu eššu</i>, early
+twentieth-century archaeologists found around 140 monumental stone
+<esp:techterms term="stela, stele">stelae</esp:techterms> dedicated to Assyrian kings and officials. These stelae were
+not, as once supposed, erected there to form a sort of processional
+way. Instead, it is likely that they were originally dedicated to
+Aššur in his temple on the mount. That building did not have room for
+every single one of them, so over the centuries the oldest ones were respectfully moved out to make way for others, and left where they could be seen and not neglected <esp:ref referent="miglus1984"/>.</p>
+
+<esp:h>The Assyrian king: Aššur's right-hand man</esp:h>
+
+<esp:image file="ancientcity/BM-90978.jpg" description="Stone slab inscribed with cuneiform text, commemorating the restoration of Assur's temple by king Adad-nerari I" position="float"><esp:caption><esp:bookmark id="img229"><b>Image 3.</b> Stone slab commemorating the restoration of Assur's temple by king Adad-nerari I, c.1300 BC-1275 BC.</esp:bookmark> <esp:link url="http://www.britishmuseum.org/explore/highlights/highlight_objects/me/s/stone_tablet_of_adad-nirari_i.aspx" hide-print="yes" rel="external">BM 90978</esp:link>. <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=571384&amp;objectId=283138&amp;partId=1" title="View large image" hide-print="yes" rel="external">View large image on British Museum website</esp:link> © The Trustees of the British Museum.</esp:caption></esp:image>
+
+
+<p>From the early centuries of the second millennium BC, rulers of the
+city of Assur called themselves <i>iššiakki Aššur</i>, "vice-regent of
+the god Aššur"  <esp:ref referent="grayson1987" page="3"/>. This royal
+title remained in continuous use right through to the end of empire in
+the 7th century BC. Its message was simple: the god had chosen the
+king to rule on his behalf. Everything the king did was for the
+further glorification of his god and empire, and was carried out with
+divine blessing. Conversely, losing Aššur's favour and losing
+political power were one and the same thing.</p>
+
+<p>For much of the 13th to 10th centuries BC—the so-called <esp:techterms term="Middle Assyrian">Middle Assyrian</esp:techterms> period—many kings took throne names with Aššur as one element: Aššur-dan, "Aššur is strong", for instance, or Aššur-nerari, "Aššur is my ally". Three different kings took this first name, another five took the second. While Middle Assyrian royal Aššur-names emphasise the god's strength and power, in the first millennium  they tend to focus on his continuation of the royal line: Assurnasirpal II (Aššur-naṣir-aplī, "Aššur is the protector of my heir"), Esarhaddon (Aššur-ahhe-iddin, "Aššur gave brothers") and Assurbanipal (Aššur-bani-aplī "Aššur is the creator of my heir").</p>
+
+
+<p>Every Assyrian king showed his devotion and debt to Aššur in royal
+inscriptions. Here for instance, is a passage from an inscription of
+Shalmaneser III found at <esp:link page="fortshalmaneser">Fort Shalmaneser</esp:link>:</p>
+
+<blockquote><p>When Asšur, the great lord, chose me in his steadfast heart (and) with his holy eyes and named
+me for the shepherdship of Assyria, he put in my grasp a strong weapon which fells the insubordinate,
+he crowned me with a lofty crown, (and) he sternly commanded me to exercise dominion over
+and to subdue all the lands insubmissive to Aššur <esp:ref referent="grayson1996" page="8, A.0.102.1, 11-13"/>.</p></blockquote>
+  
+<p>Every Assyrian king who could afford it also maintained or improved Aššur's temple in Assur in some way, even those who were mainly concerned with building projects elsewhere (<b><esp:link bookmark="img229">Image 3</esp:link></b>). <esp:glossary term="Assurnasirpal II (person)">Assurnasirpal II</esp:glossary>, for instance, restored five of the temple's gateway towers <esp:ref referent="grayson1991" page="386, A.0.101.138"/>.</p>
+
+<p>The Assyrian king showed his accountability to Aššur by
+commissioning reports to the god on the outcome of major military
+campaigns. The only known survivor is <esp:link page="sargon">Sargon II</esp:link>'s famous report on his eighth campaign, to <esp:glossary term="Muṣaṣir (place)">Muṣaṣir</esp:glossary> and <esp:link
+url="http://oracc.org/saao/aepb/essentials/countries/urartu/"
+rel="external" hide-print="yes">Urartu</esp:link>. Fragments of
+Aššur's responses to other royal reports, however, show that this
+practice ran from at least the reign of <esp:glossary term="Šamši-Adad V (person)">Šamši-Adad V</esp:glossary> to that of
+<esp:link page="assurbanipal">Assurbanipal</esp:link>, a period of around a hundred years (<esp:link url="http://oracc.org/saao/knpp/P336225,P336606,P336607,P336149,P336150,P336151,P336130" rel="external" hide-print="yes">SAA 3: 41–47</esp:link>).</p>
+
+
+<esp:h>A divine enigma: Aššur in Assyrian scholarship</esp:h>
+<p>Aššur, as the divine embodiment of a city and it empire, is fundamentally different from any other Mesopotamian god. He appears in no known narrative myths, even as a minor character, as he was rarely conceptualised in <esp:techterms term="anthropomorphic">anthropomorphic</esp:techterms> terms.</p>
+
+<p>This apparent lack of divine personality seems to have become
+increasingly problematic for Assyrian <esp:techterms term="scholar">scholars</esp:techterms>, especially once
+Babylonian gods such as <esp:link page="ninurta">Ninurta</esp:link> and <esp:link page="nabu">Nabu</esp:link> started gaining importance. The early second-millennium ruler <esp:glossary term="Šamši-Adad I (person)">Šamši-Adad I</esp:glossary> equated Aššur with <esp:glossary term="Ellil (deity)">Ellil</esp:glossary>, who at that time was still head of the Babylonian pantheon. He even tried rebranding Aššur's temple in Assur as Enlil's temple <esp:glossary term="Ekur (place)">Ekur</esp:glossary>, after the latter's home in <esp:glossary term="Nippur (place)">Nippur</esp:glossary> <esp:ref referent="grayson1987" page="49, A.0.49.1"/>. While the idea that this was <i>Enlil's</i> temple didn't stick, the name did, and Ekur became an alternative to Ešarra. Similarly, Aššur became the Assyrian Enlil (retaining a separate identity, never being completely subsumed as Šamši-Adad seems to have wanted). He took on the same family relationships as Ellil too, with <esp:glossary term="Mullissu (deity)">Mullissu</esp:glossary> (a name of <esp:glossary term="Ninlil (deity)">Ninlil</esp:glossary>) as his spouse and <esp:glossary term="Ninurta (deity)">Ninurta</esp:glossary> as his son. In this way Aššur became more comprehensible, and better integrated with the rest of Mesopotamian theology.</p>  
+
+<p>This re-imagining of Aššur remained a stable element of Assyrian religion even after Enlil's power waned in Babylonia in favour of the new national god <esp:glossary term="Marduk (deity)">Marduk</esp:glossary>. Assyria's political relationship
+with Babylonia was never easy. Assyria tended to have the upper hand
+militarily but this went hand-in-hand with a strongly felt cultural
+inferiority complex. In the early seventh century <esp:link page="sennacherib">Sennacherib</esp:link>, the most vehemently anti-Babylonian of all Assyrian kings, set his mind to destroying Babylonia as a political and cultural force for ever. A key component of this mission was not only to destroy <esp:glossary term="Marduk (deity)">Marduk</esp:glossary> and his temple in <esp:glossary term="Babylon (place)">Babylon</esp:glossary> but to replace him with Aššur in myth and cult. It was in many ways a more violent reversal of Samši-Adad's Aššur-as-Ellil policy of a thousand years before.</p>
+
+
+<p>Aššur could not, by definition, leave his city. So in Assur, or rather just outside it, Sennacherib commissioned an <esp:techterms term="akītu"><i>akītu</i></esp:techterms>-temple so that Aššur could perform the <esp:techterms term="New Year Festival">New Year Festival</esp:techterms> instead of Marduk in Babylon (<esp:link
+url="http://oracc.org/rinap/Q003511/html" rel="external" hide-print="yes">RINAP Sennacherib 37</esp:link>). His scholars
+rewrote the Babylonian epic <esp:link url="http://oracc.org/cams/gkab/scribalapprenticeship/literaryworks/enmaeli/"
+rel="external" hide-print="yes"><i>Enūma Eliš</i></esp:link> that was always performed on this occasion, so that it was Aššur who defeated
+the forces of chaos and created the world as we know it. The city of Babylon became the similar-sounding Baltil, a scholarly name for
+Assur. In a separate move, a new learned commentary now known as the Marduk Ordeal (<esp:link url="http://oracc.org/saao/knpp/P336230,P336245" rel="external" hide-print="yes">SAA 3: 34, 35</esp:link>) reimagined the New Year Festival as Marduk's ultimate humiliation <esp:ref referent="frahm2010" page="8-13"/>.</p>
+
+<p>This new theology did not stick, however. Sennacherib's son <esp:glossary term="Esarhaddon (person)">Esarhaddon</esp:glossary> dramatically overturned his father's Babylonian policy and restored Marduk to his throne. Aššur reverted to his former Ellil-esque self as if the interlude had never happened, for instance in King Assurbanipal's Hymn to Aššur (<esp:link url="http://oracc.org/saao/knpp/P334930/html" rel="external" hide-print="yes"> SAA 3: 1</esp:link>).</p>
+
+<esp:image file="genres/BM-90920.jpg" description="A clay cylinder of the Persian king Cyrus (r. 559-530 BC) from Babylon, also known as the Cyrus Cylinder" position="float"><esp:caption><esp:bookmark id="img153"><b>Image 4.</b> A clay cylinder of the Persian king Cyrus from Babylon, also known as the Cyrus Cylinder.</esp:bookmark> This foundation deposit presents Cyrus as a ruler in the traditional Babylonian mould by celebrating his rebuilding of old temples, the repatriation of displaced peoples and the king's restoration of divinely-sanctioned order. A full translation is available on <esp:link url="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=327188&amp;partId=1" rel="external" hide-print="yes">the British Museum website</esp:link>. <esp:link url="https://www.britishmuseum.org/explore/highlights/highlight_objects/me/c/cyrus_cylinder.aspx" rel="external" hide-print="yes">BM 90920</esp:link>. <esp:link url="http://www.britishmuseum.org/explore/highlights/highlight_image.aspx?image=Exp-obj_c-cylinder.jpg&amp;retpage=18712" rel="external" hide-print="yes">View large image on British Museum's website</esp:link>. © The Trustees of the British Museum.</esp:caption></esp:image>
+
+<esp:h>After the fall: post-Assyrian Aššur</esp:h>
+
+<p>The city of Assur and its temples were destroyed by the invading <esp:glossary term="Media (place)">Medes</esp:glossary> and <esp:glossary term="Babylonia (place)">Babylonians</esp:glossary> in 614 BC. But that was not the end of Aššur and his cult. A significant number of his priests managed to flee the city and resettle in the Babylonian city of <esp:glossary term="Uruk (place)">Uruk</esp:glossary>, where they re-established his cult in the temple <esp:glossary term="Eanna (place)">Eanna</esp:glossary> <esp:ref referent="beaulieu1997"/>. This worked because the name of Aššur could on occasion be written with the logogram <sup>d</sup>AN.ŠÁR, as could the name of Uruk's city god <esp:glossary term="Anu (deity)">Anu</esp:glossary>. The two deities were to some degree compatible then, if not exactly identical.</p>
+
+<p>Recently, Karen Radner has convincingly argued that the <esp:techterms term="Achaemenid">Persian</esp:techterms>
+king <esp:glossary term="Cyrus the Great (person)">Cyrus the Great</esp:glossary> (r.539–530 BC), on his conquest of Babylonia,
+allowed Aššur to return to his rebuilt temple in Assur <esp:ref referent="radner2014"/>. She points to the fact that the famous <esp:link url="http://www.livius.org/ct-cz/cyrus_I/cyrus_cylinder2.html" rel="external" hide-print="yes">Cyrus Cylinder</esp:link> (<b><esp:link bookmark="img153">Image 4</esp:link></b>) counts Assur amongst the cities to which:</p> 
+<blockquote><p>I (Cyrus) returned the images of the gods, who had resided there [i.e., in Babylon], to their places and I let them dwell in eternal abodes. I gathered all their inhabitants and returned to them their dwellings.</p></blockquote>
+<p>As Radner also points out, the archaeological evidence likewise
+suggests that Aššur's shrine was partially restored at this
+time. Graffiti in <esp:link page="alphabetic">Aramaic</esp:link> show that residents of Assur continued to
+take names such as Ahi-Aššur, "Aššur is my brother" well into the
+third century AD <esp:ref referent="parpola2004" page="Appendix
+IV"/>. He thus outlasted the empire founded in his name by at least a thousand years.</p>
+
+<esp:reading referent="lambert1983"/>
+<esp:reading referent="vandriel1969"/>
+
+<esp:email address="nimrud@oracc.org"/> 
+<esp:content-last-modified/>
+<esp:author first-names="Eleanor" last-name="Robson"/>
+	</body></html>
+
+</esp:page>
