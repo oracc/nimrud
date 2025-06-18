@@ -12,9 +12,10 @@
   <image></image>
   <image-alt></image-alt>
   <option name="outline-default-select" value="no"/>
-  <option name="outline-default-catalog-fields" value="o:n,Description|Object,Location,Publication"/>
+  <option name="outline-default-catalog-fields" value="designation,Description|Object,Location,Publication"/>
   <option name="outline-default-catalog-widths" value="15,20,25,30"/>
-  <option name="outline-default-catalog-labels" value="Designation,Description,Location,Publication"/>
+  <option name="outline-default-catalog-labels" value="designation,Description,Location,Publication"/>
+  <option name="outline-default-sort-fields" value="designation,Publication"/>
   <option name="ood-licence" value="CC0"/>
   <option name="ood-stable" value="no"/>
   <option name="ood-curated" value="yes"/>
